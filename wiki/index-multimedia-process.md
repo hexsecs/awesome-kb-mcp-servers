@@ -1,0 +1,84 @@
+# Multimedia Process
+
+- [06ketan/slideshot](06ketan-slideshot.md) — Convert HTML into PDF, PNG, WebP or PPTX slide carousels with themes for LinkedIn, Instagram, pitch decks and infographics, rendered via Puppeteer.
+- [1000ri-jp/atsurae](1000ri-jp-atsurae.md) — Video editing: timeline editing, five-layer compositing, semantic operations and FFmpeg rendering to 1080p H.264.
+- [a-y-ibrahim/after-effects-mcp](a-y-ibrahim-after-effects-mcp.md) — Control Adobe After Effects: run ExtendScript, render in the background and inspect comps and layers, with Arabic/RTL and multilingual support.
+- [AceDataCloud/MCPSuno](acedatacloud-mcpsuno.md) — Suno AI music generation, lyrics, covers and vocal extraction via the Ace Data Cloud API.
+- [AetherWave-Studio/aetherwave-mcp](aetherwave-studio-aetherwave-mcp.md) — Music, image, video and audio generation across Suno, Grok Imagine, Seedance, Kling, Veo, Ideogram and more: generate, edit, upscale, reframe and master.
+- [afmontoya/baconservices-mcp](afmontoya-baconservices-mcp.md) — Bacon Services MCP — MCP client for AI agents to discover and purchase creative services from Bacon Services using x402 payments, with local wallet signing…
+- [afshinator/mcp-server-pexels](afshinator-mcp-server-pexels.md) — Search Pexels stock images and videos.
+- [agenticdecks/deckrun-mcp](agenticdecks-deckrun-mcp.md) — Generate presentation PDFs, narrated videos and MP3 audio from Markdown.
+- [AIDC-AI/Pixelle-MCP](aidc-ai-pixelle-mcp.md) — Omnimodal AIGC framework that turns ComfyUI workflows into MCP tools without code, for text, image, sound and video generation, with a Chainlit web interface.
+- [aimusicvideogen-com/music-video-cli](aimusicvideogen-com-music-video-cli.md) — Local music video toolkit using ffmpeg: BPM, key and Camelot detection, best 15/30 s clip, beat-synced shot lists, Spotify Canvas maker and platform specs.
+- [ananddtyagi/gif-creator-mcp](ananddtyagi-gif-creator-mcp.md) — Create GIFs from videos.
+- [antoniomachuca/MCP-Manim-Slides](antoniomachuca-mcp-manim-slides.md) — Generate and render Manim-Slides presentations: run Manim code headlessly, compile to Reveal.js HTML, PDF or PPTX, and preview slides as images, videos or GIFs.
+- [avi-aggarwal14/dare-mcp-server](avi-aggarwal14-dare-mcp-server.md) — Generate video and images on Dare (Seedance 2.5 and 2.0, Veo 3.1, Kling 3.0 Pro, Hailuo 2.3, Nano Banana 2, GPT Image 2, Seedream 5 Pro) from Claude, billed…
+- [BeatAPI/BeatDesign](beatapi-beatdesign.md) — Local-first AI media workbench with a canvas, short-form timeline editor and shared assets, controllable by agents.
+- [bogdan01m/zapcap-mcp-server](bogdan01m-zapcap-mcp-server.md) — Video caption and B-roll generation via the ZapCap API.
+- [botmonster/image2svg-mcp](botmonster-image2svg-mcp.md) — Convert raster images (PNG, JPG, WebP, TIFF) to SVG from base64 or URL input, locally or via Docker.
+- [Cassette-Editor/oh-my-cassette](cassette-editor-oh-my-cassette.md) — Turn raw clips into a finished cut through chat.
+- [chaoz23/loudcheck](chaoz23-loudcheck.md) — Check media file loudness against EBU R128 and ATSC A/85: pass/fail verdicts with per-metric deltas, spec citations and ffmpeg remediation commands.
+- [cleanor-app/cleanor-mcp](cleanor-app-cleanor-mcp.md) — Image optimization and conversion, SVG QR codes, Cleanor Labs storage and image-format data, and dev utilities such as hashes, UUIDs, JWT decoding and regex.
+- [clipkit-video/clipkit](clipkit-video-clipkit.md) — Compose motion-graphics videos from a single JSON document: author, validate and preview frames, add captions and promo templates, and render MP4s on GPU.
+- [DareDev256/fcpxml-mcp-server](daredev256-fcpxml-mcp-server.md) — Parse, edit and generate Final Cut Pro FCPXML timelines: health checks, flash frame detection, chapter markers, rough cuts and NLE export.
+- [davidmosiah/short-video-agent-kit](davidmosiah-short-video-agent-kit.md) — Provider-neutral short-form AI video toolkit: dry-run payload validation and optional live generation via Sora, Veo, xAI and Seedance-style providers.
+- [denisok-ai/magicmaster-mcp](denisok-ai-magicmaster-mcp.md) — Audio mastering with LUFS and true peak targets for Spotify and podcasts, Suno/Udio AI-fingerprint removal and a mastering passport in chat.
+- [drolosoft/immich-photo-manager](drolosoft-immich-photo-manager.md) — Manage a self-hosted Immich photo library: CLIP natural language search, GPS album curation, duplicate detection, library health reports and HTML galleries.
+- [editmamei/editmamei](editmamei-editmamei.md) — Natural-language interface for Adobe Photoshop that plans edits and executes them with native Photoshop tools rather than generative AI.
+- [FileToPDF/filetopdf-mcp](filetopdf-filetopdf-mcp.md) — Convert documents (DOCX, XLSX, PPTX), images, HTML and Markdown to PDF via the FileToPDF API, returned as an embedded resource or saved to disk.
+- [getopenscreen/openscreen](getopenscreen-openscreen.md) — Free, open-source screen recorder and video editor that agents drive over stdio (the desktop app's own executable started with `mcp`): record the screen…
+- [guaardvark/guaardvark](guaardvark-guaardvark.md) — Self-hosted AI studio exposing local image, video and music-video generation, upscaling, RAG and code intelligence, with renders queued on your own GPU.
+- [haljishi/vidwords-mcp](haljishi-vidwords-mcp.md) — Search YouTube video transcripts and frames (slides, charts, on-screen text) and get matching moments with timestamped links and verified citations.
+- [huseyinstif/klaket](huseyinstif-klaket.md) — Local video understanding: word-timestamped transcripts, speaker labels, scenes, chapters and moment search from any video URL or file.
+- [Inmoprice/clipcliper-mcp](inmoprice-clipcliper-mcp.md) — Turn public YouTube, Twitch, Kick or TikTok video links into timestamped transcripts, chapters and clip suggestions.
+- [quietnotion/barevalue-mcp](quietnotion-barevalue-mcp.md) — Podcast editing service: submit raw audio or a URL and get edited episodes with filler words and noise removed, transcripts, show notes and social clips.
+- [elestirelbilinc-sketch/vap-showcase](elestirelbilinc-sketch-vap-showcase.md) — AI media generation (Flux, Veo, Suno) with cost controls: upfront price quotes, budget enforcement and reserve-burn-refund billing.
+- [ffroliva/gflow-cli](ffroliva-gflow-cli.md) — Drive Google Flow with your Google account: Veo text-to-video, image-to-video and clip extension, Imagen text-to-image, reusable characters and scenes.
+- [frelo/fvc-mcp](frelo-fvc-mcp.md) — Search, view and tag a local video library cataloged by Fast Video Cataloger: transcripts, scene thumbnails, visual search, keywords and bins.
+- [richer-richard/cochlea](richer-richard-cochlea.md) — Offline, deterministic audio engine: compose scores as data, render WAV or FLAC, report loudness, pitch, tempo and key, generate spectrograms and diff renders.
+- [realcrabcut/crabcut-mcp-server](realcrabcut-crabcut-mcp-server.md) — Turn YouTube videos into short-form clips via the Crabcut API: highlight detection, subtitles, 9:16 reframing and direct download URLs.
+- [ronak-create/FableCut](ronak-create-fablecut.md) — Browser video editor driven through a JSON timeline: clips, keyframes, transitions, text animations, filters, reference-video analysis and ffmpeg export.
+- [runapi-ai/mcp](runapi-ai-mcp.md) — Unified API for AI models across providers: browse models and prices, create image, video, music and audio tasks, poll results and call LLM endpoints.
+- [keiver/image-tiler-mcp-server](keiver-image-tiler-mcp-server.md) — Tile large images and web page captures (via Chrome CDP) so vision models see full resolution, with model-specific token estimates and HTML tile previews.
+- [korovin-aa97/talkthrough-mcp](korovin-aa97-talkthrough-mcp.md) — Turn screen recordings or other local video and audio into local Whisper transcripts, keyframes, OCR and full-text search, with wall-clock timestamps for logs.
+- [legolev/mediamcp](legolev-mediamcp.md) — Image generation and editing plus Veo, Sora and Seedance video generation via OpenRouter or OpenAI-compatible APIs, with resumable video jobs.
+- [Lulu-The-Narwhal/dali-mcp](lulu-the-narwhal-dali-mcp.md) — Score AI image and video generation prompts for models like Veo 3, Sora, Kling, Midjourney and Flux, and rewrite weak ones before generating.
+- [gaudiolab-jp/gaudio-developers-mcp](gaudiolab-jp-gaudio-developers-mcp.md) — Gaudio audio AI API: stem separation (vocals, drums, bass, guitar, piano), dialogue/music/effects separation and AI lyrics sync.
+- [gridhra/atx-mcp](gridhra-atx-mcp.md) — Deterministic, non-generative image editing via declarative recipes: crop, mask, layer, apply LUTs, strip EXIF/GPS and encode, saved as immutable revisions.
+- [manovagyanik1/clipy-mcp](manovagyanik1-clipy-mcp.md) — Read-only access to Clipy screen recordings: search the library, fetch timestamped transcripts, AI summaries and key moments with video frames.
+- [MkTurner74/botverse-mcp](mkturner74-botverse-mcp.md) — Video transcoding (MP4, WebM, ProRes, GIF, MP3) and document conversion (PDF, DOCX, HTML, Markdown, XLSX) without AWS or FFmpeg setup.
+- [MohamedAbdallah-14/prompt-to-asset](mohamedabdallah-14-prompt-to-asset.md) — Generate app icons, favicons, OG images, logos and wordmarks across many image models, validating contrast, text accuracy and palette before returning.
+- [mordor-forge/gemini-media-mcp](mordor-forge-gemini-media-mcp.md) — Gemini media generation: Nano Banana images and editing, Veo video, text-to-speech and Lyria music, via the Gemini API or Vertex AI.
+- [guimatheus92/mcp-video-analyzer](guimatheus92-mcp-video-analyzer.md) — Video analysis: extract transcripts, key frames, OCR text and annotated timelines from Loom links and direct MP4 or WebM files.
+- [ilovevideoeditor/mcp-server](ilovevideoeditor-mcp-server.md) — Render videos from JSON via the iLoveVideoEditor cloud API: motion-design templates, GPU effects, transitions, batch rendering and webhooks.
+- [KyaniteLabs/kinocut](kyanitelabs-kinocut.md) — Local, guardrailed video editing: FFmpeg edits, captions, audio, effects, Hyperframes, repurposing, resumable workflows, quality gates and provenance receipts.
+- [mordor-forge/trident-mcp](mordor-forge-trident-mcp.md) — AI 3D model generation via Tripo (text, image or multiview to 3D) plus retopology, format conversion (GLB, FBX, OBJ, STL, USDZ) and stylization.
+- [musevate/MCP](musevate-mcp.md) — Generate video from prompts, images or reference images across AI video models (Sora, Veo, Kling, Seedance and more), with cost quotes before spending.
+- [mutonby/openshorts](mutonby-openshorts.md) — Turn long videos into vertical shorts: moment detection, face-tracked 9:16 reframing, captions, dubbing and publishing to TikTok, Instagram and YouTube.
+- [sena-labs/replicate-mcp-server](sena-labs-replicate-mcp-server.md) — Full Replicate catalog for any MCP client: image, video, music and speech generation, voice cloning, 3D, upscaling, plus batch/DAG pipelines and fine-tuning.
+- [SHARProduction/production-metadata-mcp](sharproduction-production-metadata-mcp.md) — Read-only SHAR Production metadata gate that validates rights-aware video-production manifests and returns a releasability result.
+- [spicyapi-ai/spicy-mcp](spicyapi-ai-spicy-mcp.md) — Official SpicyAPI server: browse 200+ image, video, audio and chat models (Seedance, Kling, Wan, MiniMax, Suno), get exact USD quotes, upload local files…
+- [stabgan/openrouter-mcp-multimodal](stabgan-openrouter-mcp-multimodal.md) — Multimodal access to OpenRouter models: text chat, image, audio and video analysis, and image, audio and video generation (Veo, Sora, Seedance, Wan).
+- [stass/exif-mcp](stass-exif-mcp.md) — Examine image metadata such as EXIF, XMP, JFIF and GPS for searching and analyzing photo libraries.
+- [strato-space/media-gen-mcp](strato-space-media-gen-mcp.md) — Media generation, editing and asset downloads with OpenAI Images/Videos and Google GenAI (Veo).
+- [sunriseapps/imagesorcery-mcp](sunriseapps-imagesorcery-mcp.md) — Computer vision-based image recognition and editing tools.
+- [tandryukha/aidemo](tandryukha-aidemo.md) — Turn a storyboard JSON into a narrated, captioned product-demo MP4 (TTS voiceover, Whisper captions, auto-zoom) via Chrome replay and ffmpeg.
+- [Tommertom/sonos-ts-mcp](tommertom-sonos-ts-mcp.md) — Sonos control via UPnP: device discovery, multi-room playback, queues, music library browsing, alarms, event subscriptions and EQ settings.
+- [TranscriptFetch/mcp-server](transcriptfetch-mcp-server.md) — Transcripts from YouTube, TikTok, Instagram and podcasts, plus YouTube search and channel and playlist listing.
+- [transloadit/node-sdk](transloadit-node-sdk.md) — Media processing via Transloadit Robots: video encoding (HLS, H.264, VP9), image resizing and watermarks, document conversion, OCR and transcription.
+- [torrentclaw/torrentclaw-mcp](torrentclaw-torrentclaw-mcp.md) — Search and discover movies and TV shows with torrent links, quality scoring, streaming availability and cast/crew metadata.
+- [tro2789/scout-premiere-mcp](tro2789-scout-premiere-mcp.md) — Control Adobe Premiere Pro via the Scout panel: frame-accurate transcript search, markers, cuts, effects, transitions, exports and project management.
+- [tydude001/proofcut](tydude001-proofcut.md) — Local-first video editor: cut by transcript, attach b-roll to phrases, score, caption, render and master, then verify the render against the edit.
+- [video-creator/ffmpeg-mcp](video-creator-ffmpeg-mcp.md) — Local video search, trimming, stitching and playback through conversation, using the ffmpeg command line.
+- [video-edit-mcp](video-edit-mcp.md) — Video and audio editing: trim, merge, effects, overlays, format conversion, audio processing and YouTube downloads, chaining steps without intermediate files.
+- [TopazLabs/topaz-mcp](topazlabs-topaz-mcp.md) — AI image enhancement (upscaling, denoising, sharpening) via the Topaz Labs API, with models such as Standard V2, Wonder 2, Bloom and Recover 3.
+- [verIdyia/autoeq-mcp](veridyia-autoeq-mcp.md) — AutoEQ headphone and IEM EQ data: search by name or sound signature, get parametric EQ settings, compare models band by band and browse Harman rankings.
+- [rendobar/mcp](rendobar-mcp.md) — Submit media-processing jobs to the Rendobar API with local file upload: transcode, run raw FFmpeg, burn in captions and add watermarks.
+- [WaveSpeedAI/mcp-server](wavespeedai-mcp-server.md) — Run image, video, audio and 3D models from the WaveSpeed catalog: model search, schema introspection, local file upload and price quotes before running.
+- [WeftCut/WeftCut](weftcut-weftcut.md) — Drive the WeftCut desktop video editor: trim and split clips, keyframes, effects, captions, audio mixing, markers and export, with live edits and dry runs.
+- [wiltodelta/remove-ai-watermarks](wiltodelta-remove-ai-watermarks.md) — Identify and remove AI watermarks and provenance metadata (Gemini and Veo marks, SynthID, C2PA, EXIF) in images and video you generated yourself, plus…
+- [woladi/macos-vision-mcp](woladi-macos-vision-mcp.md) — Offline OCR and image analysis via Apple's Vision framework: text from images and PDFs with bounding boxes, face, barcode and QR detection, and classification.
+- [afghanfansmedia-ai/songcheck-mcp](afghanfansmedia-ai-songcheck-mcp.md) — Detect AI-generated music (Suno, Udio) and media, with AI-probability verdicts, provenance signals (Content Credentials, SynthID) and folder scans.
+- [xDarkzx/Reaper-MCP](xdarkzx-reaper-mcp.md) — Music production in REAPER: transport, tracks, MIDI editing, mixing and FX, tempo maps, markers and regions, and ReaScript execution.
+- [apancyborg/appsgolem-mcp](apancyborg-appsgolem-mcp.md) — Cut clips from YouTube videos via the AppsGolem API in a chosen format and quality, and get a direct download URL.
+- [industriesfatty-spec/fattly-mcp](industriesfatty-spec-fattly-mcp.md) — Generate AI images, video, voiceovers, avatars and UGC ads with many models via Fattly.

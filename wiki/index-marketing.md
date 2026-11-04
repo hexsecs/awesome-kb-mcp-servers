@@ -1,0 +1,126 @@
+# Marketing
+
+- [rmb/omniforce-mcp](rmb-omniforce-mcp.md) — Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
+- [A1-x-Tech/mcp-avito-ads](a1-x-tech-mcp-avito-ads.md) — Avito Ads: analyze campaigns, adjust budgets and bids, and manage access and ORD contracts.
+- [A1-x-Tech/mcp-google-search-console](a1-x-tech-mcp-google-search-console.md) — Google Search Console: analyze search performance, inspect URL indexing and manage sitemaps.
+- [A1-x-Tech/mcp-google-tagmanager](a1-x-tech-mcp-google-tagmanager.md) — Google Tag Manager: inspect containers, prepare workspace changes and publish when ready.
+- [A1-x-Tech/mcp-yandex-audience](a1-x-tech-mcp-yandex-audience.md) — Yandex Audience API: build and manage ad-targeting segments (CRM uploads, lookalike, pixel-based) and access grants.
+- [AIOProductOS/studio-mcp](aioproductos-studio-mcp.md) — Local, scripted screen recordings of your web app with a moving pointer, zooms, callouts, captions and transitions, plus screenshots and MP4/GIF export.
+- [D4umak/linkedin-outreach-mcp](d4umak-linkedin-outreach-mcp.md) — LinkedIn outreach for prospecting, recruiting and job search: find people, message them in your voice, follow up and handle replies.
+- [Downshift/rivalize-mcp](downshift-rivalize-mcp.md) — Competitive intelligence for AI agents: competitor teardowns, pricing, ads, reviews and momentum, cited and dated. Read-only by default.
+- [InstantStudioAI/instantclips-mcp](instantstudioai-instantclips-mcp.md) — Turn e-commerce products into short vertical video ads for TikTok, Instagram Reels and Stories with InstantClips, and manage brands and products.
+- [acamolese/google-search-console-mcp](acamolese-google-search-console-mcp.md) — Google Search Console: query performance data, inspect URLs, check indexing and generate HTML SEO audit reports with a 30/60/90-day roadmap.
+- [AKzar1el/mcp-gsc](akzar1el-mcp-gsc.md) — Google Search Console on Cloudflare Workers: organic search analytics, URL inspection, sitemap management, indexing and SEO insights.
+- [AKzar1el/mcp-geo](akzar1el-mcp-geo.md) — DigestSEO GEO tracker: measure brand citations and visibility across ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews.
+- [AdsMCP/tiktok-ads-mcp-server](adsmcp-tiktok-ads-mcp-server.md) — TikTok Ads API integration: manage campaigns, analyze performance metrics, and handle audiences and creatives.
+- [adsagents/adsagent-ai-skills](adsagents-adsagent-ai-skills.md) — AdsAgent plugin and hosted MCP servers for Meta, Google and TikTok ads.
+- [afanasenkoa/instavision-mcp](afanasenkoa-instavision-mcp.md) — InstaVision Instagram creator and lead discovery: find accounts by niche, city, follower range or lookalike accounts, estimate credits, run searches and…
+- [hardeyhemy/revnuvo-dev](hardeyhemy-revnuvo-dev.md) — Revnuvo company intelligence: what changed at a company, with evidence.
+- [aitit-inc/leadace](aitit-inc-leadace.md) — Outbound sales for Claude Code: per-prospect website research, one email per prospect from your own Gmail, reply tracking and structured rejection feedback.
+- [alttextai/alttext-mcp](alttextai-alttext-mcp.md) — Generate and translate image alt text and manage an AltText.ai image library.
+- [arif-js/opensdr-mcp](arif-js-opensdr-mcp.md) — Open-source AI SDR on your own API keys: Apollo prospecting, Apollo→Hunter email waterfall, Tavily/Exa buying signals with sources, grounded outreach…
+- [atomno-mcp/mcp-erid](atomno-mcp-mcp-erid.md) — Checks Russian online ad labeling (erid/ERIR): validates erid tokens and audits pages for compliance with advertising law 38-FZ.
+- [AutomateLab-tech/seo-performance-mcp](automatelab-tech-seo-performance-mcp.md) — Post-publish SEO performance: combines Search Console, Matomo, GA4, Clarity and AI-citation signals per URL into a verdict for each post, with reason codes.
+- [alexey-pelykh/lhremote](alexey-pelykh-lhremote.md) — LinkedHelper automation CLI: campaign management, messaging and profile queries via the Chrome DevTools Protocol.
+- [applyra-io/mcp-server](applyra-io-mcp-server.md) — App Store Optimization for iOS and Google Play: daily keyword rank tracking, difficulty and traffic scores, competitors, ASO Health audits and top charts.
+- [artgas1/yandex-metrika-mcp](artgas1-yandex-metrika-mcp.md) — Yandex Metrika Stat, Management and Logs APIs, one tool per method, generated from Yandex's documentation. Writes are disabled by default.
+- [askads/mcp-vk-ads](askads-mcp-vk-ads.md) — VK Ads API: manage ad plans, ad groups and banners, and pull statistics.
+- [askads/mcp-yandex-direct](askads-mcp-yandex-direct.md) — Yandex Direct API: manage PPC campaigns, ad groups, ads, keywords, bid modifiers, sitelinks, callouts and vCards, and pull statistics.
+- [askads/mcp-yandex-metrica](askads-mcp-yandex-metrica.md) — Read-only Yandex Metrica web analytics: list counters and goals, and pull traffic and conversion statistics.
+- [askads/mcp-yandex-wordstat](askads-mcp-yandex-wordstat.md) — Read-only Yandex Wordstat keyword demand data: top and related queries, demand dynamics and regional distribution.
+- [Bishop81/wpgoldmine-mcp](bishop81-wpgoldmine-mcp.md) — Find WordPress and WooCommerce plugin opportunities: established plugins weakened by abandonment, low ratings or poor support, via wpgoldmine.io.
+- [Brand-System/brandsystem-mcp](brand-system-brandsystem-mcp.md) — Extract brand identity (colors, fonts, logo, voice, visual rules) from websites into DTCG tokens and brand policies, and score content for compliance.
+- [brodesigns/gsc-readonly-mcp](brodesigns-gsc-readonly-mcp.md) — Read-only Google Search Console MCP server: search analytics, sitemap status, URL inspection, property listing. No write scope requested from Google at all…
+- [camlowe/mcp-server-reddit-ads](camlowe-mcp-server-reddit-ads.md) — Reddit Ads API: manage campaigns, ad groups, ads, budgets, bids and targeting, and pull performance reports, with tiered write-safety controls.
+- [carlosalvite/foundersignal-mcp](carlosalvite-foundersignal-mcp.md) — SaaS idea research: revenue data, growth signals and pain points aggregated from AppSumo, TrustMRR, Product Hunt, Indie Hackers, Reddit and more.
+- [Citedy/citedy-seo-agent](citedy-citedy-seo-agent.md) — Marketing toolkit: scout X and Reddit trends, analyze competitors, find content gaps, and generate multilingual SEO articles, social posts and avatar videos.
+- [Citlyze/citlyze-mcp](citlyze-citlyze-mcp.md) — Track brand visibility in AI search with Citlyze: scores, tracked prompts, citations, competitor comparison, recommendations and AI crawler analytics.
+- [clipugc/ClipUGC-CLI](clipugc-clipugc-cli.md) — Make short vertical UGC videos for mobile apps with AI influencers who keep the same face. Hosted at https://clipugc.com/mcp (OAuth) or local via npx.
+- [competlab/competlab-mcp-server](competlab-competlab-mcp-server.md) — Competitive intelligence: monitor competitors' prices, content, positioning and tech stacks, and track how AI assistants rank your brand.
+- [conorbronsdon/gsc-mcp](conorbronsdon-gsc-mcp.md) — Google Search Console: search analytics by query, page, country and device, striking-distance reports, sitemap management and URL inspection.
+- [davidmosiah/agent-seo-engine](davidmosiah-agent-seo-engine.md) — Local-first SEO quality, search-intent and opportunity scoring for Markdown content and GSC-style opportunities before rewriting or publishing.
+- [dhawalshah/tiktok-ads-mcp](dhawalshah-tiktok-ads-mcp.md) — TikTok Ads: video performance metrics, creative fatigue scoring, industry benchmarks and Smart+ campaign support.
+- [dhawalshah/google-tag-manager-mcp](dhawalshah-google-tag-manager-mcp.md) — Google Tag Manager MCP server for managing tags, triggers, and variables from Claude, local or remote.
+- [elfsight/beamtrace-mcp](elfsight-beamtrace-mcp.md) — Track AI search visibility and get website fixes to improve it.
+- [epistemedeus/ai-readiness](epistemedeus-ai-readiness.md) — Check a website's visibility to AI search: scores AI crawler access, JSON-LD, title and meta tags, Open Graph, sitemap and llms.txt, with a fix for each gap.
+- [odb366/genready-mcp-server](odb366-genready-mcp-server.md) — quality and maintenance score on…
+- [Otha-Labs/persuasion-mcp](otha-labs-persuasion-mcp.md) — Plan, check and fix marketing copy against the nine questions every reader asks, with 766 persuasion techniques from real ads, copy diagnostics, headline…
+- [tankstellen/firmenliste-mcp](tankstellen-firmenliste-mcp.md) — B2B company address data for the DACH region: search industry lists, check availability and field coverage, and get binding price quotes.
+- [forgemeshlabs/seo-authority-mcp](forgemeshlabs-seo-authority-mcp.md) — SEO authority scores, keyword opportunities, competitor gaps, content briefs, site audits and internal-link analysis, paid per call via x402.
+- [forgemeshlabs/x402-ads-mcp](forgemeshlabs-x402-ads-mcp.md) — Agent demand analytics, recommendations and discovery on the ForgeMesh x402 Ads network, which monetizes unused 402 responses, paid per call in USDC on Base.
+- [mambalabsdev/mcp-clay-to-instantly-smartlead-push](mambalabsdev-mcp-clay-to-instantly-smartlead-push.md) — Push enriched lead rows into Instantly or Smartlead campaigns with ICP score gating, deduplication and a dry-run mode.
+- [mambalabsdev/mcp-email-waterfall-orchestrator](mambalabsdev-mcp-email-waterfall-orchestrator.md) — Finds and verifies a work email for each contact across your own provider keys, and returns real per provider spend attribution.
+- [mambalabsdev/mcp-outbound-infrastructure-fingerprint](mambalabsdev-mcp-outbound-infrastructure-fingerprint.md) — Returns whether a company runs cold email outbound, on what stack, and the lookalike sending domains behind it.
+- [mikusnuz/meta-ads-mcp](mikusnuz-meta-ads-mcp.md) — Meta Marketing API: manage Facebook and Instagram ad campaigns, audiences, creatives, insights, catalogs and automated rules.
+- [moiosintel/kd-scout](moiosintel-kd-scout.md) — Keyword research calculations: difficulty estimation, opportunity scoring and structured content briefs.
+- [mukul-dutt/mentionsapi-mcp](mukul-dutt-mentionsapi-mcp.md) — Check whether AI assistants recommend your brand: mentions, ranks and citations across ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews and Copilot.
+- [ni-c/google-search-console-mcp](ni-c-google-search-console-mcp.md) — Google Search Console: create and verify properties, manage sitemaps, inspect URLs and pull the Performance report, with confirmation for irreversible calls.
+- [shensi8312/blogburst-mcp-server](shensi8312-blogburst-mcp-server.md) — Content generation, repurposing and publishing with BlogBurst: write blogs, adapt content for social platforms, find trending topics and publish directly.
+- [gomarble-ai/facebook-ads-mcp-server](gomarble-ai-facebook-ads-mcp-server.md) — Access Facebook Ads data and management features.
+- [gomarble-ai/google-ads-mcp-server](gomarble-ai-google-ads-mcp-server.md) — Access Google Ads data and management features.
+- [vibeads/mcp](vibeads-mcp.md) — Google Ads for local service businesses: account scoring, wasted-spend detection, campaign drafting and optimization, with human approval before spending.
+- [grovs-io/mcp](grovs-io-mcp.md) — Mobile app deep linking, attribution, analytics and campaign management with Grovs: create links, track installs and revenue, and configure app settings.
+- [growsurf/growsurf-mcp](growsurf-growsurf-mcp.md) — Build and manage GrowSurf referral and affiliate programs.
+- [hermoso-ai/hermoso](hermoso-ai-hermoso.md) — Ad studio: generate video, image and UGC avatar ads with script, voiceover and music, and research competitor ads in Meta, Google and LinkedIn ad libraries.
+- [juan-sibbo/gam-seller-mcp-node](juan-sibbo-gam-seller-mcp-node.md) — Exposes Google Ad Manager inventory to buyer agents: read-only product discovery, firm prices and revocable commitments, with every decision audited.
+- [damientilman/mailchimp-mcp-server](damientilman-mailchimp-mcp-server.md) — Mailchimp Marketing API: manage campaigns, audiences, reports, automations, landing pages, e-commerce data and batch operations.
+- [dkships/substack-publisher-mcp](dkships-substack-publisher-mcp.md) — Read-only access to Substack posts, engagement stats, subscriber counts and subscriber lookup via the Publisher API, across multiple publications.
+- [Davison-Francis/min8t-sdks](davison-francis-min8t-sdks.md) — Email deliverability: single and batch verification, email finder, DNSBL checks, SPF/DKIM/DMARC/BIMI analysis, spam-trap scoring and domain trust reports.
+- [Linkly-HQ/linkly-mcp-server](linkly-hq-linkly-mcp-server.md) — Linkly URL shortener: create branded short links, read click analytics by country, platform and referrer, and manage custom domains and click webhooks.
+- [logly/mureo](logly-mureo.md) — Local-first framework for operating Google Ads, Meta Ads and Search Console, grounded in a local STRATEGY.md file.
+- [louis030195/apollo-io-mcp](louis030195-apollo-io-mcp.md) — B2B sales intelligence with Apollo.io: search prospects, enrich contacts with emails and phone numbers, and discover companies by industry and size.
+- [live-direct-marketing/ldm-inbox-check-mcp](live-direct-marketing-ldm-inbox-check-mcp.md) — Inbox placement testing across Gmail, Outlook, Yahoo, Mail.ru and Yandex: seed addresses, per-provider placement, SPF/DKIM/DMARC verdicts and screenshots.
+- [LLM-Pulse/llmpulse-mcp](llm-pulse-llmpulse-mcp.md) — LLM Pulse AI visibility analytics: brand mentions, citations, sentiment, share of voice, recommendations, GEO Writer, Search Console and AI traffic.
+- [localseodata/mcp-server](localseodata-mcp-server.md) — Local SEO: SERP tracking, Google Business Profile data, review monitoring, keyword research, citation audits, geogrid rank scans and competitive analysis.
+- [MailboxValidator/mcp-mailboxvalidator](mailboxvalidator-mcp-mailboxvalidator.md) — Validates email addresses to reduce bounces in marketing campaigns.
+- [marykovziridze/screaming-frog-mcp](marykovziridze-screaming-frog-mcp.md) — Run Screaming Frog SEO Spider headless crawls, export data and perform technical SEO audits.
+- [marketplaceadpros/amazon-ads-mcp-server](marketplaceadpros-amazon-ads-mcp-server.md) — Interact with Amazon Advertising: analyze campaign metrics and configurations.
+- [pucilpet/crawlgraph-mcp](pucilpet-crawlgraph-mcp.md) — Backlink lookups, competitor gap analysis and outreach-target discovery over the public Common Crawl webgraph via CrawlGraph.
+- [Nolas-Shadow/agent1st-ads-mcp](nolas-shadow-agent1st-ads-mcp.md) — Meta (Facebook, Instagram) and TikTok ad campaign management: create a complete campaign with targeting, creative, budget and ad in one call.
+- [MatiousCorp/google-ad-manager-mcp](matiouscorp-google-ad-manager-mcp.md) — Google Ad Manager API integration for managing campaigns, orders, line items, creatives and advertisers, with bulk upload support.
+- [maxaeo/maxaeo-ai-visibility-mcp](maxaeo-maxaeo-ai-visibility-mcp.md) — Local AI visibility, GEO/AEO and llms.txt audits: AI crawler access, robots, sitemap, canonical, metadata, noindex and JSON-LD, with scores and action plans.
+- [MendleM/Pipepost](mendlem-pipepost.md) — Draft SEO-scored articles, cross-post to Dev.to, Ghost, Hashnode, WordPress and Medium, create social posts, add Unsplash covers and submit URLs to IndexNow.
+- [meser10/meser10-mcp](meser10-meser10-mcp.md) — Meser 10, the Israeli email and SMS marketing platform: tools generated from its live API, permission tiers starting read-only and a per-send recipient cap.
+- [meyusufdemirci/app-store-operator](meyusufdemirci-app-store-operator.md) — App Store research for iOS developers: ranked keyword search, competitor download, revenue and rating estimates, and localized In-App Event copy.
+- [Misar-AI/misarmail-mcp](misar-ai-misarmail-mcp.md) — Send transactional and campaign email, manage contacts and automations, A/B test, and audit deliverability on MisarMail.
+- [open-strategy-partners/osp_marketing_tools](open-strategy-partners-osp-marketing-tools.md) — Marketing tools from Open Strategy Partners: writing style, editing codes and product marketing value map creation.
+- [optifeed/optifeed-radar](optifeed-optifeed-radar.md) — Asks ChatGPT, Claude, Gemini and Perplexity buyer questions and scores whether a brand or its products get recommended, with share of voice and sources.
+- [opusforge/gorilla-mcp](opusforge-gorilla-mcp.md) — Lead discovery for SaaS founders: finds Reddit, X, YouTube and TikTok posts describing a problem you solve, ranks them by buying intent and drafts outreach.
+- [PageRankCafe/mcp-server](pagerankcafe-mcp-server.md) — Create and post link, banner, YouTube and press-release ads on PageRankCafe, read placement performance and query platform insights.
+- [PascaleBeier/hitkeep](pascalebeier-hitkeep.md) — Privacy-focused web analytics with read-only reporting on traffic, events, goals, funnels, ecommerce, Search Console and AI visibility.
+- [pghdma/callrail-mcp](pghdma-callrail-mcp.md) — CallRail API: call tracking, form submissions, transcripts, tag, tracker, company and user management, plus agency tools such as per-client cost attribution.
+- [pickelfintech/sentisift-sdks](pickelfintech-sentisift-sdks.md) — Comment moderation and intelligence for articles: bot and spam detection, multilingual sentiment analysis and constructive comment generation.
+- [pipeboard-co/meta-ads-mcp](pipeboard-co-meta-ads-mcp.md) — Meta Ads automation: analyze performance, test creatives, optimize spend and scale campaigns.
+- [qaimos/storeshots-mcp](qaimos-storeshots-mcp.md) — Turn raw app screenshots into App Store and Google Play marketing screenshots: 5 styles, iPhone/Android/iPad frames, every required store size, and PNG/ZIP…
+- [qr-maker-io/mcp-server](qr-maker-io-mcp-server.md) — Generate styled QR codes, manage dynamic short links with click analytics, and publish micro-landing pages.
+- [rooquiz/rooquiz-mcp](rooquiz-rooquiz-mcp.md) — Build and run RooQuiz knowledge, scored and outcome quizzes, then manage captured leads, respondents, submissions, bookings and conversion stats.
+- [krissanders/ai-visibility-mcp](krissanders-ai-visibility-mcp.md) — Audit how AI sees a website: per-bot robots.txt verdicts for AI crawlers, schema, sitemap, llms.txt, SPA detection and cross-model brand mentions.
+- [sharozdawa/ai-visibility](sharozdawa-ai-visibility.md) — Track brand visibility across ChatGPT, Perplexity, Claude and Gemini: visibility scores, sentiment analysis, competitor detection and trend charts.
+- [SearchAtlas](searchatlas.md) — SEO, content generation, PPC, keyword research, site auditing, authority building and LLM brand visibility monitoring.
+- [seocombat/clipwright-mcp](seocombat-clipwright-mcp.md) — Make UGC-style video ads without filming: tell your AI assistant what to say and get a vertical clip of a realistic actor saying it, ready for TikTok, Reels…
+- [SEOcrawl/seocrawl-mcp](seocrawl-seocrawl-mcp.md) — SEO and GEO: live Google Search Console and GA4 data, keyword and page analysis, AI visibility tracking, site audits and SEO task management.
+- [integrallis/rankcli-mcp-server](integrallis-rankcli-mcp-server.md) — SEO and GEO (AI search) analysis: Core Web Vitals, structured data, security headers, mobile SEO, image audits, internal linking and AI crawler access.
+- [sparrow84001/mcp-seo](sparrow84001-mcp-seo.md) — SEO, AEO, GEO, local SEO and CRO auditor with framework-aware code fixes, sitemap crawling and HTTP security header inspection.
+- [SpikeyCoder/website-auditor-mcp](spikeycoder-website-auditor-mcp.md) — Official Website Auditor server: checks how often ChatGPT, Claude, Gemini and Perplexity name a business, which competitors they name instead and which…
+- [stape-io/google-tag-manager-mcp-server](stape-io-google-tag-manager-mcp-server.md) — Interface to the Google Tag Manager API.
+- [stape-io/stape-mcp-server](stape-io-stape-mcp-server.md) — Interact with the Stape platform via the Stape API.
+- [Synter-Media-AI/mcp-server](synter-media-ai-mcp-server.md) — Ad management across Google, Meta, LinkedIn, Microsoft, Reddit and TikTok: create campaigns, adjust budgets, generate creatives and pull performance data.
+- [Sweeppea-Development-Lab/sweeppea-mcp-info](sweeppea-development-lab-sweeppea-mcp-info.md) — Manage Sweeppea sweepstakes for legally compliant promotions in the US and Canada: participants, rules, winner drawings, entry pages and billing.
+- [trysonar/mcp](trysonar-mcp.md) — App Store Optimization for iOS and Google Play: keyword difficulty and popularity, daily rank tracking, review mining, competitor gaps and revenue estimates.
+- [tomba-io/tomba-mcp-server](tomba-io-tomba-mcp-server.md) — Email discovery, verification and enrichment, plus author and LinkedIn profile lookup, phone validation and technology stack detection.
+- [TopicForge/topicforge-mcp](topicforge-topicforge-mcp.md) — Programmatic SEO batch jobs: run article batches, track status and export Markdown, plus topic cluster, FAQ schema and meta description tools.
+- [tracetify/tracetify-mcp](tracetify-tracetify-mcp.md) — Trace how a product grew from public sources with dated, linked evidence, plus Search Console data, site audits and a dofollow directory list.
+- [whdrnr2583-cmd/token-meter](whdrnr2583-cmd-token-meter.md) — Local dashboard for Claude Code and Codex token usage: cost, per-MCP and per-tool breakdown, hourly distribution and session drill-down.
+- [andrealufino/aapl-ads-mcp](andrealufino-aapl-ads-mcp.md) — Read-only, self-hosted access to the Apple Search Ads API.
+- [smythmyke/markitup-mcp-server](smythmyke-markitup-mcp-server.md) — MarkItUp image annotation and marketing visuals: generate visuals from screenshots with templates, regenerate, outpaint and remove backgrounds.
+- [AppVisionOS/apple-search-ads-mcp](appvisionos-apple-search-ads-mcp.md) — Apple Ads (formerly Apple Search Ads) Campaign Management API: campaigns, ad groups, ads, creatives, keywords, reports, budget orders and multi-org support.
+- [OrbiAds/Orbiads-GAM-MCP](orbiads-orbiads-gam-mcp.md) — Google Ad Manager campaign management, line items, creatives, reporting, inventory exploration and ad-ops compliance audits.
+- [Natden444/pickanagency-mcp](natden444-pickanagency-mcp.md) — Search marketing agencies and get matched with suitable ones via Pick an Agency.
+- [atomno-mcp/mcp-seo-audit](atomno-mcp-mcp-seo-audit.md) — Technical SEO audits: health score, categorized issues and an AI search visibility score, plus robots.txt, sitemap, JSON-LD and meta tag validators.
+- [antohins/seo-tools-mcp](antohins-seo-tools-mcp.md) — Read-only SEO servers for the Google and Yandex (RU/CIS) market: XMLStock SERP, Yandex Wordstat, Google Search Console, Yandex.Webmaster and Yandex.Metrica.
+- [AutomateLab-tech/ai-seo-mcp](automatelab-tech-ai-seo-mcp.md) — AEO and GEO audits for public URLs: schema.org, robots.txt, llms.txt, canonical and OpenGraph checks, AI-citation likelihood and suggested rewrites.
+- [vruum-gtm/mcp](vruum-gtm-mcp.md) — Revenue platform for outbound, deals, pipeline and CRM automation, with people, outreach, engagement and research tools.
+- [zaialamm/citable-mcp](zaialamm-citable-mcp.md) — Pay-per-call SEO and AI visibility checks via x402 on Solana: keyword research, on-page audits, AI-citation checks, and rank, SERP, domain and backlink data.
+- [zwznco/camberstack-mcp](zwznco-camberstack-mcp.md) — Hosted Google Ads: read-only queries, keyword research and approved changes, from negatives and budgets to building Search, Performance Max, Display and…
+- [rampify-dev/rampify-mcp](rampify-dev-rampify-mcp.md) — Crawl your site, find gaps in AI answers, generate meta, schema and content fixes and ship them as PRs, with DataForSEO keyword and Search Console data.
+- [prepublish/prepublish-mcp](prepublish-prepublish-mcp.md) — Audit YouTube scripts before recording: hook, structure and pacing scores, drop-off passages, policy and inauthentic-content checks, and runtime estimates.

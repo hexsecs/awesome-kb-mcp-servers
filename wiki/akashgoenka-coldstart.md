@@ -1,0 +1,26 @@
+---
+uid: 01a1a884-bd36-706a-9dee-32578f8ad0a0
+title: "AkashGoenka/coldstart"
+summary: "Codebase memory for coding agents: a deterministic AST index finds task-relevant files, and in-repo Markdown notes flag themselves stale when code changes."
+type: entity
+category: "Knowledge & Memory"
+url: "https://github.com/AkashGoenka/coldstart"
+status: unknown
+created: 2026-11-04
+updated: 2026-11-04
+depth: stub
+source_list: awesome-mcp-servers
+source_commit: 29f2d490cc02468e7c9d87b0cf68d40d3041e7ef
+list_summary: "Codebase memory for coding agents: a deterministic AST index finds task-relevant files, and in-repo Markdown notes flag themselves stale when code changes."
+categories: ["Knowledge & Memory"]
+list_occurrences: [{"title": "AkashGoenka/coldstart", "category": "Knowledge & Memory", "description": "Codebase memory for coding agents: a deterministic AST index finds task-relevant files, and in-repo Markdown notes flag themselves stale when code changes."}]
+sources:
+  - url: "https://github.com/punkpeye/awesome-mcp-servers/blob/29f2d490cc02468e7c9d87b0cf68d40d3041e7ef/README.md"
+    retrieved: 2026-11-04
+---
+
+Codebase memory for coding agents: a deterministic AST index finds task-relevant files, and in-repo Markdown notes flag themselves stale when code changes.
+
+- **Resource:** https://github.com/AkashGoenka/coldstart
+- **List section:** Knowledge & Memory
+- **Source:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — the list is canon; this page is a generated stub (`depth: stub`). Depth is added by PR (see AGENTS.md).

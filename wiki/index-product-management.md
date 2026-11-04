@@ -1,0 +1,21 @@
+# Product Management
+
+- [KyaniteLabs/Epoch](kyanitelabs-epoch.md) — Software estimation: PERT, COCOMO II, Monte Carlo, sprint forecasting, token-to-time and cost mapping, and schedule-risk analysis.
+- [daiji-sshr/redmine-mcp-stateless](daiji-sshr-redmine-mcp-stateless.md) — Stateless Redmine integration with per-request credentials: list, create and update issues, full-text search across issues and comments, and edit journals.
+- [andrelaptenok/redmine-mcp-stdio](andrelaptenok-redmine-mcp-stdio.md) — Search, read, create and update Redmine issues, projects and time entries, including journals, attachments, comments and time tracking.
+- [devemberx/mcp-server-polarion](devemberx-mcp-server-polarion.md) — Polarion ALM: documents as Markdown, Lucene or SQL search, traceability link traversal, and work item and comment management with dry-run writes.
+- [dkships/pm-copilot](dkships-pm-copilot.md) — Combine Help Scout tickets and ProductLift feature requests into prioritized product plans, scoring themes by cross-source convergence and scrubbing PII.
+- [Lukaris/framedeck-mcp](lukaris-framedeck-mcp.md) — Framedeck Kanban content production for YouTube, Instagram, TikTok and podcast creators: productions, stages, cards, checklists, comments and labels.
+- [TylerIlunga/procore-mcp-server](tylerilunga-procore-mcp-server.md) — Full Procore REST API access for construction project management via discovery and execution tools: projects, RFIs, submittals, daily logs, budgets and more.
+- [spranab/saga-mcp](spranab-saga-mcp.md) — Jira-like SQLite project tracker: projects, epics, tasks and subtasks, dependencies with auto-blocking, threaded comments, templates and activity logs.
+- [agrath/Trello-Desktop-MCP](agrath-trello-desktop-mcp.md) — Trello integration: boards, cards, lists, labels, checklists, attachments (including images), members, custom fields and search, with a read-only mode.
+- [negoro26/mcp-taiga](negoro26-mcp-taiga.md) — Taiga project management: issues, user stories, tasks, epics, sprints, comments, attachments and wiki via a compact set of tools.
+- [xfloukiex-lab/road-poneglyph](xfloukiex-lab-road-poneglyph.md) — Review a plan for what's missing: unstated assumptions, omitted technical risks and execution blind spots, as a structured pre-mortem.
+- [AIOProductOS/claude-plugin](aioproductos-claude-plugin.md) — Product management: link customer feedback to features, releases and objectives, with roadmap-drift detection and funnel, retention, NPS and NRR analytics.
+- [mohamed-ashraf-elsaed/loupe](mohamed-ashraf-elsaed-loupe.md) — Turn Loupe visual feedback into a backlog: list pinned comments, read each with its element's HTML, computed styles and screenshot, and update its status.
+- [gonnagetapower/kelvia-mcp](gonnagetapower-kelvia-mcp.md) — Operate the Kelvia task manager: boards, tasks, sprints, member roles, worklogs and a time-blocking day planner.
+- [illodev/workfile](illodev-workfile.md) — Backlog, docs, history and memory as Markdown in the repository, versioned with the code, with card claims so parallel agents don't edit the same card.
+- [igorolv/redmine-mcp-server](igorolv-redmine-mcp-server.md) — Redmine: issues, projects, wiki, attachments with text extraction, time entries, and release and blocker analytics; read-only by default, optional writes.
+- [kenzotp/mcp-server-zuuna](kenzotp-mcp-server-zuuna.md) — Zuuna developer project management: read and update boards, cards and comments, with cards moved automatically by git activity when PRs merge.
+- [fenbs-ai/fenbs-mcp](fenbs-ai-fenbs-mcp.md) — fenbs project board where people and AI assistants are members with roles: tasks, decisions with sign-off, testing notes and project rules, every change…
+- [zanaat-dev/baron](zanaat-dev-baron.md) — Work orchestration for AI coding agents: create, move and link issues, cut branches, open and merge PRs, and notify — on Azure DevOps, GitHub, Jira, Linear…

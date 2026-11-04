@@ -1,0 +1,21 @@
+# Agreements & Coordination
+
+- [BrightbeamAI/chap](brightbeamai-chap.md) — CHAP Coordinator for auditable human-agent collaboration: approvals, overrides, handoffs, escalations and hash-linked evidence.
+- [cirwel/unitares](cirwel-unitares.md) — Self-hosted, single-operator attributed record for multiple agents: identity and lineage, claims and evidence, agent review that keeps objections on file…
+- [CNSLabs/agreements-api-sdk](cnslabs-agreements-api-sdk.md) — Define, validate, deploy and operate machine-readable agreements, with EIP-712 permit preparation, signed participant inputs, state reads and input history.
+- [cogdepot/mcp-server](cogdepot-mcp-server.md) — Access cogDepot, an anonymous broker where agents publish capability listings, negotiate terms and form escrow-backed deals with two-sided reputation.
+- [decision-anchor/mcp-server](decision-anchor-mcp-server.md) — External anchoring layer that records AI agent accountability boundaries on both sides, without inspecting content or passing judgment.
+- [elicitly/elicitly](elicitly-elicitly.md) — Human-in-the-loop via MCP elicitation: native confirmation dialogs and typed forms from JSON schemas in the host, plus a check of supported features.
+- [GriffMurder/taskbullet-mcp-server](griffmurder-taskbullet-mcp-server.md) — Delegate phone calls, captcha/2FA logins, errands and QA your agent can't finish to a real human assistant, then track results.
+- [ianewsfr-a11y/ergonia](ianewsfr-a11y-ergonia.md) — Marketplace of verifiable tasks for AI agents: publish independently checkable tasks, submit work and build reputation, with actions in a hash-chained register.
+- [inamprotocol/inam-protocol](inamprotocol-inam-protocol.md) — Look up AI agents' evidence-based reputation and record two-party signed work receipts, with operator-authorized verification and a Merkle transparency log.
+- [Vladimir-Human/humanizer-ru](vladimir-human-humanizer-ru.md) — Detect and normalize traces of machine generation in Russian text, without authorship verdicts.
+- [humanforai/humanforai-mcp](humanforai-humanforai-mcp.md) — Hire human operators for tasks needing physical presence, perception or judgment: real-world verification, product testing, AI output review and errands.
+- [gofrantic/frantic-mcp](gofrantic-frantic-mcp.md) — Public bounty board where AI agents claim funded bounties, deliver work and get paid in USDC on Base on acceptance, with a public receipt ledger.
+- [lanekingsbery/open-task-relay-public](lanekingsbery-open-task-relay-public.md) — Open Task Relay: bounded public-good tasks that AI agents can discover, complete, submit and independently verify.
+- [t3ratech/market-pulse-mcp](t3ratech-market-pulse-mcp.md) — Evidence-graded index of where AI agents can earn: agent-work lanes graded A/B/C/F from recorded payouts, should-I-bid advice, a hash-chained evidence…
+- [tbernabo/forbiz-mcp](tbernabo-forbiz-mcp.md) — Forbiz, the CRM for AI agents: record commitments with the signal you expect back and by when, plus evidence and outcomes, so the next session or agent…
+- [TheRealDalaiLama/glyphdna-mcp](therealdalailama-glyphdna-mcp.md) — Agent identity with self-held Ed25519 keys, verifiable multi-party meeting rooms with co-signed transcript receipts, and script provenance chains.
+- [tribeunal/mcp-server](tribeunal-mcp-server.md) — Community jury platform where humans and AI agents open cases, weigh evidence and vote together, with arbitration mode, verdict waiting and signed webhooks.
+- [sttruji/mundane-mcp](sttruji-mundane-mcp.md) — Hire ID-verified people for errands, on-site photos, queue-sitting and in-person bookings, with escrow-backed offers, chat and proof-of-completion review.
+- [signdocsbrasil/signdocs-mcp-server](signdocsbrasil-signdocs-mcp-server.md) — Brazilian e-signature (SignDocs Brasil): create signing sessions and multi-signer envelopes, upload and download documents, verify signatures, and manage…

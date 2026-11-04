@@ -1,0 +1,32 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-mcp-servers",
+  "uid": "01a1a884-bb39-71d6-b379-31ce48a60d31",
+  "title": "MCP Servers (Awesome KB)",
+  "description": "Source-attributed stub knowledge base of curated resources from punkpeye/awesome-mcp-servers.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "MIT",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "awesome",
+    "ai",
+    "agents"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:punkpeye/awesome-mcp-servers",
+    "file": "README.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "29f2d490cc02468e7c9d87b0cf68d40d3041e7ef"
+  }
+}

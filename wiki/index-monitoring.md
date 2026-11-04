@@ -1,0 +1,100 @@
+# Monitoring
+
+- [asinha07/spoor](asinha07-spoor.md) — Tells AI agents what changed across VictoriaMetrics, VictoriaLogs and VictoriaTraces, and where it started: a ranked, token-budgeted digest that separates…
+- [dockndevai/mcp-grafana](dockndevai-mcp-grafana.md) — Safe-by-default MCP server for Grafana: search & read dashboards and the dashboard JSON model, query datasources (Prometheus/Loki/SQL via the unified query…
+- [A1-x-Tech/mcp-google-crux](a1-x-tech-mcp-google-crux.md) — Google CrUX: real-user Core Web Vitals with mobile and desktop comparison and 40-week trends.
+- [abhishekash/spanhound](abhishekash-spanhound.md) — Inspect local JSONL and OTLP JSON agent traces through MCP: failures, approvals, token usage, and run comparisons. `uvx spanhound`
+- [adanb13/cirdan](adanb13-cirdan.md) — Fingerprints, graphs and watches the live infrastructure an agent can reach (Docker, Kubernetes, cloud, IaC) and detects incidents.
+- [agentkitai/agentlens](agentkitai-agentlens.md) — Tamper-evident AI agent observability: hash-chained audit log with verification and signed export (EU AI Act Art. 12), plus OpenTelemetry GenAI traces.
+- [AIops-tools/Endpoint-AIops](aiops-tools-endpoint-aiops.md) — Endpoint fleet operations (thin client, VDI): login-storm and patch/config-drift analysis, inventory, and guarded remediation with audit logs and rollback.
+- [alilxxey/openobserve-community-mcp](alilxxey-openobserve-community-mcp.md) — Read-only access to OpenObserve Community Edition: search logs, traces, stream schemas and dashboards without an Enterprise license.
+- [Alog/alog-mcp](alog-alog-mcp.md) — AI agent activity logging and monitoring on the Alog platform: post logs, create articles, manage social interactions and monitor agent activity.
+- [andrewbabu/loggly-mcp](andrewbabu-loggly-mcp.md) — Read-only Loggly search and analytics with aggregation-first traffic tools and IP intelligence (RDAP, GreyNoise, AbuseIPDB).
+- [antonio-mello-ai/mcp-redis-monitor](antonio-mello-ai-mcp-redis-monitor.md) — Read-only Redis monitoring: queue depths, Celery queue status, connected clients, server and memory stats, and key counts per database.
+- [argosvix/mcp-server](argosvix-mcp-server.md) — Observability for AI agents: LLM cost, errors and latency across OpenAI, Anthropic, Gemini and Mistral, plus alerts, budget gates, evals and safety checks.
+- [arnavranjan005/mcp-telemetry](arnavranjan005-mcp-telemetry.md) — Live telemetry for MCP servers: instrument tool calls and stream their progress (steps, logs, cost) to any connected MCP client, even across sessions.
+- [arsentev-ai/contextburn](arsentev-ai-contextburn.md) — Measures Claude Code session efficiency: the share of tokens that became output versus re-read context, by tokens and cost, from local transcripts.
+- [avivsinai/langfuse-mcp](avivsinai-langfuse-mcp.md) — Query Langfuse traces, debug exceptions, analyze sessions and manage prompts for LLM applications.
+- [alimuratkuslu/byok-observability-mcp](alimuratkuslu-byok-observability-mcp.md) — Observability across Grafana, Prometheus, Kafka UI and Datadog using your own keys.
+- [bartekrutkowski/watchgoose-mcp](bartekrutkowski-watchgoose-mcp.md) — Monitor cron jobs, backups, Kubernetes jobs and other scheduled tasks in Watchgoose. Read-only by default; check changes require explicit consent.
+- [Blackman99/postsleuth](blackman99-postsleuth.md) — Postfix delivery troubleshooting: queue grouped by deferral reason, qshape, mail log stats and traces, SPF/DKIM/DMARC/PTR checks. Read-only by default…
+- [bmdhodl/agent47](bmdhodl-agent47.md) — Runtime guardrails and incident read access for coding agents: query AgentGuard traces, alerts, usage, costs and budget health.
+- [clamp-sh/mcp](clamp-sh-mcp.md) — Web analytics: query pageviews, top pages, referrers, countries, devices and custom events, and create conversion funnels and alerts.
+- [cloudsealed/cloudsealed-mcp](cloudsealed-cloudsealed-mcp.md) — Rule-based cloud cost anomaly detection and architecture risk scoring (single points of failure, coupling, scalability gaps) with rule-by-rule breakdowns.
+- [domondi1/inferrail](domondi1-inferrail.md) — Local, payload-free AI cost visibility for agents. Track spend by model, route, customer, or tagged work without storing prompt or response bodies.
+- [dragogargo/mcp-sysmon](dragogargo-mcp-sysmon.md) — Local system monitoring (CPU, memory, swap, disk, network) and process management: find resource-hungry processes, diagnose slowdowns and kill processes.
+- [edgedelta/edgedelta-mcp-server](edgedelta-edgedelta-mcp-server.md) — Interact with Edge Delta anomalies, query logs, patterns and events, find root causes and optimize pipelines.
+- [Edge-Echo/mcp-netassist](edge-echo-mcp-netassist.md) — Network and proxy diagnostics: GitHub reachability, system proxy status, local proxy port probing, DNS/TCP/HTTP checks, hosts conflict scan, and a doctor…
+- [ejcho623/agent-breadcrumbs](ejcho623-agent-breadcrumbs.md) — Unified work logging and observability across AI agents, with config-first schemas and pluggable sinks.
+- [enmanuelmag/heimdall-mcp](enmanuelmag-heimdall-mcp.md) — Transparent MCP proxy that intercepts JSON-RPC messages, measures latency, stores traces in SQLite, PostgreSQL or MySQL, and exports OpenTelemetry spans.
+- [equinoxaifinance-rgb/fluxproof-agent-card](equinoxaifinance-rgb-fluxproof-agent-card.md) — Monitors public web pages (pricing, policy, changelog) for changes and returns evidence receipts with source URLs, content hashes and change history. Remote…
+- [esp4ce/infra-mcp](esp4ce-infra-mcp.md) — Read-only access to on-prem Linux VMs and PostgreSQL over SSH: service health, logs, database state and table schemas, with allowlists and an audit log.
+- [FailEcho/failecho](failecho-failecho.md) — Cross-agent failure intelligence: before retrying a failed tool call, check whether other agents hit the same failure and which recovery worked.
+- [fclairamb/solidping](fclairamb-solidping.md) — Uptime monitoring over MCP. List and create checks, read incidents and results, manage maintenance windows and status pages. Self-hosted single Go binary…
+- [getsentry/sentry-mcp](getsentry-sentry-mcp.md) — Sentry integration for error tracking and performance monitoring.
+- [GeiserX/duplicacy-mcp](geiserx-duplicacy-mcp.md) — Duplicacy backup monitoring: query backup job status and Prometheus metrics from a Duplicacy exporter.
+- [GeiserX/genieacs-mcp](geiserx-genieacs-mcp.md) — Bridge to GenieACS (TR-069 ACS) instances: device data, firmware management and CPE actions such as reboot, parameter refresh and firmware download.
+- [gjenkins20/unofficial-fortimonitor-mcp-server](gjenkins20-unofficial-fortimonitor-mcp-server.md) — Unofficial FortiMonitor v2 API integration for server monitoring, outages, maintenance, metrics and notifications.
+- [gjenkins20/webmin-mcp-server](gjenkins20-webmin-mcp-server.md) — Webmin Linux system administration: services, users, storage, security, databases and more.
+- [grafana/mcp-grafana](grafana-mcp-grafana.md) — Search dashboards, investigate incidents and query datasources in your Grafana instance.
+- [GT-dinuo/server-ops-mcp](gt-dinuo-server-ops-mcp.md) — Server operations locally or over SSH: log troubleshooting, CPU, memory and disk monitoring, code edits, and Nginx and certificate management.
+- [HostTracker/mcp](hosttracker-mcp.md) — Website uptime monitoring: instant HTTP, ping, port, DNS, WHOIS, blacklist and page-speed checks, plus monitors, webhooks, incidents and status pages.
+- [hugoles/langfuse-mcp](hugoles-langfuse-mcp.md) — Read access to the Langfuse Public API: traces, observations, sessions, scores, prompts, datasets, metrics, models, projects and comments.
+- [hyperb1iss/lucidity-mcp](hyperb1iss-lucidity-mcp.md) — Improve AI-generated code quality with prompt-based analysis across 10 dimensions, from complexity to security vulnerabilities.
+- [iris-eval/mcp-server](iris-eval-mcp-server.md) — Agent evaluation and observability: trace logging, output quality evaluation, cost tracking, built-in eval rules, a real-time dashboard and PII detection.
+- [imprvhub/mcp-status-observer](imprvhub-mcp-status-observer.md) — Monitor the operational status of major digital platforms.
+- [inspektor-gadget/ig-mcp-server](inspektor-gadget-ig-mcp-server.md) — Debug container and Kubernetes workloads with eBPF via Inspektor Gadget.
+- [inventer-dev/mcp-internet-speed-test](inventer-dev-mcp-internet-speed-test.md) — Internet speed testing: download and upload speed, latency, jitter, and CDN server detection with geographic mapping.
+- [jabbawocky/statuscraft](jabbawocky-statuscraft.md) — Check whether software services are down using live data from their status pages, including incident details.
+- [jaimenbell/vllm-ops-mcp](jaimenbell-vllm-ops-mcp.md) — Read-only health checks for a local vLLM instance: liveness and real-completion tiers, GPU and VRAM status, service status and serve-flag introspection.
+- [Jwrede/llmprobe](jwrede-llmprobe.md) — Synthetic monitoring for cloud and local LLM inference endpoints: TTFT, latency, throughput and errors, with Prometheus and OpenTelemetry export.
+- [kascada/logmcp](kascada-logmcp.md) — Read-only access to whitelisted log files on a Linux server: search and read logs without shell access, with token auth and syslog auditing.
+- [last9/last9-mcp-server](last9-last9-mcp-server.md) — Bring real-time production logs, metrics and traces from Last9 into your local environment to fix code.
+- [tp322d/lastping-app](tp322d-lastping-app.md) — Dead man's switch monitoring for AI agents, cron jobs and CI/CD pipelines: alerts when runs go silent, stall, fail or loop, with incident details.
+- [lodordev/mcp-tautulli](lodordev-mcp-tautulli.md) — Read-only Tautulli (Plex monitoring) access: activity, history, library and user stats, transcode analysis and resolution breakdowns.
+- [log-10x/log10x-mcp](log-10x-log10x-mcp.md) — Rank log patterns by volume and cost, then compact (Splunk, self-managed Elasticsearch), tier down or offload the excess over each cap. Runs locally; no log…
+- [log-logn/langfuse-mcp-java](log-logn-langfuse-mcp-java.md) — Query Langfuse traces and observations, debug exceptions, analyze sessions, scores and datasets, and manage prompts.
+- [magna-nz/tallybook](magna-nz-tallybook.md) — Local cost tracking for Claude Code and Codex sessions: spend by session, sub-agent and model, week-on-week comparisons, and findings with suggested patches.
+- [mikusnuz/umami-mcp](mikusnuz-umami-mcp.md) — Access the Umami Analytics API: websites, stats, sessions, events, reports, users, teams and realtime monitoring.
+- [perceptdot/percept](perceptdot-percept.md) — Agent observability platform that discovers and recommends MCP servers, with GA4, Vercel, GitHub and Sentry connectors and ROI tracking.
+- [ShekharBhardwaj/AgenticLedger](shekharbhardwaj-agenticledger.md) — Query the local Agentic Ledger flight recorder: agent sessions, costs, loop runs and stuck-loop flags captured by a transparent proxy.
+- [saxonnicholls/super-log](saxonnicholls-super-log.md) — Read-only access to a local dev bench that interleaves every log stream on one timeline: tail and search live streams, search the on-disk journal, wait for…
+- [seancrecord/scvd-general-store-repo (scvd-tab)](seancrecord-scvd-general-store-repo-scvd-tab.md) — Track agent tool spending with local, consent-gated JSONL storage.
+- [smigolsmigol/llmkit](smigolsmigol-llmkit.md) — AI API cost tracking and budget enforcement across LLM providers: spend analytics, budget monitoring, session summaries and key management.
+- [syk8015/claudeusage](syk8015-claudeusage.md) — Measure whether a Claude subscription pays off from local Claude Code logs: surviving Claude-written code, rate-limit drivers and chat usage.
+- [metoro-io/metoro-mcp-server](metoro-io-metoro-mcp-server.md) — Query and interact with Kubernetes environments monitored by Metoro.
+- [metrxbots/mcp-server](metrxbots-mcp-server.md) — AI agent cost tracking: spend across providers, model selection optimization, budget enforcement, cost-leak detection and ROI reporting.
+- [Turbo-Puffin/measure-mcp-server](turbo-puffin-measure-mcp-server.md) — Privacy-first web analytics: query pageviews, referrers, trends and AI-generated insights for your sites.
+- [MindscapeHQ/server-raygun](mindscapehq-server-raygun.md) — Crash reporting and real user monitoring via the Raygun API.
+- [andreisirbu91-lab/MCPSpend](andreisirbu91-lab-mcpspend.md) — Real-time cost observability for MCP tool calls: a transparent proxy that attributes spend per tool, project and end customer.
+- [mpeirone/zabbix-mcp-server](mpeirone-zabbix-mcp-server.md) — Zabbix integration for hosts, items, triggers, templates, problems, data and more.
+- [netdata/netdata#Netdata](netdata-netdata-netdata.md) — Discovery, exploration, reporting and root cause analysis over Netdata metrics, logs, systems, containers, processes and network connections.
+- [ni-c/healthchecks-mcp](ni-c-healthchecks-mcp.md) — Healthchecks cron and uptime monitoring: see which scheduled jobs are late or down, read the output a failing job reported with its ping, and create, pause…
+- [Oluwatunmise-olat/mcp-server-logs-sieve](oluwatunmise-olat-mcp-server-logs-sieve.md) — Query, summarize and trace logs in plain English across GCP Cloud Logging, AWS CloudWatch, Azure Log Analytics, Grafana Loki and Elasticsearch.
+- [openITCOCKPIT/openITCOCKPIT-MCP-Server](openitcockpit-openitcockpit-mcp-server.md) — Access openITCOCKPIT monitoring: host and service state, check history, logs, downtimes, acknowledgements, software inventory and pending security updates.
+- [pydantic/logfire-mcp](pydantic-logfire-mcp.md) — Access OpenTelemetry traces and metrics through Logfire.
+- [Higangssh/homebutler](higangssh-homebutler.md) — Homelab management across multiple servers via SSH: system resource monitoring, Docker containers, Wake-on-LAN, network scans, open-port checks and alerts.
+- [incu6us/loki-mcp-server](incu6us-loki-mcp-server.md) — Query Grafana Loki directly with a discovery-first workflow: labels, values, series and LogQL queries, without requiring Grafana.
+- [igorolv/loki-mcp-server](igorolv-loki-mcp-server.md) — Read-only Grafana Loki (2.6.1 and 3.x) for agents: label and stream discovery, bounded LogQL pages, counts by label or time bucket, and log export; several…
+- [rbmuller/scherlok](rbmuller-scherlok.md) — Read-only data quality monitoring for Postgres, BigQuery, Snowflake, MySQL and DuckDB: warehouse profiling, anomaly detection and optional dbt lineage.
+- [seekrays/mcp-monitor](seekrays-mcp-monitor.md) — Real-time system metrics: CPU, memory, disk, network, host and process information.
+- [spanlens/Spanlens](spanlens-spanlens.md) — Read-only access to Spanlens LLM observability: request logs, costs, agent traces, anomalies, model savings and per-user analytics.
+- [Sudhan30/freshprobe](sudhan30-freshprobe.md) — Data freshness verification: probe endpoints for cache staleness, latency, content fingerprints, TLS, DNS and redirects, with FRESH/STALE/UNKNOWN verdicts.
+- [shibley/apistatuscheck-mcp-server](shibley-apistatuscheck-mcp-server.md) — Check the real-time operational status of cloud services and APIs such as AWS, GitHub, Stripe, OpenAI and Vercel.
+- [sudomichael/gizmoanalytics-mcp](sudomichael-gizmoanalytics-mcp.md) — Cookieless web analytics with Gizmo Analytics: framework-aware setup, traffic queries, site summaries, traffic-change explanations and anomaly detection.
+- [TANTIOPE/datadog-mcp-server](tantiope-datadog-mcp-server.md) — Datadog observability: grep-like log search, APM trace filtering by duration, status and errors, sampling modes, and log, trace and metric correlation.
+- [ThinkneoAI/mcp-server](thinkneoai-mcp-server.md) — ThinkNEO Control Plane for enterprise AI governance: runtime guardrails, observability, AI FinOps and agent lifecycle control.
+- [tickstem/mcp](tickstem-mcp.md) — HTTP uptime monitoring, heartbeat (dead man's switch) monitoring, cron job scheduling and email verification.
+- [tumf/grafana-loki-mcp](tumf-grafana-loki-mcp.md) — Query Loki logs through the Grafana API.
+- [uptybots/mcp-server](uptybots-mcp-server.md) — Uptime monitoring for websites, APIs, SSL certificates, domain expiry, ping and TCP/UDP ports: manage monitors and view incidents and uptime history.
+- [utapyngo/sentry-mcp-rs](utapyngo-sentry-mcp-rs.md) — Minimal Sentry integration.
+- [us-all/datadog-mcp-server](us-all-datadog-mcp-server.md) — Datadog observability: metrics, monitors, logs, APM, RUM, incidents, status pages, fleet automation and workflows, plus incident-triage prompts.
+- [vdalhambra/siteaudit-mcp](vdalhambra-siteaudit-mcp.md) — Website audits: SEO, security headers and SSL, Lighthouse performance, broken links, WCAG accessibility, Schema.org validation, competitor gaps and robots.txt.
+- [ruslanlap/pagespeed-insights-mcp](ruslanlap-pagespeed-insights-mcp.md) — Google PageSpeed Insights, CrUX and Lighthouse analysis: page comparison, real-user data, batch runs, regression tracking, diagnostics and recommendations.
+- [VictoriaMetrics-Community/mcp-victoriametrics](victoriametrics-community-mcp-victoriametrics.md) — Integration with VictoriaMetrics instance APIs and documentation for monitoring, observability and debugging tasks.
+- [VisualSentinel/mcp-server](visualsentinel-mcp-server.md) — Website monitoring that catches pages that look broken even when the site is up (uptime, performance, SSL, DNS, visual regression, content change). 17…
+- [yshngg/pmcp](yshngg-pmcp.md) — Prometheus integration.
+- [zhaoyue722/llm-usage-mcp](zhaoyue722-llm-usage-mcp.md) — Local LLM API cost tracking for Anthropic, OpenAI, Qwen and DeepSeek: SQLite usage ledger, spend queries, provider comparison and CNY to USD conversion.
+- [zw008/VMware-Aria](zw008-vmware-aria.md) — VMware Aria Operations monitoring for vSphere: performance metrics, alarms, capacity analysis and anomaly detection, with audit logging for write actions.
+- [aayushmdesai/mcp-dotnet-diagnostics](aayushmdesai-mcp-dotnet-diagnostics.md) — Live .NET runtime diagnostics: find memory leaks, GC pressure, LOH fragmentation and thread starvation in any running .NET process without code changes.
+- [LogneBudo/llmxray](lognebudo-llmxray.md) — Ask what went wrong with your own Ollama calls: lost prompt cache and the token where the prompt stopped matching, context overflow, a model running partly…

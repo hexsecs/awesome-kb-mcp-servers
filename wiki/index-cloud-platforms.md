@@ -1,0 +1,151 @@
+# Cloud Platforms
+
+- [AIops-tools/Ceph-AIops](aiops-tools-ceph-aiops.md) — Governed Ceph storage operations via the ceph-mgr Dashboard REST API — HEALTH_WARN root-cause analysis, OSD/PG/pool/RBD/CephFS/RGW, recovery, and capacity…
+- [dockndevai/mcp-keycloak](dockndevai-mcp-keycloak.md) — Keycloak multi-realm admin (users, clients, roles, groups) — safe-by-default access modes, realm allowlists, protected realms, delete gating, dry-run, and…
+- [dockndevai/mcp-kubernetes](dockndevai-mcp-kubernetes.md) — Multi-cluster Kubernetes monitoring and operations with safe access modes, namespace allowlists, gated delete/apply/exec, dry-run and audit logging.
+- [AIops-tools/Container-Host-AIops](aiops-tools-container-host-aiops.md) — Governed Docker + Portainer container-host operations (non-Kubernetes) — restart-loop and resource-pressure RCA, image/volume bloat, and guardrailed…
+- [AIops-tools/K8s-AIops](aiops-tools-k8s-aiops.md) — Governed Kubernetes operations for k3s, EKS, GKE and AKS: workloads, jobs, config, storage, networking and rollouts, with audit logging, dry-run and rollback.
+- [dockndevai/mcp-oci](dockndevai-mcp-oci.md) — Read-only Oracle Cloud (OCI) resource discovery, dependency mapping and reproducible Terraform generation, with secret redaction.
+- [dockndevai/mcp-azure](dockndevai-mcp-azure.md) — Azure Resource Manager inventory, tags and VM lifecycle management, with resource-group allowlists, delete gating and typed confirmation.
+- [dockndevai/mcp-openshift](dockndevai-mcp-openshift.md) — OpenShift and Kubernetes operations on pods, deployments, routes and builds, with access modes, namespace allowlists, dry-run and Secret redaction.
+- [4everland/4everland-hosting-mcp](4everland-4everland-hosting-mcp.md) — Deploy AI-generated code to decentralized storage networks such as Greenfield, IPFS and Arweave via 4EVERLAND Hosting.
+- [AAR-Labs/snapdeploy-mcp](aar-labs-snapdeploy-mcp.md) — Deploy and manage SnapDeploy apps (Docker containers on AWS) from Claude Code, Cursor, Codex or Gemini CLI: builds, logs, env vars, add-ons, domains
+- [adiosdotdev/mcp](adiosdotdev-mcp.md) — Manage Adios workspaces, previews, builds, logs, services and production deployments.
+- [AIops-tools/MinIO-AIops](aiops-tools-minio-aiops.md) — Governed MinIO object-storage operations — capacity, exposure-surface audit, lifecycle, and healing RCA, plus guardrailed bucket writes (48 tools) with…
+- [AIops-tools/Nutanix-AIops](aiops-tools-nutanix-aiops.md) — Governed Nutanix Prism Central operations: clusters, VMs, storage, networking, snapshots/DR, alerts and LCM, with audit logging, dry-run and rollback.
+- [AkaciaNL/basicdeploy-mcp](akacianl-basicdeploy-mcp.md) — Manage BasicDeploy containers, each with PostgreSQL, S3-compatible storage and a public URL: deploy apps, run commands, read logs and toggle always-on.
+- [AIops-tools/Network-AIops](aiops-tools-network-aiops.md) — Governed multi-vendor network device operations via NAPALM (Cisco IOS/NX-OS/IOS-XR, Arista EOS, Juniper Junos) plus NetBox — config management and read-only…
+- [Focus-GTS/eds-mcp-server](focus-gts-eds-mcp-server.md) — Manage Adobe Edge Delivery Services (AEM EDS): preview, publish, bulk operations, content, Core Web Vitals, 404 tracking, A/B experiments and redirects.
+- [aashari/mcp-server-aws-sso](aashari-mcp-server-aws-sso.md) — AWS SSO integration: log in, list accounts and roles, and run AWS CLI commands with temporary credentials.
+- [AIops-tools/Proxmox-AIops](aiops-tools-proxmox-aiops.md) — Governed Proxmox VE operations — VM/LXC lifecycle, snapshots, cluster, storage, backup, and HA (43 tools) with unbypassable audit logging (MCP + CLI)…
+- [agentmetal/mcp](agentmetal-mcp.md) — Provision, SSH into, run commands on and manage Linux VPSes, paying with USDC over x402 or by card.
+- [anythink-cloud/anythink-cli](anythink-cloud-anythink-cli.md) — Build and run a backend on the Anythink platform: relational data with row-level security, search, RBAC, workflows, growth and retention tools, and payments.
+- [AIops-tools/Proxy-AIops](aiops-tools-proxy-aiops.md) — Governed reverse-proxy operations (Traefik + Caddy + HAProxy) — backend-health, certificate-expiry, 5xx, and route-conflict RCA (28 tools) with unbypassable…
+- [alexbakers/mcp-ipfs](alexbakers-mcp-ipfs.md) — Upload to and manipulate IPFS storage.
+- [aparajithn/agent-deploy-dashboard-mcp](aparajithn-agent-deploy-dashboard-mcp.md) — Unified deployment dashboard for Vercel, Render, Railway and Fly.io: deploy status, logs, environment variables, rollbacks and health checks.
+- [AIops-tools/TrueNAS-AIops](aiops-tools-truenas-aiops.md) — Governed TrueNAS SCALE operations — pools, datasets, snapshots, disks, alerts, and services (25 tools) with unbypassable audit logging (MCP + CLI)…
+- [arnstarn/mcp-server-spotinst](arnstarn-mcp-server-spotinst.md) — Manage Spot.io (Spotinst) Ocean clusters, VNGs, Elastigroups, costs, right-sizing and logs across AWS and Azure accounts.
+- [antonio-mello-ai/mcp-pfsense](antonio-mello-ai-mcp-pfsense.md) — Manage pfSense firewalls: rules, DHCP leases, DNS overrides, gateway monitoring, ARP table and services, with two-step confirmation for destructive actions.
+- [antonio-mello-ai/mcp-proxmox](antonio-mello-ai-mcp-proxmox.md) — Manage Proxmox VE clusters: VMs, containers, snapshots, templates, cloud-init, firewall and migrations, with two-step confirmation for destructive actions.
+- [alexpota/cloudscope-mcp](alexpota-cloudscope-mcp.md) — Azure cost management: spending analysis, forecasts, anomaly detection, budgets, optimization tips, idle resource detection and tag-based cost allocation.
+- [Albaker-Group/cloudprice-mcp](albaker-group-cloudprice-mcp.md) — Compare compute, storage, managed Postgres, egress and GPU prices across AWS, Azure, GCP and OCI, plus FinOps tools for break-even, TCO and migration analysis.
+- [aldohushi1-stack/shipback-sftp](aldohushi1-stack-shipback-sftp.md) — Undoable SFTP deploys to shared hosting (cPanel, Plesk, any SFTP host): backs up every file it replaces on the server, restores with one call and refuses if…
+- [AliKarami/MikroMCP](alikarami-mikromcp.md) — Manage MikroTik RouterOS devices: interfaces, firewall, DHCP, DNS, routes, WireGuard, WiFi, BGP/OSPF and VLANs, with dry-run previews, RBAC and rollback.
+- [aliyun/alibaba-cloud-ops-mcp-server](aliyun-alibaba-cloud-ops-mcp-server.md) — Operate Alibaba Cloud resources, including ECS, Cloud Monitor, OOS and other widely used cloud products.
+- [ample-run/amplerun-mcp](ample-run-amplerun-mcp.md) — Find, quote, rent and stop GPUs on AmpleRun, paid from a USDC or USDT balance on Base. Read-only unless you allow spending; every rental has a hard budget cap.
+- [awslabs/mcp](awslabs-mcp.md) — Suite of servers for integrating with AWS services and resources.
+- [backblaze-labs/b2-mcp](backblaze-labs-b2-mcp.md) — Manage Backblaze B2 buckets, files, keys, Object Lock and S3-compatible storage.
+- [BlazingCDN/BlazingCDN-MCP](blazingcdn-blazingcdn-mcp.md) — Manage BlazingCDN zones, cache purge and warm-up, traffic metrics, custom domains, cloud storage and Video CDN; read-only by default.
+- [bright8192/esxi-mcp-server](bright8192-esxi-mcp-server.md) — VMware ESXi and vCenter virtual machine management via a REST API.
+- [chaandannn/finopsmcp](chaandannn-finopsmcp.md) — Local-first, read-only FinOps assistant: analyze AWS, Azure, GCP, Kubernetes, SaaS and AI bills, find waste and get fixes as pull requests.
+- [cloudflare/mcp-server-cloudflare](cloudflare-mcp-server-cloudflare.md) — Integration with Cloudflare services including Workers, KV, R2 and D1.
+- [davidlandais/ovh-api-mcp](davidlandais-ovh-api-mcp.md) — Access the entire OVH API through search and execute tools that run sandboxed JavaScript (Code Mode).
+- [cyclops-ui/mcp-cyclops](cyclops-ui-mcp-cyclops.md) — Manage Kubernetes resources through the Cyclops abstraction.
+- [Drop-to-run/drop2run-cli](drop-to-run-drop2run-cli.md) — Publish pages written in chat or a local folder to a live HTTPS URL, with static hosting on Cloudflare's edge.
+- [elevy99927/devops-mcp-webui](elevy99927-devops-mcp-webui.md) — Kubernetes operations via kubectl and helm through natural language, integrated with Open WebUI.
+- [erikhoward/adls-mcp-server](erikhoward-adls-mcp-server.md) — Azure Data Lake Storage: manage containers and file metadata, and read, write, upload and download files.
+- [espressif/esp-rainmaker-mcp](espressif-esp-rainmaker-mcp.md) — Manage and control ESP RainMaker devices.
+- [euisuh/nginx-proxy-manager-mcp](euisuh-nginx-proxy-manager-mcp.md) — Manage Nginx Proxy Manager proxy hosts, redirections, streams, Let's Encrypt certificates, and access lists with dry-run previews and a one-shot HTTPS host…
+- [flux159/mcp-server-kubernetes](flux159-mcp-server-kubernetes.md) — Kubernetes cluster operations for pods, deployments and services.
+- [friendlygeorge/docker-mcp-server](friendlygeorge-docker-mcp-server.md) — Docker container management: health checks, auto-restart, Compose lifecycle and log streaming.
+- [frndchagas/coolify-mcp](frndchagas-coolify-mcp.md) — Manage self-hosted Coolify PaaS: deployments with verified builds, app diagnostics, database backups, offline docs search and confirmed destructive actions.
+- [gagarin-cloud/mcp](gagarin-cloud-mcp.md) — Deploy and run apps on gagarin.cloud from your agent: services, Postgres, Qdrant, Valkey and S3 buckets, domains, logs, alerts, rollback and project memory…
+- [ganakailabs/cloudeval-cli](ganakailabs-cloudeval-cli.md) — Access Cloudeval project context and reports for cloud evaluations of Azure and AWS CloudFormation, with a read-only toolset.
+- [garlicKim21/ratatosk-mcp](garlickim21-ratatosk-mcp.md) — CNCF release intelligence: security fixes, breaking changes and deprecations from graduated and incubating project release notes, with local version checks.
+- [GeiserX/spinnaker-mcp](geiserx-spinnaker-mcp.md) — Manage Spinnaker applications, pipelines, executions and cloud infrastructure via the Gate API.
+- [gitayg/appcrane-mcp](gitayg-appcrane-mcp.md) — Self-hosted, MCP-native deployment platform (AppCrane): AI agents deploy apps, manage secrets, read logs, and roll back on your own server. Enterprise SSO…
+- [hardik-id/azure-resource-graph-mcp-server](hardik-id-azure-resource-graph-mcp-server.md) — Query, analyze and monitor Azure resources at scale using Azure Resource Graph.
+- [hashicorp/terraform-mcp-server](hashicorp-terraform-mcp-server.md) — Terraform ecosystem integration: provider discovery, module analysis and Terraform Registry API access for infrastructure-as-code workflows.
+- [helbertparanhos/cloudflare-mcp-pro](helbertparanhos-cloudflare-mcp-pro.md) — Manage Cloudflare DNS, zones, Workers, KV, R2, D1, Pages, WAF, SSL, Email Routing and more via the REST API, with human approval for every change.
+- [helbertparanhos/easypanel-mcp-server](helbertparanhos-easypanel-mcp-server.md) — Control Easypanel deployments, services, environment variables, logs, domains, databases and monitoring, with confirmation for destructive actions.
+- [hostodo/hostodo-mcp](hostodo-hostodo-mcp.md) — Hostodo VPS management: VM details, power control, renaming, OS reinstalls, guest-agent commands and artifact uploads, with scoped tokens and audit logs.
+- [hostsmith/mcp-server](hostsmith-mcp-server.md) — Agentic hosting service for static sites and files. Publish sites, PDFs, images, video, or ZIP archives to a public URL directly from Cursor, Claude, or any…
+- [huangdun/tempmd-mcp](huangdun-tempmd-mcp.md) — Publish HTML, Markdown, CSV or Mermaid artifacts to temp.md under a stable public link that updates in place, with activity-based expiry.
+- [Ilmar7786/marzban-sdk](ilmar7786-marzban-sdk.md) — Manage the Marzban proxy/VPN panel: users, subscriptions, nodes, hosts, config and system stats, with confirmation for destructive calls.
+- [imprezahost/impreza-mcp](imprezahost-impreza-mcp.md) — Privacy-first, no-KYC offshore hosting an AI agent can run end to end: self-onboard an anonymous account (no e-mail), fund it in Bitcoin/Monero, deploy apps…
+- [Infrawise/mcp-server](infrawise-mcp-server.md) — Azure FinOps cost optimization: idle resources, rightsizing and Reserved Instance recommendations.
+- [ionos-cloud/ionoscloud-mcp](ionos-cloud-ionoscloud-mcp.md) — Inspect and manage IONOS Cloud infrastructure.
+- [jasonwilbur/cloud-cost-mcp](jasonwilbur-cloud-cost-mcp.md) — Compare real-time cloud instance prices across AWS, Azure, GCP and OCI, with workload calculators and migration savings estimates.
+- [jasonwilbur/oci-pricing-mcp](jasonwilbur-oci-pricing-mcp.md) — Oracle Cloud Infrastructure price data with cost calculators and cross-provider comparisons.
+- [john-broadway/proximo](john-broadway-proximo.md) — Manage Proxmox VE, Backup Server, Mail Gateway and Datacenter Manager with dry-run plans, snapshots and a tamper-evident audit log; read-only by default.
+- [johnneerdael/netskope-mcp](johnneerdael-netskope-mcp.md) — Access Netskope Private Access components within an NPA environment, with setup details and usage examples.
+- [kaka-milan-22/kops](kaka-milan-22-kops.md) — Read-only kubectl with structured JSON output, hardcoded safe verbs, withheld Secret and ConfigMap values, and one-shot cluster triage and inventory.
+- [krovacloud/krova-node](krovacloud-krova-node.md) — Provision and manage Krova Cloud Cubes (Firecracker microVMs with root access), plus custom domains, TCP port mappings and snapshots.
+- [shiped-app/shiped-mcp](shiped-app-shiped-mcp.md) — Deploy AI-generated HTML, CSS and JavaScript to a public HTTPS URL.
+- [L337-org/docker-mcp](l337-org-docker-mcp.md) — Manage local or remote Docker daemons: containers, images, Compose, Swarm, Buildx, Scout and OCI registries, with read-only hosts for safe monitoring.
+- [Labs64/NetLicensing-MCP](labs64-netlicensing-mcp.md) — Manage the software licensing lifecycle in Labs64 NetLicensing through natural language.
+- [joachimBrindeau/domain-mcp](joachimbrindeau-domain-mcp.md) — Manage Dynadot domains, DNS, WHOIS, nameservers, transfers and aftermarket listings.
+- [liveblocks/liveblocks-mcp-server](liveblocks-liveblocks-mcp-server.md) — Create, modify and delete Liveblocks rooms, threads, comments, notifications and more, with read access to Storage and Yjs.
+- [lizard-build/lizard-mcp](lizard-build-lizard-mcp.md) — Deploy services on Lizard with managed Postgres, Redis and S3, logs and metrics, secrets, scaling and custom domains.
+- [localstack/localstack-mcp-server](localstack-localstack-mcp-server.md) — Manage LocalStack local AWS environments: lifecycle operations, infrastructure deployments, log analysis, fault injection and state management.
+- [luno-cms/mcp](luno-cms-mcp.md) — LUNO hosted backend platform: CMS, forms, auth and storage. Unrelated to the Luno cryptocurrency exchange.
+- [M-Yamashita01/cloudflare-mcp-go](m-yamashita01-cloudflare-mcp-go.md) — Cloudflare API v4 server: 28 tools across zones, DNS, WAF/firewall, rate limits, HTTP request logs, Security Center insights, and threat intelligence…
+- [manusa/Kubernetes MCP Server](manusa-kubernetes-mcp-server.md) — Kubernetes and OpenShift management: CRUD operations on any resource plus specialized cluster tools.
+- [mikusnuz/dynadot-mcp](mikusnuz-dynadot-mcp.md) — Dynadot domain registrar API: domain search, registration, DNS, contacts, transfers and marketplace.
+- [mctlhq/mctl-mcp](mctlhq-mctl-mcp.md) — Kubernetes management and automated GitOps.
+- [Mogacode-ma/infomaniak-mcp-agent](mogacode-ma-infomaniak-mcp-agent.md) — Unofficial Infomaniak integration: web hosting, mail, kDrive, domains, DNS, FTP/SSH users and more, with two-phase commits and undo for destructive actions.
+- [mrostamii/rancher-mcp-server](mrostamii-rancher-mcp-server.md) — Rancher ecosystem tools: multi-cluster Kubernetes operations, Harvester HCI management (VMs, storage, networks) and Fleet GitOps.
+- [Nebula-Block-Data/nebulablock-mcp-server](nebula-block-data-nebulablock-mcp-server.md) — Access the full NebulaBlock API.
+- [ni-c/hetzner-dns-mcp](ni-c-hetzner-dns-mcp.md) — Manage Hetzner DNS zones and records via the Hetzner Cloud API: RRSet CRUD, zonefile import/export, TTL and protection changes, and nameservers.
+- [nitin27may/ms-graph-mcp](nitin27may-ms-graph-mcp.md) — Microsoft Graph access to Outlook mail and calendar, Teams, OneDrive, SharePoint, OneNote, Planner and Entra ID.
+- [Novence-ai/mcp](novence-ai-mcp.md) — Create, check, deploy and host static sites.
+- [ni-c/wg-easy-mcp](ni-c-wg-easy-mcp.md) — Administer a self-hosted wg-easy (WireGuard Easy) instance: manage VPN clients, fetch configs and QR codes, create one-time links and check server status.
+- [nwiizo/tfmcp](nwiizo-tfmcp.md) — Manage Terraform environments: read configurations, analyze plans, apply configurations and manage state.
+- [oborseth/Porkbun-MCP](oborseth-porkbun-mcp.md) — Official Porkbun server: domain availability and pricing, registration and renewals, DNS records, nameservers, DNSSEC, URL forwarding, DNS restore points…
+- [openpouch/openpouch](openpouch-openpouch.md) — App hosting for agents: deploy to a live URL, verify, view logs, inspect, roll back and delete, with human approval for production.
+- [openstack-kr/python-openstackmcp-server](openstack-kr-python-openstackmcp-server.md) — OpenStack cloud infrastructure management based on openstacksdk.
+- [ofershap/mcp-server-cloudflare](ofershap-mcp-server-cloudflare.md) — Manage Cloudflare Workers, KV, R2, Pages, DNS and cache.
+- [ofershap/mcp-server-s3](ofershap-mcp-server-s3.md) — AWS S3 operations: list buckets, browse objects, upload and download files, and generate presigned URLs.
+- [OptimNow/cloud-finops-skills](optimnow-cloud-finops-skills.md) — Read-only FinOps reference library for agents: six tools that list, filter by FinOps Framework facet, and fetch guides on cloud billing mechanics…
+- [pibblokto/cert-manager-mcp-server](pibblokto-cert-manager-mcp-server.md) — Manage and troubleshoot cert-manager.
+- [plopino/plopino-mcp](plopino-plopino-mcp.md) — Publish HTML written in chat or local files and folders to a public URL, preserving folder structure.
+- [Poiuyhje/eqvps-mcp](poiuyhje-eqvps-mcp.md) — Rent and operate VPSes paid in USDC or USDT: register, provision and control power, hostname, root password, reinstalls, metrics and cancellation.
+- [portainer/portainer-mcp](portainer-portainer-mcp.md) — Interact with Portainer instances: container management, deployment operations and infrastructure monitoring.
+- [nikhilnt1234/TokenBurnRate](nikhilnt1234-tokenburnrate.md) — Track LLM token costs across Claude, GPT and Gemini, with optimization hints and savings estimates.
+- [CodesWhat/portkey-admin-mcp](codeswhat-portkey-admin-mcp.md) — Portkey Admin API control plane: prompts, configs, keys, analytics, guardrails, integrations and deployments.
+- [publee-dev/mcp](publee-dev-mcp.md) — Publish AI-generated HTML or static files to a shareable URL, with optional permanent hosting, in-place updates and password or members-only access.
+- [pythonanywhere/pythonanywhere-mcp-server](pythonanywhere-pythonanywhere-mcp-server.md) — Integration with the PythonAnywhere cloud platform.
+- [radumalica/infrastructure-mcp](radumalica-infrastructure-mcp.md) — Safe, auditable, inventory-driven access to Linux, Docker, Kubernetes, Proxmox, Grafana and Cisco infrastructure through named read-only-by-default tools…
+- [RajeevSirohi/mcp-server-terraform](rajeevsirohi-mcp-server-terraform.md) — Terraform operations with two-step confirmation for plan/apply/destroy, plan risk and cost analysis, drift detection, import/taint/refresh and audit logging.
+- [qiniu/qiniu-mcp-server](qiniu-qiniu-mcp-server.md) — Access Qiniu Cloud products such as Cloud Storage and media processing services.
+- [redis/mcp-redis-cloud](redis-mcp-redis-cloud.md) — Manage Redis Cloud resources in natural language: create databases, monitor subscriptions and configure cloud deployments.
+- [reza-gholizade/k8s-mcp-server](reza-gholizade-k8s-mcp-server.md) — Interact with Kubernetes clusters: API resource discovery, resource management, pod logs, metrics and events.
+- [rohitg00/kubectl-mcp-server](rohitg00-kubectl-mcp-server.md) — Interact with Kubernetes clusters through natural language.
+- [rosenvladimirov/odoo-claude-mcp](rosenvladimirov-odoo-claude-mcp.md) — Self-hosted server suite for Odoo ERP 15-19, plus GitHub, Portainer, OCA and Teams, with a browser terminal, Qdrant/Ollama memory and Bulgarian localization.
+- [roybogs/portveil-mcp](roybogs-portveil-mcp.md) — Control a Portveil WireGuard VPN account: list devices with their live speed, and move, rotate, reconnect or disconnect agent machines between exit…
+- [rrmistry/tilt-mcp](rrmistry-tilt-mcp.md) — Access Tilt resources, logs and management operations for Kubernetes development environments.
+- [sevalla-hosting/mcp](sevalla-hosting-mcp.md) — Manage Sevalla cloud infrastructure.
+- [shdomi8599/vibie-mcp](shdomi8599-vibie-mcp.md) — Deploy static HTML folders to permanent Vibie URLs, with folder markers for easy redeploys.
+- [shipstatic/mcp](shipstatic-mcp.md) — Deploy and manage static sites: upload files, get a URL and connect custom domains.
+- [Sidd27/infrawise](sidd27-infrawise.md) — Cloud infrastructure analysis: detect IaC drift, missing indexes, security gaps and performance anti-patterns across AWS services and databases.
+- [silenceper/mcp-k8s](silenceper-mcp-k8s.md) — Manage any Kubernetes resource, including native resources and CRDs, through natural language.
+- [trackerfitness729-jpg/sitelauncher-mcp-server](trackerfitness729-jpg-sitelauncher-mcp-server.md) — Deploy live HTTPS websites on subdomains or custom .xyz domains, paid in USDC on Base, with templates for crypto tokens and AI agent profiles.
+- [Spaceship MCP](spaceship-mcp.md) — Manage domains, DNS records, contacts and marketplace listings via the Spaceship API.
+- [spre-sre/lumino-mcp-server](spre-sre-lumino-mcp-server.md) — SRE observability for Kubernetes and OpenShift: Tekton pipeline debugging, log analysis, root cause analysis and predictive monitoring.
+- [StacklokLabs/mkp](stackloklabs-mkp.md) — Interact with Kubernetes clusters: list and apply Kubernetes resources.
+- [StacklokLabs/ocireg-mcp](stackloklabs-ocireg-mcp.md) — Interact with OCI registries: retrieve container image information, list tags and more.
+- [stevejford/shiply-mcp](stevejford-shiply-mcp.md) — Publish a static site or edge function to the web in one call, then manage updates, custom domains, SSL, env vars, databases and email.
+- [stevysmith/stacktree-mcp](stevysmith-stacktree-mcp.md) — Publish agent-made HTML to private, unguessable URLs with passcode or email-domain gating, expiry, burn-after-read and in-place updates.
+- [strowk/mcp-k8s-go](strowk-mcp-k8s-go.md) — Kubernetes cluster operations.
+- [TencentCloudBase/CloudBase-AI-ToolKit](tencentcloudbase-cloudbase-ai-toolkit.md) — Backend services for WeChat Mini Programs and full-stack apps: serverless cloud functions, databases and one-click deployment.
+- [thunderboltsid/mcp-nutanix](thunderboltsid-mcp-nutanix.md) — Interface with Nutanix Prism Central resources.
+- [trilogy-group/aws-pricing-mcp](trilogy-group-aws-pricing-mcp.md) — Get up-to-date EC2 prices in one call from a pre-parsed AWS price catalogue.
+- [txn2/kubefwd](txn2-kubefwd.md) — Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring and pod log streaming.
+- [vishalsg42/munim](vishalsg42-munim.md) — Multi-client MCP proxy: read across every client's accounts, write only to the named one, via providers' own MCP tools (Cloudflare, Vercel, Notion and more).
+- [VmLia/books-mcp-server](vmlia-books-mcp-server.md) — Query book information.
+- [weibaohui/k8m](weibaohui-k8m.md) — Multi-cluster Kubernetes management and operations with a management UI and logging, covering common DevOps tasks for standard and CRD resources.
+- [weibaohui/kom](weibaohui-kom.md) — Multi-cluster Kubernetes management and operations, embeddable as an SDK, covering common DevOps tasks for standard and CRD resources.
+- [wenhuwang/mcp-k8s-eye](wenhuwang-mcp-k8s-eye.md) — Kubernetes management plus cluster and application health analysis.
+- [akkireddy-challa/k8s-mcp-server](akkireddy-challa-k8s-mcp-server.md) — Kubernetes cluster operations: inspect pods, deployments, services and logs.
+- [Woobox/hatchable-mcp](woobox-hatchable-mcp.md) — Build and host full-stack web apps and sites on Hatchable, with per-project database, auth, storage, domains and cron.
+- [x7even/cloudcostsmcp](x7even-cloudcostsmcp.md) — Live AWS, GCP and Azure prices for FinOps: public list prices and enterprise negotiated rates (Reserved Instances, Savings Plans, CUDs, EDPs).
+- [xmpuspus/cloudwright](xmpuspus-cloudwright.md) — Cloud architecture design for AWS, GCP, Azure and Databricks: cost estimates, compliance checks, Terraform/CloudFormation export and blast-radius analysis.
+- [xns-cloud/relayer-mcp](xns-cloud-relayer-mcp.md) — Install and manage a self-hosted XNS Relayer, S3-compatible object storage on a decentralized provider network: setup, health, configuration and backups.
+- [zw008/VMware-AIops](zw008-vmware-aiops.md) — VMware vSphere/vCenter management: VM lifecycle, deployment, guest operations, snapshots and clusters, with confirmation gates, dry-run mode and audit logging.
+- [zw008/VMware-AVI](zw008-vmware-avi.md) — VMware Avi Load Balancer (NSX ALB) management with AKO Kubernetes integration: virtual services, pools, analytics metrics and AKO lifecycle.
+- [zw008/VMware-Monitor](zw008-vmware-monitor.md) — Read-only VMware vSphere/vCenter monitoring: inventory, alarms, events, host health, VM info and snapshot listing.
+- [zw008/VMware-NSX](zw008-vmware-nsx.md) — VMware NSX network management: segments, Tier-0/Tier-1 gateways, NAT rules, static/BGP routing and IPAM pools, with dry-run previews and delete confirmation.
+- [zw008/VMware-NSX-Security](zw008-vmware-nsx-security.md) — VMware NSX security: Distributed Firewall policies and rules, security groups, Traceflow troubleshooting and IDS/IPS profiles, with checks before deletion.
+- [zw008/VMware-Storage](zw008-vmware-storage.md) — VMware vSphere storage management: NFS/VMFS datastores, iSCSI software adapters and dynamic targets, and vSAN cluster operations, with dry-run previews.
+- [zw008/VMware-VKS](zw008-vmware-vks.md) — VMware Tanzu / vSphere Kubernetes Service: Supervisor cluster, namespace and Tanzu Kubernetes Cluster lifecycle, with dry-run mode and kubeconfig export.
+- [zyli5313/dochost-mcp](zyli5313-dochost-mcp.md) — Publish Markdown or HTML to a public shareable link, served script-free from a separate cookieless origin.

@@ -1,0 +1,193 @@
+# Other Tools and Integrations
+
+- [wangkuangkuang/jev-mcp-server](wangkuangkuang-jev-mcp-server.md) — Typed judgments from TypeSafe Jev: calibrated choice and score questions, A/B comparison, claim-vs-evidence verification and batch classification.
+- [siweina/dsh-novel-writer](siweina-dsh-novel-writer.md) — Offline novel-writing toolkit for Chinese web-novel authors: chapter stats, style checks, plot-thread tracking, continuity audits and semantic search.
+- [atomno-mcp/mcp-newbuild](atomno-mcp-mcp-newbuild.md) — Russian new-build due diligence: developer checks, escrow, construction permits and 214-FZ compliance.
+- [atomno-mcp/mcp-rosreestr](atomno-mcp-mcp-rosreestr.md) — Rosreestr open data for Russian property: apartment and land plot checks, transaction history where available, and cadastral value.
+- [douglasgan/asktian](douglasgan-asktian.md) — Chinese metaphysics (bazi, qimen, five elements) as decision support: daily readings, compatibility, time windows for actions and name analysis.
+- [2niuhe/plantuml_web](2niuhe-plantuml-web.md) — Web-based PlantUML frontend with PlantUML image generation and syntax validation.
+- [webaesbyamin/agent-receipts](webaesbyamin-agent-receipts.md) — Ed25519-signed receipts for every MCP tool call, with constraints, chains, AI judgment, invoicing and a local dashboard.
+- [AceDataCloud/MCPShortURL](acedatacloud-mcpshorturl.md) — Shorten URLs individually or in batches, creating permanent short links.
+- [AbdelStark/bitcoin-mcp](abdelstark-bitcoin-mcp.md) — Interact with Bitcoin: generate keys, validate addresses, decode transactions and query the blockchain.
+- [AgentTanuki/agent-guild](agenttanuki-agent-guild.md) — Self-hosted agent reputation system with signed evidence, its own graph and issuer.
+- [AIDataNordic/Food-Recipe-MCP](aidatanordic-food-recipe-mcp.md) — Semantic search over Food.com recipes with hybrid dense and sparse retrieval and reranking, filterable by diet, cooking time and difficulty.
+- [akseyh/bear-mcp-server](akseyh-bear-mcp-server.md) — Read Bear notes (macOS only).
+- [bguillow-rgb/percolate-mcp](bguillow-rgb-percolate-mcp.md) — Read-only Percolate specialty coffee database: search coffees with tasting profiles, get per-coffee brew recipes, compare coffees and get brew suggestions.
+- [bguillow-rgb/perfume-picks-mcp](bguillow-rgb-perfume-picks-mcp.md) — Read-only Perfume Picks fragrance database: search scents with notes and accords, find dupes, compare fragrances and get wear suggestions.
+- [bguillow-rgb/pour-picks-mcp](bguillow-rgb-pour-picks-mcp.md) — Read-only Pour Picks bourbon and whiskey database: search bottles with tasting profiles, prices and ratings, compare bottles and find cheaper alternatives.
+- [altinoren/utopia](altinoren-utopia.md) — Simulated smart home and lifestyle devices for testing an agent's reasoning and discovery capabilities.
+- [Amazon Bedrock Nova Canvas](amazon-bedrock-nova-canvas.md) — Generate images with the Amazon Nova Canvas model.
+- [amidabuddha/jev-decision-mcp](amidabuddha-jev-decision-mcp.md) — TypeSafe Jev typed decisions through one batched tool: classification, rubric scores and yes/no probabilities.
+- [amidabuddha/unichat-mcp-server](amidabuddha-unichat-mcp-server.md) — Send requests to OpenAI, Mistral AI, Anthropic, xAI, Google AI or DeepSeek via a tool or predefined prompts.
+- [anaisbetts/mcp-installer](anaisbetts-mcp-installer.md) — Install other MCP servers.
+- [anaisbetts/mcp-youtube](anaisbetts-mcp-youtube.md) — Fetch YouTube subtitles.
+- [andybrandt/mcp-simple-openai-assistant](andybrandt-mcp-simple-openai-assistant.md) — Talk to OpenAI assistants, letting Claude use any GPT model as its assistant.
+- [andybrandt/mcp-simple-timeserver](andybrandt-mcp-simple-timeserver.md) — Check local time on the client machine or current UTC time from an NTP server.
+- [anki-mcp/anki-mcp-desktop](anki-mcp-anki-mcp-desktop.md) — Anki integration for managing notes and decks through natural language.
+- [ankitmalik84/notion-mcp-server](ankitmalik84-notion-mcp-server.md) — Notion integration.
+- [apify/actors-mcp-server](apify-actors-mcp-server.md) — Use Apify Actors, pre-built cloud tools, to extract data from websites, e-commerce, social media, search engines, maps and more.
+- [apinetwork/piapi-mcp-server](apinetwork-piapi-mcp-server.md) — Generate media with Midjourney, Flux, Kling, Hunyuan, Udio and Trellis via PiAPI.
+- [AryanBV/pdf-toolkit-mcp](aryanbv-pdf-toolkit-mcp.md) — Create PDFs from Markdown with tables and formatting, fill forms, merge, split, encrypt and add QR codes.
+- [awkoy/notion-mcp-server](awkoy-notion-mcp-server.md) — Context-efficient Notion access: pages, databases, blocks, comments, files and templates through a minimal tool set, with token auth for headless use.
+- [awkoy/replicate-flux-mcp](awkoy-replicate-flux-mcp.md) — Generate images via the Replicate API.
+- [awwaiid/mcp-server-taskwarrior](awwaiid-mcp-server-taskwarrior.md) — Basic local Taskwarrior usage: add, update and remove tasks.
+- [microsoft/mcp](microsoft-mcp.md) — Access Azure services including Storage, Cosmos DB and Azure Monitor.
+- [Badhansen/notion-mcp](badhansen-notion-mcp.md) — Manage personal todo lists via Notion's API.
+- [bart6114/my-bear-mcp-server](bart6114-my-bear-mcp-server.md) — Read notes and tags from the Bear note-taking app directly from its SQLite database.
+- [billster45/mcp-chatgpt-responses](billster45-mcp-chatgpt-responses.md) — Talk to ChatGPT and use its web search capability.
+- [blurrah/mcp-graphql](blurrah-mcp-graphql.md) — Query GraphQL servers.
+- [boldsign/boldsign-mcp](boldsign-boldsign-mcp.md) — Search, request and manage e-signature contracts with BoldSign.
+- [spranab/brainstorm-mcp](spranab-brainstorm-mcp.md) — Multi-round brainstorming debates between LLMs (GPT, Gemini, DeepSeek, Groq, Ollama and more) to explore ideas from diverse perspectives.
+- [brianxiadong/ones-wiki-mcp-server](brianxiadong-ones-wiki-mcp-server.md) — Retrieve ONES Wiki content and convert it to AI-friendly text.
+- [caol64/wenyan-mcp](caol64-wenyan-mcp.md) — Format Markdown articles with Wenyan and publish them to WeChat Official Accounts.
+- [chrishayuk/mcp-cli](chrishayuk-mcp-cli.md) — CLI tool for testing MCP servers.
+- [cnghockey/sats4ai-mcp-server](cnghockey-sats4ai-mcp-server.md) — Phone calls, SMS, fax, translation, text-to-speech, audiobooks, image, video, music and text generation, and document extraction, paid via Lightning (L402).
+- [danhilse/notion_mcp](danhilse-notion-mcp.md) — Manage personal todo lists via Notion's API.
+- [danielkennedy1/pdf-tools-mcp](danielkennedy1-pdf-tools-mcp.md) — PDF download, viewing and manipulation utilities.
+- [davidsimoes/digisign-mcp](davidsimoes-digisign-mcp.md) — Create, send and manage digital signature envelopes via the DigiSign.cz API.
+- [dev-mirzabicer/ticktick-sdk](dev-mirzabicer-ticktick-sdk.md) — Async Python SDK and MCP server for TickTick: tasks, projects, tags, habits, focus/pomodoro sessions and user analytics.
+- [disco-trooper/apple-notes-mcp](disco-trooper-apple-notes-mcp.md) — Apple Notes access with semantic and hybrid vector-keyword search, full CRUD operations and incremental indexing.
+- [dotemacs/domain-lookup-mcp](dotemacs-domain-lookup-mcp.md) — Domain name lookup via RDAP, falling back to WHOIS.
+- [ekkyarmandi/ticktick-mcp](ekkyarmandi-ticktick-mcp.md) — Manage personal TickTick projects and tasks via the TickTick API.
+- [eyloni/pythia-oracle](eyloni-pythia-oracle.md) — Oracle readings that help AI agents think past obvious answers.
+- [emicklei/mcp-log-proxy](emicklei-mcp-log-proxy.md) — MCP proxy with a web UI showing the full message flow.
+- [TollboothLabs/ai-tool-optimizer](tollboothlabs-ai-tool-optimizer.md) — Reduce MCP tool description token costs through text schema distillation.
+- [esignaturescom/mcp-server-esignatures](esignaturescom-mcp-server-esignatures.md) — Contract and template management for drafting, reviewing and sending binding contracts via the eSignatures API.
+- [evalstate/mcp-hfspace](evalstate-mcp-hfspace.md) — Use Hugging Face Spaces for open-source image generation, chat, vision and more, with image, audio and text uploads and downloads.
+- [evalstate/mcp-miro](evalstate-mcp-miro.md) — Access Miro whiteboards and bulk create and read items.
+- [FarEastAI/feode-mcp](fareastai-feode-mcp.md) — Query FEODE offshore oilfield services: well plug and abandonment, subsea wellheads, continuous circulation drilling and a drill-string spec reference.
+- [feuerdev/keep-mcp](feuerdev-keep-mcp.md) — Read, create, update and delete Google Keep notes.
+- [fotoetienne/gqai](fotoetienne-gqai.md) — Generate an MCP server from tools defined as regular GraphQL queries and mutations.
+- [FoodXDevelopment/foodblock-mcp](foodxdevelopment-foodblock-mcp.md) — Turn plain-English food descriptions into structured, content-addressed data blocks for ingredients, products, places, actors and more.
+- [githejie/mcp-server-calculator](githejie-mcp-server-calculator.md) — Calculator for precise numerical calculations.
+- [gotoolkits/DifyWorkflow](gotoolkits-difyworkflow.md) — Query and execute Dify workflows.
+- [growilabs/growi-mcp-server](growilabs-growi-mcp-server.md) — Integrate with GROWI APIs.
+- [gwbischof/free-will-mcp](gwbischof-free-will-mcp.md) — Free-will tools for AI: a playful experiment letting an AI prompt itself, ignore user requests and wake itself up later.
+- [Harry-027/JotDown](harry-027-jotdown.md) — Create and update Notion pages and auto-generate mdBooks from structured content.
+- [henilcalagiya/mcp-apple-notes](henilcalagiya-mcp-apple-notes.md) — Automate Apple Notes: full CRUD with HTML content, folder management and search.
+- [HenryHaoson/Yuque-MCP-Server](henryhaoson-yuque-mcp-server.md) — Yuque integration: manage documents, work with knowledge bases, search content and access analytics data.
+- [yehuoshun/yuque-ai-mcp](yehuoshun-yuque-ai-mcp.md) — Full-featured Yuque (语雀) MCP server with 62 fine-grained tools across 13 domains — documents, knowledge bases, TOC, search, statistics, notes, recycle bin…
+- [hiromitsusasaki/raindrop-io-mcp-server](hiromitsusasaki-raindrop-io-mcp-server.md) — Interact with Raindrop.io bookmarks.
+- [hmk/attio-mcp-server](hmk-attio-mcp-server.md) — Manage records and notes in Attio CRM.
+- [hushvert/mcp](hushvert-mcp.md) — File conversion via Hushvert: convert documents, images, audio, video, archives and PDFs across formats.
+- [hypescale/storyblok-mcp-server](hypescale-storyblok-mcp-server.md) — Manage Storyblok headless CMS stories, components, assets, workflows, releases and more.
+- [imnoo-team/drawing-anonymizer-mcp](imnoo-team-drawing-anonymizer-mcp.md) — Anonymize technical-drawing PDFs before sharing them — company names, logos, people, addresses and contact data found automatically and masked, written as a…
+- [imnoo-team/drawing-converter-mcp](imnoo-team-drawing-converter-mcp.md) — Convert technical-drawing PDFs between metric and imperial: dimensions, tolerances, ISO fits, threads and surface roughness, stamped in place on the PDF.
+- [imnoo-team/quality-control-plan-mcp](imnoo-team-quality-control-plan-mcp.md) — Generate quality control plans from technical-drawing PDFs: extract tolerances, fits, threads, GD&T and finishes into ballooned drawings and Excel reports.
+- [imprvhub/mcp-claude-spotify](imprvhub-mcp-claude-spotify.md) — Interact with Spotify.
+- [integromat/make-mcp-server](integromat-make-mcp-server.md) — Turn Make scenarios into callable tools for AI assistants.
+- [isaacwasserman/mcp-vegalite-server](isaacwasserman-mcp-vegalite-server.md) — Generate visualizations from fetched data using the Vega-Lite format and renderer.
+- [ivnvxd/mcp-server-odoo](ivnvxd-mcp-server-odoo.md) — Connect to Odoo ERP for business data access, record management and workflow automation.
+- [ivo-toby/contentful-mcp](ivo-toby-contentful-mcp.md) — Create, update and delete content, content models and assets in a Contentful space.
+- [j3k0/speech.sh](j3k0-speech-sh.md) — Let the agent speak out loud and notify you with a quick summary when it finishes working.
+- [jagan-shanmugam/climatiq-mcp-server](jagan-shanmugam-climatiq-mcp-server.md) — Calculate carbon emissions and climate impact via the Climatiq API.
+- [jen6/ticktick-mcp](jen6-ticktick-mcp.md) — TickTick integration built on the ticktick-py library, with improved filtering capabilities.
+- [partymola/ticktick-mcp](partymola-ticktick-mcp.md) — TickTick task management: create, update, complete, move and filter tasks, with field-preserving updates and completion tracking.
+- [Salen-Project/ticktick-mcp](salen-project-ticktick-mcp.md) — Create, list, update, complete and delete TickTick tasks, plus a natural-language skill for automatic task detection.
+- [Sensie-agents/vibecheck](sensie-agents-vibecheck.md) — SomaCheck: get an Aligned or Unaligned reading with model confidence for a proposition, as extra input when reasoning and responding.
+- [jimfilippou/things-mcp](jimfilippou-things-mcp.md) — Create, update and manage todos and projects in the Things app via its URL scheme.
+- [johannesbrandenburger/typst-mcp](johannesbrandenburger-typst-mcp.md) — Typst typesetting tools: convert between LaTeX and Typst, validate Typst syntax and generate images from Typst code.
+- [joshuarileydev/mac-apps-launcher-mcp-server](joshuarileydev-mac-apps-launcher-mcp-server.md) — List and launch applications on macOS.
+- [justinstimatze/gemot](justinstimatze-gemot.md) — Multi-agent deliberation: agents submit positions and vote, then get analysis of cruxes, opinion clusters, bridging statements and consensus.
+- [k-jarzyna/mcp-miro](k-jarzyna-mcp-miro.md) — Miro integration exposing the functionality of the Miro SDK.
+- [kelvin6365/plane-mcp-server](kelvin6365-plane-mcp-server.md) — Manage projects and issues through Plane's API.
+- [kenliao94/mcp-server-rabbitmq](kenliao94-mcp-server-rabbitmq.md) — Interact with RabbitMQ: admin operations and message enqueue/dequeue.
+- [kimtth/mcp-remote-call-ping-pong](kimtth-mcp-remote-call-ping-pong.md) — Experimental, educational ping-pong server demonstrating remote MCP calls.
+- [kiwamizamurai/mcp-kibela-server](kiwamizamurai-mcp-kibela-server.md) — Interact with the Kibela API.
+- [kj455/mcp-kibela](kj455-mcp-kibela.md) — Interact with Kibela.
+- [Klavis-AI/YouTube](klavis-ai-youtube.md) — Extract and convert YouTube video information.
+- [KS-GEN-AI/confluence-mcp-server](ks-gen-ai-confluence-mcp-server.md) — Get Confluence data via CQL and read pages.
+- [KS-GEN-AI/jira-mcp-server](ks-gen-ai-jira-mcp-server.md) — Read Jira data via JQL and the API, and create and edit tickets.
+- [kw510/strava-mcp](kw510-strava-mcp.md) — Access data from Strava, the exercise-tracking app.
+- [latex-mcp-server](latex-mcp-server.md) — Compile LaTeX, download, organize and read cited papers, run visualization scripts and add figures and tables to LaTeX documents.
+- [louiscklaw/hko-mcp](louiscklaw-hko-mcp.md) — Basic demo of fetching weather from the Hong Kong Observatory.
+- [luotwo/easyaccesspdf-mcp](luotwo-easyaccesspdf-mcp.md) — PDF accessibility checks (veraPDF PDF/UA-1), auto-tagging remediation and document-to-Markdown conversion via a hosted EU service.
+- [magarcia/mcp-server-giphy](magarcia-mcp-server-giphy.md) — Search and retrieve GIFs through the Giphy API.
+- [MAG-Cie/mcp-microsoft-todo](mag-cie-mcp-microsoft-todo.md) — Microsoft To Do task management via the Microsoft Graph API.
+- [marcelmarais/Spotify](marcelmarais-spotify.md) — Control Spotify playback and manage playlists.
+- [MariusAure/needhuman-mcp](mariusaure-needhuman-mcp.md) — Human-as-a-service for AI agents: hand tasks such as accepting ToS, creating accounts or verifying identity to a real human when stuck.
+- [MarkusPfundstein/mcp-obsidian](markuspfundstein-mcp-obsidian.md) — Interact with Obsidian via a REST API.
+- [MaxEllis/orcaslicer-mcp](maxellis-orcaslicer-mcp.md) — Drive a running OrcaSlicer 3D-printing slicer: load models, tune settings, slice, compare variants and render the plate, with an offline settings reference.
+- [mediar-ai/screenpipe](mediar-ai-screenpipe.md) — Local screen and audio capture with timestamped indexing, SQL and embedding storage, semantic search, history analysis and event-triggered actions.
+- [metorial/metorial](metorial-metorial.md) — Integration platform connecting AI agents to many services through one interface, with OAuth, scaling and monitoring.
+- [modelcontextprotocol/server-everything](modelcontextprotocol-server-everything.md) — Exercises all features of the MCP protocol.
+- [MonadsAG/capsulecrm-mcp](monadsag-capsulecrm-mcp.md) — Manage contacts, opportunities and tasks in Capsule CRM.
+- [mrjoshuak/godoc-mcp](mrjoshuak-godoc-mcp.md) — Token-efficient access to Go package documentation and types without reading entire source files.
+- [Mtehabsim/ScreenPilot](mtehabsim-screenpilot.md) — Control the GUI with mouse and keyboard tools for automation, education and experimentation.
+- [muammar-yacoob/GMail-Manager-MCP](muammar-yacoob-gmail-manager-mcp.md) — Manage your Gmail inbox in natural language: bulk delete promotions and newsletters, organize labels and get inbox insights.
+- [mzxrai/mcp-openai](mzxrai-mcp-openai.md) — Chat with OpenAI models.
+- [nach-dakwale/instadomain-mcp](nach-dakwale-instadomain-mcp.md) — Domain registration: check availability, buy domains via Stripe or x402 and auto-configure Cloudflare DNS.
+- [NakaokaRei/swift-mcp-gui](nakaokarei-swift-mcp-gui.md) — Execute commands such as keyboard input and mouse movement.
+- [nanana-app/mcp-server-nano-banana](nanana-app-mcp-server-nano-banana.md) — Image generation with Google Gemini's Nano Banana model.
+- [neufagents/mcp-triage](neufagents-mcp-triage.md) — Diagnose and fix MCP client config files: broken JSON, commands missing from PATH, missing env vars, relative paths, transport mismatches and config drift.
+- [nguyenvanduocit/all-in-one-model-context-protocol](nguyenvanduocit-all-in-one-model-context-protocol.md) — Developer toolkit: Confluence, Jira, GitLab, YouTube channel management, email, calendar, script execution, knowledge-base RAG and URL fetching.
+- [ni-c/mealie-mcp](ni-c-mealie-mcp.md) — Access a self-hosted Mealie recipe manager: recipes, website and photo imports, meal plans and shopping lists, with a read-only mode.
+- [NON906/omniparser-autogui-mcp](non906-omniparser-autogui-mcp.md) — Automatic operation of on-screen GUIs.
+- [offorte/offorte-mcp-server](offorte-offorte-mcp-server.md) — Create and send business proposals with Offorte proposal software.
+- [olgasafonova/productplan-mcp-server](olgasafonova-productplan-mcp-server.md) — Query ProductPlan roadmaps, OKRs, ideas, launches and timeline data.
+- [societe-agents-ia-arch/open-agent-polity](societe-agents-ia-arch-open-agent-polity.md) — Open-source polity where AI agents join, create topics, deliberate, amend, vote, follow debates and invite other agents.
+- [orellazi/coda-mcp](orellazi-coda-mcp.md) — Coda integration.
+- [osinmv/funciton-lookup-mcp](osinmv-funciton-lookup-mcp.md) — Look up function signatures.
+- [osulivan/skill4agent-mcp-server](osulivan-skill4agent-mcp-server.md) — Search, view and install AI skills from skill4agent.
+- [Pantrist-dev/pantrist-mcp](pantrist-dev-pantrist-mcp.md) — Manage your Pantrist pantry, shopping lists, recipes and weekly meal plan: check off items, track stock and plan meals from saved recipes.
+- [pierrebrunelle/mcp-server-openai](pierrebrunelle-mcp-server-openai.md) — Query OpenAI models.
+- [PSPDFKit/nutrient-dws-mcp-server](pspdfkit-nutrient-dws-mcp-server.md) — Convert, merge, redact, sign, OCR, watermark and extract data from PDFs and Office documents via the Nutrient DWS Processor API.
+- [PSPDFKit/nutrient-document-engine-mcp-server](pspdfkit-nutrient-document-engine-mcp-server.md) — Self-hosted, on-premises document processing with Nutrient Document Engine, designed for HIPAA, SOC 2 and GDPR compliance.
+- [pskill9/hn-server](pskill9-hn-server.md) — Parse Hacker News pages into structured data for top, new, ask, show and job stories.
+- [PV-Bhat/vibe-check-mcp-server](pv-bhat-vibe-check-mcp-server.md) — Prevent cascading errors and scope creep by calling a vibe-check agent to ensure user alignment.
+- [pwh-pwh/cal-mcp](pwh-pwh-cal-mcp.md) — Evaluate mathematical expressions.
+- [pyroprompts/any-chat-completions-mcp](pyroprompts-any-chat-completions-mcp.md) — Chat with any OpenAI SDK-compatible Chat Completions API, such as Perplexity, Groq and xAI.
+- [quarkiverse/mcp-server-jfx](quarkiverse-mcp-server-jfx.md) — Draw on a JavaFX canvas.
+- [QuentinCody/shopify-storefront-mcp-server](quentincody-shopify-storefront-mcp-server.md) — Unofficial Shopify Storefront API access: discover storefronts and fetch products, collections and other store data.
+- [r-huijts/ethics-check-mcp](r-huijts-ethics-check-mcp.md) — Ethical analysis of AI conversations: detect bias and harmful content and provide critical-thinking assessments, with automated pattern learning.
+- [rae-api-com/rae-mcp](rae-api-com-rae-mcp.md) — Access the Royal Spanish Academy (RAE) dictionary via the RAE API.
+- [Rai220/think-mcp](rai220-think-mcp.md) — Improve agent reasoning with the think tool described by Anthropic.
+- [rember/rember-mcp](rember-rember-mcp.md) — Create spaced-repetition flashcards in Rember to remember what you learn in your chats.
+- [ReplenishRadar/MCP](replenishradar-mcp.md) — Inventory intelligence for Shopify and Amazon sellers: stockout risk, demand forecasts, purchase orders and sales analytics. Writes create drafts only.
+- [roychri/mcp-server-asana](roychri-mcp-server-asana.md) — Interact with the Asana API.
+- [rusiaaman/wcgw](rusiaaman-wcgw.md) — Autonomous shell execution, computer control and coding agent for Mac.
+- [SecretiveShell/MCP-wolfram-alpha](secretiveshell-mcp-wolfram-alpha.md) — Query the Wolfram Alpha API.
+- [Seym0n/tiktok-mcp](seym0n-tiktok-mcp.md) — Interact with TikTok videos.
+- [simonpainter/netbox-mcp](simonpainter-netbox-mcp.md) — Interact with the NetBox API.
+- [staminna/mcp-server-claude](staminna-mcp-server-claude.md) — Manage a Directus headless CMS: read and write items, create collections and fields, upload files, trigger flows, administer users and inspect schemas.
+- [rogertheunissenmerge-oss/mcp-server](rogertheunissenmerge-oss-mcp-server.md) — Wine pairing recommendations for meals, ingredients or recipe URLs. Supports API key or x402 (USDC on Base) payments.
+- [suekou/mcp-notion-server](suekou-mcp-notion-server.md) — Interact with the Notion API.
+- [kirvigen/notion-private-api-mcp](kirvigen-notion-private-api-mcp.md) — Unofficial Notion access via the private API (token_v2): read and write across your whole workspace without an integration token or per-page sharing.
+- [Swih/mistral-mcp](swih-mistral-mcp.md) — Use Mistral AI for chat, OCR, audio, vision, agents, embeddings, moderation, classification, files and batch jobs, with French/English prompts.
+- [tacticlaunch/mcp-linear](tacticlaunch-mcp-linear.md) — Integrate with the Linear project management system.
+- [tan-yong-sheng/ai-vision-mcp](tan-yong-sheng-ai-vision-mcp.md) — Image, video and object-detection analysis with Google Gemini and Vertex AI for UI/UX evaluation, visual regression testing and interface understanding.
+- [tanigami/mcp-server-perplexity](tanigami-mcp-server-perplexity.md) — Interact with the Perplexity API.
+- [tevonsb/homeassistant-mcp](tevonsb-homeassistant-mcp.md) — Access Home Assistant data and control devices such as lights, switches and thermostats.
+- [TheoBrigitte/mcp-time](theobrigitte-mcp-time.md) — Time and date utilities with natural-language input, multiple formats and timezone conversion.
+- [thingsboard/thingsboard-mcp](thingsboard-thingsboard-mcp.md) — Natural language interface to your ThingsBoard IoT platform.
+- [thinq-connect/thinqconnect-mcp](thinq-connect-thinqconnect-mcp.md) — Interact with LG ThinQ smart home devices and appliances through ThinQ Connect.
+- [tjclaude88/mcp-bling](tjclaude88-mcp-bling.md) — Persistent identity and cross-platform visual style for AI agents, plus a random identity generator with rarity tiers and shareable cards.
+- [tomekkorbak/oura-mcp-server](tomekkorbak-oura-mcp-server.md) — Access data from Oura, the sleep-tracking app.
+- [Tommertom/plugwise-mcp](tommertom-plugwise-mcp.md) — Local Plugwise smart home control: network discovery, thermostats, switches, smart plugs, multi-hub management and real-time climate and energy tracking.
+- [tqiqbal/mcp-confluence-server](tqiqbal-mcp-confluence-server.md) — Interact with Confluence Data Center via its REST API.
+- [ttommyth/interactive-mcp](ttommyth-interactive-mcp.md) — Interactive LLM workflows with local user prompts and chat directly in the MCP loop.
+- [mohamed-khairy-5i/tossinbox](mohamed-khairy-5i-tossinbox.md) — Disposable email for AI agents: create a throwaway inbox, wait for the OTP verification code, then discard it. Also available as a CLI.
+- [tumf/web3-mcp](tumf-web3-mcp.md) — Access NFT, token and blockchain data across chains such as Ethereum, BSC, Polygon and Avalanche via the Ankr Advanced API.
+- [W3Ship/w3ship-mcp-server](w3ship-w3ship-mcp-server.md) — Commerce tools: shopping cart, orders and shipment tracking (TMF663/622/621), session booking, Uniswap swaps, a P2P marketplace and wallet-based identity.
+- [ujisati/anki-mcp](ujisati-anki-mcp.md) — Manage your Anki collection via AnkiConnect.
+- [UnitVectorY-Labs/mcp-graphql-forge](unitvectory-labs-mcp-graphql-forge.md) — Expose curated GraphQL queries as modular tools via configuration.
+- [wanaku-ai/wanaku](wanaku-ai-wanaku.md) — Wanaku MCP router: an extensible routing engine for integrating enterprise systems with AI agents.
+- [megberts/mcp-websitepublisher-ai](megberts-mcp-websitepublisher-ai.md) — Build and publish websites through conversation: manage pages, assets, entities, records and integrations.
+- [vin-spiegel/htmldrop](vin-spiegel-htmldrop.md) — Publish HTML reports, dashboards and demos as shareable links with expiry, social preview cards and optional password protection. Self-hostable.
+- [wishfinity/wishfinity-mcp-plusw](wishfinity-wishfinity-mcp-plusw.md) — Save product URLs from any store to a universal wishlist.
+- [wong2/mcp-cli](wong2-mcp-cli.md) — CLI tool for testing MCP servers.
+- [ws-mcp](ws-mcp.md) — Wrap MCP servers with a WebSocket, for use with kibitz.
+- [0xMassi/webclaw](0xmassi-webclaw.md) — Web scraping, crawling, extraction, summarization, diffing and research, using TLS fingerprinting to bypass anti-bot checks without a browser.
+- [yuna0x0/hackmd-mcp](yuna0x0-hackmd-mcp.md) — Interact with HackMD.
+- [ZeparHyfar/mcp-datetime](zeparhyfar-mcp-datetime.md) — Date and time functions in various formats.
+- [zerx-lab/FluxDown](zerx-lab-fluxdown.md) — Control the FluxDown multi-protocol download manager (HTTP, FTP, BitTorrent, HLS): add, list, pause, resume and remove downloads and manage queues.
+- [zueai/mcp-manager](zueai-mcp-manager.md) — Web UI to install and manage MCP servers for the Claude Desktop app.
+- [us-all/mlflow-mcp-server](us-all-mlflow-mcp-server.md) — MLflow experiments, runs, registered models, model versions, traces and assessments, with MLflow 3 GenAI trace support and workflow prompts.
+- [SPL-BGU/PlanningCopilot](spl-bgu-planningcopilot.md) — Tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
+- [yyyhy/nash-arena](yyyhy-nash-arena.md) — Chess and card game arena where LLM agents compete.
+- [aarifmms/keyblind](aarifmms-keyblind.md) — Encrypted secrets vault for AI agents: secrets are resolved at runtime and never exposed in LLM conversations.
+- [wundervault/wundervault-mcp](wundervault-wundervault-mcp.md) — Zero-knowledge secret vault for AI agents: inject API keys, passwords and SSH keys into commands without exposing them to the model, with an audit log.
+- [KongFangXun/sofagent](kongfangxun-sofagent.md) — Commit-time audits for AI coding agents: scan git diffs for secret leaks, out-of-scope edits and prompt injection, and keep a tamper-evident audit history.
+- [labaccessnow/netip-mcp](labaccessnow-netip-mcp.md) — Network toolbox: IPv4/IPv6 subnet math, IP conversion, MAC vendor lookup, port directory, DNS, blocklist and TLS certificate checks, and public IP lookup.
+- [auroracapital/upres-cli](auroracapital-upres-cli.md) — Image and video upscaling via the UpRes API: submit jobs, poll status and download results.
+- [manueltarouca/qbt-kit](manueltarouca-qbt-kit.md) — qBittorrent WebUI API: all 123 endpoints, with confirmation required on destructive operations and a read-only mode that holds through the raw call.

@@ -1,0 +1,140 @@
+# Aggregators
+
+- [inth3shadows/terse](inth3shadows-terse.md) — Transparent proxy that sits in front of any other MCP server and shrinks its tool output before it reaches the model. Lossless by default — a denser…
+- [402signalhq/402signal](402signalhq-402signal.md) — Checks and validates live x402 payment routes across Base, Solana and Algorand.
+- [GarphenGate/moltline-mcp](garphengate-moltline-mcp.md) — Bridge to Moltline Studio's hosted MCP servers: code review, agent governance, business math, regulatory deadlines, crypto tax lots, routing and optimization.
+- [team886/findagent-mcp](team886-findagent-mcp.md) — Marketplace of vetted agents with automated security scans plus human review, credential-to-host binding and sandboxed hosted code with default-deny egress.
+- [BotHireAgent/BotHireMCPServer](bothireagent-bothiremcpserver.md) — BotHire agent-to-agent hiring marketplace: search agents and skills by capability and trust score, read live demand, and settle in USDT or USDC across chains.
+- [neoninnovationlab/neon-mcp-gateway](neoninnovationlab-neon-mcp-gateway.md) — Edge firewall for exposing internal PostgreSQL databases and APIs to AI agents with strict validation.
+- [daedalusdevelopmentgroup/ddg-agent-payable-services](daedalusdevelopmentgroup-ddg-agent-payable-services.md) — Pay-per-call x402 tools (utilities, DNS/WHOIS, blockchain RPC, market and DEX data, prediction markets, security audits) plus an OpenAI-compatible LLM gateway.
+- [forgemeshlabs/coinopai-mcp](forgemeshlabs-coinopai-mcp.md) — Paid crypto intelligence via x402 on Base: preflight checks, trade decisions audited against real prices, risk state, signal history and automation search.
+- [forgemeshlabs/anomaly-mcp](forgemeshlabs-anomaly-mcp.md) — Real-time anomaly detection with NASA-derived sequence mining across blockchain, mempool, stablecoin depeg, aviation and GitHub signals, paid via x402 on Base.
+- [1mcp/agent](1mcp-agent.md) — Aggregates multiple MCP servers into one unified server.
+- [2s-io/sdk](2s-io-sdk.md) — Pay-per-call x402 API: geocoding, weather, earthquakes, patents, US case law, Federal Register, scientific papers, DNS/WHOIS, OFAC screening and Census data.
+- [8randonpickart5/alderpost-mcp](8randonpickart5-alderpost-mcp.md) — Intelligence endpoints for security, company, threat, compliance, sales, sports, property and health data, paid via x402 micropayments on Base.
+- [forgemeshlabs/utility-grid-mcp](forgemeshlabs-utility-grid-mcp.md) — Search and call utility APIs for OCR, image, audio, web, math, conversion and geodata, paid per call with x402 USDC on Base.
+- [giorgio44/gateonai-mcp-server](giorgio44-gateonai-mcp-server.md) — Search and compare thousands of AI tools, generate step-by-step AI workflows and AI tool stacks by profession from GateOnAI's curated catalog. Free, no API key.
+- [GTCC777/pulsenetwork-mcp](gtcc777-pulsenetwork-mcp.md) — Pay-per-call x402 intelligence APIs on Base and Solana: finance, crypto, legal, immigration, healthcare costs, real estate, tax, climate, sports and science.
+- [mcpqueen/mcpqueen](mcpqueen-mcpqueen.md) — Graded MCP registry: live-probes remote servers from the MCP Registry (initialization, tool listing, schema quality, latency, provenance) and publishes grades.
+- [minia2auk/minia2a-mcp](minia2auk-minia2a-mcp.md) — Pay-per-call x402 gateway for agent tools: crypto and DeFi data, web scraping, AI inference, CAPTCHA solving, token security, DNS/WHOIS and gas monitoring.
+- [szp2005/llm-prices-cn](szp2005-llm-prices-cn.md) — Daily-verified dataset of LLM API prices for Chinese and global models, with live price queries and token cost estimation.
+- [tadas-github/a2asearch-mcp](tadas-github-a2asearch-mcp.md) — Search a directory of MCP servers, AI agents, CLI tools and agent skills.
+- [Aganium/agenium](aganium-agenium.md) — Bridge MCP servers to the agent:// network so other agents can discover and call their tools, with DNS-like identity, mTLS, trust scores and capability search.
+- [agentbodegastore/agentbodega](agentbodegastore-agentbodega.md) — Live catalog of x402-payable HTTP tools from AgentBodega: search, public data, social media, status checks, media conversion and agent-readiness checks.
+- [elisymlabs/elisym](elisymlabs-elisym.md) — AI agent discovery and marketplace on Nostr with Solana payments (SOL, USDC): NIP-89 discovery, NIP-90 jobs, NIP-44 encryption and on-chain micropayments.
+- [PHONGUIT22/nostrpulse-full](phonguit22-nostrpulse-full.md) — Agent-to-agent (A2A) commerce framework using Nostr NIP-90 and Cashu eCash micro-settlements.
+- [espadaw/Agent47](espadaw-agent47.md) — Job aggregator for AI agents across platforms such as x402, RentAHuman and Virtuals.
+- [gzchenhao/openhire](gzchenhao-openhire.md) — Job search over employer ATS APIs (Greenhouse, Lever, Ashby, Beisen) with freshness verification, ghost-job scoring and apply links; matching runs client-side.
+- [doggychip/agentforge](doggychip-agentforge.md) — Self-hostable API gateway and marketplace for AI agents with one API key, REST and streaming access, and health monitoring.
+- [AgentHotspot](agenthotspot.md) — Search, integrate and monetize MCP connectors on the AgentHotspot marketplace.
+- [aidevelopers2/remoteopenclaw-mcp](aidevelopers2-remoteopenclaw-mcp.md) — Search the Remote OpenClaw directory of MCP servers, agent skills and plugins for names, links and install commands; also available as a CLI.
+- [garasegae/aiskillstore](garasegae-aiskillstore.md) — Skill marketplace where AI agents discover, purchase and integrate skills.
+- [getanyapi-com/mcp](getanyapi-com-mcp.md) — AnyAPI: scraping and data APIs for social media, search results, Google Maps, e-commerce and web data, with normalized JSON and automatic provider failover.
+- [alexanderclapp/clirank-mcp-server](alexanderclapp-clirank-mcp-server.md) — CLIRank API intelligence for coding agents: discover, compare and get recommendations for APIs scored on agent-friendliness.
+- [Work90210/APIFold](work90210-apifold.md) — Turn any REST API into a hosted MCP server, with ready-made public servers for GitHub, Stripe, Slack, OpenAI, Notion and more.
+- [alexar76/aimarket-plugins](alexar76-aimarket-plugins.md) — AIMarket Hub plugin that packages AIMarket capabilities as self-hosted MCP servers with a Docker image, manifest and client config.
+- [Alepha188838884/context-firewall](alepha188838884-context-firewall.md) — Local MCP proxy that merges downstream servers behind a few meta-tools with progressive discovery and compresses large tool outputs, with full output on demand.
+- [AIsa-public/AIsa-mcp-server](aisa-public-aisa-mcp-server.md) — Search, inspect and run data APIs for SEO and AI visibility, finance, social, web search, sales and agent mail through a few meta-tools, with spending caps.
+- [api7/aisix](api7-aisix.md) — Self-hosted MCP gateway fronting upstream servers with per-tool access control, guardrails, rate limits and usage logs; also proxies LLM and A2A agent traffic.
+- [reefapi/reefapi-mcp](reefapi-reefapi-mcp.md) — Live web data as clean JSON: search engines, social media, e-commerce (Amazon, eBay, Etsy), real estate, jobs, travel, news, finance and company intel.
+- [RightOnPar-LLC/mesh-connector](rightonpar-llc-mesh-connector.md) — MeshMarket agent-to-agent capability exchange: agents browse, self-onboard, rent memory, reasoning and safety per call, and publish their own tools.
+- [rhein1/agoragentic-integrations](rhein1-agoragentic-integrations.md) — Agent-to-agent marketplace where AI agents discover, invoke and pay for other agents' services using USDC on Base.
+- [arikusi/deepseek-mcp-server](arikusi-deepseek-mcp-server.md) — DeepSeek AI chat and reasoning with multi-turn sessions, function calling, thinking mode and cost tracking.
+- [ariekogan/ateam-mcp](ariekogan-ateam-mcp.md) — Build, validate and deploy multi-agent AI solutions on the ADAS platform: design skills with tools and manage the solution lifecycle.
+- [askbudi/roundtable](askbudi-roundtable.md) — Meta-MCP server that unifies AI coding assistants (Codex, Claude Code, Cursor, Gemini) behind one interface with automatic discovery and zero configuration.
+- [adw0rd/awesome-mcp-tools-mcp](adw0rd-awesome-mcp-tools-mcp.md) — Search the awesome-mcp.tools catalog of MCP servers from an MCP client or the terminal.
+- [avotsai/avots-mcp](avotsai-avots-mcp.md) — Multi-model AI media generation (image, video, audio, face swap, talking avatars) plus chat with models such as Claude, GPT, Gemini and DeepSeek.
+- [bkraad47/ramen](bkraad47-ramen.md) — Self-hosted MCP for teams: deploy your own Python tools from git to Kubernetes (AKS/GKE/EKS/local) with canary rollouts, OAuth sign-in, autoscaling, Nvidia…
+- [blockrunai/blockrun-mcp](blockrunai-blockrun-mcp.md) — Access AI models such as GPT-5, Claude, Gemini, Grok and DeepSeek, paid per use via x402 micropayments in USDC on Base.
+- [bridgenode-ai/bridgenode-mcp](bridgenode-ai-bridgenode-mcp.md) — Pay-per-request AI chat completions across supported models via x402, with automatic Solana USDC payments and fail-closed spending caps.
+- [cgrtml/reasongate](cgrtml-reasongate.md) — Provenance gateway for stdio MCP servers that blocks tool calls whose destination or content came from an untrusted tool result, with schema-derived policies.
+- [cinderwright-ai/cinderwright-api](cinderwright-ai-cinderwright-api.md) — x402 discovery hub: search engine for agent services, paid with USDC on Base via x402.
+- [Continuum-AI-Corp/orcarouter-mcp-server](continuum-ai-corp-orcarouter-mcp-server.md) — Browse LLMs from OpenAI, Anthropic, Google, Qwen, DeepSeek and others with live prices, and route chat completions through the OrcaRouter gateway with fallback.
+- [Data-Everything/mcp-server-templates](data-everything-mcp-server-templates.md) — Unified MCP platform that connects many apps, tools and services behind one interface.
+- [depwire/depwire](depwire-depwire.md) — Dependency graphs for TypeScript, JavaScript, Python, Go, Rust and C, with arc diagram visualization, health scoring, dead code detection and a temporal graph.
+- [duaraghav8/MCPJungle](duaraghav8-mcpjungle.md) — Self-hosted MCP server registry for enterprise AI agents.
+- [Proofpane/releases](proofpane-releases.md) — MCP governance proxy: allow, deny or human-approval policy gates, DLP redaction and cost caps, with tool calls recorded to a hash-chained, signed audit log.
+- [entire-vc/evc-spark-mcp](entire-vc-evc-spark-mcp.md) — Search a curated catalog of AI agents, skills, prompts, bundles and MCP connectors.
+- [gamaze-labs/hicortex](gamaze-labs-hicortex.md) — Shared memory for fleets of AI agents: nightly self-correction rewrites stale facts and merges duplicates, and recall is injected into coding agents' prompts.
+- [glenngillen/mcpmcp-server](glenngillen-mcpmcp-server.md) — Lists MCP servers so you can ask your client which ones could improve your daily workflow.
+- [Gliana-Labs/gliana-mcp](gliana-labs-gliana-mcp.md) — Pay-per-call AI models (chat, image, video, music, speech) plus web scraping, screenshots, OCR, face matching and crypto/FX rates, paid via HTTP 402 in USDC.
+- [gpu-bridge/mcp-server](gpu-bridge-mcp-server.md) — GPU inference API for LLMs, image and video generation, TTS, Whisper, embeddings, reranking and OCR, paid per use via x402 or an API key.
+- [gzoonet/cortex](gzoonet-cortex.md) — Local-first developer knowledge graph: watches project files, extracts entities and relationships with LLMs, and offers queries, a web dashboard and a CLI.
+- [hamflx/imagen3-mcp](hamflx-imagen3-mcp.md) — Generate images from text prompts with Google's Imagen 3 API, with photography, artistic and photorealistic controls.
+- [hashgraph-online/hashnet-mcp-js](hashgraph-online-hashnet-mcp-js.md) — Discover, register and chat with AI agents on the Hashgraph network via the Registry Broker.
+- [hedging8563/tokenlab-mcp-server](hedging8563-tokenlab-mcp-server.md) — TokenLab AI gateway: model and price discovery plus OpenAI-compatible Chat Completions, Responses, Anthropic Messages and Gemini inference.
+- [HelpCode-ai/anythingmcp](helpcode-ai-anythingmcp.md) — Self-hosted MCP gateway turning REST, SOAP and GraphQL APIs and SQL/NoSQL databases into MCP tools without code, with spec import, pre-built adapters and RBAC.
+- [isaac-levine/forage](isaac-levine-forage.md) — Self-improving tool discovery: searches registries, installs MCP servers as subprocesses without restarts, and persists tool knowledge across sessions.
+- [jabbawocky/proposalcraft](jabbawocky-proposalcraft.md) — Draft client proposals in your own voice from a new brief, based on your saved past proposals, with local storage only.
+- [Jackalope-Dev/allmcps-server](jackalope-dev-allmcps-server.md) — Search and browse the AllMCPs.com registry of MCP servers, get install configs, and submit or claim listings.
+- [jaspertvdm/mcp-server-gemini-bridge](jaspertvdm-mcp-server-gemini-bridge.md) — Bridge to the Google Gemini API for accessing Gemini Pro and Flash models.
+- [jaspertvdm/mcp-server-ollama-bridge](jaspertvdm-mcp-server-ollama-bridge.md) — Bridge to a local Ollama server for running Llama, Mistral, Qwen and other local models.
+- [jaspertvdm/mcp-server-openai-bridge](jaspertvdm-mcp-server-openai-bridge.md) — Bridge to the OpenAI API for accessing GPT-4, GPT-4o and other OpenAI models.
+- [Jovancoding/Network-AI](jovancoding-network-ai.md) — Multi-agent orchestration with a race-condition-safe shared blackboard, agent spawning, FSM transitions, budget and token tracking, and audit logs.
+- [julien040/anyquery](julien040-anyquery.md) — Query apps with SQL from a single local-first binary; also connects to PostgreSQL, MySQL and SQLite-compatible databases.
+- [juspay/neurolink](juspay-neurolink.md) — Edge-first AI platform unifying many providers and models, with multi-agent orchestration, human-in-the-loop workflows, guardrails and context summarization.
+- [K-Dense-AI/claude-skills-mcp](k-dense-ai-claude-skills-mcp.md) — Search and use Claude Agent Skills from any model or client as if natively supported.
+- [kaiser-data/kitsune-mcp](kaiser-data-kitsune-mcp.md) — Hot-reload for MCP servers: the agent connects the server it is building, calls a tool, fixes the code, runs `reload()` and calls it again in the same…
+- [kansei-link/kansei-mcp-server](kansei-link-kansei-mcp-server.md) — Local-first navigator with verified data on SaaS services and workflow recipes.
+- [kevmoz/macaroonnetwork-mcp](kevmoz-macaroonnetwork-mcp.md) — Search and buy from a predicate-gated scientific and data marketplace: browse the catalogue and metadata, then pay via x402 (USDC on Base) or Lightning L402.
+- [khalidsaidi/ragmap](khalidsaidi-ragmap.md) — MapRag: RAG-focused MCP subregistry for discovering and routing to retrieval-capable MCP servers with structured constraints and explainable ranking.
+- [kumarganduri/legwork](kumarganduri-legwork.md) — Your AI finds an open-source tool on GitHub and Legwork installs it as an MCP tool in a sandbox: only the folders you grant, read-only, no network unless…
+- [mambalabsdev/mcp-gtm-suite](mambalabsdev-mcp-gtm-suite.md) — Go-to-market signals via Apify actors: hiring signals, tech stack detection, job board scanning, LinkedIn URL resolution, ICP scoring and signal aggregation.
+- [Markgatcha/universal-mcp-toolkit](markgatcha-universal-mcp-toolkit.md) — MCP aggregator that connects agents to multiple MCP servers through one configuration, with ready-made templates and cross-repo prompt workflows.
+- [MastadoonPrime/sylex-search](mastadoonprime-sylex-search.md) — Search engine for AI agents to discover products, services and businesses across categories, without LLM calls.
+- [matebenyovszky/agentplaybooks](matebenyovszky-agentplaybooks.md) — Portable playbooks for agent skills, MCP servers, personas, instructions, and memory. Aggregate connected tools through Streamable HTTP or the local stdio…
+- [mediiiiium/mcp-jp](mediiiiium-mcp-jp.md) — MCP servers for Japanese SMB SaaS without their own MCP support, such as KING OF TIME, SmartHR, kaonavi, Smaregi, LINE Lstep and CloudSign.
+- [merterbak/Grok-MCP](merterbak-grok-mcp.md) — Access xAI's Grok API with agentic tool calling, image generation, vision and file support.
+- [metatool-ai/metatool-app](metatool-ai-metatool-app.md) — MetaMCP: unified middleware MCP server that manages your MCP connections through a GUI.
+- [MikeyPetrillo/Agent402](mikeypetrillo-agent402.md) — Pay-per-call x402 tools and skill packs (headless browser, web search, OCR, wallet-keyed memory), plus a router that finds the cheapest healthy tool.
+- [MikkoParkkola/mcp-gateway](mikkoparkkola-mcp-gateway.md) — MCP gateway with single-port multiplexing and meta-tools that replace individual tool registrations, plus hot-reloadable capabilities and OpenAPI import.
+- [mirastacklabs-ai/mirastack-redfish-mcp](mirastacklabs-ai-mirastack-redfish-mcp.md) — Governed access to DMTF Redfish BMCs (iDRAC, iLO, XCC, OpenBMC) for power, thermal, firmware and BIOS management; read-only by default with tiered write modes.
+- [mroops0111/openapi-mcp-gateway](mroops0111-openapi-mcp-gateway.md) — Mount multiple OpenAPI specs or a FastAPI app as MCP servers in one process, exposing GET endpoints as resources and large specs through meta-tools.
+- [nimbus-agent/Nimbus](nimbus-agent-nimbus.md) — Read-only search over a local index of your engineering stack (GitHub, Jira, Slack, PagerDuty, Datadog and more): incidents, PRs, deployments and DORA metrics.
+- [ni-c/mcp-hub](ni-c-mcp-hub.md) — Serve many stdio MCP servers from one container over HTTPS, with path-based routing, an aggregate endpoint using meta-tools, built-in OAuth 2.1 and hot reload.
+- [O-mega-Enterprise/suprsonic-mcp](o-mega-enterprise-suprsonic-mcp.md) — One API key for 24 agent capabilities: web search, scraping, people and company data, email finding and verification, images, speech, transcription…
+- [Octodamus/octodamus-core](octodamus-octodamus-core.md) — Crypto market oracle: BUY/SELL/HOLD consensus from RSI, MACD, funding rates and on-chain flow, plus Polymarket edges with EV scoring and X crowd sentiment.
+- [opentabs-dev/opentabs](opentabs-dev-opentabs.md) — Plugin-based server and Chrome extension that gives AI agents access to web apps through your authenticated browser session, with a plugin SDK.
+- [oxgeneral/agentnet](oxgeneral-agentnet.md) — Agent-to-agent referral network where AI agents discover, recommend and refer users to each other, with a bilateral trust model and referral tracking.
+- [particlefuture/MCPDiscovery](particlefuture-mcpdiscovery.md) — Automatically discover and configure MCP servers on your local machine.
+- [portel-dev/ncp](portel-dev-ncp.md) — Orchestrates all your MCP servers through tool discovery, reducing token overhead.
+- [profullstack/mcp-server](profullstack-mcp-server.md) — Developer utilities: SEO optimization, document conversion, domain lookup, email validation, QR codes, weather data, social media posting and security scanning.
+- [qualienai/qualien-mcp](qualienai-qualien-mcp.md) — Gateway for QA/SDET work: Playwright, filesystem, GitHub, Jira, Postgres and 15+ more MCP servers behind one connection, with per-tool allow/deny and…
+- [robhunter/agentdeals](robhunter-agentdeals.md) — Search developer infrastructure deals, free tiers and startup programs, compare vendors, plan stacks and track pricing changes.
+- [doteyeso-ops/mcp-server-vibes-coded](doteyeso-ops-mcp-server-vibes-coded.md) — Tools for agent supply-chain security, scanner consensus and x402 reliability, plus access to Vibes-Coded's commerce catalog.
+- [rupinder2/mcp-orchestrator](rupinder2-mcp-orchestrator.md) — Hub that aggregates tools from multiple MCP servers with unified BM25 and regex search and deferred loading.
+- [Rendeverance/toolfunnel](rendeverance-toolfunnel.md) — Gateway that funnels multiple MCP servers through one endpoint, with live attach and detach, tool filtering and hiding, hot config reload and optional OAuth.
+- [sF1nX/x402station](sf1nx-x402station.md) — Preflight checks for x402 payments: detect decoys, zombie endpoints, dead services and price traps before an agent pays, plus forensics and alternatives.
+- [supertrained/rhumb](supertrained-rhumb.md) — Tool intelligence over scored services: discover and compare providers, check AN Scores, execute with managed or own credentials, and track costs and failures.
+- [sitbon/magg](sitbon-magg.md) — Meta-MCP server that lets LLMs discover, install and orchestrate multiple MCP servers to extend their own capabilities on demand.
+- [smart-mcp-proxy/mcpproxy-go](smart-mcp-proxy-mcpproxy-go.md) — Local MCP proxy that routes multiple servers through one endpoint, with BM25 tool filtering, quarantine security, activity logging and a web UI.
+- [sonnyflylock/voxie-ai-directory-mcp](sonnyflylock-voxie-ai-directory-mcp.md) — AI phone number directory: query Voxie AI personas and third-party AI services such as ChatGPT and get webchat links.
+- [SureScaleAI/openai-gpt-image-mcp](surescaleai-openai-gpt-image-mcp.md) — Image generation and editing with OpenAI's GPT image models.
+- [sxhxliang/mcp-access-point](sxhxliang-mcp-access-point.md) — Turn a web service into an MCP server without code changes.
+- [thebrierfox/the-stall](thebrierfox-the-stall.md) — Pay-per-call x402 data: equities, crypto/DeFi analytics, options chains, dealer GEX, macro data, congressional trades, prediction markets and SEC filings.
+- [swaltersjrtest/microtap-mcp](swaltersjrtest-microtap-mcp.md) — Pay-per-call x402 APIs: Polymarket and Kalshi prediction markets, DeFi and crypto data, on-chain reads across EVM chains, live weather and web search.
+- [TheLunarCompany/lunar#mcpx](thelunarcompany-lunar-mcpx.md) — MCPX: open-source gateway for managing MCP servers at scale, centralizing tool discovery, access controls, call prioritization and usage tracking.
+- [thinkchainai/mcpbundles](thinkchainai-mcpbundles.md) — Create custom tool bundles, connect providers with OAuth or API keys, and use one MCP server across many integrations, with a UI for bundles and credentials.
+- [mrfelfel/taghvim](mrfelfel-taghvim.md) — Deterministic date and time reasoning: arithmetic, DST-aware time zones, business days, public holidays, RFC 5545 recurrence and Gregorian/Persian conversion.
+- [toadlyBroodle/satring](toadlybroodle-satring.md) — Discover and compare L402 and x402 paid API services from satring.com, a curated Lightning and USDC API directory.
+- [VeriTeknik/pluggedin-mcp-proxy](veriteknik-pluggedin-mcp-proxy.md) — Proxy combining multiple MCP servers into one interface, with discovery and management of tools, prompts, resources and templates plus a debugging playground.
+- [ViperJuice/mcp-gateway](viperjuice-mcp-gateway.md) — Meta-server that reduces Claude Code tool bloat via progressive disclosure, auto-starting Playwright and Context7 and provisioning MCP servers on demand.
+- [WayStation-ai/mcp](waystation-ai-mcp.md) — Connect MCP hosts to apps such as Notion, Slack, Monday and Airtable.
+- [wegotdocs/open-mcp](wegotdocs-open-mcp.md) — Turn a web API into an MCP server and add it to the open-source open-mcp.org registry.
+- [whiteknightonhorse/APIbase](whiteknightonhorse-apibase.md) — API hub covering travel (Amadeus, Sabre), Polymarket prediction markets, crypto and weather, paid per call via x402 in USDC.
+- [withoneai/mcp](withoneai-mcp.md) — Search, document and execute authenticated API calls across apps such as Gmail, Slack, Stripe, Notion and GitHub through a few tools with constant context size.
+- [Wolido/OpenAaaS](wolido-openaaas.md) — Adapter to the OpenAaaS scientific agent network: submit tasks such as literature analysis or materials database queries to remote research agents.
+- [rplryan/x402-discovery-mcp](rplryan-x402-discovery-mcp.md) — Runtime discovery for x402-payable APIs: find and route to pay-per-call endpoints by capability, ranked by quality and trust score, plus a Python SDK and CLI.
+- [x402-index/x402search-mcp](x402-index-x402search-mcp.md) — Search x402-enabled HTTP APIs by keyword, paid per search via x402 micropayments on Base.
+- [ikoskela/wisepanel-mcp](ikoskela-wisepanel-mcp.md) — Multi-agent deliberation across ChatGPT, Claude, Gemini and Perplexity, with dynamically generated roles that explore the question from divergent angles.
+- [YangLiangwei/PersonalizationMCP](yangliangwei-personalizationmcp.md) — Aggregate personal data from Steam, YouTube, Bilibili, Spotify, Reddit and other gaming, music, video and social platforms, with OAuth2 and token management.
+- [Swarmwage/swarmwage](swarmwage-swarmwage.md) — Agent hiring protocol on x402: discover specialized agents, hire them in one call and settle in USDC on Base, with reputation and on-chain EIP-3009 receipts.
+- [ertad-family/liquid](ertad-family-liquid.md) — Connect agents to any REST API on the fly: maps the API once, then fetches typed data deterministically without per-call LLM use. Self-hosted.
+- [tsouth89/toolport](tsouth89-toolport.md) — Local gateway and manager for MCP servers shared across AI coding tools: set up and authenticate each server once, with lazy discovery and OS keychain storage.
+- [skillselion/skillselion-mcp](skillselion-skillselion-mcp.md) — Search the Skillselion catalog of community-vetted Claude Code skills, MCP servers and marketplaces, ranked by installs and GitHub stars; load skills mid-task.
+- [singhpratech/crimson-crab-mcp-template](singhpratech-crimson-crab-mcp-template.md) — Rust template for an MCP server that queries Anthropic's Claude API via the crimson-crab SDK.
+- [forcedreamai/forcedream-mcp](forcedreamai-forcedream-mcp.md) — Discover, invoke and verify agents on a paid marketplace: code generation, security scanning (OSV.dev, GitGuardian) and lead scoring, with signed results.
+- [mcccsm/x402-list-mcp](mcccsm-x402-list-mcp.md) — Find and vet x402 payment APIs in the x402-list directory: search and rank services, check uptime, health, per-endpoint prices and on-chain settlement volume.
+- [activeing123/mcptoon](activeing123-mcptoon.md) — Connect AI agents to MCP servers from one config synced across coding tools, served through one process with compact tool discovery and spec validation.
+- [kaxiyu/aiagentmarket](kaxiyu-aiagentmarket.md) — Labor marketplace protocol for AI agents with atomic escrow and weighted anti-Sybil reputation.
+- [Strategiumfinancepartner/AgentNexus](strategiumfinancepartner-agentnexus.md) — Discovery and reliability registry of APIs, MCP servers and CLIs for AI agents: scheduled health probes, per-entry health cards with evidence expiry, free…

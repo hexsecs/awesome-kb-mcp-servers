@@ -1,0 +1,67 @@
+# Location Services
+
+- [bartosz-kuc/honest-imgw-mcp](bartosz-kuc-honest-imgw-mcp.md) — Polish weather and hydrology data from the IMGW-PIB public API, no API key: hourly synoptic observations (`get_weather`), river levels and flow with a…
+- [HasData/yellowpages-mcp](hasdata-yellowpages-mcp.md) — Yellow Pages local business search by category and location, with full listings including services, brands and payment methods.
+- [HasData/google-maps-mcp](hasdata-google-maps-mcp.md) — Remote MCP server for Google Maps: place search and place details, reviews, photos, posts and contributor history, as JSON, with no Google Cloud project to…
+- [HasData/yelp-mcp](hasdata-yelp-mcp.md) — Yelp business search by category and location, place details, and full reviews with sorting and star filters.
+- [qinisolabs/floodwise](qinisolabs-floodwise.md) — Long-term flood-risk bands for England by postcode from Environment Agency open data.
+- [Adeniyikayodee/ng-postcode](adeniyikayodee-ng-postcode.md) — Nigeria's NIPOST digital postcode (NDAPS): validate codes offline, look them up, autocomplete, find the postcode at a coordinate and resolve described…
+- [aneal99/datafordeler-dar-mcp](aneal99-datafordeler-dar-mcp.md) — Danish addresses from Danmarks Adresseregister (DAR) on Datafordeleren, the DAWA replacement: lookup, street and address prefix search, WGS84 coordinates.
+- [APOGEOAPI/apogeoapi-mcp](apogeoapi-apogeoapi-mcp.md) — Geographic data and live exchange rates: countries, states, cities, IP geolocation and currency rates.
+- [atlasfetch-dev/atlasfetch-mcp](atlasfetch-dev-atlasfetch-mcp.md) — Reverse geocode coordinates to country, region and municipality with ISO 3166 codes, and match them against your own GeoJSON geofences.
+- [bamwor-dev/bamwor-mcp-server](bamwor-dev-bamwor-mcp-server.md) — World geographic data from the Bamwor API: country statistics and cities with population, coordinates and timezone.
+- [baphometnxg/aloha-fyi-mcp](baphometnxg-aloha-fyi-mcp.md) — Hawaii tourism: bookable tours from Viator, GetYourGuide, Klook and Groupon, plus events at venues on Oahu, Maui, the Big Island and Kauai.
+- [geovicco-dev/bhoonidhi-mcp](geovicco-dev-bhoonidhi-mcp.md) — Search, save and download satellite scenes from ISRO's Bhoonidhi (NRSC) Earth-observation portal in natural language.
+- [birkskyum/maplibre-mcp](birkskyum-maplibre-mcp.md) — Render, validate and debug MapLibre map styles, with vector tile inspection, style spec and GL JS API lookups, and a live map that redraws as the agent…
+- [briandconnelly/mcp-server-ipinfo](briandconnelly-mcp-server-ipinfo.md) — IP address geolocation and network information using the IPinfo API.
+- [chuofringer/placeroot](chuofringer-placeroot.md) — Overture Maps open data: places, geocoding, admin lookup, buildings, routing and isochrones, queried from the public GeoParquet release via DuckDB.
+- [cqtrinv/trinvmcp](cqtrinv-trinvmcp.md) — Explore French communes and cadastral parcels by name and surface area.
+- [cturkieh/france-data-mcp](cturkieh-france-data-mcp.md) — Cross-references French public registries: FINESS healthcare facilities, RPPS health professionals, INSEE companies and IGN geocoding.
+- [devilcoder01/weather-mcp-server](devilcoder01-weather-mcp-server.md) — Real-time weather forecasts and current conditions for any location via WeatherAPI.com.
+- [discava/mcp-server](discava-mcp-server.md) — Search local businesses worldwide, with confidence scores and agent trust rankings.
+- [Flightmussy/castlemap-mcp](flightmussy-castlemap-mcp.md) — Query castles, fortresses and palaces worldwide (coordinates, founding dates, fame, Wikipedia summaries) from the open, Wikidata-based Castlemap dataset.
+- [Flightmussy/filmmap-mcp](flightmussy-filmmap-mcp.md) — Filming locations of films, series, games and anime: where a title was shot, what was shot at a place and what is nearby, from open Wikidata-based data.
+- [Vortx-AI/emem](vortx-ai-emem.md) — Signed geospatial facts with citable receipts for place-based questions: elevation, land cover, surface water, vegetation and built-up areas.
+- [markpdxt/dronelytics-mcp](markpdxt-dronelytics-mcp.md) — US drone airspace checks and mission planning: FAA airspace restrictions, survey flight plans, Part 107 compliance, pre-flight briefings and KML/GPX export.
+- [gaopengbin/cesium-mcp](gaopengbin-cesium-mcp.md) — Control a CesiumJS 3D globe: camera flights, GeoJSON and 3D Tiles layers, markers, spatial analysis and heatmaps.
+- [GeiserX/pumperly-mcp](geiserx-pumperly-mcp.md) — Pumperly fuel price comparison: query gas station prices, plan fuel-efficient routes and find nearby EV charging stations.
+- [geolens-io/geolens](geolens-io-geolens.md) — Read-only access to a self-hosted GeoLens geospatial catalog: dataset search, schemas, GeoJSON features, saved maps and sandboxed SQL over PostGIS.
+- [geowire/geowire](geowire-geowire.md) — Multi-provider location gateway (OpenStreetMap, Google, Yelp, Foursquare, Naver and more): place search, geocoding, directions, isochrones and area analysis.
+- [gridpin/gridpin](gridpin-gridpin.md) — Offline geocoding and reverse geocoding from one local file per country (BR, DE, ES, FR, IT, NL, RS); no API key, queries stay on the machine.
+- [ip2location/mcp-ip2location-io](ip2location-mcp-ip2location-io.md) — Geolocation, proxy and network information for an IP address via the IP2Location.io API.
+- [ipfind/ipfind-mcp-server](ipfind-ipfind-mcp-server.md) — IP address geolocation using the IP Find API.
+- [ipfred/aiwen-mcp-server-geoip](ipfred-aiwen-mcp-server-geoip.md) — IP geolocation via Aiwen: country, region, city, coordinates, ISP and owner of an IP address.
+- [IPGeolocation/ipgeolocation-io-mcp](ipgeolocation-ipgeolocation-io-mcp.md) — Official IPGeolocation.io MCP server with 17 tools for IP geolocation, company information, ASN and network data, IP security (VPN, proxy, Tor, bot, hosting…
+- [iplocate/mcp-server-iplocate](iplocate-mcp-server-iplocate.md) — Look up IP geolocation and network information, detect proxies and VPNs, and find abuse contacts using IPLocate.io.
+- [isdaniel/mcp_weather_server](isdaniel-mcp-weather-server.md) — Get weather information from the Open-Meteo API.
+- [jagan-shanmugam/open-streetmap-mcp](jagan-shanmugam-open-streetmap-mcp.md) — OpenStreetMap location-based services and geospatial data.
+- [Knight60/ArcGIS-Pro-MCP](knight60-arcgis-pro-mcp.md) — ArcGIS Pro add-in that lets an assistant drive the open project: layers, attributes, selections, symbology, layouts, rasters, geoprocessing tools and arcpy.
+- [kukapay/nearby-search-mcp](kukapay-nearby-search-mcp.md) — Nearby place search with IP-based location detection.
+- [mahdin75/geoserver-mcp](mahdin75-geoserver-mcp.md) — Interact with geospatial data and services through the GeoServer REST API.
+- [mahdin75/gis-mcp](mahdin75-gis-mcp.md) — Geospatial operations and transformations using GIS libraries.
+- [mapsmith-ai/MapSmith](mapsmith-ai-mapsmith.md) — Deterministic GIS geoprocessing (buffers, overlays, reprojection, zonal statistics, terrain, hydrology) with a provenance manifest for every output.
+- [matbel91765/gis-mcp-server](matbel91765-gis-mcp-server.md) — Geospatial tools: geocoding, routing, elevation, spatial analysis and file I/O for Shapefile, GeoJSON and GeoPackage.
+- [muend/arcgis-mcp-bridge](muend-arcgis-mcp-bridge.md) — Local bridge to ArcGIS Pro's ArcPy engine for geoprocessing, with worker-process isolation and filesystem boundaries.
+- [cablate/mcp-google-map](cablate-mcp-google-map.md) — Google Maps geocoding, place search, directions and elevation, with a standalone CLI mode.
+- [ni-c/osm-mcp](ni-c-osm-mcp.md) — OpenStreetMap travel planning: geocoding, walking, driving and cycling routes, travel-time matrices, route optimization, isochrones and POI search.
+- [Off-Nadir-Lab/offnadir-delta-mcp](off-nadir-lab-offnadir-delta-mcp.md) — Live geolocated world-event intelligence and a daily world brief: event signals, hotspots, Sentinel satellite imagery and an OSINT/GEOINT analyst.
+- [oschwald/maxminddb-mcp](oschwald-maxminddb-mcp.md) — Query local MaxMind DB files for IP geolocation, ASN data, and filtered network analysis, with database downloads and automatic updates.
+- [PostalDataPI/postaldatapi-mcp](postaldatapi-postaldatapi-mcp.md) — Global postal code lookup, validation and city search, with timezone, administrative region and elevation metadata.
+- [QGIS MCP](qgis-mcp.md) — Connects QGIS Desktop to Claude for prompt-assisted project creation, layer loading and code execution.
+- [rossshannon/Weekly-Weather-mcp](rossshannon-weekly-weather-mcp.md) — Detailed seven-day weather forecasts for anywhere in the world.
+- [SaintDoresh/Weather-MCP-ClaudeDesktop](saintdoresh-weather-mcp-claudedesktop.md) — Real-time weather, forecasts and historical weather data from the OpenWeatherMap API.
+- [SecretiveShell/MCP-timeserver](secretiveshell-mcp-timeserver.md) — Get the time in any timezone and the current local time.
+- [stadiamaps/stadiamaps-mcp-server-ts](stadiamaps-stadiamaps-mcp-server-ts.md) — Stadia Maps location APIs: geocode addresses and places, find time zones, and create routes and static maps.
+- [sthan-io/mcp-server](sthan-io-mcp-server.md) — US address verification, parsing, autocomplete, forward and reverse geocoding, and IP geolocation via sthan.io APIs.
+- [TheHiddenPandaDev/catastro_gps_mcp](thehiddenpandadev-catastro-gps-mcp.md) — Official cadastral parcels in 29 European countries plus the Basque and Navarre foral cadastres: look up by reference, point or postal address and get…
+- [vibecodebeast/swath-mcp](vibecodebeast-swath-mcp.md) — Radar-verified hail and wind storm detection for the continental US: NOAA MRMS swaths, per-address storm history, area alerts, reports and maps.
+- [ThinAirTelematics/thinair-geo](thinairtelematics-thinair-geo.md) — Global location and routing: geocoding, truck routing with hazmat and dimension constraints, traffic, weather, isochrones and place search.
+- [Thx93/mcp-weather-server](thx93-mcp-weather-server.md) — US National Weather Service data as two read-only tools: active alerts for a two-letter state code and the next five forecast periods for a latitude and…
+- [TimLukaHorstmann/mcp-weather](timlukahorstmann-mcp-weather.md) — Weather forecasts via the AccuWeather API.
+- [tools-mcp/vessel-traffic-mcp](tools-mcp-vessel-traffic-mcp.md) — Read-only vessel lookup: AIS-style positions, tracks, port calls, carrier and vessel schedules, and delay heuristics with source attribution.
+- [trackmage/trackmage-mcp-server](trackmage-trackmage-mcp-server.md) — Shipment tracking and logistics management via the TrackMage API.
+- [geolabel/geolabel-mcp](geolabel-geolabel-mcp.md) — Turns GPS coordinates into location context: place name, stable category and live opening hours via OpenStreetMap.
+- [xyver/daedal-map](xyver-daedal-map.md) — Geographic data packs for disasters, FX rates and global indicators, with new packs added weekly.
+- [webcoderz/MCP-Geo](webcoderz-mcp-geo.md) — Geocoding via Nominatim, ArcGIS and Bing.
+- [930m310n/geomelon-mcp](930m310n-geomelon-mcp.md) — Cities, countries, regions and languages with multilingual names, plus place autocomplete.
+- [ArtBreguez/greeks-mcp](artbreguez-greeks-mcp.md) — Live options analytics: Greeks, GEX/DEX and gamma flip, max pain, unusual flow, IV surface, expected move, term structure, a screener and GEX heatmap.

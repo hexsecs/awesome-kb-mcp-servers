@@ -1,0 +1,42 @@
+# Architecture & Design
+
+- [AETumiApp/aetumi-mcp](aetumiapp-aetumi-mcp.md) — AETumi MCP — gateway for AI coding assistants (Claude Code, Cursor, Codex) to production-ready Three.js/WebGL 3D web components, templates and interactive…
+- [aidc2026ai-melon/aidc-ai-mcp](aidc2026ai-melon-aidc-ai-mcp.md) — Deterministic AI data-center design for Korea (NVIDIA Rubin era, 22.9 kV intake): rack count, PUE, total MVA, cooling split, CDU planning, cost and timeline.
+- [ant-dev-lab/nightmarquee-mcp](ant-dev-lab-nightmarquee-mcp.md) — Art-directed website prompts as slash commands for hero sections, landing pages, SaaS, portfolios, e-commerce and 3D/WebGL scenes, each with a live demo.
+- [awdr74100/figwright](awdr74100-figwright.md) — Bidirectional Figma bridge: turn selections into framework-aware code reusing your components and tokens, or create frames, text, styles, variables and screens.
+- [bobaba99/motionlint](bobaba99-motionlint.md) — Lint web animations with deterministic checks on the live page (duration, easing, stagger, exits, reduced motion, hover) plus optional vision-LLM UX review.
+- [builditwithgk/repo-cartographer](builditwithgk-repo-cartographer.md) — Turn a repo into Mermaid or Graphviz architecture diagrams from its file tree, import graph and entry points; also enforces architecture rules in CI.
+- [BV-Venky/excalidraw-architect-mcp](bv-venky-excalidraw-architect-mcp.md) — Generate Excalidraw architecture diagrams with auto-layout, technology-aware component styling (databases, queues, caches) and stateful editing.
+- [CanvasKeep/canvaskeep-mcp](canvaskeep-canvaskeep-mcp.md) — Create and edit Excalidraw diagrams in a CanvasKeep workspace: generate diagrams from nodes and edges with auto-layout, organize them into folders, and read…
+- [cisco-open/network-sketcher](cisco-open-network-sketcher.md) — Local-first network design: create Cisco-style network master files, L1/L2/L3 topology diagrams, HTML viewers, device tables and AI context files.
+- [docsor1212/aesthete-agent](docsor1212-aesthete-agent.md) — Mechanically validated frontend aesthetics for coding agents: an evidence-ranked palette library, OKLCH harmony generation, WCAG 2.2 + APCA contrast gates…
+- [Daksh-create349/Contradiction-MCP](daksh-create349-contradiction-mcp.md) — Detect contradictions and architectural drift in Kubernetes manifests, READMEs, OpenAPI specs and Word docs, with deterministic scoring and resolution advice.
+- [DayuanJiang/next-ai-draw-io](dayuanjiang-next-ai-draw-io.md) — Draw and edit draw.io diagrams from your project's files on a live browser canvas you can also edit by hand, with version history, undo, AWS, Azure and GCP…
+- [ejwhite7/brandkit-mcp](ejwhite7-brandkit-mcp.md) — Expose a company's design system (colors, typography, logos, components, guidelines, CSS tokens) to AI tools, parsed from CSS, Markdown, PDF, SVG and fonts.
+- [erajasekar/ai-diagram-maker-mcp](erajasekar-ai-diagram-maker-mcp.md) — AI Diagram Maker: generate flowcharts, sequence diagrams, ERDs, architecture, UML and mind maps from text, code, ASCII, images or Mermaid, rendered inline.
+- [flowzap-xyz/flowzap-mcp](flowzap-xyz-flowzap-mcp.md) — Create workflow, sequence and architecture diagrams with the FlowZap Code DSL, with validation, playground links, syntax docs, export, diffing and patching.
+- [GittyBurstein/mermaid-mcp-server](gittyburstein-mermaid-mcp-server.md) — Turn local projects or GitHub repositories into Mermaid diagrams rendered via Kroki.
+- [Hackeatutiempo/mapache](hackeatutiempo-mapache.md) — Open-source mind maps and whiteboard your agent draws on live: 22 tools for mind maps, notes, shapes, tables, charts, connectors, comments and HTML/PDF…
+- [HalidSaglam/saglitzdesign-mcp](halidsaglam-saglitzdesign-mcp.md) — Offline UI/UX design and marketing guidance for web, iOS, Android and macOS, plus generators for design tokens, color systems, type scales and WCAG checks.
+- [imgly/codesign](imgly-codesign.md) — Local design engine: create, edit and export branded social posts, flyers, decks and business cards, with print-ready PDFs and InDesign, PSD and PDF import.
+- [jgsystemsconsulting/jgs-magic-sysmlv1-mcp](jgsystemsconsulting-jgs-magic-sysmlv1-mcp.md) — Bridge to live SysML v1 models in CATIA Magic: query, audit, trace and edit blocks, requirements, allocations and diagrams over a local, air-gapped connection.
+- [karyaboyraz/mockit-mcp](karyaboyraz-mockit-mcp.md) — Generate iOS UI mockups as PNG and HTML from a text prompt, using Claude and a headless Playwright renderer.
+- [KasayoDotCom/identityforge-mcp](kasayodotcom-identityforge-mcp.md) — Design kits and brand workflows: browse and apply design systems, create shareable brand projects, and research names, domains and EUIPO trademarks.
+- [Kentucky-ai/opentakeoff](kentucky-ai-opentakeoff.md) — Construction plan takeoff: load plan PDFs, read title blocks, set drawing scale, trace rooms and export quantities like square footage and linear feet.
+- [Luvi-io/luw-mcp](luvi-io-luw-mcp.md) — Official Luw.ai server: redesign rooms, building exteriors and gardens from photos, render sketches and CAD views, edit images, and create walkthrough…
+- [Narasimhaponnada/mermaid-mcp](narasimhaponnada-mermaid-mcp.md) — Mermaid diagram generation (flowcharts, sequence, class, ER, architecture and state diagrams) with templates, layout engines and SVG/PNG/PDF export.
+- [ng-galien/maket](ng-galien-maket.md) — Local-first design workspace: compose wireframes and branded multi-page HTML/CSS docs with live preview, brand and asset libraries, validation and PDF export.
+- [odd-Innocent/den_archi_mcp](odd-innocent-den-archi-mcp.md) — Korean architecture, engineering and construction knowledge: KDS, KCS and KS standards, statutes and expertise in one graph, with answers citing clauses.
+- [patrickchugh/terravision](patrickchugh-terravision.md) — Draw cloud architecture diagrams with the official AWS, Azure and GCP icons from a plain description, a JSON graph or Terraform code, with VPC, subnet and…
+- [posecode-dev/posecode](posecode-dev-posecode.md) — Text language for human movement that LLMs can write, rendered as an anatomically constrained 3D human figure in the browser.
+- [PRIDA-TAKON/debim](prida-takon-debim.md) — Declarative BIM / Building-as-Code engine: model buildings in YAML, compute deterministic QTO/cost estimations, compile to IFC4, and view interactive 3D…
+- [rdanieli/tentra-mcp](rdanieli-tentra-mcp.md) — Describe systems in natural language to get interactive architecture diagrams, export to frameworks like Spring Boot, FastAPI and Terraform, and detect drift.
+- [RedHold/diagrams-mcp-app-core](redhold-diagrams-mcp-app-core.md) — Generate and edit draw.io cloud architecture diagrams from prompts, Terraform or Kubernetes manifests, fix Well-Architected warnings and export to SVG.
+- [RNVizion/rnv-color-mcp](rnvizion-rnv-color-mcp.md) — Mix colors (including Kubelka-Munk paint physics), convert formats, generate harmonies and save named palettes, resolving hex, CSS and brand color names.
+- [Roberton003/mcp-server-decisions](roberton003-mcp-server-decisions.md) — Architectural decision tracking with testable predictions and outcome gates, stored in append-only JSONL.
+- [swebsy/MCP](swebsy-mcp.md) — Build and edit real websites from the coding agent you already pay for — no per-token AI fees. Browse the template catalogue, create and open a site…
+- [Tommkruix/archprint](tommkruix-archprint.md) — Report the architecture rules a TypeScript repo already follows, inferred from its import graph, with the evidence for each, and check whether a change…
+- [tomyangod/architecture_viewer](tomyangod-architecture-viewer.md) — Local architecture gate and CLI that diffs AI edits against git HEAD to detect new cross-layer dependencies and structural changes.
+- [uxloom-dev/uxloom](uxloom-dev-uxloom.md) — UI/UX validation: model user journeys as state machines, find missing states, contrast and touch-target issues, and verify code against the design contract.
+- [yenchieh/diagramzu-mcp](yenchieh-diagramzu-mcp.md) — Create Mermaid diagrams in a shared workspace, with version history, comments, embedding, presentation decks and diagram linting.
+- [BerkantACUN/ifc-ruhsat](berkantacun-ifc-ruhsat.md) — Checks an IFC building model against Türkiye's building-permit BIM regulation (Official Gazette 33331, in force Sept 2027): mandatory IFC 4.3 classes and…

@@ -1,0 +1,492 @@
+# Finance & Fintech
+
+- [402MCP/402mcp](402mcp-402mcp.md) — Decodes HTTP 402 Payment Required challenges (L402, x402, MPP) into exact pay-and-retry steps, recommends a payment rail from stated requirements, and…
+- [Wangxian111/xaudaily-gold-data](wangxian111-xaudaily-gold-data.md) — Source-attributed daily gold and macro readings from xaudaily.com: COMEX gold and Shanghai Au99.99, US CPI / core PCE / nonfarm payrolls / PPI, DXY…
+- [LakeSky/agentsapi-sec-filings](lakesky-agentsapi-sec-filings.md) — SEC EDGAR filings (10-K/10-Q/8-K) for AI agents. Pay-per-call in USDC on Base via x402 — no API key, no signup.
+- [forgemeshlabs/kronos-forgemesh-mcp](forgemeshlabs-kronos-forgemesh-mcp.md) — Kronos market intelligence with calibrated price ranges, forecast audits, and automatic x402 USDC payments on Base. `npx -y @forgemeshlabs/kronos-forgemesh-mcp`
+- [apipriceindex/mcp](apipriceindex-mcp.md) — Live, verified LLM API prices: search models, get sourced prices, estimate monthly workload costs.
+- [BijectiveLabs/trading-research-agents](bijectivelabs-trading-research-agents.md) — Read-only research gates from autonomous trading agents with deterministic execution: whether a claimed edge clears the full round-trip cost, whether a…
+- [BlueWaterCorp/RiskModels_API](bluewatercorp-riskmodels-api.md) — US equity and portfolio risk decomposition (market, sector, subsector and stock-specific), ETF hedge ratios and point-in-time fundamentals from the…
+- [ComplyEaze/bridge](complyeaze-bridge.md) — Reads TallyPrime for your AI assistant; posts only vouchers you approve. Windows, Apple Silicon Mac.
+- [eamwhite1/xrpl-referee](eamwhite1-xrpl-referee.md) — 40+-tool MCP server for agent-to-agent payments on the XRP Ledger — job marketplace, crypto-condition escrow, AI-verified work delivery, and trust scoring.
+- [gveshk/atlasyield-mcp](gveshk-atlasyield-mcp.md) — Read-only DeFi vault assessment (Morpho, Aave, Pendle, Yearn and more): Atlas Scores with factor breakdowns, blowup alerts and exit-route checks.
+- [Avierovich/openpitch](avierovich-openpitch.md) — Open data on AI startups: valuations, ARR and funding, with every figure sourced, dated and confidence-scored, plus flags for contradicting public sources.
+- [blazephoenixxyz-crypto/blazephoenix-mcp](blazephoenixxyz-crypto-blazephoenix-mcp.md) — On-chain DEX aggregator for Base, Ethereum, Optimism, Arbitrum and Robinhood Chain: swap quotes computed by the on-chain Quoter on your own RPC, verified…
+- [intoApex/tas-guard](intoapex-tas-guard.md) — Order limits for AI trading agents: wraps any broker or exchange MCP server with per-order and daily caps, symbol allowlists, human approval (including from…
+- [investorphem/AbaPay](investorphem-abapay.md) — Non-custodial stablecoin bill payments on Celo (airtime, data, electricity, cable, education) via x402 or a linked wallet's revocable on-chain allowance.
+- [axionquant/mcp-server](axionquant-mcp-server.md) — Unified financial data API: market prices, fundamentals, disclosures, macroeconomic and alternative data.
+- [cyberwareX/cyberwarex-mcp](cyberwarex-cyberwarex-mcp.md) — Pay-per-call x402 APIs: token safety and honeypot checks, EVM chain data, web page to Markdown, screenshot and PDF conversion, and speech-to-text.
+- [OceanAlt666/oceanalt-aml-mcp](oceanalt666-oceanalt-aml-mcp.md) — Pre-settlement AML / compliance screening for agent payments (x402): screen a payee address for sanctions, mixer taint, issuer-freeze and on-chain risk…
+- [swarm-agent-operator/swarm-x402-mcp](swarm-agent-operator-swarm-x402-mcp.md) — Pay-per-call tools over x402: GitHub repo health scans, live web research briefs and reports, utilities. USDC on Base, per-call spend cap, no API key.
+- [xsf0221/pattern-vista-cli](xsf0221-pattern-vista-cli.md) — End-of-day S&P 500 and Nasdaq 100 technicals: distance from the 200-day average, breadth above it, and nightly chart patterns with historical win rates.
+- [411sst/gst-einvoice-mcp](411sst-gst-einvoice-mcp.md) — Convert Indian GST invoices (PDF or scanned) into INV-01 e-invoice JSON, with every value checked against the document plus GSTIN and arithmetic validation.
+- [bankstatemently/plugins](bankstatemently-plugins.md) — Parse and query bank statements with Bankstatemently: turn PDF statements into structured transactions, accounts and balances, with reconciliation checks.
+- [bartosz-kuc/honest-pl-holidays-mcp](bartosz-kuc-honest-pl-holidays-mcp.md) — Polish public holidays and business-day math via the keyless Nager.Date API: `list_holidays`, `is_holiday`, `is_business_day`, `count_business_days`…
+- [Calera-Labs/finsec-mcp](calera-labs-finsec-mcp.md) — SEC EDGAR fact retrieval with cryptographic filing provenance, valuation packs and deterministic CAGR calculation.
+- [Val7h/dados-b3-mcp](val7h-dados-b3-mcp.md) — Auditable fundamentals for Brazilian B3 stocks (ROE, P/E, dividends, Piotroski, Graham, restatements) and real-estate funds (FIIs), traceable to CVM sources.
+- [celineycn/quantdata-plugin](celineycn-quantdata-plugin.md) — Market statistics for US stocks and ETFs, futures, HK and A-shares: day-type probabilities, Weis volume waves, options max pain and dealer gamma (GEX).
+- [forgemeshlabs/crypto-signals-mcp](forgemeshlabs-crypto-signals-mcp.md) — Paid crypto market signals, risk state, calibrated forecasts, whale flows, decision journals, and outcome audits via x402 USDC micropayments on Base. `npx…
+- [bartosz-kuc/honest-vies-mcp](bartosz-kuc-honest-vies-mcp.md) — Validates EU VAT numbers against the European Commission's VIES API, locally with no API key or third-party middleman. `check_vat` returns validity, name…
+- [CHANGCHINFU/mcp-gauge](changchinfu-mcp-gauge.md) — Data signals with hash provenance from USGS, NOAA, ERA5, FRED and SEC EDGAR: floods, air quality, drought, crops, power grid, shipping and SEC filings.
+- [donnywin85/dex-data-mcp](donnywin85-dex-data-mcp.md) — Live DEX data on BNB Chain, Polygon, Arbitrum, Base and Avalanche: token prices, liquidity depth, pool reserves, optimal venue and pre-trade price impact.
+- [traql/mcp-server](traql-mcp-server.md) — AML and sanctions screening for crypto addresses and transactions on Ethereum, BNB Chain, TRON, TON and Bitcoin, with itemized 0-100 risk scores.
+- [zapxlabs/veyra-mcp](zapxlabs-veyra-mcp.md) — Give AI agents a wallet with a spending limit. Non-custodial USDC payments on Base with per-payment caps, daily caps, human approval bands and a recipient…
+- [Zenidp/solinkify-mcp](zenidp-solinkify-mcp.md) — Agentic payments on Solana: discover x402-priced endpoints, pay HTTP 402 paywalls in USDC, manage balances and subscriptions, with spending caps and escrow.
+- [pich/ai-economics-mcp](pich-ai-economics-mcp.md) — AI economics calculators: token cost across vendors, context-window sizing, agent-hour cost, LLM energy and CO2, and verification metrics, with formulas.
+- [atomno-mcp/mcp-fns-calc](atomno-mcp-mcp-fns-calc.md) — Russian FNS tax and accounting calculators plus public fiscal status checks: self-employed, sole proprietor/OKVED, disqualification and blocked accounts.
+- [Zydanny/x402-intel-engine](zydanny-x402-intel-engine.md) — Real-time DEX token momentum, order book depth and whale flows, paid per call with gasless x402 micropayments on Base.
+- [Luminc/peil-mcp](luminc-peil-mcp.md) — Peil for Dutch freelancers (ZZP'ers): log hours, draft invoices from unbilled time, and track outstanding and overdue invoices and effective hourly rate.
+- [toomasgutman-blip/facturolia-mcp](toomasgutman-blip-facturolia-mcp.md) — Read and validate European e-invoices (Factur-X, ZUGFeRD, XRechnung, UBL, CII) against EN 16931 and flag Factur-X PDF vs embedded XML mismatches.
+- [SimonTarara62/capitalcom-mcp-server](simontarara62-capitalcom-mcp-server.md) — Unofficial Capital.com Open API integration: market data and guarded trading with preview-and-confirm trades, allowlists and demo-first defaults.
+- [SmartyJohnway/tw-market-live-data-intelligence](smartyjohnway-tw-market-live-data-intelligence.md) — Local-first Taiwan market evidence with persistent watchlists and auditable, execute-once retrieval.
+- [forum-labs/payfetch](forum-labs-payfetch.md) — Non-custodial paying fetch for x402 APIs (USDC on Base) with operator-set spend caps, approval thresholds, allow/deny lists and a receipt for every attempt.
+- [assoujojo82-coder/synergieloc-mcp](assoujojo82-coder-synergieloc-mcp.md) — Describe a building in JSON, get back a dimensioned DXF, an IFC model and a 4K walkthrough — plus a deterministic verifier that checks 34 trade principles…
+- [brianbooms/steward-mcp](brianbooms-steward-mcp.md) — Buy music, data APIs, and sync licenses via x402 micropayments (USDC on Base): 24 tools with operator-set spend caps, pre-purchase quotes, and an on-chain…
+- [polsolbridge/solana-swap-api](polsolbridge-solana-swap-api.md) — Non-custodial swaps via Jupiter (Solana) and KyberSwap (EVM), cross-chain routing, Solana priority fees and Hyperliquid perps, as unsigned transactions.
+- [mohsinmshabbir/datasaudi-mcp](mohsinmshabbir-datasaudi-mcp.md) — Query Saudi economic and social statistics (GDP, inflation, trade, population, real-estate price index) from GASTAT and DataSaudi, in English or Arabic.
+- [wkalidev/multichain-mcp](wkalidev-multichain-mcp.md) — Read balances and prices, view portfolios, prepare transfers and deploy tokens across Stacks, Celo and Base.
+- [Nodeflare-app/nodeflare-mcp](nodeflare-app-nodeflare-mcp.md) — JSON-RPC for EVM chains (Ethereum, Base, Arbitrum, Robinhood Chain, Plasma, Ink and more) from bare-metal nodes, including trace and debug methods.
+- [InnarM/blank-invoice-maker-mcp](innarm-blank-invoice-maker-mcp.md) — Create invoices via a deep link that opens Blank Invoice Maker pre-filled, then review and download the PDF; invoice data stays in the browser.
+- [qinisolabs/bizdays](qinisolabs-bizdays.md) — Business-day and public-holiday calculations for 200+ countries: add or count working days, find the next business day and apply country weekend rules.
+- [george-kozlitin/borme-mcp](george-kozlitin-borme-mcp.md) — Spain's company registry (BORME): typed company events since 2009, including incorporations, director changes, insolvencies and capital changes.
+- [0rkz/byte-mcp-server](0rkz-byte-mcp-server.md) — Per-byte data marketplace on Arbitrum (PayPerByte): discover publishers, check on-chain quality scores, subscribe and pay per request in USDC via x402.
+- [Savvly/savvly-mcp](savvly-savvly-mcp.md) — Savvly Longevity Benefit Fund: retirement projections (lump-sum, monthly, full trajectory), product comparisons, eligibility checks and FAQ search.
+- [ShieldZCash/shieldz-mcp](shieldzcash-shieldz-mcp.md) — Non-custodial crypto payments: create payment links and tip jars from a wallet address, with funds settling directly to the merchant's wallet.
+- [eliasfire617/crypto-market-data-mcp](eliasfire617-crypto-market-data-mcp.md) — Crypto market data from Bybit, Binance, OKX, Hyperliquid, Gate and KuCoin: prices, funding rates, open interest, order books, candles and funding arbitrage.
+- [seancrecord/scvd-general-store-repo](seancrecord-scvd-general-store-repo.md) — General store for AI agents: signed certificates, human labor and digital goods paid in USDC via x402 on Base.
+- [Scottcjn/rustchain-mcp](scottcjn-rustchain-mcp.md) — RustChain blockchain, BoTTube video platform and Beacon agent messaging: wallet management, mining queries, bounties, video search and upload, and messaging.
+- [ocbenji/bitcoinbenji-mcp](ocbenji-bitcoinbenji-mcp.md) — Lightning-paid (L402) Bitcoin mempool data (fees, whale alerts, fee prediction, tx status) plus self-hosted AI inference for text, code, vision and OCR.
+- [Kali123411/k402-mcp](kali123411-k402-mcp.md) — Pay-per-call APIs settled on Kaspa L1: text tools, web reading, embeddings and semantic search, Kaspa chain data, LLM inference and RISC Zero zk proving.
+- [teodorofodocrispin-cmyk/intelica-mcp](teodorofodocrispin-cmyk-intelica-mcp.md) — Competitive intelligence: analyze a URL or company description and get structured market positioning, competitors, pain points and a market score.
+- [Logitale/toreador-mcp-server](logitale-toreador-mcp-server.md) — Generate non-custodial crypto payment QR codes (BTC, ETH, SOL, USDC, USDT, EURC) and manage payment sessions.
+- [infaton/MCP35](infaton-mcp35.md) — 1C:Enterprise ERP integration: metadata inspection, document CRUD, register queries and BSP integration.
+- [mrslbt/xendit-mcp](mrslbt-xendit-mcp.md) — Xendit payment gateway for Southeast Asia: invoices, disbursements, balance checks and bank transfers.
+- [arbitova/mcp-server](arbitova-mcp-server.md) — Non-custodial on-chain escrow with AI dispute arbitration for agent-to-agent USDC payments on Base.
+- [czagents/cnb](czagents-cnb.md) — Czech National Bank (ČNB) daily exchange rates: current and historical CZK rates and currency conversion.
+- [Sofiia7/ARC](sofiia7-arc.md) — Browse, take and submit USDC bounties on ArcBounty (Arc Network, ERC-8183 escrow and ERC-8004 reputation), with a credential-free read-only mode.
+- [frihet/mcp-server](frihet-mcp-server.md) — Frihet business management: invoices, expenses, clients, products and quotes.
+- [iiatlas/hledger-mcp](iiatlas-hledger-mcp.md) — Read and optionally write local hledger journals for double-entry plain text accounting.
+- [Fabio662/yieldagentx402-sdks](fabio662-yieldagentx402-sdks.md) — Non-custodial, policy-gated execution layer for AI agents on EVM chains, Bitcoin, Solana, NEAR and more, with MPC signing, TEE attestation and x402 settlement.
+- [openpulsechain/mcp-server](openpulsechain-mcp-server.md) — PulseChain on-chain analytics: token safety scores, honeypot detection, whale and smart money tracking, scam alerts, DEX volume and bridge stats.
+- [sukrutkrdg/x402-bazaar-mcp](sukrutkrdg-x402-bazaar-mcp.md) — Base token-safety tools paid via x402: B20 freeze/seize/rug checks, pre-trade gates, honeypot detection, wallet and approval audits, prices and AI reports.
+- [0xDegenMo/lighter-mcp](0xdegenmo-lighter-mcp.md) — Trade crypto and RWA perpetuals on the Lighter zk-rollup DEX, with tiered credentials, on-chain stop-loss and take-profit, and server-side safety caps.
+- [aaronjmars/web3-research-mcp](aaronjmars-web3-research-mcp.md) — Deep research for crypto, running fully locally.
+- [AEGISGOVDAO/aegisgov-sec-mcp](aegisgovdao-aegisgov-sec-mcp.md) — SEC EDGAR data: search public companies, retrieve 10-K, 10-Q and 8-K filings, and access XBRL financial data.
+- [ahmetsbilgin/finbrain-mcp](ahmetsbilgin-finbrain-mcp.md) — Alternative financial data from FinBrain.
+- [ahnlabio/bicscan-mcp](ahnlabio-bicscan-mcp.md) — BICScan risk scores and asset holdings for EVM addresses (EOA, CA, ENS) and domain names.
+- [akalongman/nbg-rates-mcp](akalongman-nbg-rates-mcp.md) — Independent server, not affiliated with NBG, for the National Bank of Georgia's official lari exchange rates: the rate on any date, exact conversions…
+- [AletaIndex/aletaindex-fin-narratives](aletaindex-aletaindex-fin-narratives.md) — Track how financial news narratives evolve across tickers: news clustering, sentiment momentum and narrative risk mapping across portfolios.
+- [AlexanderLawson17/revettr-python](alexanderlawson17-revettr-python.md) — Counterparty risk scoring for agentic commerce: scores wallets, domains, IPs and companies, paid via x402 micropayments.
+- [KK6BZB/signallord-mcp-server](kk6bzb-signallord-mcp-server.md) — Bitcoin market regime detection: outcome probabilities, historical pattern matching, composite gauges and real-time macro, institutional and on-chain data.
+- [unixlamadev-spec/aiprox-mcp](unixlamadev-spec-aiprox-mcp.md) — Open agent registry to discover and hire AI agents by capability, with Lightning, Solana USDC and x402 payments and a workflow engine for chaining agents.
+- [alchemy/alchemy-mcp-server](alchemy-alchemy-mcp-server.md) — Interact with Alchemy's blockchain APIs.
+- [alforge-labs/alpha-forge-mcp](alforge-labs-alpha-forge-mcp.md) — Backtest, optimize (Optuna TPE) and walk-forward-test trading strategies locally with the AlphaForge quant CLI.
+- [AlvisoOculus/optionsahoy-mcp](alvisooculus-optionsahoy-mcp.md) — US equity-compensation planning: ISO/AMT exercise schedules, NSO sell-vs-hold, RSU vesting, concentration sell-downs, collars and QSBS checks.
+- [anjor/coinmarket-mcp-server](anjor-coinmarket-mcp-server.md) — Fetch cryptocurrency listings and quotes via the Coinmarket API.
+- [araa47/jupiter-mcp](araa47-jupiter-mcp.md) — Jupiter API access: trade Solana tokens, check balances, search tokens and create limit orders.
+- [jorkal-crypto/jorkal-nft-mcp](jorkal-crypto-jorkal-nft-mcp.md) — Solana NFT market data from Magic Eden: floor prices, cheapest listings, collection stats and wallet holdings, paid per call via x402.
+- [arcadia-finance/mcp-server](arcadia-finance-mcp-server.md) — Manage Uniswap and Aerodrome liquidity positions with leverage, automated rebalancing, and yield optimization on Base, Unichain, and Optimism.
+- [ariadng/metatrader-mcp-server](ariadng-metatrader-mcp-server.md) — Execute trades on the MetaTrader 5 platform.
+- [aranjan/kite-mcp](aranjan-kite-mcp.md) — Trade Indian stocks on Zerodha Kite: holdings, orders, quotes and GTT triggers, with automated TOTP login.
+- [armorwallet/armor-crypto-mcp](armorwallet-armor-crypto-mcp.md) — Interface with multiple blockchains: staking, DeFi, swaps, bridging, wallet management, DCA, limit orders, coin lookup and tracking.
+- [atilaahmettaner/tradingview-mcp](atilaahmettaner-tradingview-mcp.md) — Screeners, multi-timeframe technical analysis, smart-money and volume scans, and walk-forward backtests for crypto, stocks, FX and futures.
+- [atomno-mcp/mcp-cbr-rates](atomno-mcp-mcp-cbr-rates.md) — Central Bank of Russia data: daily and historical exchange rates, key interest rate, inflation and aggregated macro statistics.
+- [atomno-mcp/mcp-egrul](atomno-mcp-mcp-egrul.md) — Russian state registries EGRUL (legal entities) and EGRIP (individual entrepreneurs) from Federal Tax Service open data, self-hosted on local SQLite.
+- [atomno-mcp/mcp-fns-check](atomno-mcp-mcp-fns-check.md) — Russian counterparty due diligence: INN/OGRN lookup across EGRUL/EGRIP, bankruptcy, tax debt, enforcement and arbitration records, with a risk verdict.
+- [penmadebykisss/ru-business-mcp](penmadebykisss-ru-business-mcp.md) — Russian business data with no API key: company check by INN/OGRN in FNS EGRUL/EGRIP, Bank of Russia exchange rates and key rate, late-payment interest…
+- [jackrain19743/hou-tea-mcp-server](jackrain19743-hou-tea-mcp-server.md) — Browse, get recommendations for and buy Chinese tea from the Hou Tea shop with USDC via x402, delegating payment to wallet MCP servers.
+- [autonsol/sol-mcp](autonsol-sol-mcp.md) — Solana token risk scoring by mint address, pump.fun graduation momentum signals and trust attestation queries.
+- [vatnode/vatnode-mcp](vatnode-vatnode-mcp.md) — EU VAT number validation via the European Commission's VIES service, plus offline VAT rates and format checks for European countries.
+- [duty27/eu-vat](duty27-eu-vat.md) — EU standard VAT rates on any date since 2016, for all 27 member states, including temporary cuts such as Germany's 16% in late 2020. Runs offline with no…
+- [vdalhambra/axiom-calculator-mcp](vdalhambra-axiom-calculator-mcp.md) — Personal finance calculators: mortgage payments, compound interest, FIRE retirement number, loan comparison, true borrowing cost and debt payoff.
+- [azeth-protocol/mcp-server](azeth-protocol-mcp-server.md) — Non-custodial ERC-4337 smart accounts, x402 payments, ERC-8004 on-chain reputation and service discovery for AI agents.
+- [Claynsn/agent-discovery-mcp](claynsn-agent-discovery-mcp.md) — ERC-8004 agent discovery and x402 payment: find agents by skill via 8004scan, fetch agent cards and call agents with USDC payments using direct EOA signing.
+- [BackpowCom/backpow-mcp-server](backpowcom-backpow-mcp-server.md) — Live Proof-of-Work mining data from BackPow: difficulty, hashrate, solo-mining odds, cost of production and hardware profitability across 126+ networks and…
+- [bakyang2/kr-crypto-intelligence](bakyang2-kr-crypto-intelligence.md) — Korean crypto market data and AI analysis: Kimchi Premium, stablecoin premium, Upbit and Bithumb prices and the USD/KRW rate, paid per use via x402.
+- [whdrnr2583-cmd/koreanpulse](whdrnr2583-cmd-koreanpulse.md) — Korean equity data in English: real-time DART filings, foreign-holder 5%-rule flows, activist filings and KRX industry news. Self-hostable.
+- [cuthongthai-vn/vimo-mcp-server](cuthongthai-vn-vimo-mcp-server.md) — Vietnam stock market data: real-time SSI quotes, technical analysis, financial statements, stock screener, AI picks, foreign flows and macro indicators.
+- [bankless/onchain-mcp](bankless-onchain-mcp.md) — Interact with smart contracts and query transaction and token information via the Bankless Onchain API.
+- [barkermoney/barker-mcp](barkermoney-barker-mcp.md) — Barker's real-time stablecoin yield index across DeFi and CEX earn, with a yield advisor, risk signals and deposit/redeem quotes. Remote MCP, x402 pay-per-call.
+- [beepboop2025/financial-evidence-skills](beepboop2025-financial-evidence-skills.md) — Three read-only tools route and retrieve public funding, bank and market-liquidity evidence from Seiche, LiquiLens, Undertow and Palimpsest. Source dates…
+- [belegante-byte/aetherx-mcp](belegante-byte-aetherx-mcp.md) — Predictive congestion signals for global ports: congestion score, ETA delay, waiting vessels and a freight volatility index.
+- [bguillow-rgb/itin-finance-mcp](bguillow-rgb-itin-finance-mcp.md) — Read-only directory of US lenders and card issuers accepting ITIN (no-SSN) applicants, plus English/Spanish guides and FAQs on credit without an SSN.
+- [bolivian-peru/baozi-mcp](bolivian-peru-baozi-mcp.md) — Solana prediction markets on Baozi.bet: browse markets, place bets, claim winnings and create markets.
+- [BSVKey/inference-mcp](bsvkey-inference-mcp.md) — Pay-per-token Claude & Grok inference settled in BSV micropayments (HTTP 402 / x402). Prepay a channel once, then meter every token; OpenAI-compatible…
+- [cloudQuant/backtrader-mcp](cloudquant-backtrader-mcp.md) — Build and run reproducible Backtrader backtests from local CSV data, with human-gated runs, logs and JSON/Markdown reports. Offline and backtest-only.
+- [clicks-protocol/mcp-server](clicks-protocol-mcp-server.md) — Non-custodial USDC yield for AI agents on Base: split payments between liquid and yield balances, withdraw anytime, simulate splits and check APY.
+- [up2itnow0822/clawpay-mcp](up2itnow0822-clawpay-mcp.md) — Non-custodial x402 payments for AI agents on Base: agents sign transactions from their own wallet with on-chain spend limits.
+- [berlinbra/alpha-vantage-mcp](berlinbra-alpha-vantage-mcp.md) — Fetch stock and crypto data from the Alpha Vantage API.
+- [bitcompare/mcp-server](bitcompare-mcp-server.md) — Crypto lending, staking and borrowing rates, coin metadata, aggregated prices, market stats, stablecoin peg stability and symbol resolution from Bitcompare.
+- [bitteprotocol/mcp](bitteprotocol-mcp.md) — Run AI agents on several blockchains via Bitte Protocol.
+- [jf-cmyk/blocksize-agentic-payments-mcp](jf-cmyk-blocksize-agentic-payments-mcp.md) — Read-only Blocksize market-data discovery: search instruments, read docs and build x402 URLs for paid live data settled in USDC on Solana and Base.
+- [signaltech-org/bolthub-sdk](signaltech-org-bolthub-sdk.md) — Discover and pay per call for tools on the bolthub API marketplace over Bitcoin Lightning (L402), with budgets, scoped delegation and verifiable receipts.
+- [Cyberweasel777/botindex-mcp-server](cyberweasel777-botindex-mcp-server.md) — BotIndex AI signal intelligence API and Agorion agent service discovery network, with x402 payments for premium endpoints.
+- [Bortlesboat/bitcoin-mcp](bortlesboat-bitcoin-mcp.md) — Self-hosted Bitcoin Core tools: fee estimates, mempool analysis, mining pool rankings, market sentiment, block and transaction inspection and BTC price.
+- [botwallet-co/mcp](botwallet-co-mcp.md) — Wallet for AI agents: earn via invoices, pay other agents and APIs, and manage USDC on Solana with human-set spending limits and FROST 2-of-2 signing.
+- [bubilife1202/crossfin](bubilife1202-crossfin.md) — Korean and global crypto exchange routing and arbitrage signals, with x402 USDC micropayments.
+- [bugiiiii11/rein](bugiiiii11-rein.md) — Spend limits for AI agents that pay with x402: every paywall is policy-checked (per-call caps, budgets, human approval, kill switch) before a cent moves…
+- [ferinator/bullrun-mcp](ferinator-bullrun-mcp.md) — Stock screening, company financials and personal portfolio analysis.
+- [c-viper-work/cabal-radar-mcp](c-viper-work-cabal-radar-mcp.md) — Zero-dependency Solana and Base token risk intelligence MCP server and CLI for inspecting SPL/Token-2022 controls, early Block-0 bundler coordination…
+- [cahthuranag/mcp-server](cahthuranag-mcp-server.md) — AllRatesToday currency exchange rates: real-time mid-market rates from interbank data, historical rates, currency list and multi-currency lookups.
+- [AllRates-Today/central-bank-mcp](allrates-today-central-bank-mcp.md) — Central bank and tax authority exchange rates (ECB, Fed, Bank of England, RBI, HMRC, US Treasury): latest and historical tables, comparisons and calendars.
+- [cammac-creator/ibanforge-mcp](cammac-creator-ibanforge-mcp.md) — Pre-payout counterparty screening: IBAN validation, OFAC/EU/UN sanctions screening, Swiss BC-Nummer clearing, SEPA/VoP reachability and a risk score.
+- [carsol/monarch-mcp-server](carsol-monarch-mcp-server.md) — Read-only access to Monarch Money data: analyze transactions, budgets, accounts and cash flow, with MFA support.
+- [calintzy/evmscope](calintzy-evmscope.md) — Token prices, gas comparison, swap quotes, yield rates, honeypot detection and transaction simulation on Ethereum, Polygon, Arbitrum, Base and Optimism.
+- [chopmob-cloud/AlgoVoi-Platform-Adapters](chopmob-cloud-algovoi-platform-adapters.md) — AlgoVoi crypto payment gateway: create checkout links, verify on-chain payments and generate MPP/x402/AP2 challenges on Algorand, VOI, Hedera and Stellar.
+- [chrisbusbin-pixel/propfirmdealfinder-mcp-server](chrisbusbin-pixel-propfirmdealfinder-mcp-server.md) — Prop trading firm discounts, reviews and deals: query discount codes, compare firms by country and check featured deals.
+- [cliwant/mcp-sam-gov](cliwant-mcp-sam-gov.md) — US government contracting, spending and regulation data: SAM.gov, USAspending, Grants.gov, Federal Register, eCFR, OFAC sanctions and state/local bid portals.
+- [grahammccain/chart-library-mcp](grahammccain-chart-library-mcp.md) — Find similar historical stock chart patterns by ticker and date or screenshot, with forward returns, regime analysis and trade simulation.
+- [CryptoRugMunch/rug-munch-mcp](cryptorugmunch-rug-munch-mcp.md) — Crypto token risk intelligence: rug pull detection, honeypot scoring, deployer tracking, holder analysis, KOL shill detection, social OSINT and LLM forensics.
+- [4dmrkey/cryptopolitan-mcp](4dmrkey-cryptopolitan-mcp.md) — Cryptopolitan cryptocurrency news, analysis and price predictions: search articles by category or ticker, with built-in attribution.
+- [cct15/war-dashboard-data](cct15-war-dashboard-data.md) — Daily geopolitical risk probabilities (escalation, ceasefire, regime change) for conflicts like Russia-Ukraine and China-Taiwan, plus chokepoint vessel data.
+- [codex-data/codex-mcp](codex-data-codex-mcp.md) — Real-time enriched blockchain and market data across many networks via the Codex API.
+- [CoinRithm/coinrithm-agent-trading](coinrithm-coinrithm-agent-trading.md) — Paper-trade crypto spot, futures and prediction markets on CoinRithm with simulated funds and a public Agent Arena.
+- [coinpaprika/coinpaprika-mcp](coinpaprika-coinpaprika-mcp.md) — CoinPaprika API access: real-time prices, tickers, OHLCV, market cap and coin metadata for cryptocurrencies and exchanges.
+- [coinpaprika/dexpaprika-mcp](coinpaprika-dexpaprika-mcp.md) — DexPaprika API access: real-time DEX token prices, liquidity pool data and historical OHLCV across many chains.
+- [conviction-fm/conviction-mcp](conviction-fm-conviction-mcp.md) — Arena where AI agents compete in daily parimutuel pools: describe a strategy in plain English and get a funded agent that runs autonomously.
+- [Cubiczan/chp-mcp](cubiczan-chp-mcp.md) — CHP Profile B spend, human-in-the-loop and tool-approval receipts.
+- [dan1d/cobroya](dan1d-cobroya.md) — Mercado Pago payments for LATAM merchants: create payment links, search payments and issue refunds.
+- [datavidence/datavidence-financials-mcp](datavidence-datavidence-financials-mcp.md) — Normalized US-GAAP statements for every SEC XBRL filer: point-in-time (as-originally-reported) figures, restatement history and EDGAR source links.
+- [debitura/Debitura.MCP](debitura-debitura-mcp.md) — Cross-border debt collection with Debitura: submit cases to local partners, check case status, read partner messages and get quotes.
+- [debridge-finance/debridge-mcp](debridge-finance-debridge-mcp.md) — Cross-chain swaps and bridging across EVM chains and Solana via deBridge: find routes, evaluate fees and initiate non-custodial trades.
+- [decidefyi/decide](decidefyi-decide.md) — Deterministic refund eligibility checks for subscriptions (Adobe, Spotify, etc.), returning ALLOWED, DENIED or UNKNOWN from a stateless rules engine.
+- [debtstack-ai/debtstack-python](debtstack-ai-debtstack-python.md) — Corporate debt structure data: search issuers and bonds with leverage ratios, seniority, covenants, guarantor chains and FINRA TRACE prices.
+- [decksaga/market-pulse-mcp](decksaga-market-pulse-mcp.md) — Live market data from CoinGecko, Yahoo Finance and ExchangeRate API: crypto and stock prices, major indices, forex, trending coins and the Fear & Greed Index.
+- [Declan142/calcnook-mcp-server](declan142-calcnook-mcp-server.md) — Personal finance calculators for seven countries plus Islamic finance: income tax, loans, retirement, VAT, Zakat, Murabaha, Ijarah and halal stock screening.
+- [deficlow/zipp-mcp](deficlow-zipp-mcp.md) — Multi-language crypto news summaries with sentiment labels and importance scores, crediting the original publisher.
+- [demwick/polymarket-agent-mcp](demwick-polymarket-agent-mcp.md) — Polymarket trading tools: direct and copy trading, smart money detection, backtesting, arbitrage scanning, portfolio optimization and live price streaming.
+- [DevDizzle/gammarips-mcp](devdizzle-gammarips-mcp.md) — Options-flow data: a curated overnight pool selected on liquidity, per-contract liquidity checks, realized outcome history and exit-rule replay.
+- [dizpers/polystrike-examples](dizpers-polystrike-examples.md) — Live Elon Musk and Ted Cruz tweet feeds and counters for Polymarket tweet-count markets, comparing real, XTracker oracle and UI counts.
+- [OSOJDJD/deeplook](osojdjd-deeplook.md) — Company research across multiple data sources: structured reports with a bull/bear verdict for stocks, crypto and private companies.
+- [dan1d/dolar-mcp](dan1d-dolar-mcp.md) — Argentine exchange rates via DolarAPI (blue, oficial, MEP, CCL, crypto, tarjeta), plus currency conversion and a spread calculator.
+- [dinggi5/kura](dinggi5-kura.md) — Local Ethereum wallet for AI agents on macOS: read balances and history, request human-approved payments and pay for x402 resources with USDC on Base.
+- [disin7c9/asset-management](disin7c9-asset-management.md) — Read-only, offline analysis of your stock and ETF transaction log: drawdown-focused risk with bootstrap confidence intervals and walk-forward verdicts.
+- [dkaleganov/mercury-multiorg-mcp](dkaleganov-mercury-multiorg-mcp.md) — Unofficial, read-only Mercury banking across multiple organizations: balances, transactions, statements, cards, invoices, treasury and 1099 pre-filing checks.
+- [doggybee/mcp-server-ccxt](doggybee-mcp-server-ccxt.md) — Real-time crypto market data and trading across many exchanges via CCXT: spot, futures, OHLCV, balances and orders.
+- [dodopayments/dodo-agent-plugin](dodopayments-dodo-agent-plugin.md) — Dodo Payments: manage payments, subscriptions, customers, products, refunds, license keys and usage-based billing, plus semantic search over the docs.
+- [donnywin85/arb-dex-mcp](donnywin85-arb-dex-mcp.md) — Live cross-DEX pool prices, liquidity and spreads from on-chain state on BSC, Polygon, Arbitrum, Base, Avalanche and Optimism, plus a measurement archive.
+- [douglasborthwick-crypto/mcp-server-insumer](douglasborthwick-crypto-mcp-server-insumer.md) — On-chain attestation across many blockchains: ECDSA-signed verification, wallet trust profiles, compliance templates, merchant onboarding and ACP/UCP support.
+- [dqj1998/japan-company-info-mcp-bridge](dqj1998-japan-company-info-mcp-bridge.md) — Offline Japanese company due diligence: EDINET XBRL financials, NTA corporate numbers, major shareholders, gBizINFO certifications and industry benchmarks.
+- [edge-claw/mood-booster-agent](edge-claw-mood-booster-agent.md) — ERC-8004 registered agent that delivers uplifting messages, with on-chain USDC tipping, reputation feedback and discovery across multiple chains.
+- [edycutjong/BagOS](edycutjong-bagos.md) — Bags on Solana: token analytics, creator-fee data and trade quotes, plus gated swaps and fee claims. A write's first call signs nothing: it returns a…
+- [EmblemCompany/Agent-skills](emblemcompany-agent-skills.md) — Crypto tools for Solana, Ethereum, Base, BSC, Polygon, Hedera and Bitcoin: swaps, DeFi yield, conditional orders, NFTs, cross-chain bridges and market data.
+- [equivault/equivault-mcp](equivault-equivault-mcp.md) — EquiVault equity research: fundamentals, financial statements, ratios, quotes, screening, peer comparison, insider transactions and portfolio analytics.
+- [AiAgentKarl/solana-mcp-server](aiagentkarl-solana-mcp-server.md) — Solana blockchain data: wallet balances, token prices, Raydium and Orca DeFi yields, and token safety checks (RugCheck, holder concentration, insiders).
+- [ExpertVagabond/solana-mcp-server](expertvagabond-solana-mcp-server.md) — Solana wallet management, SOL and SPL token transfers, SPL token creation and minting, account operations and mainnet/devnet/testnet switching.
+- [haiiibin/acb-tax-mcp](haiiibin-acb-tax-mcp.md) — Canadian adjusted cost base (ACB) and capital gains from trade history: average-cost tracking, per-disposition realized gains and superficial-loss detection.
+- [penmadebykisss/ru-payroll-mcp](penmadebykisss-ru-payroll-mcp.md) — Russian payroll calculator (2025-2026 rules): net/gross salary with progressive 13-22% income tax, employer contributions incl. SME/IT tariffs, vacation…
+- [Haiku-Trading/haiku-mcp-server](haiku-trading-haiku-mcp-server.md) — DeFi execution across many chains: swap, provide liquidity, lend, bridge and run yield strategies, plus token discovery, portfolio analysis and quotes.
+- [Hashlock-Tech/hashlock-mcp](hashlock-tech-hashlock-mcp.md) — Cross-chain OTC trading of ETH, BTC and SUI via sealed-bid RFQ and HTLC atomic settlement, without bridges or custodians.
+- [hifriendbot/agentwallet-mcp](hifriendbot-agentwallet-mcp.md) — Permissionless wallets for AI agents on EVM chains and Solana: wallet creation, transaction signing, token transfers and x402 payments in USDC.
+- [Hiroshi-Ichiyanagi/obolpay-x402-mcp](hiroshi-ichiyanagi-obolpay-x402-mcp.md) — MCP server for the live Obolpay x402 gateway on Base: AI agents pay per call in USDC with the standard x402 `exact` scheme (maintenance mode).
+- [hernaninverso/eleata-einvoice-mcp](hernaninverso-eleata-einvoice-mcp.md) — Validate EU electronic invoices (Peppol BIS, XRechnung, Factur-X/ZUGFeRD, UBL, CII) and explain rejection codes.
+- [etbars/vibetrader-mcp](etbars-vibetrader-mcp.md) — Trading bot platform: create automated trading strategies in natural language via the Alpaca brokerage.
+- [everstake/mcp](everstake-mcp.md) — Everstake non-custodial staking data across many networks: live APY, uptime metrics, rewards calculator, integrations, security and compliance info.
+- [FalsifyLab/falsifylab-alpha-mcp](falsifylab-falsifylab-alpha-mcp.md) — FalsifyLab market research data: DeFi yields, Hyperliquid vaults, SEC Form 4 insider buys, 8-K filings, crypto ETF flows and Polymarket whale positions.
+- [fdcommercial/property-finance-mcp](fdcommercial-property-finance-mcp.md) — UK property finance calculators: bridging loan costs, development appraisal, buy-to-let stress tests and stamp duty (SDLT, LBTT, LTT).
+- [ferdousbhai/investor-agent](ferdousbhai-investor-agent.md) — Fetch stock market data, including options recommendations, from Yahoo Finance.
+- [sh-patterson/fec-mcp-server](sh-patterson-fec-mcp-server.md) — Query FEC campaign finance data via the OpenFEC API: search candidates, track donations, analyze spending and monitor Super PAC activity.
+- [stillmarcus24/stillos-notary-mcp](stillmarcus24-stillos-notary-mcp.md) — Signed, x402-paid verification tools: claim notarization, graded verdicts with bonded disputes, OFAC SDN screening and Altman Z-score distress scoring.
+- [ferdousbhai/tasty-agent](ferdousbhai-tasty-agent.md) — Trade on Tastytrade via the Tastyworks API.
+- [ferdousbhai/wsb-analyst-mcp](ferdousbhai-wsb-analyst-mcp.md) — Analyze content from Reddit's WallStreetBets community.
+- [callbk/finlight-mcp](callbk-finlight-mcp.md) — Real-time financial news: search by ticker, source, and language, with sentiment scores and tagged company entities.
+- [finlynq/finlynq](finlynq-finlynq.md) — Self-hostable personal finance app: track and query income, expenses, budgets, investments, loans, subscriptions and goals, with per-user encryption at rest.
+- [finmap-org/mcp-server](finmap-org-mcp-server.md) — Historical US, UK, Russian and Turkish stock exchange data from finmap: sectors, tickers, company profiles, market cap, volume and treemap visualizations.
+- [Finology-tech/finology-mcp](finology-tech-finology-mcp.md) — Federal student loan math on 2026 rules from Finology Software's parity-verified engine: compare repayment plans, estimate RAP payments, and compare filing…
+- [flox-foundation/flox-mcp](flox-foundation-flox-mcp.md) — FLOX trading systems framework: run backtests, scaffold strategies, check for lookahead bias, place orders and query PnL.
+- [foretak/registry-mcp](foretak-registry-mcp.md) — Company data from UK Companies House and Norway's Brønnøysund registers: lookup, name search, filing deadlines and Norwegian VAT registration checks.
+- [Fund-z/fundzwatch-mcp](fund-z-fundzwatch-mcp.md) — Real-time business events: funding rounds, acquisitions, executive hires, AI-scored leads and market intelligence.
+- [gabrielmahia/mpesa-mcp](gabrielmahia-mpesa-mcp.md) — M-PESA via the Safaricom Daraja API: STK push, B2C payments, balance queries, transaction status, SIM swap detection and Bill Manager.
+- [gblinproject/GBLIN-MCP](gblinproject-gblin-mcp.md) — Treasury for AI agents on Base: park idle USDC in a cbBTC/WETH index with Crash Shield protection and swap to USDC just in time for x402 payments.
+- [getAlby/mcp](getalby-mcp.md) — Connect any Bitcoin Lightning wallet to send and receive instant payments.
+- [GeiserX/cashpilot-mcp](geiserx-cashpilot-mcp.md) — Monitor CashPilot bandwidth-sharing dashboards: passive income, DePIN earnings and container status across sharing services.
+- [giskard09/argentum-core](giskard09-argentum-core.md) — Karma for AI agents and humans: submit good actions, get community attestations and earn on-chain reputation on Arbitrum, with Kleros dispute resolution.
+- [glaksmono/finbud-data-mcp](glaksmono-finbud-data-mcp.md) — Real-time financial data for stocks, options, crypto and forex.
+- [cryptobriefing/gloria-mcp](cryptobriefing-gloria-mcp.md) — AI-curated crypto news: real-time headlines with sentiment analysis, AI-generated recaps, keyword search and ticker summaries.
+- [gpartin/CryptoGuardClient](gpartin-cryptoguardclient.md) — Deterministic per-transaction crypto trade validation (PROCEED/CAUTION/BLOCK), token scanning and rug pull detection for trading agents.
+- [gosodax/builders-sodax-mcp-server](gosodax-builders-sodax-mcp-server.md) — SODAX cross-chain DeFi data and SDK docs: query swaps, lending, solver volume and intent history.
+- [goodmeta/intelligence-mcp](goodmeta-intelligence-mcp.md) — Agent payments ecosystem tracking: scans GitHub, Hacker News and npm for AP2, ACP, x402, MPP and UCP activity and returns scored opportunities.
+- [govcontractscout/govcontractscout-mcp](govcontractscout-govcontractscout-mcp.md) — MCP server exposing GovContractScout's US state & local government contracts API to AI agents.
+- [Helm-Protocol/openttt-mcp](helm-protocol-openttt-mcp.md) — Proof-of-Time temporal attestation for AI agents based on multiple HTTPS sources.
+- [heurist-network/heurist-mesh-mcp-server](heurist-network-heurist-mesh-mcp-server.md) — Access Heurist Mesh web3 AI agents for blockchain analysis, smart contract auditing, token metrics, DeFi analysis, NFT valuation and transaction monitoring.
+- [hive-intel/hive-crypto-mcp](hive-intel-hive-crypto-mcp.md) — Hive Intelligence: unified access to crypto, DeFi and Web3 analytics.
+- [hypeprinter007-stack/signalfuse-mcp](hypeprinter007-stack-signalfuse-mcp.md) — Pay-per-call x402 tools for trading agents: fused crypto signals, sentiment, macro regime, strategy arena, Brave/Tavily web search and E2B code execution.
+- [hypurrquant/perp-cli](hypurrquant-perp-cli.md) — Perpetual futures trading on Pacifica, Hyperliquid and Lighter: market data, execution with dry runs, funding rate arbitrage scanning and portfolio analytics.
+- [sentien-labs/verdictswarm-mcp](sentien-labs-verdictswarm-mcp.md) — Multi-AI crypto token risk scanner for Solana, Base and Ethereum: agents debate risk to detect rug pulls, honeypots, holder concentration and wash trading.
+- [hoqqun/stooq-mcp](hoqqun-stooq-mcp.md) — Fetch real-time stock prices from Stooq for global markets, including the US, Japan, UK and Germany.
+- [horustechltd/horus-flow-mcp](horustechltd-horus-flow-mcp.md) — Crypto and US equity order flow engine for real-time liquidity analysis.
+- [Hovsteder/powersun-tron-mcp](hovsteder-powersun-tron-mcp.md) — TRON Energy and Bandwidth marketplace and DEX swap aggregator: buy energy, sell resources and swap TRC-20 tokens via SunSwap.
+- [HuggingAGI/mcp-baostock-server](huggingagi-mcp-baostock-server.md) — Access and analyze Chinese stock market data via baostock.
+- [human-beyond/mainbook-mcp](human-beyond-mainbook-mcp.md) — Convert PDF bank statements into JSON, Excel or CSV with balance validation via the MainBook API. Does not connect to bank accounts.
+- [hypeprinter007-stack/anchor-x402-mcp](hypeprinter007-stack-anchor-x402-mcp.md) — x402 pay-per-call wallet tools on Base and Solana: OFAC screening, wallet intel, hash anchoring, signed attestations, tx decoding and ENS/SNS resolution.
+- [icyberdeveloper/tbank-mcp](icyberdeveloper-tbank-mcp.md) — T-Bank mobile banking: accounts, cards, transfers, bill pay, grocery ordering, tickets and travel search.
+- [ignaciohermosillacornejo/copilot-money-mcp](ignaciohermosillacornejo-copilot-money-mcp.md) — Read and manage Copilot Money data: transactions, budgets, accounts, recurring charges, investments and goals, with local reads and opt-in writes.
+- [IMBAwallet/agent-mcp](imbawallet-agent-mcp.md) — IMBA Wallet for agents: docs, plus USDT TRC-20 deposits and spending on prepaid Visa cards, travel eSIMs and gift cards. No withdrawals.
+- [IndigoProtocol/indigo-mcp](indigoprotocol-indigo-mcp.md) — Indigo Protocol on Cardano: iAsset prices, CDP and loan analytics, stability pools, INDY staking, governance and DEX data.
+- [IndigoProtocol/cardano-mcp](indigoprotocol-cardano-mcp.md) — Cardano wallet interactions: submit transactions, fetch addresses, read UTxOs, check balances, resolve ADAHandles and check stake delegation.
+- [intentos-labs/beeper-mcp](intentos-labs-beeper-mcp.md) — BSC transactions: balance and token transfers, PancakeSwap token swaps and Beeper reward claims.
+- [intoApex/ai-trading-tools](intoapex-ai-trading-tools.md) — Read-only search of a sourced directory of broker MCP servers, trading APIs and market-data tools, with paper/live, order-approval and safety details.
+- [babyblueviper1/invinoveritas](babyblueviper1-invinoveritas.md) — AI reasoning, decisions, persistent memory and an agent marketplace paid per use via Bitcoin Lightning, where agents sell services and message each other.
+- [JacobiusMakes/parlay-api-mcp](jacobiusmakes-parlay-api-mcp.md) — Sports odds, player props and prediction-market data, with live previews and source-quality and coverage tools.
+- [JamesANZ/bitcoin-mcp](jamesanz-bitcoin-mcp.md) — Query the Bitcoin blockchain.
+- [JamesANZ/evm-mcp](jamesanz-evm-mcp.md) — Access EVM JSON-RPC methods through any EVM-compatible node provider, such as Infura, Alchemy, QuickNode or a local node.
+- [JamesANZ/prediction-market-mcp](jamesanz-prediction-market-mcp.md) — Real-time prediction market odds, prices and market info from Polymarket, PredictIt and Kalshi.
+- [Jeric1223/tossinvest-mcp](jeric1223-tossinvest-mcp.md) — Toss Securities Open API for Korean and US stocks: orders behind single-use confirmation tokens, quotes, order book, candles, investor flows, holdings and FX.
+- [jakzaizzat/cukaimax-agent](jakzaizzat-cukaimax-agent.md) — Read-only, source-linked Malaysian individual and sole-proprietor tax reference: YA2025 Form BE drafts, Form B preparation readiness and YA2026 planning.
+- [janswist/mcp-dexscreener](janswist-mcp-dexscreener.md) — Real-time on-chain market prices from the Dexscreener API.
+- [jblaz6335/mcp-server-aidatamarketplace](jblaz6335-mcp-server-aidatamarketplace.md) — Discover, preview and buy live agent data APIs (vendor risk, company intelligence, transaction preflight, EVM reads), paying via x402 in USDC on Base.
+- [jjlabsio/korea-stock-mcp](jjlabsio-korea-stock-mcp.md) — Korean stock analysis using the OpenDART and KRX APIs.
+- [JosueM1109/personal-finance-mcp](josuem1109-personal-finance-mcp.md) — Self-hosted, read-only access to bank, credit card, loan and brokerage accounts via Plaid: balances, transactions, recurring charges, liabilities and holdings.
+- [jacobsd32-cpu/djd-agent-score-mcp](jacobsd32-cpu-djd-agent-score-mcp.md) — Reputation scoring for AI agent wallets on Base: trust scores, fraud reports, blacklist checks, leaderboard, badges and agent registration.
+- [JayOfemi/shikamaru](jayofemi-shikamaru.md) — Deterministic day-count and accrued-interest calculations using ISDA and ICMA conventions.
+- [keel-trade/keel-trade](keel-trade-keel-trade.md) — Build, backtest and automate Hyperliquid trading strategies: typed strategy composition, deterministic backtests on historical data and opt-in live execution.
+- [kevin2003050666-coder/x402-micro-tollgate](kevin2003050666-coder-x402-micro-tollgate.md) — HTTP 402 and MCP paywall for any API: unpaid requests get a 402, agents pay USDC on Base, then the request is proxied. Also serves paid MCP tools.
+- [kinance/circle-agent-stack-mcp](kinance-circle-agent-stack-mcp.md) — Circle Agent Stack via the Circle CLI: create USDC wallets, set spend policies, send stablecoins and pay x402-gated endpoints.
+- [krystiangw/agenticpay](krystiangw-agenticpay.md) — x402 micropayments stack for MCP: pay-per-tool-call USDC settlement on Solana via a self-hostable facilitator, with SDK, CLI and paywall middleware.
+- [kukapay/binance-alpha-mcp](kukapay-binance-alpha-mcp.md) — Track Binance Alpha trades to help optimize alpha point accumulation.
+- [kukapay/bitcoin-utxo-mcp](kukapay-bitcoin-utxo-mcp.md) — Track Bitcoin unspent transaction outputs (UTXOs) and block statistics.
+- [kukapay/blockbeats-mcp](kukapay-blockbeats-mcp.md) — Blockchain news and in-depth articles from BlockBeats.
+- [kukapay/blocknative-mcp](kukapay-blocknative-mcp.md) — Real-time gas price predictions across multiple blockchains from Blocknative.
+- [kukapay/bridge-metrics-mcp](kukapay-bridge-metrics-mcp.md) — Real-time cross-chain bridge metrics.
+- [kukapay/bridge-rates-mcp](kukapay-bridge-rates-mcp.md) — Real-time cross-chain bridge rates and optimal transfer routes.
+- [kukapay/chainlink-feeds-mcp](kukapay-chainlink-feeds-mcp.md) — Real-time access to Chainlink's decentralized on-chain price feeds.
+- [kukapay/chainlist-mcp](kukapay-chainlist-mcp.md) — Verified EVM chain information: RPC URLs, chain IDs, explorers and native tokens.
+- [bartosz-kuc/honest-mbank-parser-mcp](bartosz-kuc-honest-mbank-parser-mcp.md) — Parses mBank (Poland) CSV transaction exports offline with no bank login. `read_statement_header` previews client, period, accounts and totals…
+- [kukapay/cointelegraph-mcp](kukapay-cointelegraph-mcp.md) — Real-time access to the latest Cointelegraph news.
+- [kukapay/crypto-feargreed-mcp](kukapay-crypto-feargreed-mcp.md) — Real-time and historical Crypto Fear & Greed Index data.
+- [kukapay/crypto-funds-mcp](kukapay-crypto-funds-mcp.md) — Structured, real-time data on cryptocurrency investment funds.
+- [bartosz-kuc/honest-nbp-mcp](bartosz-kuc-honest-nbp-mcp.md) — National Bank of Poland (NBP) exchange rates (tables A/B/C) and gold prices, latest or historical (`get_rate`, `list_rates`, `get_rate_history`, `get_gold`…
+- [kukapay/crypto-indicators-mcp](kukapay-crypto-indicators-mcp.md) — Cryptocurrency technical analysis indicators and strategies.
+- [kukapay/crypto-liquidations-mcp](kukapay-crypto-liquidations-mcp.md) — Streams real-time cryptocurrency liquidation events from Binance.
+- [kukapay/crypto-news-mcp](kukapay-crypto-news-mcp.md) — Real-time cryptocurrency news from NewsData.
+- [kukapay/crypto-orderbook-mcp](kukapay-crypto-orderbook-mcp.md) — Analyze order book depth and imbalance across major crypto exchanges.
+- [kukapay/crypto-pegmon-mcp](kukapay-crypto-pegmon-mcp.md) — Track stablecoin peg integrity across multiple blockchains.
+- [kukapay/crypto-portfolio-mcp](kukapay-crypto-portfolio-mcp.md) — Track and manage cryptocurrency portfolio allocations.
+- [kukapay/crypto-projects-mcp](kukapay-crypto-projects-mcp.md) — Cryptocurrency project data from Mobula.
+- [kukapay/crypto-rss-mcp](kukapay-crypto-rss-mcp.md) — Aggregate real-time cryptocurrency news from multiple RSS feeds.
+- [kukapay/crypto-sentiment-mcp](kukapay-crypto-sentiment-mcp.md) — Cryptocurrency sentiment analysis.
+- [kukapay/crypto-stocks-mcp](kukapay-crypto-stocks-mcp.md) — Track real-time data for major crypto-related stocks.
+- [kukapay/crypto-trending-mcp](kukapay-crypto-trending-mcp.md) — Track the latest trending tokens on CoinGecko.
+- [kukapay/crypto-whitepapers-mcp](kukapay-crypto-whitepapers-mcp.md) — Structured knowledge base of crypto whitepapers.
+- [kukapay/cryptopanic-mcp-server](kukapay-cryptopanic-mcp-server.md) — Latest cryptocurrency news from CryptoPanic.
+- [LamboPoewert/mcp-server-madeonsol](lambopoewert-mcp-server-madeonsol.md) — Real-time Solana memecoin data: KOL wallet tracking and coordination signals, Pump.fun deployer scoring, alpha-wallet intel, copy-trade rules and DEX trades.
+- [praveendias1180/easypaydirect-mcp](praveendias1180-easypaydirect-mcp.md) — Read-only access to Easy Pay Direct and NMI-family payment gateways: search transactions, subscriptions, recurring plans and the Customer Vault.
+- [LightSpeedPlusOne/invovate-mcp-server](lightspeedplusone-invovate-mcp-server.md) — Generate PDF, JSON and UBL invoices in multiple languages and scripts, including right-to-left Arabic, Japanese, Hindi and Cyrillic.
+- [mobymedia/polymarket-news-mcp](mobymedia-polymarket-news-mcp.md) — Match news headlines to the Polymarket prediction markets they could move, with live odds, deep links and explainable matching. Read-only.
+- [27dream/mcp-eastmoney](27dream-mcp-eastmoney.md) — China A-share market data via Eastmoney: real-time quotes, main capital flow rankings, sector fund flows and historical K-lines.
+- [make-software/cspr-trade-mcp](make-software-cspr-trade-mcp.md) — Non-custodial DEX trading on the Casper Network via CSPR.trade: market data, swaps, liquidity and account queries, with transactions signed locally.
+- [kukapay/dao-proposals-mcp](kukapay-dao-proposals-mcp.md) — Aggregate live governance proposals from major DAOs.
+- [kukapay/defi-yields-mcp](kukapay-defi-yields-mcp.md) — Explore DeFi yield opportunities.
+- [kukapay/dex-pools-mcp](kukapay-dex-pools-mcp.md) — Real-time access to DEX liquidity pool data.
+- [kukapay/dexscreener-trending-mcp](kukapay-dexscreener-trending-mcp.md) — Real-time trending tokens from DexScreener.
+- [kukapay/dune-analytics-mcp](kukapay-dune-analytics-mcp.md) — Access Dune Analytics data.
+- [kukapay/etf-flow-mcp](kukapay-etf-flow-mcp.md) — Crypto ETF flow data.
+- [kukapay/ethereum-validator-queue-mcp](kukapay-ethereum-validator-queue-mcp.md) — Track Ethereum validator activation and exit queues in real time.
+- [kukapay/freqtrade-mcp](kukapay-freqtrade-mcp.md) — Integrate with the Freqtrade cryptocurrency trading bot.
+- [kukapay/funding-rates-mcp](kukapay-funding-rates-mcp.md) — Real-time funding rate data across major crypto exchanges.
+- [kukapay/hyperliquid-info-mcp](kukapay-hyperliquid-info-mcp.md) — Real-time data and insights from the Hyperliquid perp DEX for bots, dashboards and analytics.
+- [kukapay/hyperliquid-whalealert-mcp](kukapay-hyperliquid-whalealert-mcp.md) — Real-time Hyperliquid whale alerts for positions with a notional value above $1 million.
+- [kukapay/jupiter-mcp](kukapay-jupiter-mcp.md) — Execute token swaps on Solana using Jupiter's Ultra API.
+- [kukapay/pancakeswap-poolspy-mcp](kukapay-pancakeswap-poolspy-mcp.md) — Track newly created pools on PancakeSwap.
+- [kukapay/polymarket-predictions-mcp](kukapay-polymarket-predictions-mcp.md) — Real-time market odds from Polymarket.
+- [kukapay/pumpswap-mcp](kukapay-pumpswap-mcp.md) — Real-time token swaps and automated on-chain trading on PumpSwap.
+- [kukapay/raydium-launchlab-mcp](kukapay-raydium-launchlab-mcp.md) — Launch, buy and sell tokens on Raydium LaunchLab (Raydium Launchpad).
+- [kukapay/rug-check-mcp](kukapay-rug-check-mcp.md) — Detect potential risks in Solana meme tokens.
+- [kukapay/stargate-bridge-mcp](kukapay-stargate-bridge-mcp.md) — Cross-chain token transfers via the Stargate protocol.
+- [kukapay/sui-trader-mcp](kukapay-sui-trader-mcp.md) — Optimal token swaps on the Sui blockchain.
+- [kukapay/thegraph-mcp](kukapay-thegraph-mcp.md) — Indexed blockchain data from The Graph.
+- [kukapay/token-minter-mcp](kukapay-token-minter-mcp.md) — Mint ERC-20 tokens across multiple blockchains.
+- [kukapay/token-revoke-mcp](kukapay-token-revoke-mcp.md) — Check and revoke ERC-20 token allowances across multiple blockchains.
+- [kukapay/twitter-username-changes-mcp](kukapay-twitter-username-changes-mcp.md) — Track historical Twitter username changes.
+- [kukapay/uniswap-poolspy-mcp](kukapay-uniswap-poolspy-mcp.md) — Track newly created Uniswap liquidity pools across multiple blockchains.
+- [kukapay/uniswap-price-mcp](kukapay-uniswap-price-mcp.md) — Real-time token prices from Uniswap V3 across multiple chains.
+- [kukapay/uniswap-trader-mcp](kukapay-uniswap-trader-mcp.md) — Automate token swaps on Uniswap across multiple blockchains.
+- [kukapay/wallet-inspector-mcp](kukapay-wallet-inspector-mcp.md) — Inspect any wallet's balance and on-chain activity across major EVM chains and Solana.
+- [kukapay/web3-jobs-mcp](kukapay-web3-jobs-mcp.md) — Real-time access to curated Web3 job listings.
+- [kukapay/whale-tracker-mcp](kukapay-whale-tracker-mcp.md) — Track cryptocurrency whale transactions.
+- [Liquidiction/liquidiction-mcp](liquidiction-liquidiction-mcp.md) — Live Hyperliquid HIP-4 prediction market data: odds, order books, candles, trades and portfolio positions.
+- [Frontier-Compute/zcash-mcp](frontier-compute-zcash-mcp.md) — Zcash shielded operations: chain queries, memo decoding, on-chain attestation and proof verification.
+- [KyuRish/trading212-mcp-server](kyurish-trading212-mcp-server.md) — Trading 212 API integration: portfolio management, market, limit and stop orders, pies, dividends, market data and analytics.
+- [klever-io/mcp-klever-vm](klever-io-mcp-klever-vm.md) — Klever blockchain smart contract development, on-chain data exploration, account and asset queries, transaction analysis and contract deployment.
+- [kindrat86/agentmail](kindrat86-agentmail.md) — OFAC sanctions screening of names, wallets and countries before payment, via MCP, HTTP or CLI.
+- [kindrat86/mcp-deal-flow-signal](kindrat86-mcp-deal-flow-signal.md) — VC deal flow signals from GitHub activity: startup commit velocity, contributor growth and repo expansion across sectors, for seed and Series A investors.
+- [laukikk/alpaca-mcp](laukikk-alpaca-mcp.md) — Manage stock and crypto portfolios, place trades and access market data via the Alpaca trading API.
+- [lightningfaucet/lightning-wallet-mcp](lightningfaucet-lightning-wallet-mcp.md) — Bitcoin Lightning wallet for AI agents with L402/x402 paid API support, operator/agent hierarchy, budget controls and a CLI.
+- [likidodefi/riskstate-mcp](likidodefi-riskstate-mcp.md) — Deterministic risk governance for BTC and ETH trading agents: a five-level policy engine with position sizing, leverage limits and trade blocking.
+- [unixlamadev-spec/lightningprox-mcp](unixlamadev-spec-lightningprox-mcp.md) — Pay-per-request AI access via Bitcoin Lightning through LightningProx, with vision and multimodal support.
+- [unixlamadev-spec/lpxpoly-mcp](unixlamadev-spec-lpxpoly-mcp.md) — Polymarket analysis via LightningProx: find mispriced markets, analyze specific markets and list top markets by volume, paid per request over Lightning.
+- [untitledfinancial/dpx-mcp](untitledfinancial-dpx-mcp.md) — Cross-border USDC settlement on Base: stability oracle (macro, FX, ESG, climate), ESG scoring, FX quotes, Verification of Payee and settlement execution.
+- [lnbits/LNbits-MCP-Server](lnbits-lnbits-mcp-server.md) — LNbits Lightning Network wallet integration.
+- [longbridge/longbridge-mcp](longbridge-longbridge-mcp.md) — Longbridge brokerage: US and HK real-time quotes, options, trading, fundamentals, analyst ratings, calendars, price alerts, DCA plans and portfolio analytics.
+- [longportapp/longport-mcp](longportapp-longport-mcp.md) — Real-time stock market data, analysis and trading via the LongPort OpenAPI.
+- [makeev/alphai-mcp](makeev-alphai-mcp.md) — AI-enriched financial news: full-text and ticker search, trending feeds, SEC Form 4 insider transactions and per-ticker analysis with relevance scores.
+- [mambalabsdev/mcp-public-company-reporting-window-finder](mambalabsdev-mcp-public-company-reporting-window-finder.md) — Takes a domain, ticker, ISIN, LEI, or CIK and returns fiscal year end, reporting cadence, the next reporting date, days to event, and the quiet period window.
+- [MarcinDudekDev/crypto-signals-mcp](marcindudekdev-crypto-signals-mcp.md) — Real-time crypto volume anomaly detection: unusual trading activity, whale movements and pump signals.
+- [markankamaransheogarat-sys/stellar-pulse-mcp](markankamaransheogarat-sys-stellar-pulse-mcp.md) — Read-only Stellar analytics without API keys: network health and fees, asset profiles with look-alike warnings, SDEX order books, account overviews with…
+- [mathbeal/avenir-mcp](mathbeal-avenir-mcp.md) — Unofficial MCP server for YNAB: budgets, spending trends, category suggestions, reconciliation and cash-flow forecasts. Read-only by default; every write is…
+- [Mattbusel/Reddit-Options-Trader-ROT-](mattbusel-reddit-options-trader-rot.md) — AI-scored trading signals from Reddit, SEC filings, FDA approvals, Congressional trades and other sources.
+- [tersignhq/tersign-js](tersignhq-tersign-js.md) — Signed receipts, verification and dispute evidence for agent-to-agent commerce.
+- [tresor4k/macalc-mcp](tresor4k-macalc-mcp.md) — Everyday calculators for finance, tax (eight countries), health, math, science, construction, conversions, education, sport, cooking and travel.
+- [mcpdotdirect/evm-mcp-server](mcpdotdirect-evm-mcp-server.md) — Blockchain services for many EVM networks: native tokens, ERC-20, NFTs, smart contracts, transactions and ENS resolution.
+- [MeshLedger/MeshLedger](meshledger-meshledger.md) — AI-to-AI marketplace with on-chain escrow.
+- [mcpdotdirect/starknet-mcp-server](mcpdotdirect-starknet-mcp-server.md) — Starknet blockchain integration: native tokens (ETH, STRK), smart contracts, StarknetID resolution and token transfers.
+- [jacksun911/megalaunch-mcp](jacksun911-megalaunch-mcp.md) — Meme token launches on Solana via pump.fun: create tokens with AI-generated art, bundled buys and Jito MEV protection.
+- [minhyeoky/mcp-server-ledger](minhyeoky-mcp-server-ledger.md) — Manage financial transactions and generate reports with ledger-cli.
+- [mission69b/t2000](mission69b-t2000.md) — Non-custodial DeFi banking for AI agents on Sui: save, borrow, invest, exchange, send and pay, with yield optimization across NAVI, Suilend and Cetus.
+- [mmxrealQQ/bobai-buyburn](mmxrealqq-bobai-buyburn.md) — On-chain data for the $BOBAI token on BNB Chain: price from pair reserves and Chainlink, liquidity depth, LP-burn proof and a buyback-and-burn audit trail.
+- [moxiespirit/oathscore](moxiespirit-oathscore.md) — Real-time market state for trading agents (exchange status, VIX/VVIX/SKEW, economic events) plus quality ratings for financial data APIs.
+- [muvon/mcp-binance-futures](muvon-mcp-binance-futures.md) — Binance USDT-M Futures trading: market data, account state, order management and position and margin control.
+- [narumiruna/yfinance-mcp](narumiruna-yfinance-mcp.md) — Get Yahoo Finance data using yfinance.
+- [nckhemanth0/subscription-tracker-mcp](nckhemanth0-subscription-tracker-mcp.md) — Subscription management with Gmail and MySQL integration.
+- [netanelavr/trading-mcp](netanelavr-trading-mcp.md) — Local stock research: screening, fundamentals, insider trades, options and Reddit sentiment, and AI news analysis.
+- [nexusforge-tools/mcp-eu-finance](nexusforge-tools-mcp-eu-finance.md) — European financial data: ECB rates, plus Eurostat inflation, GDP and unemployment by EU country.
+- [nhantour/inferenceview-mcp](nhantour-inferenceview-mcp.md) — Preflight x402 and MCP resources before payment and fact-check claims before an agent acts, with local wallet keys and USDC settlement on Base.
+- [nicholasbester/clickup-cli](nicholasbester-clickup-cli.md) — ClickUp API integration covering all endpoints, with compact, token-efficient responses. Also works as a standalone CLI.
+- [nikicat/mcp-wallet-signer](nikicat-mcp-wallet-signer.md) — Non-custodial EVM wallet that routes transactions to browser wallets like MetaMask for signing, with explicit user approval for every action via EIP-6963.
+- [0x-devc/novai-mcp-server](0x-devc-novai-mcp-server.md) — Read-only queries of the NOVAI layer-1 blockchain: blocks, transactions, AI entities, on-chain signals, oracle anchors and memory objects.
+- [noblabs/lit-forge-mcp](noblabs-lit-forge-mcp.md) — Personal asset planning for Japan's Tsumitate NISA and iDeCo: NISA simulations, retirement gap analysis, required monthly savings and compound interest.
+- [nonameuserd/paybond-kit](nonameuserd-paybond-kit.md) — Tenant-bound agent spend authorization: policy guardrails, spend intents, evidence, escrow settlement, completion validation and portable receipts.
+- [none298-dotcom/mylinedchart-mcp-chart-context](none298-dotcom-mylinedchart-mcp-chart-context.md) — Local, read-only access to live MyLinedChart desktop chart context: symbol, candles, drawings, indicators and IBKR status.
+- [OctagonAI/octagon-mcp-server](octagonai-octagon-mcp-server.md) — Integrate private and public market data via Octagon AI agents.
+- [oerc-s/primordia](oerc-s-primordia.md) — Economic settlement for AI agents: receipt verification, metering, net settlements, credit lines and balance sheets.
+- [OilpriceAPI/mcp-server](oilpriceapi-mcp-server.md) — Real-time oil, gas and commodity prices: spot, history, futures curves, price alerts and market briefs for Brent, WTI, diesel, jet fuel and more.
+- [olgasafonova/gleif-mcp-server](olgasafonova-gleif-mcp-server.md) — Access the Global Legal Entity Identifier (LEI) database for company verification, KYC, and corporate ownership research via GLEIF's public API.
+- [omni-fun-mcp-server](omni-fun-mcp-server.md) — Multichain memecoin launchpad where agents can tokenize themselves: trending tokens, search, quotes, bonding curves and trade simulation.
+- [omniologynow-rgb/profitspot-mcp](omniologynow-rgb-profitspot-mcp.md) — Cross-chain DeFi analytics: yield discovery, pool analysis, profit simulation, risk scoring, whale tracking and impermanent loss calculation.
+- [openaccountants/openaccountants](openaccountants-openaccountants.md) — Open-source accounting skills reviewed by licensed accountants, covering income tax, VAT and payroll by country, US state and Canadian province.
+- [openMF/mcp-mifosx-self-service](openmf-mcp-mifosx-self-service.md) — Apache Fineract self-service integration: user registration, authentication, account management, transactions and third-party transfers.
+- [openMF/mcp-mifosx](openmf-mcp-mifosx.md) — Core banking integration for managing clients, loans, savings, shares and transactions, and generating financial reports.
+- [opsloft/tariff-resolver](opsloft-tariff-resolver.md) — US import duty research from USITC data: HTS code candidates, Chapter 99 duties (Section 301/IEEPA), MPF/HMF fees, landed costs and tariff-change tracking.
+- [orcalayer/orcalayer-mcp](orcalayer-orcalayer-mcp.md) — Polymarket whale tracking and smart-money analytics: filtered leaderboard, hedge detection and Ukraine territorial markets with ISW frontline overlay.
+- [partymola/monzo-mcp](partymola-monzo-mcp.md) — Read-only access to the UK Monzo banking API with a local SQLite transaction cache, full-text search and spending analysis by category.
+- [paulf280-ui/solana-safe-sniper-mcp-template](paulf280-ui-solana-safe-sniper-mcp-template.md) — Pre-trade risk checks for Solana tokens: traces holder funding, flags bundle buys, coordinated dumps and serial launchers, and screens individual wallets.
+- [payclaw/mcp-server](payclaw-mcp-server.md) — Virtual Visa cards for AI agents: just-in-time card issuance per transaction with human-approved spend authorization.
+- [mikusnuz/pexbot-mcp](mikusnuz-pexbot-mcp.md) — Simulated crypto trading with real-time Upbit prices and a virtual KRW balance: registration, trading and autonomous AI investing.
+- [PaulieB14/graph-aave-mcp](paulieb14-graph-aave-mcp.md) — Multichain Aave V2/V3 lending data via The Graph: reserves, user positions, health factors, liquidations, flash loans and governance.
+- [PaulieB14/graph-polymarket-mcp](paulieb14-graph-polymarket-mcp.md) — Polymarket prediction market data via The Graph: markets, positions, orders, user activity and real-time odds.
+- [plagtech/spraay-x402-mcp](plagtech-spraay-x402-mcp.md) — Onchain data, AI models and batch USDC payments on Base via x402: swap quotes, token prices, wallet balances, ENS resolution and multi-recipient transfers.
+- [polygon-io/mcp_polygon](polygon-io-mcp-polygon.md) — Access Polygon.io financial market data APIs for stocks, indices, forex, options and more.
+- [PostOakLabs/ainumbers-mcp-apps](postoaklabs-ainumbers-mcp-apps.md) — Deterministic, read-only fintech tools: agentic payments (AP2, x402, Visa TAP, A2A), AML/KYC risk rating, BaaS provider comparison and MCP dev tooling.
+- [pouriaetab/llmledger](pouriaetab-llmledger.md) — Which AI model to use and what it costs: LiteLLM's price catalogue with every price change since 2023, Arena ratings by task, best value picks and cost…
+- [pprotocol-us/problee-mcp](pprotocol-us-problee-mcp.md) — Problee, where AIs and people put their calls on the record: free play-money prediction markets (US midterms, elections, sports, AI) where agents trade on…
+- [predgeAI/whale-data-mcp](predgeai-whale-data-mcp.md) — Polymarket data for agents from Predge: free ed25519-signed UMA settlement-risk records for any market, read live from Polygon, and an offline record…
+- [predictionmarketspicks/mcp](predictionmarketspicks-mcp.md) — Quant tools for Kalshi and Polymarket (expected value, Kelly sizing, Bayesian updating, odds conversion) plus an NFL fantasy draft assistant.
+- [PreReason/mcp](prereason-mcp.md) — Bitcoin and macro market briefings (Fed balance sheet, M2, Treasury yields, correlations) with trend signals, confidence scores and regime classification.
+- [pwh-pwh/coin-mcp-server](pwh-pwh-coin-mcp-server.md) — Fetch cryptocurrency prices from the Bitget API.
+- [pythia-the-oracle/pythia-oracle-mcp](pythia-the-oracle-pythia-oracle-mcp.md) — On-chain calculated crypto indicators (EMA, RSI, Bollinger Bands, volatility) delivered via Chainlink oracle across multiple timeframes.
+- [qbt-labs/openmm-mcp](qbt-labs-openmm-mcp.md) — Crypto market-making toolkit for DeFi analytics, CEX/DEX trading and liquidity management.
+- [QuantConnect/mcp-server](quantconnect-mcp-server.md) — QuantConnect API access: create projects, backtest strategies, manage collaborators and deploy live trading.
+- [QuantOracledev/quantoracle](quantoracledev-quantoracle.md) — Deterministic quant finance tools: options pricing, risk metrics, portfolio optimization, Monte Carlo, technical indicators, crypto/DeFi and FX/macro.
+- [QuantGeekDev/coincap-mcp](quantgeekdev-coincap-mcp.md) — Real-time cryptocurrency prices and market information from CoinCap's public API.
+- [QuantToGo/quanttogo-mcp](quanttogo-quanttogo-mcp.md) — Macro-factor quantitative trading signals for US and A-share markets: strategy discovery, live signal retrieval and forward-tracked performance.
+- [QuentinCody/braintree-mcp-server](quentincody-braintree-mcp-server.md) — Unofficial PayPal Braintree integration: process payments, manage customers and handle transactions.
+- [refined-element/lightning-enable-mcp](refined-element-lightning-enable-mcp.md) — Bitcoin Lightning payments for AI agents: pay and create invoices, check balances and access L402-paywalled APIs, with Strike, OpenNode and NWC wallets.
+- [Regenerating-World/pix-mcp](regenerating-world-pix-mcp.md) — Generate Pix QR codes and copy-paste strings with fallback across multiple providers (Efí, Cielo, etc.) for Brazilian instant payments.
+- [rascal-3/chainanalyzer-mcp](rascal-3-chainanalyzer-mcp.md) — Multi-chain AML risk scoring and sanctions screening with ML anomaly scoring and graph analysis across Bitcoin, Ethereum, Polygon, Avalanche and Solana.
+- [roicai/agents-plugin](roicai-agents-plugin.md) — Company fundamentals from roic.ai: income statements, balance sheets, cash flows, profitability, credit and valuation ratios, plus earnings call transcripts…
+- [romanshumy/llm-prices-data](romanshumy-llm-prices-data.md) — Live LLM API token prices, model comparisons, cheapest-model lookups and The LLM Price Index, re-verified daily against provider pages.
+- [vdmeu/registrum-mcp](vdmeu-registrum-mcp.md) — UK Companies House data via the Registrum API: company search, profiles, iXBRL-parsed financials, director history and corporate network graphs.
+- [RomThpt/xrpl-mcp-server](romthpt-xrpl-mcp-server.md) — XRP Ledger access: account information, transaction history, ledger objects, transaction submission and network monitoring.
+- [ryansilk/apexvol-mcp](ryansilk-apexvol-mcp.md) — ApexVol options analytics: chains, IV rank, volatility risk premium, Greeks, gamma exposure (GEX), expected moves and market screeners.
+- [sachinuppal/modelcostsaver](sachinuppal-modelcostsaver.md) — Offline LLM cost prediction: estimate request costs, pick the cheapest capable model, compare models, list prices and optimize requests.
+- [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](saintdoresh-crypto-trader-mcp-claudedesktop.md) — Cryptocurrency market data from the CoinGecko API.
+- [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](saintdoresh-yfinance-trader-mcp-claudedesktop.md) — Stock market data and analysis from the Yahoo Finance API.
+- [sapph1re/findata-mcp](sapph1re-findata-mcp.md) — Real-time stock data, company fundamentals, FRED economic indicators, SEC filings and crypto prices, paid per call via x402 on Base.
+- [sailorpepe/litvm-tcg-oracle-mcp](sailorpepe-litvm-tcg-oracle-mcp.md) — On-chain TCG price oracle for LitecoinVM: card search, price history, Merkle proof verification, Monte Carlo simulation and AI card grading.
+- [sailorpepe/undesirables-mcp-server](sailorpepe-undesirables-mcp-server.md) — TCG collectibles and agent utilities: AI card grading, Monte Carlo price simulation, music and image generation, TTS, RAG memory and SAST auditing.
+- [scjang01/tossinvest-mcp](scjang01-tossinvest-mcp.md) — Toss Securities Open API: real-time quotes, order book, candles, holdings, buying power and order management (create, modify, cancel).
+- [seaworthy-io/seaworthy-mcp](seaworthy-io-seaworthy-mcp.md) — Disability insurance brokerage: submit quote requests on a user's behalf, compare carriers and research coverage.
+- [Setell-AI/setell-mcp](setell-ai-setell-mcp.md) — Quote-to-cash for service businesses (machine shops, contractors, HVAC): jobs, quotes, customer memory, price signals, follow-ups and confirmed sends.
+- [shareseer/shareseer-mcp-server](shareseer-shareseer-mcp-server.md) — Real-time SEC filings, financials and insider trading data via ShareSeer.
+- [ShipItAndPray/mcp-market-data](shipitandpray-mcp-market-data.md) — Live cryptocurrency market data: real-time prices, OHLCV, order books and market summaries.
+- [ShinyDapps/l402-kit](shinydapps-l402-kit.md) — L402 SDK for TypeScript, Python, Go and Rust: server middleware, an auto-paying agent client, an MCP server, LangChain integration and budget control.
+- [lmwharton/sieve-mcp](lmwharton-sieve-mcp.md) — Startup due diligence: screens startups across IMPACT-X dimensions and returns a Sieve Score, evidence-typed findings and a meeting recommendation.
+- [SiftingIO/siftingio-mcp](siftingio-siftingio-mcp.md) — Live and historical data for stocks, forex, crypto, commodities and DEXs, plus fundamentals, filings and market calendars.
+- [SidneyBissoli/bcb-br-mcp](sidneybissoli-bcb-br-mcp.md) — Brazilian Central Bank (BCB) economic time series via the SGS public API: Selic, IPCA, exchange rates, GDP and curated indicators.
+- [signal8ai/signal8-mcp](signal8ai-signal8-mcp.md) — SEC filing data from Signal8: insider and 13F ownership, dilution-risk scoring, STOCK Act trades, FEC campaign finance, filing search and a stock screener.
+- [simoncoombes/tradefloor](simoncoombes-tradefloor.md) — Simulated stock markets with an order book and an economy for testing trading agents: evaluate, rank and stress-test strategies across many reproducible…
+- [smythmyke/govtoolspro-mcp-server](smythmyke-govtoolspro-mcp-server.md) — Tools for US federal contractors: go/no-go bid scoring, incumbent research, teaming-partner search, recompete prediction and SAM.gov solicitations.
+- [stevevstd-oss/eterna-mcp-agent-starter](stevevstd-oss-eterna-mcp-agent-starter.md) — AI trading agents on Eterna Hybrid Exchange (no-KYC perpetual futures, flat 0.014%/0.035% fees): fee estimator, venue comparison vs…
+- [subsquid-labs/portal-mcp-server](subsquid-labs-portal-mcp-server.md) — Query onchain data across EVM, Solana, Bitcoin, Substrate and Hyperliquid via the SQD Portal API.
+- [summerstateofmind/cityparity](summerstateofmind-cityparity.md) — Cost-of-living and quality-of-life comparison between cities: take-home pay, taxes, equivalent salary, childcare, healthcare, vacation and parental leave.
+- [SupplyMaven-SCR/supplymaven-mcp-server](supplymaven-scr-supplymaven-mcp-server.md) — Real-time supply chain risk data: disruption indices, commodity prices, port congestion, border delays, chokepoints, freight and trade policy.
+- [swiftnodes/swiftnodes-mcp](swiftnodes-swiftnodes-mcp.md) — Multi-chain blockchain RPC reference: endpoint URL templates, JSON-RPC method support per chain and live endpoint probing.
+- [supra126/taiwan-payroll](supra126-taiwan-payroll.md) — Taiwan statutory payroll calculations: labor and health insurance, labor pension, NHI supplementary premium, income-tax withholding and old-age benefits.
+- [szhygulin/recon-crypto-mcp](szhygulin-recon-crypto-mcp.md) — Self-custodial crypto portfolio: EVM balances and DeFi positions with risk alerts, plus unsigned transactions signed on a Ledger via WalletConnect.
+- [tamasPetki/HeadlessTracker](tamaspetki-headlesstracker.md) — Local-first crypto portfolio aggregation across Bybit, Binance, EVM and Solana wallets and Polymarket, with read-only credentials in the OS keychain.
+- [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](tapetide-hq-nse-bse-indian-stock-market-data-mcp.md) — Indian stock market data for about 8,200 NSE and BSE stocks via `npx -y tapetide-mcp`: quotes, quarterly financials, shareholding, a 326-ratio screener…
+- [tatumio/blockchain-mcp](tatumio-blockchain-mcp.md) — Access Tatum's blockchain API across many networks, including an RPC gateway and blockchain data insights.
+- [theluckystrike/mcp-statement-of-account](theluckystrike-mcp-statement-of-account.md) — Client statements of account built from a local invoice, credit-note and deposit ledger: opening balance, every invoice, payment and credit note in date…
+- [ThomasMarches/substrate-mcp-rs](thomasmarches-substrate-mcp-rs.md) — Interact with Substrate-based blockchains.
+- [traceloop/opentelemetry-mcp-server](traceloop-opentelemetry-mcp-server.md) — Connect to any OpenTelemetry backend, such as Datadog, Grafana, Dynatrace or Traceloop.
+- [Trade-Agent/trade-agent-mcp](trade-agent-trade-agent-mcp.md) — Trade stocks and crypto on brokerages such as Robinhood, E*Trade, Coinbase and Kraken via Trade Agent.
+- [TradeRouter/trade-router-mcp](traderouter-trade-router-mcp.md) — Non-custodial Solana trading engine: swaps, limit, trailing, TWAP and DCA orders across Raydium, PumpSwap, Orca and Meteora with Jito MEV protection.
+- [trayders/trayd-mcp](trayders-trayd-mcp.md) — Trade on Robinhood: portfolio analysis, real-time quotes and order execution.
+- [tuantqse90/moltnode-mcp](tuantqse90-moltnode-mcp.md) — MoltNode by Chord: read 31 blockchains over JSON-RPC (EVM, Solana, Sui) and get best-route DEX swap quotes with the unsigned transaction and a simulation…
+- [twelvedata/mcp](twelvedata-mcp.md) — Real-time and historical financial market data from the Twelve Data APIs.
+- [VENTURE-AI-LABS/cryptodataapi-mcp](venture-ai-labs-cryptodataapi-mcp.md) — Real-time crypto market data via CryptoDataAPI: market health scores, derivatives, funding rates, ETF flows and cycle indicators.
+- [veroq-ai/veroq-mcp](veroq-ai-veroq-mcp.md) — Claim verification with evidence chains, plus market data, trading signals, SEC filings, insider trades and technical analysis.
+- [szhygulin/vaultpilot-mcp](szhygulin-vaultpilot-mcp.md) — Hardware-verified DeFi: read balances and positions and prepare transactions across EVM chains, TRON, Solana and Bitcoin, with approval on a Ledger.
+- [minhoyoo-iotrust/WAIaaS](minhoyoo-iotrust-waiaas.md) — Self-hosted wallet-as-a-service for AI agents on Solana and EVM: transfers, DeFi, NFTs, smart contracts, signing and x402 payments, with spending policies.
+- [wildsurfer/cnn-fear-and-greed-parse](wildsurfer-cnn-fear-and-greed-parse.md) — CNN Fear & Greed Index for the US stock market: score, rating, component indicators and about a year of daily history.
+- [withgrokbot/verified-catalog](withgrokbot-verified-catalog.md) — Reliability lookup for x402 pay-per-call endpoints: find services for a task under a price, sorted by known-answer pass rate over recent paid calls, with…
+- [wowinter13/solscan-mcp](wowinter13-solscan-mcp.md) — Query Solana transactions via the Solscan API.
+- [W3Ship/w3ledger-mcp-server](w3ship-w3ledger-mcp-server.md) — Self-verifying ledger with dual-signed transactions, gift and sponsor cards and loyalty tiers, using EVM or post-quantum (ML-DSA-65, SLH-DSA) signatures.
+- [vdalhambra/financekit-mcp](vdalhambra-financekit-mcp.md) — Market data and analysis: stock quotes, technical indicators, CoinGecko crypto prices, risk metrics, options chains and portfolio analysis.
+- [Wuye-AI/mcp-server-wuye-ai](wuye-ai-mcp-server-wuye-ai.md) — Access the CRIC Wuye AI platform, an assistant for the property management industry.
+- [XeroAPI/xero-mcp-server](xeroapi-xero-mcp-server.md) — Access Xero's accounting and business features via its API.
+- [yamariki-hub/japan-corporate-mcp](yamariki-hub-japan-corporate-mcp.md) — Japanese corporate data via government APIs (gBizINFO, EDINET, e-Stat): companies, financials, patents, subsidies, procurement and government statistics.
+- [yli769227-jpg/ashare-mcp](yli769227-jpg-ashare-mcp.md) — Chinese A-share financial statements: pull annual reports, run industry-aware accounting cross-checks and compare peers with average-equity ROE.
+- [rootSunc/CNEquity](rootsunc-cnequity.md) — Local China A-share data lake: daily and minute bars, financial statements with point-in-time cutoffs, capital flows, corporate events and futures/options…
+- [yolfinance/yolfi-agent](yolfinance-yolfi-agent.md) — Yolfi Payments integration: register workspaces, create crypto checkout links, configure and verify webhooks and check payment status.
+- [ypratap11/dokimo-mcp](ypratap11-dokimo-mcp.md) — Verify AI-agent revenue claims by recomputing a Merkle proof and checking it against an on-chain anchor (x402, agentic payments).
+- [zlinzzzz/finData-mcp-server](zlinzzzz-findata-mcp-server.md) — Access financial data from multiple providers, such as Tushare.
+- [zolo-ryan/MarketAuxMcpServer](zolo-ryan-marketauxmcpserver.md) — Market and financial news search with filtering by symbols, industries, countries and date ranges.
+- [mnemox-ai/tradememory-protocol](mnemox-ai-tradememory-protocol.md) — Layered memory for AI trading agents (trades, patterns, strategy), supporting MT5, Binance and Alpaca.
+- [niuheilong/stock-mcp-server](niuheilong-stock-mcp-server.md) — Real-time A-share stock data for AI agents via MCP protocol.
+- [thoughtproof/thoughtproof-mcp](thoughtproof-thoughtproof-mcp.md) — Adversarial pre-trade verification: Claude, Grok and DeepSeek challenge each agent decision and return ALLOW or HOLD with a signed attestation.
+- [tickerdb/tickerdb-mcp](tickerdb-tickerdb-mcp.md) — Pre-computed indicators for US stocks, ETFs and crypto (trend, momentum, volatility, fundamentals) with state-transition history for screening and backtesting.
+- [tunedforai/x402-mcp](tunedforai-x402-mcp.md) — Real-time crypto market structure: cross-exchange orderflow, price, funding and open-interest snapshots, CVD with whale activity and OHLCV history.
+- [toolstem/toolstem-mcp-server](toolstem-toolstem-mcp-server.md) — Financial data aggregated from multiple sources: stock snapshots, company metrics and comparisons with derived signals, CAGRs, margin trends and DCF upside.
+- [toolstem/toolstem-sec-mcp-server](toolstem-toolstem-sec-mcp-server.md) — SEC EDGAR signals: insider trading (Form 4), 13F institutional holdings, 10-K/8-K filing velocity, activist risk flags and disclosure comparisons.
+- [pickelfintech/the13f-mcp](pickelfintech-the13f-mcp.md) — Institutional 13F data from SEC EDGAR: manager search, holdings lookup, portfolio similarity, consensus portfolio, market regime and sector flows.
+- [tradallo/reputation](tradallo-reputation.md) — Tradallo Verified Record Protocol: query verified human and AI-agent trading reputations, track records, trade receipts and Solana memo notarizations.
+- [pineforge-4pass/pineforge-codegen-mcp](pineforge-4pass-pineforge-codegen-mcp.md) — Backtest Pine Script v6 strategies locally by transpiling them to C++ and running them on the deterministic PineForge engine.
+- [michalperni11-gif/secfinapi-mcp](michalperni11-gif-secfinapi-mcp.md) — Standardized SEC EDGAR financial data for US public companies: income statements, balance sheets, cash flow and ratios, normalized from XBRL.
+- [namixai/funding-mcp](namixai-funding-mcp.md) — Perpetual funding-rate data and cross-exchange funding arbitrage across many venues, including HIP-3 sub-DEXes, with x402-paid signals.
+- [namixai/signer-mcp](namixai-signer-mcp.md) — Keyless CEX/DEX signing for trading agents: keys stay in an AWS Nitro Enclave and agents get policy-bounded signatures for Binance, OKX, Bybit and others.
+- [JeongSeongMok/tossinvest-openapi-mcp](jeongseongmok-tossinvest-openapi-mcp.md) — Read-only Toss Securities Open API documentation: browse endpoints and schemas, follow integration guides and generate curl, TypeScript and Python samples.
+- [ophis-fi/ophis](ophis-fi-ophis.md) — Intent-based DEX aggregator (self-hosted CoW Protocol): parse swap intents, get quotes, build and submit EIP-712 orders and check balances on EVM chains.
+- [phuocdu/agentpay-vn](phuocdu-agentpay-vn.md) — Non-custodial VietQR payments in Vietnam: generate a VietQR code for the user and auto-confirm settlement from the merchant's bank feed.
+- [Gainium/gainium-mcp](gainium-gainium-mcp.md) — Manage Gainium DCA, Combo and Grid trading bots: bots, deals, balances, backtests, the crypto screener and strategy presets.
+- [multiassist/nakamotonotes-mcp](multiassist-nakamotonotes-mcp.md) — Bitcoin Barometer: a 0–100 market heat score, BTC price, the underlying on-chain and sentiment indicators (MVRV Z-Score, NUPL, Puell, Mayer Multiple, Fear &…
+- [wuzenghai616-lang/goldbean](wuzenghai616-lang-goldbean.md) — Pay-per-call x402 tools: crypto prices, web search, weather, image generation, LLM chat, code execution, translation, sentiment analysis and QR codes.
+- [Faouzi122/Arsenal-Quant-Project](faouzi122-arsenal-quant-project.md) — Deterministic MEV and slippage risk oracle for DeFAI agents.
+- [true402/mcp-server](true402-mcp-server.md) — x402 pay-per-call tools: token rug and honeypot checks, new-pair and whale-swap signals, SEO/GEO audits, web extraction, link previews and LLM inference.
+- [bevanding/signaldaemon](bevanding-signaldaemon.md) — Narrative and signal tracking for crypto, AI and macro: cross-source narrative convergence and capital-versus-narrative divergence.
+- [ENTIA-IA/entia-mcp-server](entia-ia-entia-mcp-server.md) — Business identity data: company verification, VAT, BORME, GLEIF, ownership and risk signals across many countries.
+- [Nikolife2016/pulsefeed-x402](nikolife2016-pulsefeed-x402.md) — Safety checks before paying x402 endpoints: liveness, scam scans (payTo hijack, honeypot), on-chain receiver verification and trust scores.
+- [ninetails-io/gnucash-mcp](ninetails-io-gnucash-mcp.md) — Multi-currency double-entry accounting on local GnuCash books: transactions, invoices, bills, budgets, investment lots, reconciliation and reports.
+- [viniciuslazzari/bolsai-mcp](viniciuslazzari-bolsai-mcp.md) — Brazilian stock market data from B3, CVM and BCB: stock prices, fundamentals, dividends, FIIs and macro indicators (Selic, IPCA, CDI).
+- [agentfund/mcp](agentfund-mcp.md) — Fundraising for AI agents on Solana: register agents, create campaigns, donate via x402 and track on-chain reputation.
+- [sebastienrousseau/camt053-mcp](sebastienrousseau-camt053-mcp.md) — ISO 20022 camt.053 bank statement parsing and XSD validation, IBAN/BIC/LEI checks, Xero and QuickBooks journal export and reversing-entry generation.
+- [sebastienrousseau/pacs008-mcp](sebastienrousseau-pacs008-mcp.md) — Generate, validate and parse ISO 20022 pacs.008, pacs.004 and pacs.002 messages, repair structured addresses and convert SWIFT MT103 to pacs.008.
+- [manganate006/openlmnp](manganate006-openlmnp.md) — Accounting for the French LMNP furnished-rental tax status: journal entries, depreciation, 2031/2033 tax forms, FEC export and Airbnb/Booking.com imports.
+- [tonnode/mcp](tonnode-mcp.md) — Direct liteserver access to The Open Network (TON) over ADNL: GRAM balances, account state, transaction history and contract get-methods.
+- [slenderongithub/fix-protocol-mcp](slenderongithub-fix-protocol-mcp.md) — Parse, validate, build and explain FIX protocol trading messages offline, using a bundled FIX 4.4 field dictionary.
+- [andresdefi/zerodust](andresdefi-zerodust.md) — Sweep native gas balances to exactly zero on EVM chains via EIP-7702 sponsored execution, same-chain or cross-chain, to allowlisted destinations.
+- [amitesh-m/wealthville-integrations](amitesh-m-wealthville-integrations.md) — Read-only Solana and EVM liquidity pool scores: Enter/Hold/Exit verdicts, a composite Wealthville Score, top pools, signals and a public track record.
+- [SynderAccounting/gl-importer-plugin](synderaccounting-gl-importer-plugin.md) — Import CSV/XLSX accounting data into QuickBooks Online or Xero via the Synder Importer API, with field mapping and post-import rules.
+- [sturs49/cryptotaxedge-mcp](sturs49-cryptotaxedge-mcp.md) — US tax classification for on-chain transactions: submit a transaction hash to get its category, tax treatment, a confidence score and a review flag.
+- [sand0vvv/hyperevm-mcp](sand0vvv-hyperevm-mcp.md) — Read-only Hyperliquid/HyperEVM data: HYPE yields (staking, lending, LP, HLP vault), protocol TVL and fees, markets, funding history and order-book depth.
+- [asokore/statcite](asokore-statcite.md) — Cited economic statistics from the World Bank, IMF, BIS, ECB and Caribbean central banks, plus checks of claimed figures against the source series.
+- [ravndex/ravn-mcp-glama](ravndex-ravn-mcp-glama.md) — Cross-chain swap execution across multiple venues and chains, including native Bitcoin as source or destination.
+- [parkyucheol-del/alphapipeline](parkyucheol-del-alphapipeline.md) — x402 pay-per-call market and on-chain data: token-unlock risk, kimchi-premium alerts, honeypot and LP-lock audits, DEX slippage and funding-rate carry.
+- [henfrydls/actual-budget-mcp](henfrydls-actual-budget-mcp.md) — Self-hosted Actual Budget analysis: spending breakdowns, category trends, projections and budget vs. actual, with guarded writes and an optional read-only mode.
+- [yourmatematt/agent-billboard-mcp](yourmatematt-agent-billboard-mcp.md) — Read and post to The Agent Billboard, a single on-chain Solana message slot won by outbidding the previous poster, with operator spend limits.
+- [tillbooks/tillbooks](tillbooks-tillbooks.md) — Local-first Swiss accounting: double-entry journal entries, invoice categorization and follow-up, and Swiss VAT (MWST) returns, stored in local SQLite.
+- [cstamigo-droid/signal-scanner](cstamigo-droid-signal-scanner.md) — Rule-based stock/crypto screener: define signals in YAML (RSI, SMA cross, volume, 52-week levels), scan a watchlist over keyless yfinance data, and get…
+- [airblock2026/bit-monk-signal-mcp](airblock2026-bit-monk-signal-mcp.md) — Bottom/top market-timing verdicts for 10 markets — crypto (197 coins, 32 indicators), US stocks, KOSPI/KOSDAQ, China A-shares, Hong Kong stocks, commodity…
+- [D-Asce/pandastocksdk](d-asce-pandastocksdk.md) — A-share realtime market data via MCP: NATS-pushed quotes, Level2, DDX, capital flow, news. 22 tools, free public test account. Install: `pip install…
+- [SlothyAfk/finance-pulse-python](slothyafk-finance-pulse-python.md) — Financial news as sourced statements with sentiment and tickers, grouped into developments and company storylines. Search by ticker or sector, trending…
+- [cstamigo-droid/market-data-mcp](cstamigo-droid-market-data-mcp.md) — Live market data over Finnhub's free tier (free API key required): quotes, company and market news, earnings calendar, a watchlist scanner and a composite…

@@ -1,0 +1,36 @@
+# Version Control
+
+- [dockndevai/mcp-azure-devops](dockndevai-mcp-azure-devops.md) — Azure DevOps work items, repos, pull requests, pipelines and projects, with access modes, project allowlists, protected projects and delete confirmation.
+- [adhikasp/mcp-git-ingest](adhikasp-mcp-git-ingest.md) — Read and analyze GitHub repositories.
+- [costajohnt/oss-autopilot](costajohnt-oss-autopilot.md) — Open source contribution manager: PR tracking across repos, issue discovery, CI failure diagnosis and maintainer response drafting.
+- [daniloneto/bitbucket-mcp](daniloneto-bitbucket-mcp.md) — Bitbucket Cloud pull-request review: read PRs, diffs, comments, commits and files, post inline or general comments, approve or request changes.
+- [ddukbg/github-enterprise-mcp](ddukbg-github-enterprise-mcp.md) — GitHub Enterprise API integration.
+- [Doucs91/hivelore](doucs91-hivelore.md) — Policy gate for agent-written code: briefs agents on repo-specific team rules and blocks commits that reintroduce documented mistakes via Git hooks and CI.
+- [firelock-ai/kin](firelock-ai-kin.md) — Graph-native code repository that shows what a code change might affect before you make it.
+- [github/github-mcp-server](github-github-mcp-server.md) — GitHub integration for repository management, pull requests, issues and more.
+- [gitopia/gitopia-mcp-server](gitopia-gitopia-mcp-server.md) — Gitopia decentralized Git: repos, issues, PRs, labels, releases, bounties and DAO proposals, with an approval mode for human-in-the-loop.
+- [HasanJahidul/git-insight-mcp](hasanjahidul-git-insight-mcp.md) — Semantic git queries: blame grouped by author, introducing PR, co-change suggestions, branch hygiene, recent-work standups and full commit context.
+- [jaimenbell/github-mcp](jaimenbell-github-mcp.md) — Unofficial read/write access to the GitHub REST API, with configurable tool groups, writes off by default and typed rate-limit handling.
+- [jmrplens/gitlab-mcp-server](jmrplens-gitlab-mcp-server.md) — GitLab REST API v4 coverage with meta-tools, resources and prompts, plus read-only and safe modes.
+- [JaviMaligno/mcp-server-bitbucket](javimaligno-mcp-server-bitbucket.md) — Bitbucket repository management: PRs, pipelines, branches, commits, deployments, webhooks, tags, branch restrictions and source browsing.
+- [JoeGlenn1213/lgh](joeglenn1213-lgh.md) — Local Git hosting for coding agents: serve any directory as an HTTP Git remote with push events, commit statuses, secret and large-file detection and backups.
+- [kaiyuanxiaobing/atomgit-mcp-server](kaiyuanxiaobing-atomgit-mcp-server.md) — AtomGit integration for repository management, pull requests, issues, branches, labels and more.
+- [klarluft/gitwarren-app](klarluft-gitwarren-app.md) — Local code review for you and your coding agent: the agent opens a review of its changes, you comment on lines, it replies and resolves. Reads the git…
+- [kopfrechner/gitlab-mr-mcp](kopfrechner-gitlab-mr-mcp.md) — Interact with issues and merge requests in your GitLab projects.
+- [linnea-bakshi/gha-doctor](linnea-bakshi-gha-doctor.md) — Read-only GitHub Actions health checks: wasted CI compute costs, flaky tests from job logs, slow-run analysis and workflow linting with auto-fix previews.
+- [madeinplutofabio/vibe-revert](madeinplutofabio-vibe-revert.md) — Local safety layer for coding agents: deterministic risk checks, checkpoints and policy inspection, plus restoring files to their pre-session state.
+- [modelcontextprotocol/server-git](modelcontextprotocol-server-git.md) — Read, search and analyze local Git repositories.
+- [MongLong0214/commitlore](monglong0214-commitlore.md) — Returns active decision records for a path before an agent edits it: constraints, ruled-out alternatives and warnings, stored as git trailers and notes.
+- [mshegolev/gitlab-ci-mcp](mshegolev-gitlab-ci-mcp.md) — GitLab CI/CD pipelines, jobs, schedules, merge requests and files, for GitLab SaaS or self-hosted instances.
+- [nikolay-e/diffctx](nikolay-e-diffctx.md) — Selects the minimum code context needed to understand a git diff, using deterministic graph-based fragment selection under a token budget.
+- [noordeen123/culprit](noordeen123-culprit.md) — Offline root-cause analysis for coding agents: rank the commit that introduced a regression, map a feature's blast radius and verify a fix is complete.
+- [QuentinCody/github-graphql-mcp-server](quentincody-github-graphql-mcp-server.md) — Unofficial access to GitHub's GraphQL API for flexible queries on repository data, issues, pull requests and other resources.
+- [rafim-dev/mcp-smart-git](rafim-dev-mcp-smart-git.md) — Git helper for conventional commits, pre-PR secret audits and merge conflict resolution.
+- [raohwork/forgejo-mcp](raohwork-forgejo-mcp.md) — Manage your repositories on a Forgejo or Gitea server.
+- [ReviewGate/reviewgate](reviewgate-reviewgate.md) — Code review against your team's written rules: a generator finds issues and an independent judge filters them, with a pre-push gate and PR bot.
+- [sadayamuthu/mergelock](sadayamuthu-mergelock.md) — Merge gate for parallel coding agents: reports conflicts git can't see between two branches (changed signatures vs new call sites, deleted-but-still-used…
+- [TamiShaks-2/git-context-mcp](tamishaks-2-git-context-mcp.md) — Structured Git repository analysis: project status, recent activity, code map and risk hotspots.
+- [Tiberriver256/mcp-server-azure-devops](tiberriver256-mcp-server-azure-devops.md) — Azure DevOps integration for repository management, work items and pipelines.
+- [wkoverfield/quilt](wkoverfield-quilt.md) — Line-level authorship in a shared Git checkout: multiple coding agents work in one repo, each committing only its own lines, with symbol-level claims.
+- [zach-snell/bbkt](zach-snell-bbkt.md) — Bitbucket Cloud workspaces, repos, PRs, pipelines, issues and source code, hiding tools the API key cannot use.
+- [zarcherlot/code-relay](zarcherlot-code-relay.md) — Branch-scoped runbooks and cross-machine verification with auditable receipts for coding agents.

@@ -1,0 +1,48 @@
+# Data Science Tools
+
+- [dockndevai/mcp-laya](dockndevai-mcp-laya.md) — Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in…
+- [inity13/decisionmatrix-mcp](inity13-decisionmatrix-mcp.md) — Deterministic multi-criteria decision analysis: rank options on weighted criteria via weighted-sum, weighted-product or TOPSIS, with sensitivity analysis.
+- [abhiphile/fermat-mcp](abhiphile-fermat-mcp.md) — Math engine combining SymPy, NumPy and Matplotlib for symbolic algebra, numerical computing and data visualization.
+- [agmonetti/mathmethods-mcp](agmonetti-mathmethods-mcp.md) — Numerical methods: root finding, numerical integration, differential equations (RK4) and Lagrange interpolation.
+- [Archerkattri/mathlas](archerkattri-mathlas.md) — Math tools for agents: theorem search, PSLQ constant identification, OEIS lookup, Lean kernel checks and applicability checklists.
+- [arrismo/kaggle-mcp](arrismo-kaggle-mcp.md) — Connect to Kaggle to download and analyze datasets.
+- [aurelio-nakamura/dataloupe](aurelio-nakamura-dataloupe.md) — Offline tabular data access: describe, preview and query CSV, TSV, JSON, Parquet and Excel files, diff datasets and build an interactive HTML explorer.
+- [avisangle/calculator-server](avisangle-calculator-server.md) — Mathematical computations: basic arithmetic, advanced functions, statistical analysis, unit conversions and financial calculations.
+- [bradleylab/stella-mcp](bradleylab-stella-mcp.md) — Create, read, validate and save Stella system dynamics models (.stmx files in XMILE format) for scientific simulation and modeling.
+- [Bright-L01/networkx-mcp-server](bright-l01-networkx-mcp-server.md) — Graph analysis with NetworkX: centrality algorithms, community detection, PageRank and graph visualization.
+- [chohyerinn/filter-mcp-server](chohyerinn-filter-mcp-server.md) — Compare approximate filter data structures: Bloom, Counting Bloom, Cuckoo and SuRF.
+- [ChronulusAI/chronulus-mcp](chronulusai-chronulus-mcp.md) — Forecasting and prediction with Chronulus AI agents.
+- [clouatre-labs/math-mcp-learning-server](clouatre-labs-math-mcp-learning-server.md) — Educational server for math operations, statistics, visualization and persistent workspaces.
+- [Daichi-Kudo/llm-advisor-mcp](daichi-kudo-llm-advisor-mcp.md) — Real-time LLM and VLM comparison with benchmarks, prices and personalized recommendations from multiple data sources.
+- [DataEval/dingo](dataeval-dingo.md) — Data quality evaluation with Dingo: run rule-based and LLM-based evaluations and list its rules and prompts.
+- [datalayer/jupyter-mcp-server](datalayer-jupyter-mcp-server.md) — Interact with Jupyter.
+- [FantasyLab-ai/aurora](fantasylab-ai-aurora.md) — Transparent statistical analysis with cited findings, integrity-hashed result bundles and a calibration corpus of measured detector false-fire rates.
+- [growthbook/growthbook-mcp](growthbook-growthbook-mcp.md) — Create and interact with GrowthBook feature flags and experiments.
+- [gpartin/WaveGuardClient](gpartin-waveguardclient.md) — Physics-based anomaly detection with Klein-Gordon wave equations: scans, fingerprinting, token risk, wallet profiling and price manipulation detection.
+- [haiiibin/data-profiler-mcp](haiiibin-data-profiler-mcp.md) — Profile local tabular files (CSV, TSV, Parquet, Excel, JSON): dataset overview, per-column statistics, data-quality audits and dtype suggestions.
+- [headlessherm-creator/polymath-megablaster-mcp](headlessherm-creator-polymath-megablaster-mcp.md) — Local deterministic calculations: exact-precision math, date arithmetic, unit conversion, statistics, subnet math, haversine and Levenshtein distance.
+- [HumanSignal/label-studio-mcp-server](humansignal-label-studio-mcp-server.md) — Create, manage and automate Label Studio projects, tasks and predictions for data labeling workflows.
+- [jjsantos01/jupyter-notebook-mcp](jjsantos01-jupyter-notebook-mcp.md) — Interact with and control Jupyter Notebooks.
+- [jonahthan433/cortexcloud-mcp](jonahthan433-cortexcloud-mcp.md) — QUBO/Ising optimization with classical, hybrid and quantum solvers, paid per call via x402 (USDC on Base).
+- [kdqed/zaturn](kdqed-zaturn.md) — Link multiple data sources (SQL, CSV, Parquet and more) and analyze the data for insights and visualizations.
+- [Kungie/gut](kungie-gut.md) — Judgment calls on small, cheap models: yes/no, pick-one and rate questions about any text, answered YES, NO or UNSURE. Runs on TypeSafe's Jev, open models…
+- [leap-laboratories/discovery-engine](leap-laboratories-discovery-engine.md) — Exploratory data analysis that finds feature interactions and subgroup effects, with p-values, effect sizes and literature citations.
+- [lihtness/gnomon-mcp](lihtness-gnomon-mcp.md) — Deterministic date, math and unit tools: time snapshots, calendar math with natural-language parsing, expression evaluation and Pint-based unit conversion.
+- [mckinsey/vizro-mcp](mckinsey-vizro-mcp.md) — Create validated, maintainable data charts and dashboards with Vizro tools and templates.
+- [mrnh/rigor](mrnh-rigor.md) — Classical hypothesis testing, effect sizes, power and sample-size analysis and multiple-comparisons correction, returned as cited, assumption-checked answers.
+- [optuna/optuna-mcp](optuna-optuna-mcp.md) — Orchestrate hyperparameter search and other optimization tasks with Optuna.
+- [Whatsonyourmind/oraclaw](whatsonyourmind-oraclaw.md) — Decision intelligence algorithms: bandits, Monte Carlo, constraint optimization, forecasting, anomaly detection, risk analysis and graph algorithms.
+- [playidea-lab/pcq](playidea-lab-pcq.md) — ML experiment contracts (cq.yaml plus JSON) to run, validate, compare and trace experiments in any framework, including PyTorch, Lightning and sklearn.
+- [phisanti/MCPR](phisanti-mcpr.md) — Connect AI agents to interactive live R sessions.
+- [phuongrealmax/code-guardian](phuongrealmax-code-guardian.md) — Code refactoring engine: code analysis, hotspot detection, complexity metrics, persistent memory and automated refactoring plans.
+- [pramod/kaggle](pramod-kaggle.md) — Browse Kaggle competitions, leaderboards, models, datasets and kernels.
+- [reading-plus-ai/mcp-server-data-exploration](reading-plus-ai-mcp-server-data-exploration.md) — Autonomous data exploration of CSV datasets with generated insights.
+- [ShipItAndPray/mcp-compress](shipitandpray-mcp-compress.md) — Data compression with gzip, Brotli, deflate and TurboQuant quantization, with automatic algorithm selection.
+- [ShipItAndPray/mcp-turboquant](shipitandpray-mcp-turboquant.md) — LLM quantization: convert models to GGUF, GPTQ and AWQ, recommend quantization settings, evaluate quality and push to Hugging Face Hub.
+- [TensorLink-AI/ephemeris-mcp](tensorlink-ai-ephemeris-mcp.md) — Probabilistic time-series forecasting: quantile forecasts from Chronos-2, TimesFM 2.5, Toto 2, TiRex-2 and IBM Granite foundation models, routed to one…
+- [98lukehall/renoun-mcp](98lukehall-renoun-mcp.md) — Structural observability for AI conversations: detects loops, stuck states, breakthroughs and convergence without analyzing content.
+- [subelsky/bundler_mcp](subelsky-bundler-mcp.md) — Query local information about dependencies in a Ruby project's Gemfile.
+- [zcaceres/markdownify-mcp](zcaceres-markdownify-mcp.md) — Convert almost any file or web content into Markdown.
+- [laszlopere/mcp-gnu-units](laszlopere-mcp-gnu-units.md) — Offline unit conversion and dimensional analysis backed by the GNU units database, with compound expressions and reduction to SI base units.
+- [tufantunc/axiom-advanced-math-mcp](tufantunc-axiom-advanced-math-mcp.md) — Offline exact symbolic math via the Giac/Xcas computer algebra system: calculus, equation solving, linear algebra, combinatorics and claim verification.
+- [hanshs474/jevx-mcp](hanshs474-jevx-mcp.md) — Run zero-shot Jev AI typed decisions with criteria defined in the request and get calibrated probabilities for every option.

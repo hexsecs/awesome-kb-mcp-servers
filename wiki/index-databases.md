@@ -1,0 +1,151 @@
+# Databases
+
+- [AIops-tools/MySQL-AIops](aiops-tools-mysql-aiops.md) — Governed MySQL + MariaDB DBA operations — slow-query, lock-wait/deadlock, replication, and fragmentation RCA, plus guardrailed writes (35 tools) with…
+- [dockndevai/mcp-percona-pg](dockndevai-mcp-percona-pg.md) — Manage Percona Operator for PostgreSQL clusters: PgBouncer pooling, tuning, backups and PITR, DR and major upgrades, with gated destructive actions.
+- [dockndevai/mcp-clickhouse](dockndevai-mcp-clickhouse.md) — ClickHouse schema exploration, analytical queries and management, with statements gated by access mode, row caps and auditing.
+- [AIops-tools/Queue-AIops](aiops-tools-queue-aiops.md) — Governed Redis + RabbitMQ operations — memory-pressure, latency, backlog, and churn RCA, plus guardrailed queue and key operations (28 tools) with…
+- [agenticfabriq/mnemiq](agenticfabriq-mnemiq.md) — quality and maintenance score on…
+- [AIops-tools/Postgres-AIops](aiops-tools-postgres-aiops.md) — Governed PostgreSQL DBA operations: slow-query, bloat and lock analysis, index management, vacuum and replication lag, with audit logs and rollback.
+- [Aderali06/sqlite-mcp-server](aderali06-sqlite-mcp-server.md) — Safe, read-only SQLite MCP server with auto schema discovery, row limits, and structured AI error handling.
+- [Aiven-Open/mcp-aiven](aiven-open-mcp-aiven.md) — Navigate Aiven projects and interact with PostgreSQL, Apache Kafka, ClickHouse and OpenSearch services.
+- [alexanderzuev/supabase-mcp-server](alexanderzuev-supabase-mcp-server.md) — Execute SQL queries and explore Supabase databases.
+- [aliyun/alibabacloud-tablestore-mcp-server](aliyun-alibabacloud-tablestore-mcp-server.md) — Alibaba Cloud Tablestore: add documents and search them semantically by vectors and scalars, suited to serverless RAG.
+- [amineelkouhen/mcp-cockroachdb](amineelkouhen-mcp-cockroachdb.md) — Manage, monitor and query data in CockroachDB.
+- [andyWang1688/sql-query-mcp](andywang1688-sql-query-mcp.md) — Work with PostgreSQL and MySQL within clear boundaries: schema discovery, sampling, read-only queries and query-plan inspection.
+- [antonorlov/mcp-postgres-server](antonorlov-mcp-postgres-server.md) — Access PostgreSQL databases, including those behind an SSH bastion.
+- [appwrite/mcp](appwrite-mcp.md) — Manage Appwrite databases, auth, users, functions, storage, messaging and more.
+- [ArcadeData/arcadedb](arcadedata-arcadedb.md) — Built into ArcadeDB, a multi-model database (graph, document, key-value, time-series, vector) with SQL, Cypher, Gremlin and MongoDB QL support.
+- [Arun-kc/schemabrain](arun-kc-schemabrain.md) — Read-only Postgres access with SQL compiled from your own definitions, PII refusal and a tamper-evident audit chain.
+- [ashishsinha1602/schemagate](ashishsinha1602-schemagate.md) — Selects the schema objects a SQL agent sees and returns only the tables the calling principal may read, on Postgres, Oracle, MySQL and SQL Server.
+- [astandrik/local-ydb-toolkit](astandrik-local-ydb-toolkit.md) — Operate Docker-based local-ydb deployments locally or over SSH: bootstrap, diagnostics, auth hardening, storage workflows, dump/restore and upgrades.
+- [benborla29/mcp-server-mysql](benborla29-mcp-server-mysql.md) — MySQL database integration with configurable access controls and schema inspection.
+- [bram2w/baserow](bram2w-baserow.md) — Baserow database integration: search and list tables, and create, read, update and delete rows.
+- [c4pt0r/mcp-server-tidb](c4pt0r-mcp-server-tidb.md) — TiDB database integration with schema inspection and query capabilities.
+- [centralmind/gateway](centralmind-gateway.md) — Automatically generate APIs from database schema and data for PostgreSQL, ClickHouse, MySQL, Snowflake, BigQuery and Supabase.
+- [ChristianHinge/dicom-mcp](christianhinge-dicom-mcp.md) — DICOM integration to query, read and move medical images and reports from PACS and other DICOM-compliant systems.
+- [chroma-core/chroma-mcp](chroma-core-chroma-mcp.md) — Access local and cloud Chroma instances for retrieval.
+- [ClickHouse/mcp-clickhouse](clickhouse-mcp-clickhouse.md) — ClickHouse database integration with schema inspection and query capabilities.
+- [codeurali/mcp-dataverse](codeurali-mcp-dataverse.md) — Microsoft Dataverse: entity CRUD, FetchXML and OData queries, metadata inspection, workflow execution, audit logs and Power Platform integration.
+- [confluentinc/mcp-confluent](confluentinc-mcp-confluent.md) — Confluent integration to interact with Confluent Kafka and Confluent Cloud REST APIs.
+- [corebasehq/coremcp](corebasehq-coremcp.md) — Tunnel-based bridge connecting local and on-premise databases (such as MSSQL) to LLMs, with AST-based query safety and PII masking.
+- [Couchbase-Ecosystem/mcp-server-couchbase](couchbase-ecosystem-mcp-server-couchbase.md) — Unified access to Couchbase Capella and self-managed clusters for document operations, SQL++ queries and natural-language data analysis.
+- [cr7258/elasticsearch-mcp-server](cr7258-elasticsearch-mcp-server.md) — Interact with Elasticsearch.
+- [crystaldba/postgres-mcp](crystaldba-postgres-mcp.md) — Postgres development and operations: performance analysis, tuning and health checks.
+- [cvelasquez/mcp-sqlserver](cvelasquez-mcp-sqlserver.md) — Manage many SQL Server instances from one config, grouped by client or environment, with execution plans, index audits and stored-procedure analysis.
+- [datacharter/datacharter](datacharter-datacharter.md) — Local, contract-governed federation across files and databases (Postgres, Snowflake, BigQuery, DuckDB, Excel) with read-only guards and PII masking.
+- [Dataring-engineering/mcp-server-trino](dataring-engineering-mcp-server-trino.md) — Query and access data in Trino clusters.
+- [davewind/mysql-mcp-server](davewind-mysql-mcp-server.md) — Read-only MySQL database access.
+- [denizgursoy/kafka-mcp](denizgursoy-kafka-mcp.md) — Debug Apache Kafka: find messages by key or field, measure consumer lag and when it clears, unblock stuck consumers and compare clusters. Read-only…
+- [designcomputer/mysql_mcp_server](designcomputer-mysql-mcp-server.md) — MySQL database integration with configurable access controls, schema inspection and security guidelines.
+- [devopam/MCPg](devopam-mcpg.md) — PostgreSQL catalog introspection, AST-validated query execution, index tuning, natural-language SQL, and pgvector, TimescaleDB and AGE integrations.
+- [domdomegg/airtable-mcp-server](domdomegg-airtable-mcp-server.md) — Airtable database integration with schema inspection, read and write capabilities.
+- [edwinbernadus/nocodb-mcp-server](edwinbernadus-nocodb-mcp-server.md) — NocoDB database integration with read and write capabilities.
+- [elekto-com-br/elekto-mcp-sql](elekto-com-br-elekto-mcp-sql.md) — Read-only SQL Server introspection for .NET projects: schema, DDL, dependency graphs, index health and data profiling, reading connection strings from…
+- [ergut/mcp-bigquery-server](ergut-mcp-bigquery-server.md) — Access and query Google BigQuery databases.
+- [Eszetael/postgres-mcp-hardened](eszetael-postgres-mcp-hardened.md) — Read-only PostgreSQL access: AST-validated queries in read-only transactions, schema inspection, column redaction, EXPLAIN cost guard and audit log.
+- [f4ww4z/mcp-mysql-server](f4ww4z-mcp-mysql-server.md) — MySQL database integration for secure database operations.
+- [ferrants/memvid-mcp-server](ferrants-memvid-mcp-server.md) — Local server for memvid storage and semantic search.
+- [fireproof-storage/mcp-database-server](fireproof-storage-mcp-database-server.md) — Fireproof ledger database with multi-user sync.
+- [Michael2150/flamerobin-mcp-server](michael2150-flamerobin-mcp-server.md) — Access Firebird databases registered in FlameRobin: schema introspection, DDL/DML execution, execution plans and missing index analysis.
+- [freema/mcp-gsheets](freema-mcp-gsheets.md) — Google Sheets API integration for reading, writing, formatting and sheet management.
+- [FreePeak/db-mcp-server](freepeak-db-mcp-server.md) — MySQL and PostgreSQL access: query execution, transaction management, schema exploration, query building and performance analysis.
+- [FROWNINGdev/django-orm-lens](frowningdev-django-orm-lens.md) — Static analysis of Django ORM schemas without a database: models, relationships, migration dependencies, missing indexes, ER diagrams and signal graphs.
+- [furey/mongodb-lens](furey-mongodb-lens.md) — Full-featured MongoDB database integration.
+- [gannonh/firebase-mcp](gannonh-firebase-mcp.md) — Firebase services including Auth, Firestore and Storage.
+- [get-convex/convex-backend](get-convex-convex-backend.md) — Convex database integration to introspect tables and functions and run one-off queries.
+- [gigamori/mcp-run-sql-connectorx](gigamori-mcp-run-sql-connectorx.md) — Execute SQL via ConnectorX and stream results to CSV or Parquet files, supporting PostgreSQL, MariaDB, BigQuery, Redshift, SQL Server and more.
+- [googleapis/genai-toolbox](googleapis-genai-toolbox.md) — Open-source server providing easy, fast and secure database tools.
+- [GreptimeTeam/greptimedb-mcp-server](greptimeteam-greptimedb-mcp-server.md) — Query GreptimeDB.
+- [gxc/gaussdb-ro-mcp](gxc-gaussdb-ro-mcp.md) — Read-only MCP server for Huawei GaussDB (centralized & distributed) built for coding agents: three-layer write protection (hardened static SQL validation…
+- [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](hannesrudolph-sqlite-explorer-fastmcp-mcp-server.md) — Safe, read-only access to explore and query SQLite databases, with query validation.
+- [henilcalagiya/google-sheets-mcp](henilcalagiya-google-sheets-mcp.md) — Google Sheets automation tools.
+- [hydrolix/mcp-hydrolix](hydrolix-mcp-hydrolix.md) — Hydrolix time-series datalake integration with schema exploration and query capabilities.
+- [idoru/influxdb-mcp-server](idoru-influxdb-mcp-server.md) — Run queries against the InfluxDB OSS API v2.
+- [infino-ai/infino-mcp](infino-ai-infino-mcp.md) — Retrieval over your own data with Infino (BM25 full-text, vector, hybrid and SQL), an embedded engine on Apache Parquet over object storage.
+- [InfluxData/influxdb3_mcp_server](influxdata-influxdb3-mcp-server.md) — Interact with InfluxDB 3 Core, Enterprise and Cloud Dedicated.
+- [igorolv/jdbc-mcp-server](igorolv-jdbc-mcp-server.md) — Read-only access to PostgreSQL, Oracle and SQL Server via JDBC: schema discovery, query validation, execution plans, benchmarking and index analysis.
+- [izzzzzi/izTolkMcp](izzzzzi-iztolkmcp.md) — Compile, syntax-check and generate deployment deeplinks for TON smart contracts with the Tolk compiler.
+- [isaacwasserman/mcp-snowflake-server](isaacwasserman-mcp-snowflake-server.md) — Snowflake integration with read and optional write operations, plus insight tracking.
+- [ishay60/mcpolyglot](ishay60-mcpolyglot.md) — One server for Postgres, MySQL, SQLite, MongoDB and OpenAPI REST APIs. Every query is checked against a per-table policy, connections are read-only at the…
+- [iunera/druid-mcp-server](iunera-druid-mcp-server.md) — Manage and analyze Apache Druid clusters with tools, resources and prompts.
+- [jakubro/dbprint](jakubro-dbprint.md) — Committed, offline snapshots of database structure and column statistics: value lists, null rates, joins. No live connection.
+- [Janadasroor/pg-mnemosyne-mcp](janadasroor-pg-mnemosyne-mcp.md) — PostgreSQL-backed persistent memory, task tracker and multi-agent coordination hub for AI assistants.
+- [JaviMaligno/postgres_mcp](javimaligno-postgres-mcp.md) — PostgreSQL querying, schema exploration and table analysis, read-only by default with SQL injection prevention.
+- [joshuarileydev/supabase-mcp-server](joshuarileydev-supabase-mcp-server.md) — Create and manage Supabase projects and organizations.
+- [jovezhong/mcp-timeplus](jovezhong-mcp-timeplus.md) — Apache Kafka and Timeplus: list topics, poll messages, save Kafka data locally and query streaming data with SQL via Timeplus.
+- [jparkerweb/mcp-sqlite](jparkerweb-mcp-sqlite.md) — Interact with SQLite databases.
+- [KashiwaByte/vikingdb-mcp-server](kashiwabyte-vikingdb-mcp-server.md) — VikingDB integration: collection and index info, vector storage and search.
+- [kiliczsh/mcp-mongo-server](kiliczsh-mcp-mongo-server.md) — MongoDB database integration.
+- [kosminus/querywise-mcp](kosminus-querywise-mcp.md) — Query SQLite, PostgreSQL, BigQuery and Databricks in natural language through a business semantic layer: glossary, metrics and a data dictionary.
+- [ktanaka101/mcp-server-duckdb](ktanaka101-mcp-server-duckdb.md) — DuckDB database integration with schema inspection and query capabilities.
+- [lagaam-ai/lagaam](lagaam-ai-lagaam.md) — Read-only Trino and Apache Pinot access for agents: every query is priced from the engine's own plan before it runs and refused if it's over budget.
+- [lintbase/lintbase-mcp](lintbase-lintbase-mcp.md) — Firestore schema context for coding agents: scans live collections and returns real field names, types and presence rates to prevent hallucinated queries.
+- [LucasHild/mcp-server-bigquery](lucashild-mcp-server-bigquery.md) — BigQuery database integration with schema inspection and query capabilities.
+- [memgraph/mcp-memgraph](memgraph-mcp-memgraph.md) — Run queries against Memgraph and access its schema.
+- [mbentham/SqlAugur](mbentham-sqlaugur.md) — Read-only SQL Server access with AST-based query validation, schema exploration, ER diagrams and DBA toolkits like First Responder Kit and sp_WhoIsActive.
+- [mickelsamuel/migrationpilot](mickelsamuel-migrationpilot.md) — Check PostgreSQL migrations against lock-safety rules before an agent applies them, offline and without a database.
+- [mahAnuj/mcp-multi-db](mahanuj-mcp-multi-db.md) — Unified read-only tools for PostgreSQL, MySQL and SQLite: list databases and tables, describe tables and run queries, enforced at SQL and database level.
+- [montumodi/mongodb-atlas-mcp-server](montumodi-mongodb-atlas-mcp-server.md) — Access the MongoDB Atlas API.
+- [neo4j-contrib/mcp-neo4j](neo4j-contrib-mcp-neo4j.md) — Neo4j integration: run queries, use Neo4j as knowledge graph memory and manage Neo4j Aura instances.
+- [neondatabase/mcp-server-neon](neondatabase-mcp-server-neon.md) — Create and manage Postgres databases with Neon Serverless Postgres.
+- [nhost/nhost](nhost-nhost.md) — Official Nhost MCP server, bundled with the Nhost CLI. Lets AI coding assistants read your GraphQL schema, run the queries and mutations you allow, manage…
+- [niledatabase/nile-mcp-server](niledatabase-nile-mcp-server.md) — Manage and query Nile Postgres databases, tenants, users and auth.
+- [nlqueries/nlqueries](nlqueries-nlqueries.md) — Self-hosted natural-language-to-SQL engine with validation for PostgreSQL, MySQL, Snowflake, BigQuery and DuckDB, plus document QA and semantic caching.
+- [openlink/mcp-server-jdbc](openlink-mcp-server-jdbc.md) — Generic database (DBMS) connectivity via JDBC.
+- [openlink/mcp-server-odbc](openlink-mcp-server-odbc.md) — Generic database (DBMS) connectivity via ODBC.
+- [openlink/mcp-server-sqlalchemy](openlink-mcp-server-sqlalchemy.md) — Generic database (DBMS) connectivity via SQLAlchemy using pyodbc.
+- [ofershap/mcp-server-sqlite](ofershap-mcp-server-sqlite.md) — SQLite operations: query databases, inspect schemas, explain queries and export data.
+- [pab1it0/adx-mcp-server](pab1it0-adx-mcp-server.md) — Query and analyze Azure Data Explorer databases.
+- [pab1it0/prometheus-mcp-server](pab1it0-prometheus-mcp-server.md) — Query and analyze Prometheus, the open-source monitoring system.
+- [pgtuner_mcp](pgtuner-mcp.md) — PostgreSQL performance tuning.
+- [pilat/mcp-datalink](pilat-mcp-datalink.md) — Secure access to PostgreSQL, MySQL and SQLite databases with parameterized queries and schema inspection.
+- [planetscale/mcp](planetscale-mcp.md) — Built into the PlanetScale CLI: direct access to your PlanetScale databases.
+- [qdrant/mcp-server-qdrant](qdrant-mcp-server-qdrant.md) — Qdrant integration.
+- [QuantGeekDev/mongo-mcp](quantgeekdev-mongo-mcp.md) — MongoDB integration for interacting directly with databases.
+- [quarkiverse/mcp-server-jdbc](quarkiverse-mcp-server-jdbc.md) — Connect to any JDBC-compatible database to query, insert, update, delete and more.
+- [questdb/mcp-server-questdb](questdb-mcp-server-questdb.md) — Drive the QuestDB Web Console: notebook cells, SQL queries and charts on live time-series data.
+- [rashidazarang/airtable-mcp](rashidazarang-airtable-mcp.md) — Airtable integration: query, create, update and delete records, manage bases, tables and schemas, filter records and migrate data.
+- [scoretracker4321/json-mcp-lite](scoretracker4321-json-mcp-lite.md) — Serve any JSON file (catalogue, FAQ, price list) as read-only list, keyword search and get-by-id tools over stdio, configured with CLI flags.
+- [Yusufihsangorgel/queue-inspector-mcp](yusufihsangorgel-queue-inspector-mcp.md) — Inspect and operate Redis-backed Asynq and BullMQ job queues: per-state counts, decoded job payloads and errors, retry and delete, with a read-only mode.
+- [redis/mcp-redis](redis-mcp-redis.md) — Manage and search data in Redis.
+- [Rheopyrin/db-access-mcp](rheopyrin-db-access-mcp.md) — Query PostgreSQL, MySQL, Redshift and SQL Server over SSH or AWS SSM tunnels, with read-only enforcement, confined exports and pluggable secret providers.
+- [Rufflet/mysql-legacy-mcp](rufflet-mysql-legacy-mcp.md) — Access legacy MySQL 5.0 to 5.6 databases: schema inspection and SELECT by default, with opt-in INSERT, UPDATE, DELETE and DDL.
+- [runekaagaard/mcp-alchemy](runekaagaard-mcp-alchemy.md) — Access PostgreSQL, MySQL, MariaDB, SQLite, Oracle, SQL Server and more via SQLAlchemy, with schema and relationship inspection and large dataset analysis.
+- [narekmalk/safedb-mcp](narekmalk-safedb-mcp.md) — Safe, read-only database access with SQL guardrails, table allowlists, PII masking and audit logs.
+- [s2-streamstore/mcp](s2-streamstore-mcp.md) — Interact with the S2 serverless stream platform.
+- [schemacrawler/SchemaCrawler-MCP-Server-Usage](schemacrawler-schemacrawler-mcp-server-usage.md) — Connect to any relational database to get valid SQL and ask questions about the schema, such as what a column prefix means.
+- [seedfast-ai/seedfast-mcp](seedfast-ai-seedfast-mcp.md) — Fill a PostgreSQL database with synthetic test data generated from its live schema: plan, run and track seeds without production data.
+- [seob717/redash-mcp](seob717-redash-mcp.md) — Redash integration: natural-language SQL with safety guards and PII detection, table selection, saved queries, dashboards, widgets and alerts.
+- [SidneyBissoli/ibge-br-mcp](sidneybissoli-ibge-br-mcp.md) — Brazilian IBGE data: demographics, geography and economics, including localities, SIDRA tables, census data, population projections and geographic meshes.
+- [slotix/dbconvert-streams-public](slotix-dbconvert-streams-public.md) — Read-only SQL across PostgreSQL, MySQL, S3-compatible storage and Parquet/CSV/JSON files, with cross-source joins federated by DuckDB.
+- [skysqlinc/skysql-mcp](skysqlinc-skysql-mcp.md) — Launch and delete serverless MariaDB Cloud databases, execute SQL and use database-level AI agents for text-to-SQL and conversations.
+- [Snowflake-Labs/mcp](snowflake-labs-mcp.md) — Snowflake: prompt Cortex Agents, query structured and unstructured data, manage objects, run SQL and query semantic views, with RBAC and CRUD controls.
+- [sqemo/sqemo-mcp](sqemo-sqemo-mcp.md) — Design ERDs following naming standards: edit entities and relationships, import/export SQL and DBML, and diff the model against a live database.
+- [srmadscience/mcpdbwizard-open](srmadscience-mcpdbwizard-open.md) — Generate a Java MCP server exposing only selected Oracle PL/SQL packages, tables, sequences and SQL statements as typed tools, with no generic SQL tool.
+- [subnetmarco/pgmcp](subnetmarco-pgmcp.md) — Natural-language queries for any PostgreSQL database, with automatic streaming and read-only safety.
+- [supabase-community/supabase-mcp](supabase-community-supabase-mcp.md) — Connect to your Supabase project to manage tables, fetch config and query data.
+- [SurajKGoyal/amnesic](surajkgoyal-amnesic.md) — Persistent schema memory for PostgreSQL, MySQL, MSSQL and SQLite: table and column annotations, a foreign-key graph and searchable notes. Read-only.
+- [TheRaLabs/legion-mcp](theralabs-legion-mcp.md) — Multi-database access for PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, SQL Server, BigQuery, Oracle and SQLite.
+- [ThinAirTelematics/thinair-data](thinairtelematics-thinair-data.md) — Dialect-aware tools for PostgreSQL, MySQL and SQL Server: queries, schema introspection, optimization, migrations and PII scanning.
+- [tradercjz/dolphindb-mcp-server](tradercjz-dolphindb-mcp-server.md) — DolphinDB database integration with schema inspection and query capabilities.
+- [tuannvm/mcp-trino](tuannvm-mcp-trino.md) — Trino integration.
+- [ugurcl/dbridge-mcp](ugurcl-dbridge-mcp.md) — Query SQLite, PostgreSQL and MySQL in plain language, read-only, with column hiding and masking, row caps, timeouts, cost-based rejection and rate limiting.
+- [GetMystAdmin/urdb-mcp](getmystadmin-urdb-mcp.md) — Search URDB's product integrity database for integrity scores, enshittification events and change tracking across consumer products.
+- [VictoriaMetrics-Community/mcp-victorialogs](victoriametrics-community-mcp-victorialogs.md) — Integration with VictoriaLogs APIs and documentation for working with logs and debugging VictoriaLogs instances.
+- [weaviate/mcp-server-weaviate](weaviate-mcp-server-weaviate.md) — Use Weaviate collections as a knowledge base and as a chat memory store.
+- [wenb1n-dev/mysql_mcp_server_pro](wenb1n-dev-mysql-mcp-server-pro.md) — MySQL CRUD plus database anomaly analysis and role-based permission control, with easily extensible custom tools.
+- [wenb1n-dev/SmartDB_MCP](wenb1n-dev-smartdb-mcp.md) — Connect to multiple databases at once (MySQL, PostgreSQL, SQL Server, MariaDB, Dameng, Oracle) for operations, health analysis and SQL optimization.
+- [wenerme/wener-mssql-mcp](wenerme-wener-mssql-mcp.md) — MSSQL database integration with schema inspection and query capabilities.
+- [xexr/mcp-libsql](xexr-mcp-libsql.md) — Security and management tools for libSQL databases.
+- [XGenerationLab/xiyan_mcp_server](xgenerationlab-xiyan-mcp-server.md) — Fetch data from databases with natural-language queries, using XiyanSQL as the text-to-SQL model.
+- [xing5/mcp-google-sheets](xing5-mcp-google-sheets.md) — Create, read, update and manage spreadsheets through the Google Sheets API.
+- [yannbrrd/simple_snowflake_mcp](yannbrrd-simple-snowflake-mcp.md) — Snowflake access that works behind a corporate proxy, with read and optional write operations.
+- [ydb/ydb-mcp](ydb-ydb-mcp.md) — Interact with YDB databases.
+- [yimindev/dati](yimindev-dati.md) — Semantic gateway that turns common databases into MCP services, enriched with business metadata and parameterized SQL tools.
+- [yincongcyincong/VictoriaMetrics-mcp-server](yincongcyincong-victoriametrics-mcp-server.md) — Interact with the VictoriaMetrics database.
+- [rafim-dev/schema-bridge-mcp](rafim-dev-schema-bridge-mcp.md) — Compile SQL and Prisma schemas to Zod, TypeScript and Pydantic, and generate realistic synthetic mock API data.
+- [Zhwt/go-mcp-mysql](zhwt-go-mcp-mysql.md) — MySQL access with a configurable read-only mode and schema inspection.
+- [zilliztech/mcp-server-milvus](zilliztech-mcp-server-milvus.md) — Interact with Milvus and Zilliz databases.
+- [wklee610/kafka-mcp](wklee610-kafka-mcp.md) — Inspect Apache Kafka topics and consumer groups and safely manage offsets (reset, rewind).
+- [croc100/Litescope](croc100-litescope.md) — Operations toolchain for SQLite, Cloudflare D1 and Turso: inspect, diff, migrate, monitor, back up and repair databases. Read-only by default.
+- [gulmezeren2-byte/erp-report-engine](gulmezeren2-byte-erp-report-engine.md) — Read-only access to ERP SQL databases (Logo Tiger, Netsis, Mikro) through canonical entities like orders, with a guard that blocks side-effecting statements.

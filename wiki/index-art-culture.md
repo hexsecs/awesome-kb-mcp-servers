@@ -1,0 +1,100 @@
+# Art & Culture
+
+- [AceDataCloud/MCPFlux](acedatacloud-mcpflux.md) — Flux image generation and editing from Black Forest Labs via the Ace Data Cloud API.
+- [musajala/musajala-mcp](musajala-musajala-mcp.md) — Collaborative Arabic poetry arena and Poetic Equity protocol connecting AI agents with human poets.
+- [AceDataCloud/MCPNanoBanana](acedatacloud-mcpnanobanana.md) — Nano Banana image generation and editing, including virtual try-on and product placement in realistic scenes.
+- [AceDataCloud/MCPSeedream](acedatacloud-mcpseedream.md) — ByteDance Seedream image generation and editing via the Ace Data Cloud API.
+- [AIDataNordic/alexandria-mcp](aidatanordic-alexandria-mcp.md) — Semantic search over classical philosophy and humanities works.
+- [8enSmith/mcp-open-library](8ensmith-mcp-open-library.md) — Search for book information via the Open Library API.
+- [fgbytes/sansfiction-mcp](fgbytes-sansfiction-mcp.md) — Search the SansFiction book catalog by title, author, series or ISBN and manage a personal reading library: status, progress, ratings, reviews and collections.
+- [abhiemj/manim-mcp-server](abhiemj-manim-mcp-server.md) — Generate animations locally using Manim.
+- [austenstone/myinstants-mcp](austenstone-myinstants-mcp.md) — Soundboard with meme sounds from myinstants.com: search, play and browse categories.
+- [ahujasid/blender-mcp](ahujasid-blender-mcp.md) — Connect AI assistants to Blender.
+- [JasmyLab-JANCTION/janction-render](jasmylab-janction-janction-render.md) — Render Blender scenes and 3D models (.blend, bpy scripts, GLB/glTF, FBX, USD, OBJ, STL) on cloud GPUs from AI agents: product shots, 360-degree turntables…
+- [albertnahas/icogenie-mcp](albertnahas-icogenie-mcp.md) — Generate SVG icons from text descriptions with customizable styles.
+- [alexzavialov/travel-art-mcp](alexzavialov-travel-art-mcp.md) — Art-tourism data: biennales (Venice, Whitney), art fairs (Art Basel, Frieze), major museum visitor guides and art trip recommendations.
+- [aliafsahnoudeh/shahnameh-mcp-server](aliafsahnoudeh-shahnameh-mcp-server.md) — Access the Shahnameh (Book of Kings), Ferdowsi's Persian epic poem, including sections, verses and explanations.
+- [arikusi/nakkas](arikusi-nakkas.md) — SVG art engine controlled through JSON config: CSS keyframe and SMIL animations, parametric curves, filters, gradients and PNG preview.
+- [Armulee/ai-gateway-mcp](armulee-ai-gateway-mcp.md) — No-markup video, image and speech generation with 400+ Vercel AI Gateway models (Veo, Kling, Seedance, Nano Banana, GPT Image) inside Claude or ChatGPT…
+- [ArturLys/ao3-mcp](arturlys-ao3-mcp.md) — Search Archive of Our Own (AO3) and delegate full-fic reading to Gemini, so recommendations draw on the actual text rather than the blurb.
+- [asmith26/jupytercad-mcp](asmith26-jupytercad-mcp.md) — Control JupyterCAD using natural language.
+- [attalla1/photopea-mcp-server](attalla1-photopea-mcp-server.md) — Image editing through Photopea: documents, layers, text, shapes, filters, effects and export.
+- [krupalghori44-dev/infyicon-mcp](krupalghori44-dev-infyicon-mcp.md) — Search hand-drawn Infyicon icons in four matching styles and fetch SVG markup or PNG URLs.
+- [quokkapix/quokkapix-mcp](quokkapix-quokkapix-mcp.md) — Resize, compress, convert, remove backgrounds, strip metadata, watermark and export images locally through QuokkaPix, without uploading source images.
+- [BluesPrince/thiri-mcp](bluesprince-thiri-mcp.md) — Deterministic music theory: chord and Roman numeral analysis, voicing and reharmonization.
+- [burningion/video-editing-mcp](burningion-video-editing-mcp.md) — Add, analyze, search and generate video edits from your Video Jungle collection.
+- [cantian-ai/bazi-mcp](cantian-ai-bazi-mcp.md) — Bazi (Chinese astrology) charting and analysis.
+- [cfpramod/open-museum-mcp](cfpramod-open-museum-mcp.md) — License-verified search across The Met, Cleveland, AIC, Wikimedia Commons and Europeana, limited to CC0 and public-domain works, with citations.
+- [forgemeshlabs/imagegen-mcp](forgemeshlabs-imagegen-mcp.md) — Image generation, background removal and 4x upscaling, paid per image via x402 in USDC on Base.
+- [Cifero74/mcp-apple-music](cifero74-mcp-apple-music.md) — Apple Music integration: search the catalog, browse your library, manage playlists and get personalized recommendations.
+- [codex-curator/studiomcphub](codex-curator-studiomcphub.md) — Creative AI tools: image generation, upscaling, background removal, product mockups, CMYK conversion, print-ready PDFs, SVG vectorization and watermarking.
+- [ConstantineB6/comfy-pilot](constantineb6-comfy-pilot.md) — View, edit and run ComfyUI node-based image generation workflows, with an embedded terminal.
+- [CreativeClawCo/creative-claw-marketplace](creativeclawco-creative-claw-marketplace.md) — Access media models such as Flux 2 Pro, Nano Banana Pro, GPT Image 2, Veo 3.1, Sora 2, Kling and ElevenLabs for image, video, speech, 3D and branded graphics.
+- [cswkim/discogs-mcp-server](cswkim-discogs-mcp-server.md) — Interact with the Discogs API.
+- [clanker-records/crompton-network](clanker-records-crompton-network.md) — Machine-native listening platform for C.W.A.'s album Straight Outta Crompton, letting AI agents listen to it.
+- [DataCraftsmanAU/vineverse-mcp](datacraftsmanau-vineverse-mcp.md) — The Bible as a knowledge graph of verses, people, places, topics and Hebrew lexemes: scripture search, interlinear lookup, cross references and genealogy.
+- [delmas41/gradusnotation](delmas41-gradusnotation.md) — Render music notation as SVG, MusicXML and MIDI from a JSON score, analyze MusicXML harmonically and search a music-theory knowledge base.
+- [diivi/aseprite-mcp](diivi-aseprite-mcp.md) — Create pixel art using the Aseprite API.
+- [djalal/quran-mcp-server](djalal-quran-mcp-server.md) — Interact with the Quran.com corpus via its REST API.
+- [dokaNc/illugen-mcp](dokanc-illugen-mcp.md) — Build, edit and render JangaFX IlluGen node graphs (procedural textures, VFX flipbooks): 157 node types, typed pin checks, curves, gradients, subgraphs, and…
+- [drakonkat/wizzy-mcp-tmdb](drakonkat-wizzy-mcp-tmdb.md) — Search and retrieve movie, TV show and person information from The Movie Database (TMDB) API.
+- [effectustasi/autodesk-inventor-mcp](effectustasi-autodesk-inventor-mcp.md) — Connect AI assistants to a live Autodesk Inventor session over COM: inspect bodies and features, find sliver faces in imported models, dry-run Unwrap, and…
+- [fatenava/fatenava-mcp](fatenava-fatenava-mcp.md) — Destiny charting: BaZi, Zi Wei Dou Shu and Western astrology natal charts, with true solar time correction and Chinese, English, Japanese and Korean input.
+- [flamexnreal/davinci-resolve-ai-bridge-mcp](flamexnreal-davinci-resolve-ai-bridge-mcp.md) — Local bridge for DaVinci Resolve (Free and Studio): timeline inspection, zoom animation, color adjustments and duplicate-timeline review.
+- [Gatyh/3dtexel-mcp](gatyh-3dtexel-mcp.md) — Official 3D Texel server: search and download 7,000+ PBR materials, HDRIs, decals and 3D assets (1,600+ free CC0) and generate seamless PBR materials and…
+- [gavxm/ani-mcp](gavxm-ani-mcp.md) — AniList integration with taste-aware recommendations, watch analytics, social tools and list management.
+- [gchen19/AnkusDrive](gchen19-ankusdrive.md) — Drive a local FreeCAD from an agent: parametric CAD, TechDraw drawings with GD&T, CalculiX FEM, and CFD, thermal, EM and multiphysics simulation.
+- [GenWaveLLC/svgmaker-mcp](genwavellc-svgmaker-mcp.md) — Generate and edit SVGs via natural language, with real-time updates and secure file handling.
+- [gokimedia/tarot-mcp-server](gokimedia-tarot-mcp-server.md) — Tarot meanings for all 78 cards, upright and reversed interpretations, love and career readings, yes-or-no answers, random draws and three-card spreads.
+- [gupta-kush/spotify-mcp](gupta-kush-spotify-mcp.md) — Spotify tools: smart shuffle, natural-language song search, vibe analysis, artist network mapping, taste evolution and playlist management.
+- [hanshs474/kavel-mcp](hanshs474-kavel-mcp.md) — Discover Kavel's AI photo and video generators (hairstyles, figurines, pet portraits, yearbook photos, dance videos, HD restoration) and get tuned prompts.
+- [hjbaard/SolidWorks-MCP](hjbaard-solidworks-mcp.md) — Drive a running SolidWorks from an agent over COM: 86 tools for parametric parts and assemblies (extrude, revolve, sweep, loft, holes on any face, ribs…
+- [jau123/MeiGen-AI-Design-MCP](jau123-meigen-ai-design-mcp.md) — Image generation and editing with a curated prompt library, prompt enhancement and routing across local ComfyUI, MeiGen Cloud and OpenAI-compatible APIs.
+- [j-east/pixel-surgeon-mcp](j-east-pixel-surgeon-mcp.md) — Image and video generation, editing and region repair via Gemini 3.1 Flash Image, GPT Image 2, Grok Imagine and Veo 3, with style presets.
+- [kenzolika/yandex-music-mcp](kenzolika-yandex-music-mcp.md) — Unofficial Yandex Music server: search, likes, listening history, My Wave, similar tracks, public playlists by link, playlist management and export of your…
+- [khglynn/spotify-bulk-actions-mcp](khglynn-spotify-bulk-actions-mcp.md) — Bulk Spotify operations: confidence-scored song matching, batch playlist creation from CSV or podcast lists, and exports of your most-saved artists and albums.
+- [labelgrid/labelgrid-mcp](labelgrid-labelgrid-mcp.md) — Manage your LabelGrid music distribution catalog, releases, analytics and royalties.
+- [leonardoca1/aesthetics-wiki-mcp](leonardoca1-aesthetics-wiki-mcp.md) — Search, read and discover visual aesthetics such as cottagecore, dark academia, Y2K and goblincore from the Aesthetics Wiki.
+- [memebo-at/memeboat-mcp](memebo-at-memeboat-mcp.md) — Create memes from memebo.at templates: search the catalog, caption a template and get a shareable meme link.
+- [mikechao/metmuseum-mcp](mikechao-metmuseum-mcp.md) — Search and display artworks via the Metropolitan Museum of Art Collection API.
+- [mikan-atomoki/text-to-model](mikan-atomoki-text-to-model.md) — Turn natural language into 3D models in Fusion 360, with CAD tools for sketches, extrudes, fillets and JIS standard parts.
+- [molanojustin/smithsonian-mcp](molanojustin-smithsonian-mcp.md) — Access the Smithsonian Institution's Open Access collections.
+- [noteboxd/mcp](noteboxd-mcp.md) — Query the Noteboxd fragrance encyclopedia for perfumes, notes, accords, brands, perfumers, reviews and charts.
+- [joshseane/-nmlp-mcp](joshseane-nmlp-mcp.md) — First-edition book identification using points of issue, number-line decoding and publisher rules, plus New Mexico book-donation logistics.
+- [ni-c/calibreweb-mcp](ni-c-calibreweb-mcp.md) — Read-only access to a self-hosted Calibre-Web or Calibre-Web Automated ebook library via OPDS: search, shelves, covers and per-format download links.
+- [ntworm/ableton-mcp-server](ntworm-ableton-mcp-server.md) — Inspect and automate Ableton Live locally through a Python MIDI Remote Script, with MIDI editing, device control, audio analysis and groove tools.
+- [OctoEverywhere/mcp](octoeverywhere-mcp.md) — 3D printer access: live printer state, webcam snapshots and printer control.
+- [omni-mcp/isaac-sim-mcp](omni-mcp-isaac-sim-mcp.md) — Natural-language control of NVIDIA Isaac Sim, Isaac Lab, OpenUSD and more, via a server and an extension.
+- [Pantani/ableton-mind](pantani-ableton-mind.md) — Control Ableton Live through a local Remote Script bridge: inspect sets, create tracks, scenes and clips, load devices, apply music recipes and verify changes.
+- [Pantani/tdmcp](pantani-tdmcp.md) — Describe a visual to build a playable TouchDesigner network: audio-reactive, generative, particle, 3D and feedback systems with live knobs and MIDI/OSC/DMX.
+- [PatrickPalmer/MayaMCP](patrickpalmer-mayamcp.md) — Connect AI assistants to Autodesk Maya.
+- [pzfreo/build123d-mcp](pzfreo-build123d-mcp.md) — Create, inspect and iterate on 3D geometry with build123d parametric CAD: render PNG/SVG views, measure geometry and export STEP/STL.
+- [Psalmustrack/lambdacad-mcp](psalmustrack-lambdacad-mcp.md) — Drive BricsCAD on Linux via an AutoLISP bridge: 2D drafting with dimensions and hatches, 3D solids with booleans, generated drawing views and PDF export.
+- [doctorm333/promptpilot-mcp-server](doctorm333-promptpilot-mcp-server.md) — Generate images, video and audio with models such as Flux, GPT-Image-1, Imagen 4, Grok, Seedance and ElevenLabs, with prompt presets and batch generation.
+- [r-huijts/oorlogsbronnen-mcp](r-huijts-oorlogsbronnen-mcp.md) — Access historical WWII records, photographs and documents from the Netherlands (1940-1945) via the Oorlogsbronnen (War Sources) API.
+- [r-huijts/rijksmuseum-mcp](r-huijts-rijksmuseum-mcp.md) — Search artworks and get details and collections via the Rijksmuseum API.
+- [raveenb/fal-mcp-server](raveenb-fal-mcp-server.md) — Generate images, videos and music with Fal.ai models such as FLUX, Stable Diffusion and MusicGen.
+- [rekordcloud/sonovault-mcp](rekordcloud-sonovault-mcp.md) — Music metadata search over tracks, artists, labels and releases: genres, release dates, ISRC/ISWC codes and IDs for Spotify, Apple Music, Discogs and more.
+- [rosasynthesiz/flstudio-mcp](rosasynthesiz-flstudio-mcp.md) — Control FL Studio: in-DAW mixing (gain staging, EQ, compression, reverb, reference matching), routing and composition.
+- [runcomfy-com/runcomfy-mcp](runcomfy-com-runcomfy-mcp.md) — Manage RunComfy ComfyUI serverless deployments, hosted model inference and LoRA training jobs.
+- [samuelgursky/davinci-resolve-mcp](samuelgursky-davinci-resolve-mcp.md) — DaVinci Resolve integration for video editing, color grading, media management and project control.
+- [sharafutdinovdi/revit-model-mcp](sharafutdinovdi-revit-model-mcp.md) — Read a live Autodesk Revit model (elements, parameters, views, warnings, PNG exports); model changes are opt-in, with dry runs and post-commit verification.
+- [shunshi-ai/bazi-reader-mcp](shunshi-ai-bazi-reader-mcp.md) — Bazi (Four Pillars) charting with true solar time correction and output in Chinese, English, Japanese and Korean.
+- [smeet666/mcp-lrclib](smeet666-mcp-lrclib.md) — Search tracks on LRCLIB and read their lyrics, including time-synced LRC lines, with compact search results.
+- [smeet666/mcp-imslp](smeet666-mcp-imslp.md) — Read IMSLP, the Petrucci Music Library: search works and composers, view catalogue numbers, key and instrumentation, and browse editions with copyright status.
+- [slshults/shakespeare-monologues-mcp](slshults-shakespeare-monologues-mcp.md) — Search Shakespeare monologues by character, play or first line, and fetch full text, modern-English paraphrases and scene or play summaries.
+- [smeet666/mcp-books](smeet666-mcp-books.md) — Search the Internet Archive, the Library of Congress and the Bibliothèque nationale de France at once, across catalogues and inside scanned text.
+- [speedwarnsf/scenef-mcp](speedwarnsf-scenef-mcp.md) — Read-only showtimes for California and Hawaii theaters, from repertory houses and 35mm/70mm screenings to chains, verified against each theater's calendar.
+- [tasopen/mcp-alphabanana](tasopen-mcp-alphabanana.md) — Generate image assets with Google Gemini (Nano Banana 2 and Pro): transparent PNG/WebP, exact resizing and cropping, reference images and Search grounding.
+- [TOBYCAI/image-mcp](tobycai-image-mcp.md) — Offline image processing: resize, crop, convert, compress, rotate, flip, thumbnails, watermarks, effects, placeholders and overlays.
+- [TwelveTake-Studios/reaper-mcp](twelvetake-studios-reaper-mcp.md) — Control the REAPER DAW for mixing, mastering, MIDI composition and music production.
+- [UModeler/picoberry-mcp](umodeler-picoberry-mcp.md) — Generate 3D models and images from text or reference images, then remesh, retexture, auto-rig, animate and export GLB/FBX/OBJ via the PicoBerry API.
+- [Venut-Technologies/serato-dj-mcp](venut-technologies-serato-dj-mcp.md) — Ask an AI assistant about your Serato DJ library: harmonic BPM and Camelot key search, crates, duplicate and missing-file audits, and new crates built with…
+- [vicseeai/vicsee-mcp-server](vicseeai-vicsee-mcp-server.md) — Generate, edit and upscale AI video and images (Seedance, Veo, Kling, FLUX, Nano Banana) via VicSee.
+- [wretcher207/reaper-daemon](wretcher207-reaper-daemon.md) — Drive the REAPER DAW over a local file bridge: read plugins and parameters, set FX values, write automation and measure mix changes, all inside undo blocks.
+- [XavierFabregat/spotify-mcp](xavierfabregat-spotify-mcp.md) — Conversational Spotify control: play by description and manage the queue, devices, playlists and library, with a guided setup wizard.
+- [Xxx91n/mcp-for-maya](xxx91n-mcp-for-maya.md) — MCP server giving AI agents spatial awareness inside Autodesk Maya — scene inspection, deterministic audit, checkpoint/rollback transactional safety…
+- [yonlandwu/chinese-almanac-mcp](yonlandwu-chinese-almanac-mcp.md) — Chinese almanac (Tung Shing): daily readings, hour-pillar luck ratings, NASA JPL-based solar terms, auspicious dates, zodiac horoscopes and lucky hours.
+- [yuluo688/gen-image-mcp](yuluo688-gen-image-mcp.md) — Generate and edit images via your own OpenAI-compatible or Gemini image APIs and save them into the project directory, with optional model fallback.
+- [yuna0x0/anilist-mcp](yuna0x0-anilist-mcp.md) — Anime and manga information from the AniList API.
+- [smeet666/mcp-bideetmusique](smeet666-mcp-bideetmusique.md) — Search Bide & Musique's hand-catalogued collection of forgotten French songs by performer, title, writer, lyrics, label or year, and read full records.

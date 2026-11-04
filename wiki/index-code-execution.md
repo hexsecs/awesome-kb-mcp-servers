@@ -1,0 +1,25 @@
+# Code Execution
+
+- [alfonsograziano/node-code-sandbox-mcp](alfonsograziano-node-code-sandbox-mcp.md) — Run JavaScript snippets in isolated Docker sandboxes with on-the-fly npm dependency installation and clean teardown.
+- [alvii147/piston-mcp](alvii147-piston-mcp.md) — Execute code through the Piston remote code execution engine.
+- [asif-nvc/e2b-sandbox-mcp](asif-nvc-e2b-sandbox-mcp.md) — E2B cloud sandboxes: create isolated Linux VMs, clone repos, run commands, manage files and perform git operations without touching the local machine.
+- [bloriner/terse](bloriner-terse.md) — MCP server for Terse, an AI-native code language for coding agents: parse, evaluate, transpile to Python, and token-count Terse source over stdio.
+- [ckanthony/openapi-mcp](ckanthony-openapi-mcp.md) — Access any API through its existing OpenAPI documentation.
+- [dagger/container-use](dagger-container-use.md) — Containerized environments for coding agents: each agent works in its own fresh container and git branch, with execution history and terminal access.
+- [fstandhartinger/sandbox-as-a-service-mcp](fstandhartinger-sandbox-as-a-service-mcp.md) — Dedicated Linux VM sandboxes for untrusted, model-generated code: run commands, move files, expose a preview URL and destroy the VM.
+- [gwbischof/outsource-mcp](gwbischof-outsource-mcp.md) — Delegate tasks to other AI providers' models, e.g. ask OpenAI to generate an image.
+- [hileamlakB/PRIMS](hileamlakb-prims.md) — Python runtime interpreter that executes submitted code in an isolated environment.
+- [ksterx/srunx](ksterx-srunx.md) — Submit SLURM jobs, run YAML workflows, monitor GPU resources, manage SSH profiles and sync files with local or SSH-remote HPC clusters.
+- [mavdol/capsule/mcp-server](mavdol-capsule-mcp-server.md) — Run untrusted Python/JavaScript code in WebAssembly sandboxes.
+- [musharna/jobd](musharna-jobd.md) — Self-hostable GPU-aware job broker: dispatch long-running or GPU jobs that outlive the session, route them by VRAM tier and monitor them across sessions.
+- [HanSur94/matlab-mcp-server-python](hansur94-matlab-mcp-server-python.md) — MATLAB integration: execute code, run async jobs with progress reporting, get interactive Plotly plots and expose custom .m functions as tools.
+- [ouvreboite/openapi-to-mcp](ouvreboite-openapi-to-mcp.md) — Access any API via its OpenAPI specification, with full JSON Schema support for parameters and request bodies.
+- [pratham-jain33/hackerearth-mcp](pratham-jain33-hackerearth-mcp.md) — Give any AI assistant a code run button: execute code in 24 languages on HackerEarth's sandboxed servers. `uvx hackerearth-mcp`.
+- [r33drichards/mcp-js](r33drichards-mcp-js.md) — JavaScript sandbox that uses V8 isolation to run AI-generated code locally, with heap snapshotting for persistent sessions.
+- [Reachpad/reachpad-mcp](reachpad-reachpad-mcp.md) — Persistent cloud dev environments for coding agents: create, run commands, checkpoint and fork, with files, services and terminal state kept between calls.
+- [rikarazome/prolog-reasoner](rikarazome-prolog-reasoner.md) — SWI-Prolog execution for LLMs with CLP(FD), negation as failure and recursion.
+- [SebastianGilPinzon/colab-mcp](sebastiangilpinzon-colab-mcp.md) — Control Google Colab notebooks and assign GPUs (T4/L4/A100). Fork of Google's colab-mcp with all tools visible at startup and Windows support.
+- [Sowiedu/Edict](sowiedu-edict.md) — Agent-oriented programming language: agents emit a JSON AST that the compiler validates, type- and effect-checks, verifies with Z3/SMT and compiles to WASM.
+- [telleroutlook/agentkit-js/mcp-server](telleroutlook-agentkit-js-mcp-server.md) — Code-mode MCP server: collapses user-defined tools into code execution plus docs search, sandboxed in node:vm, WASM or remote microVMs.
+- [The-40-Thieves/codecalc](the-40-thieves-codecalc.md) — Code and logic calculator with an offline core: run code, exact symbolic math, SMT/logic and complexity analysis, with optional gVisor/AppContainer sandboxing.
+- [yepcode/mcp-server-js](yepcode-mcp-server-js.md) — Run LLM-generated code in a YepCode sandbox and create custom MCP tools in JavaScript or Python with npm and PyPI packages.

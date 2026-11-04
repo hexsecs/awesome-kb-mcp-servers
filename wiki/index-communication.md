@@ -1,0 +1,186 @@
+# Communication
+
+- [A1-x-Tech/mcp-google-chat](a1-x-tech-mcp-google-chat.md) — Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.
+- [A1-x-Tech/mcp-google-gmail](a1-x-tech-mcp-google-gmail.md) — Gmail API: search, read and send email, and manage drafts, labels and the trash.
+- [AbdelStark/nostr-mcp](abdelstark-nostr-mcp.md) — Interact with Nostr: post notes and more.
+- [adamVass/pylos-mcp](adamvass-pylos-mcp.md) — Email for any IMAP provider: search, read, draft and allowlisted sending, with every message fenced as untrusted input and warnings for hidden text and…
+- [adecubed/gigamail](adecubed-gigamail.md) — Microsoft 365 or IMAP mail and calendar: read, search, draft and find free slots, with out-of-band human approval for sends, deletes and calendar writes.
+- [adhikasp/mcp-twikit](adhikasp-mcp-twikit.md) — Interact with Twitter search and timeline.
+- [agenticmail/agenticmail](agenticmail-agenticmail.md) — Email and SMS for AI agents via a local mail server: disposable inboxes, sending and receiving email, and fetching verification codes.
+- [agentmail-to/agentmail-mcp](agentmail-to-agentmail-mcp.md) — Email for AI agents: create inboxes on the fly to send, receive and act on email.
+- [aisenseapi/aamio-python](aisenseapi-aamio-python.md) — Ephemeral rendezvous for agents: expiring threads with a secret read key and public write address, plus an open board where agents find each other.
+- [Albretsen/MCPEmails](albretsen-mcpemails.md) — Email for Gmail, Fastmail, iCloud, Yahoo, Zoho, Yandex and any IMAP/SMTP mailbox: read, search, send, organize, draft, schedule and auto-triage mail.
+- [alexneamtu/gmail-mcp](alexneamtu-gmail-mcp.md) — Self-hosted, multi-account Gmail for Claude and Codex over Streamable HTTP, with owner-only OAuth, explicit account aliases, encrypted credentials, and…
+- [andrewchmr/mxprobe](andrewchmr-mxprobe.md) — Email verification for AI agents: returns send, hold or kill for an address with a reason, using local DNS checks or a hosted SMTP probe.
+- [anypost/emailmd](anypost-emailmd.md) — Write and preview emails: render Markdown into email-safe HTML for Outlook and Gmail, lint drafts for deliverability and get a live preview link.
+- [arbengine/mailbox-mcp](arbengine-mailbox-mcp.md) — Physical mail API for AI agents: send letters, certified mail, postcards and batch mailings with cost previews, approval controls, tracking and webhooks.
+- [Atomic-Mail/atomic-mail-agentic](atomic-mail-atomic-mail-agentic.md) — Email for AI agents: autonomous inbox registration via proof-of-work, custom domains, and sending and receiving over the open JMAP standard.
+- [AutomateLab-tech/content-distribution-mcp](automatelab-tech-content-distribution-mcp.md) — Publish content to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky, LinkedIn, Medium and Twitter, adapted per platform with idempotent state.
+- [bababoi-bibilabu/agent-mq](bababoi-bibilabu-agent-mq.md) — Message queue that lets AI coding assistants message each other across sessions and machines. Self-hostable.
+- [areweai/tsgram-mcp](areweai-tsgram-mcp.md) — Use Claude with local workspace access from Telegram on your phone: read, write and code on the go.
+- [arpitbatra123/mcp-googletasks](arpitbatra123-mcp-googletasks.md) — Interface with the Google Tasks API.
+- [bartosz-kuc/honest-gmail-mcp](bartosz-kuc-honest-gmail-mcp.md) — Gmail server that runs on your machine and calls the Gmail API directly with your own OAuth client, with no third-party middleman. Search with Gmail query…
+- [belaytzev/Telebrief](belaytzev-telebrief.md) — Self-hosted digests of your Telegram channels over MCP: AI summaries, the last digest and raw per-channel messages, with OpenAI, Anthropic or Ollama.
+- [BigCactusLabs/dead-letter](bigcactuslabs-dead-letter.md) — Convert .eml exports to Markdown with YAML front matter for RAG pipelines: thread splitting, signature stripping, attachment extraction and calendar parsing.
+- [Cactusinhand/mcp_server_notify](cactusinhand-mcp-server-notify.md) — Send desktop notifications with a sound effect when agent tasks complete.
+- [carterlasalle/mac_messages_mcp](carterlasalle-mac-messages-mcp.md) — Query, analyze, send and receive iMessage conversations, with phone number validation, attachments, contacts and group chats.
+- [chaindead/telegram-mcp](chaindead-telegram-mcp.md) — Telegram API integration: access user data, manage dialogs (chats, channels, groups), retrieve messages and handle read status.
+- [chatmaid/mcp](chatmaid-mcp.md) — Chatmaid WhatsApp API: send messages to contacts and groups from a linked WhatsApp number, read replies, check delivery status and usage.
+- [chigwell/telegram-mcp](chigwell-telegram-mcp.md) — Telegram API integration: access user data, manage dialogs (chats, channels, groups), retrieve and send messages, and handle read status.
+- [Choppaaahh/sendgrid-mcp-secure](choppaaahh-sendgrid-mcp-secure.md) — Security-focused SendGrid email sending with recipient/domain allowlists, send caps, review mode, an audit log and no silent BCC.
+- [churichard/fluxmail](churichard-fluxmail.md) — Self-hosted email for Gmail, Microsoft 365, Outlook.com and IMAP/SMTP: read, search, draft, send, schedule and organize mail, with per-client permissions.
+- [clawaimail/mcp](clawaimail-mcp.md) — Email infrastructure for AI agents: create inboxes on the fly, send and receive email, search messages and manage threads.
+- [codefuturist/email-mcp](codefuturist-email-mcp.md) — IMAP/SMTP email across multiple accounts: read, search, send, schedule and manage mail, with IMAP IDLE push, AI triage and desktop notifications.
+- [cometchat/docs-mcp](cometchat-docs-mcp.md) — Search CometChat documentation and get curated implementation bundles for adding real-time chat, voice, video and moderation to apps.
+- [CommonNinja/sendraven-mcp-server](commonninja-sendraven-mcp-server.md) — Email for AI agents: send email, read replies as threads, and reply in context, with per-key send limits and approvals. Remote at…
+- [conarti/mattermost-mcp](conarti-mattermost-mcp.md) — Mattermost API integration: list channels, read and post messages, manage threads and reactions, and monitor topics.
+- [Danielpeter-99/calcom-mcp](danielpeter-99-calcom-mcp.md) — Manage Cal.com event types, create bookings and access scheduling data.
+- [desek/outlook-local-mcp](desek-outlook-local-mcp.md) — Local Microsoft Outlook calendar and mail via Microsoft Graph, with multi-account support and OS keychain token storage.
+- [dialgoodian/clawdcall-mcp](dialgoodian-clawdcall-mcp.md) — Place consent-based outbound phone calls and retrieve transcripts, summaries and outcomes.
+- [discourse/discourse-mcp](discourse-discourse-mcp.md) — Discourse forum integration: search topics, read posts, manage categories and tags, discover users and interact with communities.
+- [dockndevai/mcp-outlook](dockndevai-mcp-outlook.md) — Outlook mail via Microsoft Graph: read, search, draft, send and organize email. Read-only by default, with audit logs and confirmation before send or delete.
+- [csanadymiklos/lauther-js](csanadymiklos-lauther-js.md) — Let an agent ask its owner first, on their phone, before doing something irreversible. `ask_approval` blocks until a person answers and distinguishes DENIED…
+- [cseguinlz/doubletick-cli](cseguinlz-doubletick-cli.md) — Email read tracking via Gmail: send tracked emails and check whether they were opened, with open count, device and timing.
+- [csitte/mailwarden](csitte-mailwarden.md) — Gmail mailbox control via the live Gmail API: search, read, label, archive, trash, download attachments and snooze threads until a date.
+- [Dipeshpal/capes](dipeshpal-capes.md) — Free, self-hosted MCP server you deploy to your own Vercel: 62 tools for Gmail (app password), Discord (bot) and X search, with an owner dashboard, per-tool…
+- [drsound/markdown-to-whatsapp](drsound-markdown-to-whatsapp.md) — Convert Markdown to WhatsApp formatting so agent output shows bold, lists and quotes instead of raw asterisks, with tables rendered as monospace boxes.
+- [edouard-claude/whatsapp-mcp](edouard-claude-whatsapp-mcp.md) — Full-featured personal WhatsApp: read and full-text search all chats, send, reply, react, edit and delete, polls, media as raw files, groups and…
+- [elie222/inbox-zero](elie222-inbox-zero.md) — Inbox Zero features on top of Gmail, such as finding emails that need a reply or follow-up.
+- [EthanQC/feishu-user-plugin](ethanqc-feishu-user-plugin.md) — Feishu/Lark integration: send messages as the actual user rather than a bot, plus docs, Bitable, wiki, Drive, calendar, tasks and OKRs.
+- [ExpertVagabond/solmail-mcp](expertvagabond-solmail-mcp.md) — Compose, price and send physical letters and postcards, paid with Solana.
+- [FastAlertNow/mcp-server](fastalertnow-mcp-server.md) — List channels and send notifications through the FastAlert API.
+- [FantomaSkaRus1/telegram-bot-mcp](fantomaskarus1-telegram-bot-mcp.md) — Covers the entire Telegram Bot API.
+- [farukkolip/instapdown-mcp](farukkolip-instapdown-mcp.md) — Instagram creator toolkit: download Reels, Stories and photos, extract audio, check engagement, research hashtags and get hook templates and posting times.
+- [farukkolip/xtapdown-mcp](farukkolip-xtapdown-mcp.md) — X (Twitter) creator toolkit: tweet media downloads, curated hashtags, posting times, hook formulas, engagement calculators and a thread splitter.
+- [fbossiere/proton-safe-mcp](fbossiere-proton-safe-mcp.md) — Proton Mail access through the local Proton Mail Bridge: search and read emails, inspect attachments, and create drafts. No send, delete or move tools.
+- [gambot-ai/gambot-mcp](gambot-ai-gambot-mcp.md) — Gambot WhatsApp Business API: send WhatsApp messages and templates, and manage CRM contacts, leads, cases, tasks, quotes, invoices, orders and campaigns.
+- [gerkensm/callcenter.js-mcp](gerkensm-callcenter-js-mcp.md) — Make phone calls using VoIP/SIP and OpenAI's Realtime API, and observe the transcript.
+- [GeiserX/telegram-archive-mcp](geiserx-telegram-archive-mcp.md) — Search and browse Telegram chat history stored in Telegram Archive: list chats, retrieve messages and run full-text search.
+- [getpoststack/mcp](getpoststack-mcp.md) — EU-hosted email API: send transactional and marketing email, manage contacts and segments, run broadcasts, render templates and read analytics.
+- [giggal-ai/giggal-mcp](giggal-ai-giggal-mcp.md) — Email verification: mailbox existence checks, including catch-all, accept-all and SEG-protected addresses (Proofpoint, Mimecast, Barracuda), single or bulk.
+- [gitmotion/ntfy-me-mcp](gitmotion-ntfy-me-mcp.md) — Send and fetch ntfy notifications on a self-hosted ntfy server, with token auth support.
+- [googlarz/proton-mail-bridge-client](googlarz-proton-mail-bridge-client.md) — Local-first Proton Mail MCP server and CLI via Proton Mail Bridge: search, read, draft, send, triage threads, answer calendar invitations, reply reminders…
+- [googlarz/signal-mcp](googlarz-signal-mcp.md) — Signal messenger via a local signal-cli: send and receive messages, manage groups and contacts, search history, and handle attachments and reactions.
+- [gopalrajsuresh/covalent-bond](gopalrajsuresh-covalent-bond.md) — Pair two AI coding agents on different machines over an end-to-end encrypted relay to exchange files and messages, with human consent before any file write.
+- [gotoolkits/wecombot](gotoolkits-wecombot.md) — Send various types of messages to a WeCom group bot.
+- [Groundmail/groundmail-mcp](groundmail-groundmail-mcp.md) — Send and schedule transactional email, check delivery, and set up sending domains, templates, webhooks and suppressions with Groundmail. Runs locally over…
+- [grzgrzgrz3/pingwa-client](grzgrzgrz3-pingwa-client.md) — Two-way WhatsApp notifications for AI agents: send messages, ask questions with tap-to-answer buttons and check replies, without a Meta account.
+- [Hugo0/swarmmemo](hugo0-swarmmemo.md) — Public message board for AI agents: read and post in rooms and threads with no account, plus optional Ed25519 identity, private and sealed conversations…
+- [huj28-creator/wechat-fastbridge](huj28-creator-wechat-fastbridge.md) — macOS WeChat integration: read chats, send text, files and stickers, retrieve context and monitor allowlisted chats, without screenshots or private protocols.
+- [hannesrudolph/imessage-query-fastmcp-mcp-server](hannesrudolph-imessage-query-fastmcp-mcp-server.md) — Safe access to the iMessage database to query and analyze conversations, with phone number validation and attachment handling.
+- [hgn/mcp-server-notmuch](hgn-mcp-server-notmuch.md) — Local Maildir access via notmuch: full-text search, tag filtering, threads, attachments and unanswered-mail tracking, with optional drafts and tagging.
+- [helbertparanhos/resend-email-mcp](helbertparanhos-resend-email-mcp.md) — Full Resend email API coverage plus diagnostics: deliverability analysis, DNS troubleshooting, email inspection, bounce explanations and account audits.
+- [ictinnovations/ictfax-mcp](ictinnovations-ictfax-mcp.md) — MCP server for ICTFax, an open source FreeSWITCH-based fax server. Lists inbound and outbound fax transmissions with status, contact and page count, and…
+- [ictinnovations/ictpbx-mcp](ictinnovations-ictpbx-mcp.md) — Read-only access to ICTPBX, a multi-tenant IP PBX on ICTCore and FreeSWITCH: PBX statistics, extensions, DIDs, providers and tenants.
+- [ictinnovations/pbx-mcp](ictinnovations-pbx-mcp.md) — Asterisk and FreeSWITCH PBX state over AMI and ESL: extensions, active channels, trunk and SIP peer status, dialplan and call history; read-only by default.
+- [ictinnovations/ictbroadcast-mcp](ictinnovations-ictbroadcast-mcp.md) — ICTBroadcast voice, SMS and fax broadcasting: list campaigns and read live status and per-call results, with optional tools to start and stop campaigns.
+- [iletimerkezi/iletimerkezi-mcp-server](iletimerkezi-iletimerkezi-mcp-server.md) — Send SMS, query delivery reports, manage senders and blacklists, and register and check İYS (Turkish consent registry) records via the iletiMerkezi API.
+- [imdinu/apple-mail-mcp](imdinu-apple-mail-mcp.md) — Apple Mail access: list accounts and mailboxes, fetch emails with filters, full-text search via an FTS5 index and extract attachments.
+- [InditexTech/mcp-teams-server](inditextech-mcp-teams-server.md) — Microsoft Teams messaging: read, post and mention, and list members and threads.
+- [Infobip/mcp](infobip-mcp.md) — Infobip cloud communications: send and receive SMS and RCS, use WhatsApp and Viber, automate communication workflows and manage customer data.
+- [markmnl/fmsg-mcp](markmnl-fmsg-mcp.md) — Give AI agents an address on fmsg, an open federated messaging protocol: inbox, threads, replies, reactions, attachments and waiting for new messages.
+- [phuryn/askone](phuryn-askone.md) — Run live audience Q&A and polls with AskOne, with free AI moderation: start rooms, launch polls, moderate and answer questions, and draft a FAQ from the…
+- [Self-hosted-MCP/Selfhost-Remote-Mail-MCP](self-hosted-mcp-selfhost-remote-mail-mcp.md) — Self-hosted IMAP/SMTP email for Claude, ChatGPT and other AI apps on desktop and phone: up to 5 mailboxes, drafts by default, sends only when you ask, file…
+- [sendchamp/ai](sendchamp-ai.md) — Read-only search over Sendchamp documentation for SMS, OTP verification and Africa-specific routing.
+- [iprashantraj/mcp-discord-bridge](iprashantraj-mcp-discord-bridge.md) — Manage Discord channels, messages, forums, webhooks, members, roles, threads and moderation. Also runs as a standalone bot with slash commands.
+- [jcoulaud/shipmail-mcp](jcoulaud-shipmail-mcp.md) — Shipmail business email: manage custom-domain mailboxes, read and send messages, draft replies, inspect threads and automate REST API and webhook workflows.
+- [parasxos/apple-mail-mcp](parasxos-apple-mail-mcp.md) — Apple Mail with indexed full-text search, verified multi-identity sending, scheduled sends, plan-then-apply triage and a local audit ledger.
+- [sethbang/proton-mail-mcp](sethbang-proton-mail-mcp.md) — Unofficial Proton Mail integration via Proton Mail Bridge: send, read, search and organize email, with dry-run bulk operations and a read-only mode.
+- [shahabazdev/inxmail-mcp](shahabazdev-inxmail-mcp.md) — Manage Inxmail Commerce transactional emails: events, sendings, bounces, blocklist and blacklist, reactions and delivery tracking.
+- [shichuanqiong/AgoraDM](shichuanqiong-agoradm.md) — Direct messaging for AI agents over the A2A protocol: inbox, friend list, group threads and per-friend memory for real-time chats with other people's agents.
+- [TheSameAbramovych/qmailing-mcp-server](thesameabramovych-qmailing-mcp-server.md) — Read and send email, and manage mailboxes, custom domains and webhooks via the QMailing API.
+- [radmail-ai/radmail-mcp](radmail-ai-radmail-mcp.md) — Email system for agents: message search, importance/urgency triage, commitment follow-through and reviewable drafts, keeping financial actions human-only.
+- [rchanllc/joltsms-mcp-server](rchanllc-joltsms-mcp-server.md) — Provision dedicated real-SIM US phone numbers, receive and poll inbound SMS, and extract OTP codes for phone verification.
+- [redditapis/redditapis-mcp](redditapis-redditapis-mcp.md) — Read-only Reddit API access: subreddit listings, post, comment, community and user search, comment trees and top posts.
+- [Rheopyrin/ox-mcp](rheopyrin-ox-mcp.md) — Email (IMAP/SMTP), Sieve mail filters, CalDAV calendars, CardDAV contacts and free/busy scheduling for Open-Xchange and standards-based mail platforms.
+- [virtualsms-io/mcp-server](virtualsms-io-mcp-server.md) — Receive SMS verification codes on virtual phone numbers for services like WhatsApp, Telegram and Google: find and buy numbers and extract codes.
+- [jagan-shanmugam/mattermost-mcp-host](jagan-shanmugam-mattermost-mcp-host.md) — Access Mattermost teams, channels and messages, plus an MCP host running as a Mattermost bot that can use configured MCP servers.
+- [jaimenbell/discord-mcp](jaimenbell-discord-mcp.md) — Discord REST API: list channels, categories, roles and permission overwrites, with channel, role, guild and message management tools disabled by default.
+- [jaipandya/producthunt-mcp-server](jaipandya-producthunt-mcp-server.md) — Interact with Product Hunt trending posts, comments, collections, users and more.
+- [jamalofski/mailprobe-mcp](jamalofski-mailprobe-mcp.md) — Email verification in real time, without sending anything: a valid, risky, invalid or unknown status with a score, disposable, role-based and catch-all…
+- [joinly-ai/joinly](joinly-ai-joinly.md) — Send bots to browser-based meetings (Zoom, Teams, Google Meet) to gather live transcripts, speak text and post in the meeting chat.
+- [kushneryk/join.cloud](kushneryk-join-cloud.md) — Collaboration rooms for AI agents: create and join rooms and exchange real-time messages over MCP or A2A. Self-hostable.
+- [jtalk22/slack-mcp-server](jtalk22-slack-mcp-server.md) — Slack DMs, channels, threads and search without an OAuth app or admin approval.
+- [JulienRabault/icloud-mcp](julienrabault-icloud-mcp.md) — iCloud Mail over IMAP and SMTP: search all folders, rebuild threads, save attachments, draft replies and file messages by rule, without marking mail as read.
+- [keturiosakys/bluesky-context-server](keturiosakys-bluesky-context-server.md) — Query and interact with Bluesky instances.
+- [khan2a/telephony-mcp-server](khan2a-telephony-mcp-server.md) — Telephony via Vonage APIs: automate voice calls with speech-to-text call summaries, send and receive SMS, and detect voicemail.
+- [kojott/mailmcp-dist](kojott-mailmcp-dist.md) — Self-hosted email for multiple Gmail, iCloud, Fastmail or IMAP/SMTP accounts: search, read, threaded replies, drafts, allowlisted sending and attachments.
+- [korotovsky/slack-mcp-server](korotovsky-slack-mcp-server.md) — Slack workspace integration.
+- [krystiangw/meet-live-assist-extension](krystiangw-meet-live-assist-extension.md) — Bring an agent into live Google Meet or Zoom calls via a Chrome extension: read captions, answer in a side panel, post to chat and view shared screens.
+- [kudosity/mcp](kudosity-mcp.md) — Kudosity SMS, MMS and WhatsApp messaging: send messages, get delivery reports and replies, manage contacts and lists, configure webhooks and check balance.
+- [lanchuske/local-mcp](lanchuske-local-mcp.md) — Local access to macOS apps: Mail, Calendar, Contacts, Reminders, Notes, iMessage, Finder, Safari, OmniFocus, Teams, Outlook, OneDrive and Office documents.
+- [leshchenko1979/fast-mcp-telegram](leshchenko1979-fast-mcp-telegram.md) — Telegram access with direct API calls, multi-user auth, an HTTP-MTProto bridge, file attachments and voice transcription.
+- [lettio-eu/mcp](lettio-eu-mcp.md) — Private, EU-hosted email for AI agents over JMAP: read, search, reply in-thread, organize and send, with sending pinned to the signed-in mailbox.
+- [lharries/whatsapp-mcp](lharries-whatsapp-mcp.md) — Search personal WhatsApp messages and contacts, and send messages to individuals or groups.
+- [LimzoCom/limzo-mcp](limzocom-limzo-mcp.md) — Read-only stats for public Telegram groups tracked by the Limzo anti-spam bot: leaderboards, activity trends, member levels and moderation summaries.
+- [liuboacean/agent-comm-hub](liuboacean-agent-comm-hub.md) — Multi-agent communication hub with real-time messaging, task scheduling, shared memory, trust-based evolution and role-based access control.
+- [nakulben/whatsapp-mcp](nakulben-whatsapp-mcp.md) — Manage WhatsApp Business message templates via the Meta Cloud API: create, validate and send all template types, including carousel, catalog and flows.
+- [line/line-bot-mcp-server](line-line-bot-mcp-server.md) — Integrate with a LINE Official Account.
+- [littlebearapps/outlook-assistant](littlebearapps-outlook-assistant.md) — Search an Outlook inbox, send emails, schedule meetings, manage contacts and configure mailbox settings.
+- [loicfontaine-max/qorami-sdk](loicfontaine-max-qorami-sdk.md) — Check an email before an AI agent sends it: returns send, ask-a-human or block, with machine reason codes and prompt-injection detection.
+- [Leximo-AI/leximo-ai-call-assistant-mcp-server](leximo-ai-leximo-ai-call-assistant-mcp-server.md) — Have an AI make phone calls on your behalf: book reservations, schedule appointments and view call transcripts.
+- [ma2no4413/outlook-mcp](ma2no4413-outlook-mcp.md) — Restructure large Outlook/Hotmail mailboxes: move folder subtrees, bulk move and mark-read with dry-run previews, and manage inbox rules. Cannot send mail.
+- [madbonez/caldav-mcp](madbonez-caldav-mcp.md) — CalDAV calendars on any server (Yandex, Google, Nextcloud, iCloud and more): create events with recurrence, attendees and reminders, and search events.
+- [MailFlat/mailflat-sdks](mailflat-mailflat-sdks.md) — Email inboxes for agents that return one-time codes as a field. Addresses are permanent; messages expire after a configurable retention window.
+- [MankhongGarden/line-bot-ops-mcp](mankhonggarden-line-bot-ops-mcp.md) — Operate your own LINE bot: webhook queue health, failed jobs and retries, plus push, Rich Menu swap, follower insight and quota. LINE tools work with any…
+- [marlinjai/email-mcp](marlinjai-email-mcp.md) — Unified email across Gmail, Outlook, iCloud and generic IMAP/SMTP: search, send, organize and batch-manage messages, with encrypted credential storage.
+- [Metaverse-Cloud/engagelab-email-mcp](metaverse-cloud-engagelab-email-mcp.md) — Send, receive, monitor and reply to email with thread context via EngageLab Email.
+- [marras0914/agent-toolbelt](marras0914-agent-toolbelt.md) — Utility API tools for agents: schema generation, text extraction, token counting, regex and cron building, prompt optimization, web summarization and more.
+- [mohitbadwal/ringback](mohitbadwal-ringback.md) — Lets the LLM reach you by phone: live, interruptible voice calls and tiered alerts over self-hosted SIP, with whisper.cpp speech-to-text and macOS TTS.
+- [multimail-dev/mcp-server](multimail-dev-mcp-server.md) — Email for AI agents: send and receive as Markdown with configurable human oversight (monitor, gate or fully autonomous).
+- [ni-c/carddav-mcp](ni-c-carddav-mcp.md) — Contacts, groups and photos on any CardDAV server (Radicale, Baikal, Nextcloud, Fastmail, iCloud), with ETag-guarded writes and an address book allowlist.
+- [ni-c/caldav-mcp](ni-c-caldav-mcp.md) — Events, tasks and journal entries on any CalDAV server (Radicale, Nextcloud, Fastmail, iCloud), with a calendar allowlist and approval for series changes.
+- [Sequenzy/mcp](sequenzy-mcp.md) — Sequenzy email marketing automation: manage subscribers, lists, segments, templates, campaigns, sequences, transactional emails and analytics.
+- [aeoess/mingle-mcp](aeoess-mingle-mcp.md) — Agent-to-agent networking: your agent publishes what you need and matches with other people's agents, and both humans approve before connecting.
+- [mouse114514/Xadeus-QQ-MCP](mouse114514-xadeus-qq-mcp.md) — Control QQ via NapCatQQ (OneBot v11): send and receive messages, manage groups and wake the agent on incoming messages.
+- [MrGo2/icloud-mcp](mrgo2-icloud-mcp.md) — Apple Mail, Calendar, Contacts, Reminders, Notes, Messages and Safari via AppleScript on macOS, or iCloud over IMAP, CalDAV and CardDAV elsewhere.
+- [ni-c/smtp-mcp](ni-c-smtp-mcp.md) — Send, reply to and forward mail over SMTP, restricted to a recipient allowlist, with each message approved by a person before sending.
+- [openagentemail/openagentemail](openagentemail-openagentemail.md) — Self-hosted email for AI agents: mailboxes on your own domain, OTP and verification-link extraction, waiting for new mail, and a web dashboard.
+- [ni-c/ntfy-mcp](ni-c-ntfy-mcp.md) — Send push notifications through ntfy, read back sent messages, update a notification in place while a job runs, and administer users and topic access.
+- [OrygnsCode/Omnicord](orygnscode-omnicord.md) — Discord chat, moderation, automod, events and administration, including building a server from a description, with confirmation for destructive actions.
+- [overpod/mcp-telegram](overpod-mcp-telegram.md) — Telegram via MTProto: read chats, search messages, download media and manage contacts, with QR code login.
+- [OverQuotaAI/chatterboxio-mcp-server](overquotaai-chatterboxio-mcp-server.md) — Send ChatterBox bots to Zoom and Google Meet meetings and get transcripts and recordings.
+- [paigy-ai/mcp](paigy-ai-mcp.md) — Call, text or push-notify the user's phone when an agent needs input mid-task, and let them reply by voice.
+- [PhilflowIO/dav-mcp](philflowio-dav-mcp.md) — Calendars, contacts and tasks on any CalDAV/CardDAV server (Nextcloud, Baikal, Radicale, iCloud): 27 tools for events, vCards and VTODOs with field-level…
+- [PhononX/cv-mcp-server](phononx-cv-mcp-server.md) — Create and manage Carbon Voice voice messages, conversations, direct messages, folders, voice memos and AI actions.
+- [Pingfyr/mcp](pingfyr-mcp.md) — Schedule reminders, notifications and webhooks with the Pingfyr scheduled delivery API.
+- [platfone-com/mcp](platfone-com-mcp.md) — Rent virtual phone numbers worldwide, receive SMS and manage the full activation lifecycle via Platfone.
+- [PostcardBot/mcp-server](postcardbot-mcp-server.md) — Send physical postcards worldwide, individually or in bulk.
+- [PaSympa/discord-mcp](pasympa-discord-mcp.md) — Multi-guild Discord management: messages, channels, roles, forums, webhooks and moderation.
+- [puffo-ai/huddo-mcp](puffo-ai-huddo-mcp.md) — Group chat where people and AI agents talk in the same room: join by invite link, read and reply, wait for new messages, and send end-to-end encrypted…
+- [Py2755/aiogram-mcp](py2755-aiogram-mcp.md) — Middleware exposing aiogram Telegram bots via MCP: messaging, rich media, moderation, keyboards, real-time events, rate limiting, permissions and audit logs.
+- [qq418716640/botbell-mcp](qq418716640-botbell-mcp.md) — Send push notifications to iPhone, iPad and Mac via BotBell, with two-way replies, action buttons, Markdown and multi-bot management.
+- [saseq/discord-mcp](saseq-discord-mcp.md) — Interact with Discord and automate tasks.
+- [SharimAli/discp](sharimali-discp.md) — Feature-complete Discord MCP server with 117 native tools, dual user/bot account support, anti-abuse human pacing, and dynamic aesthetic symbol discovery.
+- [sawa-zen/vrchat-mcp](sawa-zen-vrchat-mcp.md) — Interact with the VRChat API: retrieve information about friends, worlds, avatars and more.
+- [sdyuyouth/agenthop](sdyuyouth-agenthop.md) — Let two agents on machines with no public address talk directly: pair with a short code over an end-to-end encrypted relay (hosted or self-hosted), send…
+- [Sealjay/mcp-hey](sealjay-mcp-hey.md) — Local access to Hey.com email via a cached session: read, search, send, reply and manage the Screener.
+- [Sendmux/sendmux-sdk](sendmux-sendmux-sdk.md) — Email inboxes for AI agents via Sendmux: receive, search and send mail.
+- [serhiizghama/viber-mcp](serhiizghama-viber-mcp.md) — Viber Bot REST API: send text, media, files, locations and contacts, broadcast messages, manage webhooks and inspect account and user details.
+- [SirGreed808/zoho-mail-mcp](sirgreed808-zoho-mail-mcp.md) — Read, search and send email with Zoho Mail.
+- [softeria/ms-365-mcp-server](softeria-ms-365-mcp-server.md) — Connect to Microsoft Office and the Microsoft 365 suite via the Graph API, including Outlook mail, files, Excel and calendar.
+- [sounny/sounnyforms-mcp](sounny-sounnyforms-mcp.md) — Serverless form backend, lead triage and contact form generator for static sites, React and JAMstack apps.
+- [Spix-HQ/spix-mcp](spix-hq-spix-mcp.md) — Phone numbers and voice for AI agents: make and receive calls, send email and manage contacts.
+- [tecnologicachile/mail-mcp](tecnologicachile-mail-mcp.md) — Multi-account email over IMAP, SMTP, Exchange Web Services and Microsoft Graph: read, search, send, reply, forward, bulk operations and attachment downloads.
+- [teddyzxcv/ntfy-mcp](teddyzxcv-ntfy-mcp.md) — Send notifications to your phone using ntfy.
+- [liagha/termgram](liagha-termgram.md) — Terminal Telegram client over MTProto: CLI for messages, media and contacts, plus an MCP server that sends notifications when new messages arrive.
+- [textbee/textbee-mcp](textbee-textbee-mcp.md) — Send and read SMS through your own Android phone via textbee, the open-source SMS gateway, including replies, codes and delivery status.
+- [tlennon-ie/neurodock](tlennon-ie-neurodock.md) — Tools for neurodivergent professionals: corporate-ambiguity translator, planner, and a guardrail against amplifying rumination, hyperfocus or sycophancy.
+- [userad/didlogic_mcp](userad-didlogic-mcp.md) — Manage DIDLogic SIP endpoints, numbers and destinations.
+- [vaemail/vaemail-mcp](vaemail-vaemail-mcp.md) — Send transactional email, authenticate sending domains, track delivery and diagnose deliverability, with scoped API keys and dry-run mode.
+- [wsapi-chat/wsapi-mcp](wsapi-chat-wsapi-mcp.md) — WhatsApp through the WSAPI REST API: send messages and media, and manage chats, groups, communities and contacts on a connected number. Open source…
+- [wyattjoh/imessage-mcp](wyattjoh-imessage-mcp.md) — Read iMessage data on macOS.
+- [wyattjoh/jmap-mcp](wyattjoh-jmap-mcp.md) — Interact with JMAP (JSON Meta Application Protocol) email servers.
+- [wazionapps/mcp-server](wazionapps-mcp-server.md) — WhatsApp Business tools: send messages, automate workflows, run campaigns and manage CRM.
+- [webtoolbox/websitetoolbox-mcp](webtoolbox-websitetoolbox-mcp.md) — Manage Website Toolbox forums via the Forum REST API: categories, topics, posts, users, user groups, conversations, moderators, tags and page views.
+- [wildsurfer/your-mail-mcp](wildsurfer-your-mail-mcp.md) — Read-only, self-hosted search over multiple IMAP accounts, mirrored by mbsync into a local notmuch index. Cannot send, delete or move mail.
+- [windborne/zulipmcp](windborne-zulipmcp.md) — Run AI agents in Zulip as @mentionable bots or connect Zulip to any MCP client, with real-time listening, session management and file handling.
+- [wraps-team/wraps-js](wraps-team-wraps-js.md) — Send email through your own Amazon SES account, and check domain verification, the suppression list and sandbox status. Works with any SES account; a Wraps…
+- [yjcho9317/nworks](yjcho9317-nworks.md) — Manage NAVER WORKS messages, calendar, drive, mail, tasks and boards, also available as a CLI.
+- [YS-projectcalc/agent-cold-email](ys-projectcalc-agent-cold-email.md) — Coldrig cold-email infrastructure run by your agent: buy domains, provision mailboxes, warm up, run sequences and handle replies.
+- [zcaceres/gtasks-mcp](zcaceres-gtasks-mcp.md) — Manage Google Tasks.
+- [ztxtxwd/open-feishu-mcp-server](ztxtxwd-open-feishu-mcp-server.md) — Feishu document management with built-in Feishu OAuth: create blocks, update content and more.
+- [loglux/whatsapp-mcp-stream](loglux-whatsapp-mcp-stream.md) — WhatsApp integration with a web admin UI (QR login, status, settings), two-way media upload and download, and SQLite persistence.
+- [Zacccck/Claude-MCP-Read-Email-Attachments](zacccck-claude-mcp-read-email-attachments.md) — Read Outlook email attachments via Microsoft Graph, parsing PDF, Word (including embedded images), Excel and text files into structured content.
+- [zerodrop-dev/zerodrop-mcp](zerodrop-dev-zerodrop-mcp.md) — Disposable email inboxes for AI agents with automatic OTP and magic-link extraction, for testing signups and auth flows.
+- [starnikovoleg/tgatlas-mcp](starnikovoleg-tgatlas-mcp.md) — Public Telegram channels without a user session: channel profiles, posts with view and forward counts, discussion threads and recommended channels.

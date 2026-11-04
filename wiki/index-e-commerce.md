@@ -1,0 +1,48 @@
+# E-Commerce
+
+- [HasData/walmart-mcp](hasdata-walmart-mcp.md) — Walmart data as JSON: search results, product pages with the buy-box seller and customer reviews from Walmart US and Canada.
+- [forgemeshlabs/shopscout-mcp](forgemeshlabs-shopscout-mcp.md) — Let your agent shop and compare: Shopify catalog search, offer ranking and shipping-plan comparison, $0.01 USDC per call via x402 on Base.
+- [HasData/amazon-mcp](hasdata-amazon-mcp.md) — Amazon data as JSON: keyword search, product details by ASIN, reviews, seller profiles and seller catalogs across marketplaces.
+- [A1-x-Tech/mcp-google-merchants](a1-x-tech-mcp-google-merchants.md) — Google Merchant Center: diagnose disapproved products and manage product data, promotions and reports.
+- [A1-x-Tech/mcp-yandex-merchants](a1-x-tech-mcp-yandex-merchants.md) — Yandex Merchants API: product feeds, offer prices, discounts and hiding or unhiding offers in Yandex Search.
+- [A1-x-Tech/mcp-yango-retail](a1-x-tech-mcp-yango-retail.md) — Yango Tech Retail grocery platform B2B API: orders, receipts, products, prices, discounts, stock and stores.
+- [agentcentral-to/agent-central-mcp](agentcentral-to-agent-central-mcp.md) — Amazon Seller Central and Amazon Ads data: inventory, orders, catalog, finance, fulfillment and advertising.
+- [agentlux/agentlux-mcp](agentlux-agentlux-mcp.md) — AgentLux agent marketplace: browse items, manage agent identity, creator workflows, service hires, social flows and Base/x402 commerce.
+- [anhmtk/agentshare-mcp](anhmtk-agentshare-mcp.md) — Solana DeFi intelligence: Meteora DLMM pool briefs and details, Solana DEX data and DefiLlama scouting, plus secondary commerce tools.
+- [apiguru-app/agent-kit](apiguru-app-agent-kit.md) — Live Amazon marketplace data across 20 countries: product details, reviews, keyword search, best-sellers, deals, offers/buy box/stock and seller profiles.…
+- [BuyWhere/buywhere-mcp](buywhere-buywhere-mcp.md) — Cross-border e-commerce product catalog: search products across Singapore, Southeast Asia and US markets with price comparison and deal discovery.
+- [glongusmain/glongus-mcp](glongusmain-glongus-mcp.md) — Let your agent buy and sell physical goods, with escrow and shipping: search and list items, haggle with other agents, pay into escrow, track delivery and…
+- [koraynar/trendyol-seller-mcp](koraynar-trendyol-seller-mcp.md) — Unofficial Trendyol seller API: products, order packages, customer questions, claims, and stock and price updates, with gated writes and PII redaction.
+- [ilyautov/marketplaces-mcp-ru](ilyautov-marketplaces-mcp-ru.md) — Wildberries and Ozon Seller APIs: sales, stock, prices, finance, reviews and ads, with a read/write/destructive safety gate and multi-store switching.
+- [RPER2001/rigshare-mcp](rper2001-rigshare-mcp.md) — Rent GPUs, robots, drones and construction equipment on RIGShare: quote, book, run remote sessions, publish listings and onboard equipment owners.
+- [ilyautov/moysklad-mcp-ru](ilyautov-moysklad-mcp-ru.md) — MoySklad cloud ERP for Russian retail and wholesale: stock, products, orders, counterparties and reports, plus confirmation-gated document writes.
+- [TonyWang-hub/mcp-cn-commerce](tonywang-hub-mcp-cn-commerce.md) — Read-only merchant data from Tmall/Taobao, JD.com, Pinduoduo, Douyin, Kuaishou, Xiaohongshu and WeChat Store: orders, products, inventory and ad reports.
+- [hypawave/mcp](hypawave-mcp.md) — Non-custodial Bitcoin Lightning commerce: agents buy and sell files, data, APIs and compute on a public marketplace, plus encrypted agent-to-agent messaging.
+- [justadityaraj/amazon-in-mcp](justadityaraj-amazon-in-mcp.md) — Search Amazon India via scraping: cheapest-in-stock and value picks, product details (price, MRP, rating, stock, seller) and Keepa price history links.
+- [jasp-nerd/marktplaats-mcp](jasp-nerd-marktplaats-mcp.md) — Search Marktplaats and 2dehands, the Dutch and Belgian second-hand marketplaces: filtered listings, ad details, seller reviews and new-listing monitoring.
+- [jlsookiki/secondhand-mcp](jlsookiki-secondhand-mcp.md) — Search Facebook Marketplace, eBay, Depop and Poshmark for secondhand items, filtering by price, condition, size and color, with full listing details.
+- [mrslbt/rakuten-mcp](mrslbt-rakuten-mcp.md) — Rakuten API integration for Japan: product search, hotel and travel booking, and recipe lookup.
+- [malinoto/tracepass-mcp-server](malinoto-tracepass-mcp-server.md) — EU Digital Product Passport automation via TracePass: create products, build and audit DPPs, set economic operators and read or capture GS1 EPCIS 2.0 events.
+- [mambalabsdev/mcp-ecommerce-platform-profiler](mambalabsdev-mcp-ecommerce-platform-profiler.md) — Detects the ecommerce platform, payment providers, and catalog size behind a storefront.
+- [melbis/melbis-shop](melbis-melbis-shop.md) — Work in a self-hosted Melbis Shop store as a staff user: project files with version history, database, catalog trees, product files and storefront pages.
+- [MoonEyes/google-ecommerce-mcp](mooneyes-google-ecommerce-mcp.md) — Read-only GA4, Search Console, Merchant Center, Tag Manager, Indexing API and PageSpeed in one server for online shops. OAuth token in the OS keyring…
+- [ncosic/logimu-shopping-mcp](ncosic-logimu-shopping-mcp.md) — Amazon (US, UK, DE, CA, AU) and Walmart shopping data: ranked product shortlists, current prices, stock, ratings and 30-day price and BSR history.
+- [OFODevelopment/cerebrochain-mcp-server](ofodevelopment-cerebrochain-mcp-server.md) — Supply chain and logistics tools: carrier rate shopping, inventory management, order tracking, fleet logistics and demand forecasting.
+- [ONE8943/ai-furniture-hub](one8943-ai-furniture-hub.md) — Japan-focused furniture and home products: millimeter-precise search, curated sets, dimension-compatible replacement finder and live Rakuten data.
+- [pad01g/proxy-shopping-web](pad01g-proxy-shopping-web.md) — Buy from cash-only or unsupported shops with crypto through a proxy shopper and a 2-of-3 escrow with timelocks (BTC signet, USDC) on a Nostr + libp2p…
+- [patchistry/patchistry-mcp-server](patchistry-patchistry-mcp-server.md) — Patchistry velcro-patch hat shop: browse hats and patches, get complete build recommendations and shipping info, and contact the brand.
+- [Pangolin-spg/amazon-data-mcp](pangolin-spg-amazon-data-mcp.md) — Read-only Amazon research via Pangolinfo: product details, keyword results, reviews, niche signals, Alexa shopping recommendations and AI-search data.
+- [samrothschild23/intelligence-api](samrothschild23-intelligence-api.md) — E-commerce intelligence: analyze Shopify stores, score Amazon product opportunities and FBA profitability, and find sales leads from Google Maps.
+- [the402ai/mcp-server](the402ai-mcp-server.md) — Agent service marketplace with x402 micropayments (USDC on Base): browse and buy services, manage threads and subscriptions, sell services and track earnings.
+- [TheBestCo/bestprice-mcp](thebestco-bestprice-mcp.md) — Read-only Greek price comparison from BestPrice: product search, offer comparison and price history.
+- [PCDCK/ozon-mcp](pcdck-ozon-mcp.md) — Ozon Seller and Performance APIs with auto-pagination, rate-limit handling and analytical workflows for stock-out risk, content audits and prices.
+- [vitrine3d/mcp](vitrine3d-mcp.md) — 3D product viewer platform: upload GLB models, style scenes with lighting, camera and backgrounds, and embed them on websites.
+- [pepabo/colormeshop-mcp](pepabo-colormeshop-mcp.md) — Manage orders, products, inventory, customers, coupons and shop settings on Color Me Shop (GMO Pepabo), a Japanese e-commerce platform.
+- [nicktcode/swissgroceries-mcp](nicktcode-swissgroceries-mcp.md) — Swiss grocery search, weekly promotions and multi-store shopping plans across Migros, Coop, Aldi, Denner, Lidl and more, with unit-price comparison.
+- [slookisen/lokal](slookisen-lokal.md) — Find local food producers in Norway (farms, REKO rings, farmers' markets, farm shops) with Norwegian/English search, geo-filtering and A2A support.
+- [tokenofesteem/mcp](tokenofesteem-mcp.md) — Commission a personalized, humorous printed booklet and have it printed and mailed as a gift within the US.
+- [wppoland/woocommerce-mcp](wppoland-woocommerce-mcp.md) — Read-only WordPress and WooCommerce access via REST APIs: search products, product details, recent orders, sales reports and blog-post search.
+- [ncosic/webotee-mcp](ncosic-webotee-mcp.md) — Read-only Amazon market intelligence from Webotee: brands, sellers, ASINs, under-competed niches, buy-box history and Amazon/Walmart overlap.
+- [ztemerbekov/a1-yandex-kit-skills](ztemerbekov-a1-yandex-kit-skills.md) — Yandex KIT e-commerce platform: manage products and variants, prices, orders, discounts, promo codes, collections, warehouses and webhooks.
+- [ilyautov/chestny-znak-mcp-ru](ilyautov-chestny-znak-mcp-ru.md) — Chestny ZNAK (Russian mandatory product marking, GIS MT and SUZ) API: marking codes, emission orders, circulation documents and code checks.
+- [dearlordylord/voila-sdk](dearlordylord-voila-sdk.md) — Personal Voila grocery automation: search products, check discounts, list delivery slots, read cart and order history and update cart quantities.

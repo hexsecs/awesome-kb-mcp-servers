@@ -1,0 +1,560 @@
+# Developer Tools
+
+- [SupportPages-io/wtfm](supportpages-io-wtfm.md) — Writes illustrated end-user help articles from a codebase: reads the interface code, renders screenshots of each screen in a local headless Chromium, and…
+- [arif-js/agentsensor](arif-js-agentsensor.md) — Zero-config runtime and browser error sensor for AI coding agents: intercepts dev server crashes and in-browser exceptions with source-mapped stack traces…
+- [skymanbp/CodeEraser](skymanbp-codeeraser.md) — Scans a repository for dead code, duplication, churn and structure and erases what the scan found, with a log of every erasure; the judgments come from a…
+- [inth3shadows/runecho](inth3shadows-runecho.md) — Deterministic symbol oracle over a locally built index of the repo: whether a symbol exists, what a file declares, and what changed structurally since the…
+- [huanglizhuo/OctoCounts](huanglizhuo-octocounts.md) — SLOC counts for any public GitHub repository from any MCP client: files, code, comment and blank lines per language, plus side-by-side repo comparisons.
+- [ieranama/discomcp](ieranama-discomcp.md) — Profiles how you use any MCP server into a reusable, read-only skill: workflows, call chains and each tool's safety class.
+- [Karzone/TestAtlas](karzone-testatlas.md) — Maps a .NET Reqnroll/SpecFlow test-automation solution into a queryable SQLite file to search step definitions, check change impact and avoid duplicate code.
+- [ARADIA-systems/aradia-mcp-server](aradia-systems-aradia-mcp-server.md) — On-premise private AI systems from ARADIA on NVIDIA DGX hardware: hardware sizing, ROI modeling, partner onboarding, procurement and order tracking.
+- [iyashjayesh/tokenchit](iyashjayesh-tokenchit.md) — Reads local Claude Code, Codex and OpenCode usage logs: token totals, daily and hourly activity, per-agent and per-model breakdowns and a year-in-review recap.
+- [kyle641320/true-memory-fragments](kyle641320-true-memory-fragments.md) — Checks source-context freshness against a Git working tree and retrieves source-linked code relationships to surface stale knowledge and cross-file impact.
+- [mahdibrr/dev-error-explainers](mahdibrr-dev-error-explainers.md) — Explains known developer errors offline and deterministically (CORS, ESM/CommonJS, npm ERESOLVE, Next.js build, Postgres connection and DATABASE_URL…
+- [ondraulehla/mcpcost](ondraulehla-mcpcost.md) — Health and token cost of every server in the official MCP registry, probed daily: look up or search a server, probe any URL live, and measure what the…
+- [rafim-dev/mcp-context-condenser](rafim-dev-mcp-context-condenser.md) — AST-based code outliner, log compressor and context budget analyzer to reduce LLM token usage.
+- [rafim-dev/mcp-doctor](rafim-dev-mcp-doctor.md) — Health checks, binary validation and JSON auto-repair for MCP client configuration files.
+- [om-tajne/pkgdiet](om-tajne-pkgdiet.md) — AST-based dependency analyzer: flags unused packages, calculates actual install sizes and detects unmaintained dependencies.
+- [orcsnren/pkg-health-mcp](orcsnren-pkg-health-mcp.md) — Is this dependency still maintained? Scores npm packages, PyPI packages and GitHub repositories 0-100 with an A-F grade and plain-language risks…
+- [aicanvas-me/aicanvas](aicanvas-me-aicanvas.md) — Search and fetch animated, shadcn-compatible React components, design systems and templates, with install commands, from the aicanvas registry.
+- [Hyperiux-Immersion-Labs/hyperiux-components](hyperiux-immersion-labs-hyperiux-components.md) — Browse and search Hyperiux Vault React/Next.js animation and interaction effects, with dependencies, changelogs, install commands and source code.
+- [2ools/mcp-server](2ools-mcp-server.md) — Versioned projects from assistant-built work: shareable HTML previews, version comparison, delegated approvals, artifacts, work assignments and source export.
+- [forgemeshlabs/aso-score-mcp](forgemeshlabs-aso-score-mcp.md) — Free ASO Score (Agent Signal Optimization) scanner scoring discovery, identity, trust, commerce, reputation, and memory signals, with maturity levels…
+- [aurumflux20/effectfence](aurumflux20-effectfence.md) — Prevents double charges and duplicate side effects from agent tool calls: concurrent races elect one winner, late duplicates replay a sealed receipt.
+- [baobabcat/demandscope](baobabcat-demandscope.md) — Demand-signal scanner for validating product and dev-tool ideas using GitHub repo signals, Hacker News attention and npm/PyPI download counts.
+- [bourhaouta/vscode-tailwindshades](bourhaouta-vscode-tailwindshades.md) — Tailwind CSS palettes (50–950) from any color for Tailwind v4, v3, v2 and v1, computed in OKLCH, plus the closest Tailwind color to any color. Run it with…
+- [BoxBoxmari/my-pi](boxboxmari-my-pi.md) — Local-first runtime for coding agents: bounded workspace access, guarded writes, AST search, LSP navigation and diagnostics, and Git tooling.
+- [Bristlecone-Logic/bristlecone-logic](bristlecone-logic-bristlecone-logic.md) — Deterministic execution guardrails, isolated AST-based math evaluation, SSRF-safe DNS routing and malformed JSON repair.
+- [bricelancasterwcp-sudo/sensorium](bricelancasterwcp-sudo-sensorium.md) — Records Python, Rust and TypeScript program runs to local SQLite so coding agents can query call trees, exceptions and value flow.
+- [castovdev/castov](castovdev-castov.md) — Deterministic local developer utilities for coding agents: inspect listening ports and processes, compute IPv4 CIDR subnet ranges, decode creation…
+- [congzhou09/chrome-dev-mcp](congzhou09-chrome-dev-mcp.md) — Page inspection and runtime debugging in Chrome for AI coding agents: breakpoints, stepping, scope variables, source-mapped stacks, plus HTML/CSS, console…
+- [hivemindunit/llmintel-mcp](hivemindunit-llmintel-mcp.md) — Check whether an LLM model ID is deprecated, retiring or retired, and what to migrate to, across OpenAI, Anthropic, Azure, Bedrock, Google and Cohere.
+- [jubstaaa/hono-telescope](jubstaaa-hono-telescope.md) — Read-only debugging for Hono apps: recent exceptions with their requests, logs and queries, requests filtered by status or duration, and the slowest queries.
+- [Jarroslav/agentic-os](jarroslav-agentic-os.md) — Read-only access to the agentic-os governance, SDLC and QE methodology, with install planning and verification.
+- [rm-rf-prod/GroundTruth-MCP](rm-rf-prod-groundtruth-mcp.md) — Self-hosted live library docs, code audits with file:line findings, BM25-ranked snippets and lockfile-aware version pinning.
+- [scarletkc/vexor](scarletkc-vexor.md) — Semantic file and code search by description, with local indexes, AST-aware chunking, optional reranking and API-based or fully offline embedding models.
+- [AlicanAkyol/nativekeel](alicanakyol-nativekeel.md) — Health check for React Native and Expo projects: upgrade blockers, New Architecture support, App Store and Google Play rejections, crash risks, OWASP MASVS…
+- [apatureai/bastion](apatureai-bastion.md) — Design review of rendered UI for coding agents: submit a preview URL, get findings with element references and recheck after fixing. Read-only.
+- [aradar46/reuse-before-generate](aradar46-reuse-before-generate.md) — Checks if a project idea already exists on GitHub, npm or Python repositories and suggests maintained alternatives to extend instead of scaffolding anew.
+- [hernaninverso/eleata-verify-mcp](hernaninverso-eleata-verify-mcp.md) — Hallucination guard: verify a claim against evidence (supported, refuted or not enough evidence) with a confidence score and abstain flag.
+- [appcreationsca/bumpguard-mcp](appcreationsca-bumpguard-mcp.md) — Dependency-upgrade impact analysis for Python and .NET: which API usages break, with line numbers and fix hints, plus detection of hallucinated API calls.
+- [MasterPlayspots/motionspec](masterplayspots-motionspec.md) — Reduced-motion and WCAG 2.2.2/2.3.3 verification for web animation: validate animation specs and compile them into reduced-motion-safe CSS.
+- [SLP-DEV1/qwen-dap-mcp](slp-dev1-qwen-dap-mcp.md) — DAP-to-MCP bridge for native debugging via CodeLLDB: stack frames, registers, locals, disassembly, memory, crash dumps and crash fix/verify workflows.
+- [TomD4vs/prumo](tomd4vs-prumo.md) — Checks coding-agent context files (CLAUDE.md, AGENTS.md, SKILL.md) against the git index: broken links, missing paths, undefined commands and drift.
+- [Umair/stalemap](umair-stalemap.md) — Tells coding agents which npm dependencies changed after their training cutoff, and what changed: ranked notes in AGENTS.md/CLAUDE.md, a post-edit guard…
+- [vamsiy78/ballmac-ui](vamsiy78-ballmac-ui.md) — Search, inspect and install Ballmac UI React + Tailwind components, blocks and templates, with props, keyboard notes and the exact shadcn install command…
+- [VerificateAI/verificate-mcp-quickstart](verificateai-verificate-mcp-quickstart.md) — Merge gate for AI-written code: catches placeholder code, unfailable tests, unsupported completion claims and nonexistent API calls, then returns a fix plan.
+- [Vivekpatil200320/CyberRescue](vivekpatil200320-cyberrescue.md) — Host-level telemetry gateway letting sandboxed agents fetch container logs and track kernel resource metrics.
+- [davidmosiah/delx-mcp-server](davidmosiah-delx-mcp-server.md) — Local stdio bridge to the hosted Delx Protocol MCP endpoint, with client install, doctor checks and live tool discovery.
+- [dcadolph/slop-chop](dcadolph-slop-chop.md) — Deterministic linter for AI writing tells. Offline by default, with an optional model pass if you want one.
+- [deed-lang/deed](deed-lang-deed.md) — Contract-first programming language: check types, effects, capabilities and contracts in agent-written modules and review changes for new authority.
+- [DeusData/codebase-memory-mcp](deusdata-codebase-memory-mcp.md) — Indexes a repo into a persistent local knowledge graph of functions, classes, call chains, HTTP routes and cross-service links, using tree-sitter and LSP.
+- [docweave/mcp](docweave-mcp.md) — Generate PDFs from HTML, a URL or a template with JSON data, and extract text or Markdown from PDFs.
+- [dynatrace-oss/dynatrace-managed-mcp](dynatrace-oss-dynatrace-managed-mcp.md) — Query problems, logs, events, SLOs, security insights and performance metrics from self-hosted Dynatrace Managed environments.
+- [emailens/mcp](emailens-mcp.md) — Lint HTML email with Emailens: rendering issues in Gmail, Outlook, Apple Mail and more, per-client CSS compatibility scores, dark mode simulation and fixes.
+- [embedded-society/altium-designer-mcp](embedded-society-altium-designer-mcp.md) — Build and maintain Altium Designer component libraries: read and write .PcbLib footprints and .SchLib symbols, with IPC-7351B footprints and STEP models.
+- [LazyInvestor/fauxgen-mcp](lazyinvestor-fauxgen-mcp.md) — quality and maintenance score on…
+- [forgemeshlabs/aso-audit-mcp](forgemeshlabs-aso-audit-mcp.md) — Audits website and API agent readiness: robots.txt AI rules, llms.txt, agent cards, MCP server cards and OAuth metadata, with maturity scores and fix plans.
+- [JoeGlenn1213/ActionD](joeglenn1213-actiond.md) — Local CI/CD for agents: runs jobs on LGH git events in isolated checkouts, with failure diagnosis, approval gates, auto-rollback and a web console.
+- [kucherenko/jscpd](kucherenko-jscpd.md) — Duplicate code detection with jscpd: check snippets and files for copy/paste duplication against a scanned project before committing.
+- [KyaniteLabs/checkyourself](kyanitelabs-checkyourself.md) — Local launch-readiness audit for AI-built apps: read-only checks, an evidence-based 0-100 score and guided fixes.
+- [m00nreport/mcp-server](m00nreport-mcp-server.md) — Test management: author manual test cases, run executions, cut releases and link automated tests, with prompts for flaky-test triage and release readiness.
+- [maple-kit/maple](maple-kit-maple.md) — Frontend review on deployed previews. Your agent reads reviewers' comments over MCP and resolves them, and a CI check holds the merge until they are.
+- [mcurmi05/vdiff](mcurmi05-vdiff.md) — Breaking-change diffs for npm packages, so coding agents avoid writing code against outdated APIs.
+- [minipuft/claude-prompts-mcp](minipuft-claude-prompts-mcp.md) — Reusable prompt templates with multi-step chains, quality gates and reasoning frameworks, exportable as native skills for coding agents.
+- [modus-agendi/managed-agent-control-mcp](modus-agendi-managed-agent-control-mcp.md) — Control Claude Managed Agents: launch agents, watch their events, reply, approve tool calls and stop them.
+- [MykytaStel/repopilot](mykytastel-repopilot.md) — Local, deterministic review of Git changes for coding agents: weakened tests and CI gates, security boundaries, blast radius.
+- [getnahook/nahook-mcp](getnahook-nahook-mcp.md) — Nahook webhook platform: trigger webhooks, inspect deliveries, retry failures and manage endpoints.
+- [naveenayalla1-CS50/mcp-server-toolkit](naveenayalla1-cs50-mcp-server-toolkit.md) — Developer toolkit: semantic code search, natural-language database queries, docs indexing and OpenAPI introspection.
+- [Nishant-Chaudhary5338/mcp-code-indexer](nishant-chaudhary5338-mcp-code-indexer.md) — Index TypeScript/React repos into a code graph: who-renders and who-calls queries, blast radius, dependency cycles, dead code and symbol signatures.
+- [noisy/noisy-coding](noisy-noisy-coding.md) — Voice interface for Claude Code: live speech-to-text with turn-taking, spoken replies with xAI Grok voices, per-subagent voice personas and a real-time HUD.
+- [nomadop/session-watcher](nomadop-session-watcher.md) — Monitors coding-agent token cache using inventory theory (EOQ) and signals optimal session restart timing via a live dashboard and terminal status line.
+- [oddunits/pntr-cli](oddunits-pntr-cli.md) — Register PNTR dev subdomains, manage DNS records, receive email in a disposable inbox and capture inbound HTTP requests for webhook debugging.
+- [raccioly/docguard](raccioly-docguard.md) — Deterministic documentation-drift detection: validates a project's docs against its code, with stable finding codes and suggested fixes. Read-only.
+- [tatavarthitarun/nowsecure-mcp-server](tatavarthitarun-nowsecure-mcp-server.md) — NowSecure Platform mobile security testing: list applications, pull remediation findings and generate PDF reports locally.
+- [adrianczuczka/mason](adrianczuczka-mason.md) — Generates CLAUDE.md from git history and file sampling, and keeps a concept map linking features and flows to files so agents skip repeated searches.
+- [Avazbek22/DevProjex](avazbek22-devprojex.md) — Build token-efficient codebase context locally, with live preview, Git scopes, secret redaction and syntax-aware compression.
+- [masondelan/selvedge](masondelan-selvedge.md) — Change tracking for codebases: agents log structured change events with diff and reasoning, then query them via diff, blame, history and search.
+- [saiffmirza/kiyas](saiffmirza-kiyas.md) — Design-fidelity checks: compare a Figma frame or design screenshot with the rendered UI and get structured discrepancies with CSS properties and severity.
+- [as9978/designfit](as9978-designfit.md) — Validate AI-built front-ends against Figma by tokens and geometry, not pixels: extract a spec from a Figma frame link, then get a deterministic fidelity…
+- [sapph1re/mcp-billing-gateway-sdk](sapph1re-mcp-billing-gateway-sdk.md) — Billing for MCP server operators: Stripe subscriptions, per-call credits, tiered pricing and x402 micropayments without writing billing code.
+- [Stellify-Software-Ltd/stellify-mcp](stellify-software-ltd-stellify-mcp.md) — Build Laravel apps through conversation on the Stellify platform: code stored as structured JSON for surgical statement-level edits, with a shared reuse…
+- [agenticempire/axint](agenticempire-axint.md) — Compiles TypeScript to validated Swift for Apple platforms: App Intents, SwiftUI views, WidgetKit widgets and full apps.
+- [AIStoryHub/etincel](aistoryhub-etincel.md) — Deterministic local audit for AI writing tells (uniform paragraphs, stock transitions) plus a trainable voice layer so drafts sound closer to a real voice.
+- [callstackincubator/agent-device](callstackincubator-agent-device.md) — Discovery router for the agent-device CLI: status, install guidance, version-matched help and prompts for iOS, Android, tvOS, macOS and Linux automation.
+- [cq27-dev/rag-rat](cq27-dev-rag-rat.md) — Local repo intelligence: hybrid BM25/vector search, a tree-sitter code graph, queryable git and GitHub history, and persistent source-anchored memories.
+- [drhalto/agentmako](drhalto-agentmako.md) — Local codebase intelligence backed by SQLite: context packets, indexed code and schema facts, diagnostics and optional Postgres/Supabase awareness.
+- [Dusheh/myclaw-toolkit](dusheh-myclaw-toolkit.md) — Developer utilities: web search, exchange rates, crypto prices, QR codes, JSON formatting, UUIDs, URL tools, domain checks and RSS feeds, some paid via x402.
+- [paramount-engineering/roku-dev-studio](paramount-engineering-roku-dev-studio.md) — Roku development: ECP device control, automated channel sideloading, BrightScript debugging and real-time log monitoring.
+- [ILoveMyJay/repocontext](ilovemyjay-repocontext.md) — AST-based codebase map, token compression and context packaging for AI coding agents and IDEs.
+- [machinegrade/validate](machinegrade-validate.md) — Deterministic validation of AI-generated artifacts: JSON Schema and OpenAPI response conformance and per-dialect SQL syntax, with typed verdicts and fix hints.
+- [AKzar1el/mcp-web-validator](akzar1el-mcp-web-validator.md) — Validate HTML and CSS, audit technical SEO and accessibility, check JSON-LD and public links, and capture responsive screenshots.
+- [halloffame12/CTX](halloffame12-ctx.md) — Indexes a repo into a local, deterministic code graph (symbols, references, dependencies) with semantic diffs and impact analysis.
+- [trakshan-mishra/Diffcontext](trakshan-mishra-diffcontext.md) — Static-analysis context compiler for Python repos: selects callers, callees and related functions for a change and packs them into a token budget.
+- [alexbypa/github-projectpulse-mcp](alexbypa-github-projectpulse-mcp.md) — GitHub repository health monitoring: A-F health grades, OpenSSF security checks, DORA metrics, code scanning alerts and CI/CD status.
+- [TimurRakhmatullin86/mcp-drill](timurrakhmatullin86-mcp-drill.md) — Fault injection for MCP servers (timeouts, malformed JSON-RPC, corrupted outputs) with a reliability scorecard for output schemas and error conformance.
+- [infino-ai/code-context](infino-ai-code-context.md) — Local code search for coding agents: hybrid keyword and semantic search with SQL relevance ranking over a plain-file index.
+- [kestiny18/spring-nacos-mcp](kestiny18-spring-nacos-mcp.md) — Read-only Nacos config and service discovery for Spring Cloud repos: finds environments from application/bootstrap files and diffs config keys across them.
+- [mithun4elp/briefkit-mcp-server](mithun4elp-briefkit-mcp-server.md) — Generate SaaS specifications for AI build tools: design systems, database schemas and RLS policies.
+- [magna-nz/aspnetcore-debugger-mcp](magna-nz-aspnetcore-debugger-mcp.md) — Interactive .NET/ASP.NET Core debugging via netcoredbg: breakpoints, stepping, thread inspection, exception and deadlock analysis, and request tracing.
+- [marin1321/mcp-devtools](marin1321-mcp-devtools.md) — Scoped access to local dev environments (filesystem, databases, processes, OpenAPI) with a command allowlist and read-only database mode.
+- [EtienneChollet/ontomics](etiennechollet-ontomics.md) — Semantic code index that extracts domain concepts, naming conventions and behavioral similarity from codebases.
+- [ozgurcd/gograph](ozgurcd-gograph.md) — AST-aware repository graph for Go codebases: struct embeds, public API surfaces, SQL queries and error mapping, giving agents context without grepping.
+- [LWTlong/ai-dev-analytics](lwtlong-ai-dev-analytics.md) — Observability for AI coding: tracks token usage and time, and turns AI deviations into persistent project rules.
+- [3KniGHtcZ/codebeamer-mcp](3knightcz-codebeamer-mcp.md) — Codebeamer ALM: read and write work items, trackers, projects, associations, references, comments and risk management data via the REST API.
+- [21st-dev/Magic-MCP](21st-dev-magic-mcp.md) — Create UI components inspired by 21st.dev design engineers.
+- [4DA-Systems/4DA](4da-systems-4da.md) — Upgrade intelligence for coding agents: what an upgrade changes and which of your files it touches, pre-install dependency checks, and lockfile CVE scans.
+- [mvtandas/wp-cli-mcp](mvtandas-wp-cli-mcp.md) — WordPress management via WP-CLI, locally or over SSH: themes, plugins, posts, menus, users, database, scaffolding and cache.
+- [Mogacode-ma/elementor-mcp-agent](mogacode-ma-elementor-mcp-agent.md) — Multi-site WordPress Elementor management: safe edits with backup and auto-rollback, template export/import, bulk find/replace, CSS flush and screenshots.
+- [nipun-arora/wordpress-mcp-agent-bridge](nipun-arora-wordpress-mcp-agent-bridge.md) — WordPress plugin exposing Rank Math SEO fields, JSON-LD schema and restorable content snapshots as MCP tools, plus an additive-only write gate and audit log.
+- [tcgunel/mobius-mcp](tcgunel-mobius-mcp.md) — Build WordPress sites on the Sweipe or FlatMobile themes: import demos, build a site from a brief, review it, rewrite page copy and change settings.
+- [a-25/ios-mcp-code-quality-server](a-25-ios-mcp-code-quality-server.md) — iOS code quality and test automation: Xcode test execution, SwiftLint integration and failure analysis. Also runs as a CLI.
+- [FI-Mihej/codebase-agent-mcp](fi-mihej-codebase-agent-mcp.md) — Delegates documentation and code analysis, including calls to other MCP servers, to a local or low-cost OpenAI-compatible LLM to save top-tier model tokens.
+- [raye-deng/open-code-review](raye-deng-open-code-review.md) — Code quality gate for AI-generated code, detecting hallucinated packages, phantom dependencies, stale APIs and AI-specific defects.
+- [repowise-dev/repowise](repowise-dev-repowise.md) — Codebase intelligence: indexes a repo into a dependency graph, git history, defect-risk code health, generated docs and architectural decisions. Runs locally.
+- [AgiMaulana/HuaweiAppGalleryMcp](agimaulana-huaweiappgallerymcp.md) — Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.
+- [Jott2121/agent-gate](jott2121-agent-gate.md) — Lets agents gate their own work: a fail-closed ship checklist, independent refute-first review and a tamper-evident, hash-chained receipts ledger.
+- [aos-standard/mcp-blast-radius](aos-standard-mcp-blast-radius.md) — Static blast-radius extraction and an AOS manifest.json divergence check (Oracle, Permitted, Prohibited), also usable as a blocking CI gate.
+- [aos-standard/mcp-agent-health](aos-standard-mcp-agent-health.md) — Agent health reporter: advisory health scans under AOS discipline covering manifest, services, immune loop and evidence.
+- [aparajithn/agent-utils-mcp](aparajithn-agent-utils-mcp.md) — Utility tools with x402 micropayments: JSON validation, base64, hashing, UUIDs, regex testing, Markdown and datetime conversion, cron parsing and JWT decoding.
+- [AI-by-design/primitiv](ai-by-design-primitiv.md) — Local-first design contract layer: scans Figma, code, Storybook and token files, reconciles conflicts and serves a single source of truth for design rules.
+- [aashari/mcp-server-atlassian-bitbucket](aashari-mcp-server-atlassian-bitbucket.md) — Atlassian Bitbucket Cloud: work with repositories, pull requests, workspaces and code.
+- [aashari/mcp-server-atlassian-confluence](aashari-mcp-server-atlassian-confluence.md) — Atlassian Confluence Cloud: work with spaces, pages and content, with automatic ADF-to-Markdown conversion.
+- [aashari/mcp-server-atlassian-jira](aashari-mcp-server-atlassian-jira.md) — Atlassian Jira Cloud: work with projects, issues, comments and related development information.
+- [GeiserX/atlassian-browser-mcp](geiserx-atlassian-browser-mcp.md) — Wraps mcp-atlassian with Playwright SSO login to reach Atlassian Server/Data Center behind corporate SSO (Okta, SAML, ADFS) where API tokens are unavailable.
+- [HarperZ9/telos](harperz9-telos.md) — Project Telos local tools for inspectable AI work: source intake, workspace context, routing ledgers, action receipts and verification packets.
+- [rust-works/omni-dev](rust-works-omni-dev.md) — Atlassian Jira and Confluence with schema-validated Markdown/ADF conversion that flags content-model violations instead of silently dropping nodes.
+- [abrinsmead/mindpilot-mcp](abrinsmead-mindpilot-mcp.md) — Visualize code, architecture and other concepts as Mermaid diagrams in a locally hosted web app.
+- [admica/FileScopeMCP](admica-filescopemcp.md) — Identifies important files in a codebase from dependency relationships, with diagrams and importance scores.
+- [mikusnuz/app-publish-mcp](mikusnuz-app-publish-mcp.md) — App Store Connect and Google Play Console: iOS and Android app management, TestFlight, builds, submissions, prices and sales reports.
+- [mikusnuz/cws-mcp](mikusnuz-cws-mcp.md) — Chrome Web Store extension management: upload, publish, check status, staged rollouts and metadata updates.
+- [mikusnuz/npm-mcp](mikusnuz-npm-mcp.md) — npm package management: publish, version, search, audit, install and more.
+- [WatermelonBros/reado](watermelonbros-reado.md) — Read-first code IDE whose bundled server exposes a project's tasks, comments, reading progress and bookmarks as MCP resources — plus browser-preview…
+- [Wopee-io/wopee-mcp](wopee-io-wopee-mcp.md) — Autonomous web app testing: run test cases in real browsers with pass/fail results and screenshots, and generate user stories, test cases and Playwright code.
+- [wooxogh/adr-mcp-setup](wooxogh-adr-mcp-setup.md) — Generates Architecture Decision Records from Claude Code conversations, with quality review, duplicate detection, a dependency graph and stale ADR alerts.
+- [agent-easy-use/mobile-easy-use](agent-easy-use-mobile-easy-use.md) — Android and iOS runtime inspection and control via Frida: method hooks, state inspection, temporary overrides, UI actions and screenshots.
+- [CSCSoftware/AiDex](cscsoftware-aidex.md) — Persistent Tree-sitter code index for precise, compact code search in languages including C#, TypeScript, Python, Rust and Go.
+- [ahmedak/defluff](ahmedak-defluff.md) — Deterministic, offline detector for filler phrases and clichés in AI-generated prose, using a curated phrase list and returning exact spans and a 0-1 score.
+- [ahmedxuhri/bigindexer](ahmedxuhri-bigindexer.md) — Hierarchical code intelligence: scans local source, clusters files by behavioral role, maps coupling seams and finds similar in-repo code for complex tasks.
+- [aidemd-mcp/server](aidemd-mcp-server.md) — Structured .aide spec files that give agents progressive disclosure of codebase architecture.
+- [aiulms/codelattice](aiulms-codelattice.md) — Read-only local code graph for Rust, Cangjie, ArkTS, TS/JS, C/C++, Python and Shell: call graphs, quality gates, change review and impact analysis.
+- [ellmos-ai/ellmos-codecommander-mcp](ellmos-ai-ellmos-codecommander-mcp.md) — Code analysis, JSON repair, encoding fixes and import organization for local projects.
+- [ethbak/icon-composer-mcp](ethbak-icon-composer-mcp.md) — Apple Icon Composer: create .icon bundles with Liquid Glass effects (iOS 26+), tune glass effects, set dark mode appearances and export for the App Store.
+- [Explorer-64/imagcon-mcp](explorer-64-imagcon-mcp.md) — Generate PWA, iOS and Android app icon sets from a text description with Google Imagen 4: all required sizes, maskable icons, splash screens and manifest.json.
+- [akramIOT/MCP_AI_SOC_Sher](akramiot-mcp-ai-soc-sher.md) — Dynamic SOC security threat analysis for a Text2SQL AI agent.
+- [aktsmm/skill-ninja-mcp-server](aktsmm-skill-ninja-mcp-server.md) — Search, install and manage agent skills (SKILL.md files) from GitHub repositories, with workspace analysis for personalized recommendations.
+- [alimo7amed93/webhook-tester-mcp](alimo7amed93-webhook-tester-mcp.md) — Create, retrieve and delete webhooks on webhook-test.com.
+- [allxsmith/bestax](allxsmith-bestax.md) — Gives agents props, examples and CSS variables for the Bestax React component library (Bulma v1). Runs offline.
+- [ambar/simctl-mcp](ambar-simctl-mcp.md) — Control the iOS Simulator.
+- [andrewschreiber/desktopinsights-mcp](andrewschreiber-desktopinsights-mcp.md) — Look up SDKs, frameworks and dependencies used by macOS and Windows desktop apps, search by technology adoption and compare stacks via Desktop Insights.
+- [andypgray/resharper-cli-mcp](andypgray-resharper-cli-mcp.md) — ReSharper solution-wide inspections and code cleanup for C# solutions via JetBrains' command-line tools, without an IDE. Unofficial.
+- [api7/apisix-mcp](api7-apisix-mcp.md) — Query and manage all resources in Apache APISIX.
+- [ArchAI-Labs/fastmcp-sonarqube-metrics](archai-labs-fastmcp-sonarqube-metrics.md) — Retrieve SonarQube project information: current and historical metrics, issues and health status.
+- [PhpCodeArcheology/PhpCodeArcheology](phpcodearcheology-phpcodearcheology.md) — PHP static analysis: code quality metrics, problem detection, refactoring priorities, dependency graphs, git hotspots, test coverage and impact analysis.
+- [artmann/package-registry-mcp](artmann-package-registry-mcp.md) — Search and get up-to-date information about npm, Cargo, PyPI and NuGet packages.
+- [astandrik/codex-pets](astandrik-codex-pets.md) — Read-only registry of animated companion packs (pets) for Codex: search, preview and install community pets and generate badges and embed cards.
+- [arvindand/maven-tools-mcp](arvindand-maven-tools-mcp.md) — Maven Central dependency intelligence: bulk version comparison, stability filtering, dependency age analysis, release patterns and Context7 upgrade guidance.
+- [augmnt/augments-mcp-server](augmnt-augments-mcp-server.md) — Up-to-date framework documentation for React, Next.js, Laravel, FastAPI, Tailwind CSS and more.
+- [automation-ai-labs/mcp-link](automation-ai-labs-mcp-link.md) — Integrate any API with AI agents using its OpenAPI schema.
+- [avikchakraborty060-create/The-top-innovation](avikchakraborty060-create-the-top-innovation.md) — Lossless context guard for coding agents: outlines large files with line ranges and digests noisy command output (tests, builds, installs), with full output…
+- [avisangle/jenkins-mcp-server](avisangle-jenkins-mcp-server.md) — Jenkins CI/CD: job management, build status tracking, pipeline monitoring, artifact and queue management, and batch operations.
+- [axliupore/mcp-code-runner](axliupore-mcp-code-runner.md) — Run code in multiple programming languages locally via Docker.
+- [ayhammouda/python-docs-mcp-server](ayhammouda-python-docs-mcp-server.md) — Local, read-only search of the Python standard library docs with exact symbol lookup, section-level results and version-aware context.
+- [azer/react-analyzer-mcp](azer-react-analyzer-mcp.md) — Analyze React code locally and generate docs or llm.txt for a whole project at once.
+- [back1ply/agent-skill-loader](back1ply-agent-skill-loader.md) — Load Claude Code skills into agents without copying files: discover, read and install skills on demand.
+- [bbonnin/openapi-to-mcp](bbonnin-openapi-to-mcp.md) — Converts any OpenAPI/Swagger specification into MCP tools automatically.
+- [beardfaceguy/daimonos](beardfaceguy-daimonos.md) — Compact structured-JSON replacements for built-in file, search, exec and git tools, with git, cargo, gh and docker plugins, output filtering and batching.
+- [BetterDB-inc/monitor](betterdb-inc-monitor.md) — Valkey and Redis observability: query real-time metrics, analyze slow commands, detect hot keys and investigate performance issues.
+- [muvon/octocode](muvon-octocode.md) — Semantic code indexer with a GraphRAG knowledge graph: index a codebase and search it in natural language to understand its architecture.
+- [bgauryy/octocode-mcp](bgauryy-octocode-mcp.md) — Research, analysis and discovery across GitHub and npm in real time.
+- [bitrise-io/bitrise-mcp](bitrise-io-bitrise-mcp.md) — Bitrise API: app management, build operations, artifact management and more.
+- [BrunoKrugel/echo-mcp](brunokrugel-echo-mcp.md) — Zero-configuration Go library that exposes existing Echo web framework APIs as MCP tools.
+- [buildkite/buildkite-mcp-server](buildkite-buildkite-mcp-server.md) — Buildkite: create pipelines, diagnose and fix failures, trigger builds, monitor job queues and more.
+- [cairncommons/cairn-commons](cairncommons-cairn-commons.md) — Verified, version-pinned records of new dependency bugs: your coding agent looks an error up before searching the web (91% vs 68% correct on whether a bug…
+- [canopy-labs/featureflip-mcp](canopy-labs-featureflip-mcp.md) — Manage Featureflip feature flags: create and toggle flags, edit targeting rules and find stale flags.
+- [carldaws/squiggles](carldaws-squiggles.md) — Run any number of LSP servers from one YAML config for diagnostics, go-to-definition and rename, plus server-specific features like Rust macro expansion.
+- [carloshpdoc/memorydetective](carloshpdoc-memorydetective.md) — iOS memory leak and performance investigation: reads .memgraph and .trace files, classifies retain cycles against known patterns and suggests Swift fixes.
+- [cerebrixos-org/tuning-engines-cli](cerebrixos-org-tuning-engines-cli.md) — Fine-tune open-source LLMs (Qwen, Llama, DeepSeek, Mistral, Gemma) on your data with LoRA, QLoRA or full fine-tuning, plus cost estimation and S3 export.
+- [Chunkydotdev/bldbl-mcp](chunkydotdev-bldbl-mcp.md) — Buildable development platform: manage tasks, track progress, get project context and collaborate with humans on software projects.
+- [CircleCI/mcp-server-circleci](circleci-mcp-server-circleci.md) — Fix CircleCI build failures.
+- [cjo4m06/mcp-shrimp-task-manager](cjo4m06-mcp-shrimp-task-manager.md) — Task management for coding agents with task memory, self-reflection and dependency management.
+- [ckanthony/gin-mcp](ckanthony-gin-mcp.md) — Zero-configuration Go library that exposes existing Gin web framework APIs as MCP tools.
+- [ckreiling/mcp-server-docker](ckreiling-mcp-server-docker.md) — Manage Docker containers, images, volumes and networks.
+- [ClaudeCodeNavi/claudecodenavi-mcp](claudecodenavi-claudecodenavi-mcp.md) — Search and share Claude Code snippets, prompts, Q&A solutions, error fixes and MCP server configurations from the ClaudeCodeNavi community.
+- [cocaxcode/api-testing-mcp](cocaxcode-api-testing-mcp.md) — API testing: per-project environments with variable interpolation, saved collections, multi-step flows, assertions, load testing and OpenAPI mock generation.
+- [patchloom/patchloom](patchloom-patchloom.md) — Structured file edits for agents: JSON, YAML and TOML by selector, Markdown and AST edits, dry runs and multi-file transactional batches.
+- [PatrickSys/codebase-context](patricksys-codebase-context.md) — Shows agents which patterns a codebase actually uses, which files a change will affect and when there is too little context to trust an edit. Runs locally.
+- [CodeLogicIncEngineering/codelogic-mcp-server](codelogicincengineering-codelogic-mcp-server.md) — CodeLogic code dependency analytics, architectural risk analysis and impact assessment.
+- [coffeecoproject/layermap](coffeecoproject-layermap.md) — Compiler-resolved call graph for TypeScript/JavaScript, Go, Python and Java that traces a function's callers up to HTTP routes and handlers in one call.
+- [Comet-ML/Opik-MCP](comet-ml-opik-mcp.md) — Use natural language to explore LLM observability, traces, and monitoring data captured by Opik.
+- [conan-io/conan-mcp](conan-io-conan-mcp.md) — Conan C/C++ package manager: create projects, manage dependencies, check licenses and scan for security vulnerabilities.
+- [ConfigCat/mcp-server](configcat-mcp-server.md) — ConfigCat feature flag platform: manage feature flags, configs, environments, products and organizations.
+- [context-rot-detection](context-rot-detection.md) — Monitors agent context health: token utilization, context quality degradation and session fatigue, with 0-100 health scores and recovery recommendations.
+- [Contentrain/ai](contentrain-ai.md) — Local-first content governance: model and content CRUD, validation, normalization and i18n across any framework.
+- [cqfn/aibolit-mcp-server](cqfn-aibolit-mcp-server.md) — Identifies refactoring hotspots to help agents improve code.
+- [rafsilva85/credit-optimizer-v5](rafsilva85-credit-optimizer-v5.md) — Lowers Manus AI usage costs through model routing, smart testing and context hygiene.
+- [currents-dev/currents-mcp](currents-dev-currents-mcp.md) — Fix Playwright test failures reported to Currents.
+- [ofershap/cursor-usage](ofershap-cursor-usage.md) — AI coding usage analytics: track spend, model usage and costs across Cursor and Claude Code sessions.
+- [Daghis/teamcity-mcp](daghis-teamcity-mcp.md) — JetBrains TeamCity: builds, tests, build agents and CI/CD pipeline management, with dev and full modes switchable at runtime.
+- [darktw/chatpipe-mcp](darktw-chatpipe-mcp.md) — Publish HTML as live, shareable web pages with public, password-protected or email-restricted access.
+- [dannote/figma-use](dannote-figma-use.md) — Figma control: create shapes, text and components, and set styles, auto-layout, variables and exports.
+- [musepy/genable](musepy-genable.md) — Build and edit Figma designs: JSX-like tree creation, variables and tokens, components, cross-page navigation and screenshot-based visual verification.
+- [davidan90/time-node-mcp](davidan90-time-node-mcp.md) — Timezone-aware date and time operations: IANA timezones, timezone conversion and daylight saving time handling.
+- [davidlin2k/pox-mcp-server](davidlin2k-pox-mcp-server.md) — Network control and management via the POX SDN controller.
+- [delano/postman-mcp-server](delano-postman-mcp-server.md) — Interact with the Postman API.
+- [delimit-ai/delimit](delimit-ai-delimit.md) — API governance: detects breaking changes between OpenAPI/Swagger spec versions using configurable policy rules, with structured pass/fail verdicts.
+- [deploy-mcp/deploy-mcp](deploy-mcp-deploy-mcp.md) — Deployment tracking and monitoring with live status badges.
+- [docker/hub-mcp](docker-hub-mcp.md) — Interact with Docker Hub: repositories, search and Docker Hardened Images.
+- [dorukardahan/twitterapi-docs-mcp](dorukardahan-twitterapi-docs-mcp.md) — Offline access to TwitterAPI.io documentation: endpoint references, guides and authentication docs.
+- [EdelmarSchneider/permark](edelmarschneider-permark.md) — Markdown reader and editor that tells coding agents what you are reading: the open document, section and selection, unread changes, your comments to…
+- [efremidze/swift-patterns-mcp](efremidze-swift-patterns-mcp.md) — Curated Swift and SwiftUI patterns and real-world code examples from sources like Swift by Sundell and SwiftLee.
+- [endorhq/cli](endorhq-cli.md) — Endor: run services like MariaDB, Postgres, Redis, Memcached, Alpine or Valkey as pre-configured apps in isolated sandboxes.
+- [endiagram/mcp](endiagram-mcp.md) — Deterministic structural analysis of systems described in EN syntax: topology, bottlenecks, blast radius, tracing, diffs and centrality.
+- [engineerdeep/buildtree-mcp](engineerdeep-buildtree-mcp.md) — Share Android and iOS builds with testers: detects Expo, React Native or Flutter, runs the build, uploads the .apk or .ipa to buildtree, and returns install…
+- [ericbrown/project-context-mcp](ericbrown-project-context-mcp.md) — Exposes .context/ folder files as MCP resources so Claude Code can reference project documentation via @ mentions.
+- [etsd-tech/mcp-pointer](etsd-tech-mcp-pointer.md) — Visual DOM element selector for coding agents: a Chrome extension and server bridge to capture page elements with Option+Click.
+- [extentos/mcp-server](extentos-mcp-server.md) — Build smart-glasses apps: scaffold, validate and simulate Meta smart glasses integrations (camera capture, voice, audio) in Android and iOS apps.
+- [eyaltoledano/claude-task-master](eyaltoledano-claude-task-master.md) — Task management for AI-driven development: PRD parsing, task expansion, multi-provider support and selective tool loading to save context.
+- [eyaushev/swagger-testcase-mcp](eyaushev-swagger-testcase-mcp.md) — Generate API test cases from Swagger/OpenAPI specs (auth, validation, boundary, security and more) and export them to Gherkin, Postman, k6, pytest or TestRail.
+- [fantasieleven-code/callout](fantasieleven-code-callout.md) — Multi-perspective architecture review from viewpoints like CTO, security, product and DevOps, plus AI collaboration coaching and idea scoring.
+- [FidelisMM/shipstores](fidelismm-shipstores.md) — Ship iOS and Android apps end to end: App Store Connect, Google Play Console and Expo EAS builds, listings, screenshots, privacy labels, review submission…
+- [flipt-io/mcp-server-flipt](flipt-io-mcp-server-flipt.md) — Interact with feature flags in Flipt.
+- [flytohub/flyto-core](flytohub-flyto-core.md) — Deterministic agent execution engine (browser, file, Docker, data, crypto, scheduling modules) with execution traces, evidence snapshots and step replay.
+- [ForeverTools/kiprio-mcp](forevertools-kiprio-mcp.md) — Utility APIs: email validation, DNS lookup, WHOIS, SSL certificate inspection, IBAN validation, business day calculation, hashing and GPU prices.
+- [formfeed-dev/formfeed](formfeed-dev-formfeed.md) — Render PDFs and images from HTML templates (Jinja2, Liquid, Handlebars) or Word and PowerPoint files, check data against a template's schema before…
+- [freema/mcp-design-system-extractor](freema-mcp-design-system-extractor.md) — Extract component information from Storybook design systems: HTML, styles, props, dependencies, theme tokens and metadata.
+- [gavelcode/gavel](gavelcode-gavel.md) — Code-quality gate for Bazel monorepos: runs lint, coverage and architecture checks from the build graph and returns a pass/fail verdict.
+- [GeiserX/lynxprompt-mcp](geiserx-lynxprompt-mcp.md) — LynxPrompt prompt management: create, search and organize AI prompts and AGENTS.md/CLAUDE.md configuration files.
+- [getdomovoi/osnova](getdomovoi-osnova.md) — Deterministic code map for AI coding agents: a tree-sitter symbol and call graph with exact file:line callers and callees, the evidence behind each edge…
+- [gitkraken/gk-cli](gitkraken-gk-cli.md) — GitKraken CLI with an MCP server wrapping GitKraken APIs as well as Jira, GitHub, GitLab and more.
+- [GLips/Figma-Context-MCP](glips-figma-context-mcp.md) — Gives coding agents direct access to Figma data to implement designs in one shot.
+- [gmansystems/agent-stack-directory](gmansystems-agent-stack-directory.md) — Search, inspect and compare AI agent infrastructure tools (cloud browsers, code sandboxes, memory, search APIs and more) from the Agent Stack Directory open…
+- [gofireflyio/firefly-mcp](gofireflyio-firefly-mcp.md) — Discover, manage and codify cloud resources with Firefly.
+- [gorosun/unified-diff-mcp](gorosun-unified-diff-mcp.md) — Generate and visualize unified diffs as HTML or PNG, with side-by-side and line-by-line views for filesystem dry runs.
+- [ajitpratap0/GoSQLX](ajitpratap0-gosqlx.md) — SQL validation, formatting, parsing, linting, security scanning and metadata extraction across multiple SQL dialects.
+- [gridhra/port-keeper-mcp](gridhra-port-keeper-mcp.md) — Leases development port blocks to each clone or git worktree, writes .env files and resolves service names to URLs so parallel agents get their own ports.
+- [gridproof/gridproof](gridproof-gridproof.md) — Renders a frontend with Playwright and audits spacing, gaps and element sizes against a design scale, returning fix hints. Tailwind-first.
+- [Govcraft/rust-docs-mcp-server](govcraft-rust-docs-mcp-server.md) — Up-to-date documentation for a specific Rust crate via semantic search and LLM summarization.
+- [h-kazuki-pixel/layout-doctor-mcp](h-kazuki-pixel-layout-doctor-mcp.md) — Renders HTML in a headless browser and detects layout defects (text overlap, element overflow, leftover placeholders) without baseline images.
+- [HainanZhao/mcp-gitlab-jira](hainanzhao-mcp-gitlab-jira.md) — GitLab and Jira: manage projects, merge requests, files, releases and tickets.
+- [HakashiKatake/docorbit](hakashikatake-docorbit.md) — Version-aware docs for coding agents: finds llms.txt, OpenAPI and skill specs, resolves dependency versions, detects pitfalls and verifies code.
+- [haris-musa/excel-mcp-server](haris-musa-excel-mcp-server.md) — Excel workbook creation, data operations, formatting, charts, pivot tables and formulas.
+- [hechtcarmel/jetbrains-debugger-mcp-plugin](hechtcarmel-jetbrains-debugger-mcp-plugin.md) — JetBrains IDE plugin giving coding agents programmatic control of the debugger.
+- [hechtcarmel/jetbrains-index-mcp-plugin](hechtcarmel-jetbrains-index-mcp-plugin.md) — JetBrains IDE plugin exposing indexing and refactoring features: rename, safe delete, find references, call and type hierarchy, diagnostics and more.
+- [hidai25/eval-view](hidai25-eval-view.md) — Regression testing for AI agents: save golden baselines, detect behavioral drift and block regressions in CI.
+- [higress-group/higress-ops-mcp-server](higress-group-higress-ops-mcp-server.md) — Manage Higress gateway configuration and operations.
+- [hijaz/postmancer](hijaz-postmancer.md) — Maintain and use API collections, replacing REST clients like Postman or Insomnia.
+- [Muhammed-AbdelGhany/rest_api_mcp](muhammed-abdelghany-rest-api-mcp.md) — Authenticated calls to any REST API: auto-login, token caching, 2FA/OTP support, Swagger spec fetching and fuzzy endpoint search.
+- [hloiseaufcms/mcp-gopls](hloiseaufcms-mcp-gopls.md) — Go code analysis via gopls, the Go language server.
+- [hoklims/stacksfinder-mcp](hoklims-stacksfinder-mcp.md) — Deterministic tech stack recommendations scored on six dimensions: analyze and compare technologies and get stack suggestions for any project type.
+- [homespunapps/homespun](homespunapps-homespun.md) — Deploy and operate multi-user web apps: magic-link sign-in, a shared realtime database, per-role permissions, email notifications and file uploads.
+- [hungthai1401/bruno-mcp](hungthai1401-bruno-mcp.md) — Interact with the Bruno API client.
+- [hyperb1iss/droidmind](hyperb1iss-droidmind.md) — Android device control, debugging, system analysis and UI automation, with a security framework.
+- [icohangar-ops/codesentinel](icohangar-ops-codesentinel.md) — Detect dead code, circular dependencies, coupling and architectural drift.
+- [idosal/git-mcp](idosal-git-mcp.md) — Generic remote server that provides documentation for any GitHub repository or project.
+- [igorolv/sonar-mcp-server](igorolv-sonar-mcp-server.md) — quality and maintenance score on…
+- [IgorGanapolsky/ThumbGate](igorganapolsky-thumbgate.md) — Turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks, stopping coding agents from repeating mistakes.
+- [iksnerd/adb-mcp](iksnerd-adb-mcp.md) — Drive Android emulators and devices over adb: screenshots, UI inspection, tap/swipe/type, app lifecycle, logcat, screen recording and Gradle builds and tests.
+- [imatza-rh/mcp-zuul](imatza-rh-mcp-zuul.md) — Zuul CI: build failure analysis, log search, pipeline status and job configuration.
+- [InditexTech/mcp-server-simulator-ios-idb](inditextech-mcp-server-simulator-ios-idb.md) — Interact with iOS simulators (iPhone, iPad and more) through natural language commands.
+- [Ivy-Innovation/cubelife](ivy-innovation-cubelife.md) — Persistent pixel-art characters that reflect an agent's state in real time: report work state, mark tasks complete, signal errors and check status.
+- [InhiblabCore/mcp-image-compression](inhiblabcore-mcp-image-compression.md) — Local compression of various image formats.
+- [Adityaaery20/media-mcp](adityaaery20-media-mcp.md) — Local image and video processing: resize, convert, compress, crop, thumbnails, metadata extraction, rotate, flip, filters and ffmpeg-based video operations.
+- [InsForge/insforge-mcp](insforge-insforge-mcp.md) — Backend-as-a-service for agents building full-stack apps: auth, PostgreSQL database, storage and functions.
+- [io.github.hoainho/podium-mcp](io-github-hoainho-podium-mcp.md) — Mobile E2E testing on macOS: iOS Simulator control, native UI automation, Maestro flows, React Native debugging and WebView DOM inspection.
+- [ios-simulator-mcp](ios-simulator-mcp.md) — Interact with iOS simulators: get simulator information, control UI interactions and inspect UI elements.
+- [isaacphi/mcp-language-server](isaacphi-mcp-language-server.md) — Navigate codebases with language server tools: go to definition, find references, rename and diagnostics.
+- [blackwell-systems/agent-lsp](blackwell-systems-agent-lsp.md) — Stateful layer over real language servers: persistent sessions keep indexes warm, and speculative execution simulates edits in memory before writing to disk.
+- [IvanAmador/vercel-ai-docs-mcp](ivanamador-vercel-ai-docs-mcp.md) — AI-powered search and querying of the Vercel AI SDK documentation.
+- [izzzzzi/codewiki-mcp](izzzzzi-codewiki-mcp.md) — Search repos, fetch AI-generated wiki docs and ask questions about any open-source repository via codewiki.google.
+- [j4c0bs/mcp-server-sql-analyzer](j4c0bs-mcp-server-sql-analyzer.md) — SQL analysis, linting and dialect conversion using SQLGlot.
+- [jaggernaut007/Nexus-MCP](jaggernaut007-nexus-mcp.md) — Local hybrid code search (vector, BM25 and code graph) with structural code graph analysis and persistent semantic memory.
+- [jaimenbell/mcp-factory](jaimenbell-mcp-factory.md) — Manifest-driven MCP server scaffolder: generate MCP servers from YAML manifests, with batch registration and a live routing hub.
+- [jamalkamaladdin/pixelpact](jamalkamaladdin-pixelpact.md) — Extracts a visual contract from a live page or Figma frame and measures a UI implementation against it, one line per property that drifted.
+- [Jambozx/onlinecybertools-mcp-server](jambozx-onlinecybertools-mcp-server.md) — Developer and security utilities via the onlinecybertools.com API: encoding, hashing, JWT decoding, regex testing, formatters, network diagnostics and OSINT.
+- [JamesANZ/system-prompts-mcp-server](jamesanz-system-prompts-mcp-server.md) — Exposes a catalog of coding assistant system prompts as tools, with model-aware suggestions and persona activation to emulate agents like Cursor or Devin.
+- [James-Chahwan/repo-graph](james-chahwan-repo-graph.md) — Structural codebase graph: scans entities, relationships and feature flows across languages so LLMs navigate by structure instead of grepping.
+- [janaraj/tnl](janaraj-tnl.md) — TNL (Typed Natural Language): per-feature English contracts that coding agents can look up, propose edits to and verify implementations against.
+- [janreges/ai-distiller-mcp](janreges-ai-distiller-mcp.md) — Extracts essential code structure from large codebases into an AI-digestible format so agents write code that correctly uses existing APIs.
+- [jasonjmcghee/claude-debugs-for-you](jasonjmcghee-claude-debugs-for-you.md) — VS Code extension and MCP server for language-agnostic automatic debugging via breakpoints and expression evaluation.
+- [jawdat6/fixgraph-mcp](jawdat6-fixgraph-mcp.md) — Search and contribute to a community-verified knowledge base of engineering issues and fixes, with trust scores and fix verification.
+- [jetbrains/mcpProxy](jetbrains-mcpproxy.md) — Work with JetBrains IDEs such as IntelliJ, PyCharm, WebStorm and Android Studio.
+- [jiezeng2004-design/PatchWarden](jiezeng2004-design-patchwarden.md) — Local-first safety and verification layer for coding agents: workspace confinement, command allowlists, scope-violation detection and auditable task evidence.
+- [Jktfe/serveMyAPI](jktfe-servemyapi.md) — Securely store and access API keys across projects using the macOS Keychain.
+- [jmshinhwa/readystack-mcp](jmshinhwa-readystack-mcp.md) — Regulation and deadline linters for EU CRA, DORA, NIS2, the EU AI Act, PCI DSS, WCAG, e-invoicing and more, reporting file, line and fix for each finding.
+- [jonradoff/lightcms](jonradoff-lightcms.md) — CMS managed via natural language: publish content and manage templates, assets, themes, redirects and multi-site forks, with versioning and semantic search.
+- [jordandalton/restcsv-mcp-server](jordandalton-restcsv-mcp-server.md) — Access CSV files via RestCSV.
+- [joshuarileydev/simulator-mcp-server](joshuarileydev-simulator-mcp-server.md) — Control iOS Simulators.
+- [josifb/whichlib](josifb-whichlib.md) — Dependency picker for coding agents: recommends and compares GitHub repos for a need, scored 0-100 on momentum, maintenance, npm/PyPI downloads and license…
+- [Jpisnice/shadcn-ui-mcp-server](jpisnice-shadcn-ui-mcp-server.md) — Access shadcn/ui v4 components, blocks, demos and metadata.
+- [jsdelivr/globalping-mcp-server](jsdelivr-globalping-mcp-server.md) — Run ping, traceroute, mtr, HTTP and DNS measurements from locations around the world via Globalping.
+- [julianbei/arno](julianbei-arno.md) — IDE for agents: read code by symbol, edit with compiler diagnostics, validate with the project's own build and tests, and revert to checkpoints.
+- [Jungle-Grid/mcp-server](jungle-grid-mcp-server.md) — Estimate, submit, monitor and fetch logs for GPU inference, training, fine-tuning and batch workloads on Jungle Grid.
+- [Jwrede/tokentoll](jwrede-tokentoll.md) — Scan codebases for LLM API calls and estimate monthly costs. Compare costs between git refs to catch cost regressions during code review.
+- [kadykov/mcp-openapi-schema-explorer](kadykov-mcp-openapi-schema-explorer.md) — Token-efficient access to OpenAPI/Swagger specs via MCP Resources.
+- [kamysh/muninn](kamysh-muninn.md) — Code search for AI coding agents with hybrid retrieval, structural search and shared indexing across Git worktrees. Requires PostgreSQL with pgvector and…
+- [kao273183/mk-qa-master](kao273183-mk-qa-master.md) — End-to-end QA loop: analyzes web pages or mobile screens, generates and runs pytest or Maestro tests with auto-retry, and writes an optimization plan.
+- [Kapeli/dash-mcp-server](kapeli-dash-mcp-server.md) — Search documentation sets in Dash, the macOS API documentation browser.
+- [kenneives/design-token-bridge-mcp](kenneives-design-token-bridge-mcp.md) — Translates design tokens from Tailwind, CSS, Figma or W3C DTCG into Material 3, SwiftUI, Tailwind config and CSS variables, with WCAG contrast validation.
+- [kensaurus/mushi-mushi](kensaurus-mushi-mushi.md) — Bug-report triage and fix dispatch: plain-English diagnoses of user-reported bugs with evidence, blast radius and a fix prompt, then automated GitHub fix PRs.
+- [kerbelp/metatron](kerbelp-metatron.md) — Self-hosted server that captures design patterns, conventions and decisions from git history and developer feedback and serves them to coding agents.
+- [kevinswint/xcode-studio-mcp](kevinswint-xcode-studio-mcp.md) — iOS development tools: build, run, screenshot and interact with the iOS Simulator.
+- [kindly-software/kdb](kindly-software-kdb.md) — Time-travel debugger with bidirectional execution replay, hash-chain audit logging and SIMD-accelerated stack unwinding.
+- [kirich1409/maven-mcp](kirich1409-maven-mcp.md) — MCP server / agent plugin for Maven and Gradle dependency intelligence: latest versions, outdated deps, CVEs, changelogs, licenses and project audits.
+- [knewstimek/agent-tool](knewstimek-agent-tool.md) — Encoding-aware file read/edit for coding agents with indentation conversion and .editorconfig support, plus SSH, SFTP, process management and system utilities.
+- [kranz-org/kranz](kranz-org-kranz.md) — Local service orchestrator with a stdio MCP server for inspecting and controlling development services, logs, ports, actions and run history across live…
+- [KryptosAI/mcp-observatory](kryptosai-mcp-observatory.md) — Regression testing for MCP servers: discovers configured servers, checks capabilities, invokes tools, detects schema drift and recommends new servers.
+- [kyisaiah47/compound-mcp](kyisaiah47-compound-mcp.md) — Read-only lookups for facts newer than a model's training cutoff: AI model costs, dependency maintenance, SaaS stack costs, shadcn registry items and more.
+- [LadislavSopko/mcp-ai-server-visual-studio](ladislavsopko-mcp-ai-server-visual-studio.md) — Roslyn-based Visual Studio integration: semantic code navigation, symbol search, inheritance trees, call graphs, safe rename and build/test execution.
+- [kimwwk/repocrunch](kimwwk-repocrunch.md) — Analyze GitHub repositories' tech stack, dependencies, architecture, health metrics and security indicators with deterministic JSON output.
+- [lamemind/mcp-server-multiverse](lamemind-mcp-server-multiverse.md) — Middleware that runs multiple isolated instances of the same MCP servers side by side with unique namespaces and configurations.
+- [MarcelRoozekrans/roslyn-codelens-mcp](marcelroozekrans-roslyn-codelens-mcp.md) — Roslyn-based .NET code intelligence: type hierarchies, call graphs, DI registrations, diagnostics, code fixes and complexity metrics from pre-built indexes.
+- [langfuse/mcp-server-langfuse](langfuse-mcp-server-langfuse.md) — Access and manage LLM application prompts created with Langfuse Prompt Management.
+- [lisamaraventano-spine/mcp-server](lisamaraventano-spine-mcp-server.md) — Underground Cultural District: developer utilities (UUID, JSON, Base64, hashing, JWT, regex, cron), creative tools and a marketplace of digital goods.
+- [linuxsuren/atest-mcp-server](linuxsuren-atest-mcp-server.md) — Manage API test suites and test cases with atest.
+- [linw1995/nvim-mcp](linw1995-nvim-mcp.md) — Interact with Neovim.
+- [jarvisassistantux/loopsense](jarvisassistantux-loopsense.md) — Feedback loop for coding agents: CI monitoring, process watching, file change detection and HTTP polling.
+- [logisky/logisheets-mcp](logisky-logisheets-mcp.md) — Local Excel-compatible spreadsheet engine based on LogiSheets: deterministic formulas, named blocks, column rules, scenario scans, goal-seek and .xlsx export.
+- [lorenzo-cambiaghi/LynxMCP](lorenzo-cambiaghi-lynxmcp.md) — Local semantic code search with AST-aware chunking, hybrid BM25 and dense retrieval, and a code knowledge graph over codebases, docs sites and PDFs.
+- [louis030195/gptzero-mcp](louis030195-gptzero-mcp.md) — Detect AI-generated text via the GPTZero API, with confidence scores, probability breakdowns and French and Spanish support.
+- [lpigeon/ros-mcp-server](lpigeon-ros-mcp-server.md) — Control robots by converting natural language commands into ROS or ROS2 control commands.
+- [lpigeon/unitree-go2-mcp-server](lpigeon-unitree-go2-mcp-server.md) — Control the Unitree Go2 robot with natural language commands interpreted by an LLM.
+- [LucasGorgal/localfig](lucasgorgal-localfig.md) — Exposes the Figma desktop app's Plugin API on the open file: inline renders, design token reading and one undo step per call, without the cloud API.
+- [LumabyteCo/clarifyprompt-mcp](lumabyteco-clarifyprompt-mcp.md) — Turns vague prompts into platform-optimized prompts for AI tools across image, video, voice, music, code, chat and document categories.
+- [Luqueee/kivgraph](luqueee-kivgraph.md) — Local code graph for coding agents: find code by intent, follow callers and references, inspect blast radius and trace dependencies across repositories.
+- [madhan-g-p/DevDocs-MCP](madhan-g-p-devdocs-mcp.md) — Version-pinned, offline documentation sourced from DevDocs.io.
+- [impossiblecode/overseer-nvim-mcp](impossiblecode-overseer-nvim-mcp.md) — Runs long-running commands a coding agent starts in Neovim (dev servers, watchers) as overseer.nvim tasks you can watch and stop from your task list.
+- [paulburgess1357/nvim-mcp](paulburgess1357-nvim-mcp.md) — Control Neovim instances via msgpack-RPC: read and edit buffers, run commands, send keys, query LSP diagnostics and annotate code with highlights.
+- [paulhkang94/markview](paulhkang94-markview.md) — Open and render Markdown files in MarkView, a native macOS Markdown preview app.
+- [MarcelRoozekrans/memorylens-mcp](marcelroozekrans-memorylens-mcp.md) — On-demand .NET memory profiling with JetBrains dotMemory: detects memory leaks, LOH fragmentation and anti-patterns, and suggests code fixes.
+- [martingeidobler/android-mcp-server](martingeidobler-android-mcp-server.md) — Android device control via ADB: screenshots, UI tree inspection, touch automation, logcat and compound actions like tap-and-wait.
+- [mattjegan/swarmia-mcp](mattjegan-swarmia-mcp.md) — Read-only access to Swarmia metrics for quick reporting.
+- [meanands/npm-package-docs-mcp](meanands-npm-package-docs-mcp.md) — Up-to-date documentation for npm packages, fetched from the latest README in the package's GitHub repository.
+- [mcpware/ui-annotator-mcp](mcpware-ui-annotator-mcp.md) — Annotates any web page with hover labels for AI assistants via reverse proxy injection, without browser extensions.
+- [microservices-sh/mcp](microservices-sh-mcp.md) — Inspect microservices.sh Cloudflare-native modules and templates, generate app plans and projects, run checks and trigger confirmation-gated preview deploys.
+- [mhmzdev/Figma-Flutter-MCP](mhmzdev-figma-flutter-mcp.md) — Gives coding agents Figma data to write Flutter code, including asset exports, widgets and full-screen implementations.
+- [michal-niedzwiedzki/visimark](michal-niedzwiedzki-visimark.md) — Checks that every computed number in a Markdown document still matches the formula that produced it, and plans — then applies, behind an explicit write gate…
+- [Michael-WhiteCapData/ollama-handoff](michael-whitecapdata-ollama-handoff.md) — Offload summaries, drafts, extractions and first-pass code reviews from a cloud LLM agent to a local Ollama model via handoff tools with built-in prompts.
+- [MikeRecognex/mcp-codebase-index](mikerecognex-mcp-codebase-index.md) — Structural codebase indexer for querying functions, classes, imports, dependency graphs and change impact.
+- [mmorris35/devplan-mcp-server](mmorris35-devplan-mcp-server.md) — Generate step-by-step development plans (PROJECT_BRIEF.md, DEVELOPMENT_PLAN.md, CLAUDE.md) using the ClaudeCode-DevPlanBuilder methodology.
+- [MnemeHQ/mneme](mnemehq-mneme.md) — Architectural decision governance for coding agents: submit proposals and query canonical decisions and their lineage, while humans keep final authority.
+- [mobile-next/mobile-mcp](mobile-next-mobile-mcp.md) — Android and iOS app and device automation, development and app scraping on simulators, emulators and physical devices.
+- [MobileReality/mdma](mobilereality-mdma.md) — Exposes the MDMA spec (interactive Markdown applications with mounted components), authoring prompts, package metadata and live docs.
+- [saranshbamania/mobile-device-mcp](saranshbamania-mobile-device-mcp.md) — Control Android devices and iOS simulators: AI visual analysis, Flutter widget tree inspection, element finding, video recording and test script generation.
+- [getmockd/mockd](getmockd-mockd.md) — Mock HTTP, GraphQL, gRPC, WebSocket, MQTT, SSE and SOAP APIs with chaos engineering, stateful CRUD, spec imports and deterministic seeded responses.
+- [mockherodev/mcp-server](mockherodev-mcp-server.md) — Synthetic test data generation: detect schemas from SQL or JSON and generate JSON, CSV or SQL data.
+- [mrexodia/user-feedback-mcp](mrexodia-user-feedback-mcp.md) — Enable a human-in-the-loop feedback workflow in AI coding tools.
+- [muhannad-hash/git-context-mcp](muhannad-hash-git-context-mcp.md) — Explains why code exists by tracing lines back to commits, GitHub PR descriptions and linked issues, plus file history, commit search and contributors.
+- [mumez/pharo-smalltalk-interop-mcp-server](mumez-pharo-smalltalk-interop-mcp-server.md) — Pharo Smalltalk integration: code evaluation, class and method introspection, package management, test execution and project installation in Pharo images.
+- [n8daniels/RulesetMCP](n8daniels-rulesetmcp.md) — Keeps agents grounded in project rules: query coding standards, validate snippets and get task-specific guidance from version-controlled rule files.
+- [Nagarjuna2997/ios-agent-skill](nagarjuna2997-ios-agent-skill.md) — Swift code reviews, local Apple references and app scaffolding, plus simulator tools on macOS with Xcode.
+- [najaeda/naja-scope](najaeda-naja-scope.md) — Explore elaborated SystemVerilog/Verilog designs (RTL or gate-level netlists) with najaeda: trace fan-in/fan-out, walk module hierarchy and jump to source.
+- [Souzix76/n8n-workflow-tester-safe](souzix76-n8n-workflow-tester-safe.md) — Test, score and inspect n8n workflows with config-driven test suites, two-tier scoring, execution traces and a built-in node catalog.
+- [AutomateLab-tech/n8n-mcp](automatelab-tech-n8n-mcp.md) — Generate n8n workflow JSON from natural language, lint for deprecated nodes, missing typeVersion and broken connections, and debug per-node execution failures.
+- [narumiruna/gitingest-mcp](narumiruna-gitingest-mcp.md) — Convert any Git repository into a text digest of its codebase using gitingest.
+- [Neem2004/android-mcp-server](neem2004-android-mcp-server.md) — ADB-based Android access: read-only logcat, UI hierarchy, package listing and allowlisted shell commands.
+- [neilberkman/editorconfig_mcp](neilberkman-editorconfig-mcp.md) — Formats files using .editorconfig rules so AI-generated code follows project formatting standards.
+- [Neo1228/spring-boot-starter-swagger-mcp](neo1228-spring-boot-starter-swagger-mcp.md) — Turn a Spring Boot application into an MCP server by reusing its existing Swagger/OpenAPI documentation.
+- [ni-c/woodpecker-ci-mcp](ni-c-woodpecker-ci-mcp.md) — Drive a self-hosted Woodpecker CI: read failing step logs, restart, cancel or approve pipelines, and manage secrets, registries, crons, agents and the queue.
+- [nickjlamb/groundwork](nickjlamb-groundwork.md) — Scaffolds a deployment-readiness harness (redaction, evals from real failures, CI regression gate) into document-QA and extraction projects, and exposes…
+- [nikolai-vysotskyi/trace-mcp](nikolai-vysotskyi-trace-mcp.md) — Framework-aware code intelligence via a cross-language dependency graph: routes, ORM relations, DI trees, impact analysis, call graphs and refactoring.
+- [Nishant-Chaudhary5338/mcp-toolkit](nishant-chaudhary5338-mcp-toolkit.md) — React/TypeScript development toolkit: component scaffolding, dependency audits, WCAG checks, test generation, type enforcement and monorepo management.
+- [nk3750/jitapi](nk3750-jitapi.md) — Discover and call API endpoints from OpenAPI specs using semantic search and dependency graphs, planning multi-step workflows without loading entire specs.
+- [no-materials/hird](no-materials-hird.md) — Query the Hirð compiler (typed actors on the BEAM): type inference, definition lookup, effect rows, IR fragments, actor protocols and supervision graphs.
+- [Neverlow512/agent-droid-bridge](neverlow512-agent-droid-bridge.md) — Control Android devices and emulators via ADB: UI inspection, screen interaction, ADB commands and change detection.
+- [nrupala/codetopo](nrupala-codetopo.md) — See your codebase the way an agent sees it: turns a source repository into a queryable code graph (symbols, calls, references, structure) with JSON answers…
+- [Odrin/rhizome-mcp](odrin-rhizome-mcp.md) — Local-first task tracking and coordination for coding agents: durable issues, leases, checkpoints, decisions, dependency graphs and review workflows.
+- [ofershap/mcp-server-devutils](ofershap-mcp-server-devutils.md) — Developer utilities: Base64, UUID, hashing, JWT decoding, cron parsing, timestamps, JSON and regex.
+- [ofershap/mcp-server-dns](ofershap-mcp-server-dns.md) — DNS lookups, reverse DNS, WHOIS and domain availability checks.
+- [ofershap/mcp-server-docker](ofershap-mcp-server-docker.md) — Manage Docker containers, images, volumes, networks and Compose services.
+- [ofershap/mcp-server-github-actions](ofershap-mcp-server-github-actions.md) — GitHub Actions: view workflow runs, read logs, re-run failed jobs and manage CI/CD.
+- [ofershap/mcp-server-github-gist](ofershap-mcp-server-github-gist.md) — Create, read, update, list and search GitHub Gists.
+- [ofershap/mcp-server-markdown](ofershap-mcp-server-markdown.md) — Search, extract sections, list headings and find code blocks across Markdown files.
+- [ofershap/mcp-server-npm-plus](ofershap-mcp-server-npm-plus.md) — npm package search, bundle size checks, vulnerability scans and download comparisons.
+- [ofershap/mcp-server-scraper](ofershap-mcp-server-scraper.md) — Web scraping: extract clean Markdown, links and metadata from any URL.
+- [ooples/token-optimizer-mcp](ooples-token-optimizer-mcp.md) — Token optimization through caching and compression, with tools for API optimization, code analysis and real-time monitoring.
+- [OpenZeppelin/contracts-wizard](openzeppelin-contracts-wizard.md) — Generate secure smart contracts in multiple languages from OpenZeppelin Wizard templates.
+- [OtaKit/otakit](otakit-otakit.md) — Ship over-the-air updates for Capacitor mobile apps: inspect the project, check native compatibility, upload web bundles, publish releases with human…
+- [OverlayQA/mcp](overlayqa-mcp.md) — WCAG accessibility and color-contrast audits plus QA issue tracking from your coding agent.
+- [optimaquantum/claude-critical-rules-mcp](optimaquantum-claude-critical-rules-mcp.md) — Enforces critical rules for Claude to prevent documented failure patterns, with a compliance verification checklist and rules summary.
+- [paladini/devutils-mcp-server](paladini-devutils-mcp-server.md) — Developer utilities: hashing, Base64/hex/URL encoding, UUID and password generation, JWT decoding, JSON/YAML/XML formatting, timestamps, CIDR and text tools.
+- [paracetamol951/P-Link-MCP](paracetamol951-p-link-mcp.md) — HTTP 402 (Payment Required) implementation using Solana.
+- [pasichDev/docket](pasichdev-docket.md) — Shared todo list and backlog for coding agents, filed per project by git remote, with claims to avoid duplicate work and a local web dashboard.
+- [mcpware/pagecast](mcpware-pagecast.md) — Record browser pages as GIF or video: AI-driven demo recordings with scroll, click and hover interactions via Playwright and ffmpeg.
+- [jcooley8/pincushion-plugin](jcooley8-pincushion-plugin.md) — Visual feedback for coding agents: stakeholders drop pins on a live app, and the agent reads each pin's selector, screenshot, DOM snippet and thread to fix it.
+- [pipepie/pipepie](pipepie-pipepie.md) — Self-hosted webhook relay and tunnel with Noise NK encryption: inspect requests, replay webhooks, trace AI pipelines, manage tunnels and subdomains.
+- [pmptwiki/pmpt-cli](pmptwiki-pmpt-cli.md) — Record and share AI-driven development history: saves project milestones with summaries, generates planning prompts and publishes to pmptwiki.
+- [pofky/asc-mcp](pofky-asc-mcp.md) — App Store Connect control: metadata edits, screenshot and binary uploads, TestFlight, IAPs, subscriptions, release preflight audits, submission and release.
+- [PostHog/posthog](posthog-posthog.md) — Interact with PostHog analytics, feature flags, error tracking and more.
+- [soulware-studio/promethic-mcp](soulware-studio-promethic-mcp.md) — Prompt library with versioned prompts and per-version model settings for text, image and JSON; tracks edits and proposes refined versions.
+- [pylonapi/pylon-mcp](pylonapi-pylon-mcp.md) — x402 API gateway for web extraction, search, translation, image generation, screenshots, PDF and OCR, paid per call in USDC on Base.
+- [Pratyay/mac-monitor-mcp](pratyay-mac-monitor-mcp.md) — Identifies resource-intensive processes on macOS and suggests performance improvements.
+- [promptexecution/just-mcp](promptexecution-just-mcp.md) — Justfile integration: run CLI or script commands with parameters and environment variable support.
+- [pskill9/website-downloader](pskill9-website-downloader.md) — Download entire websites using wget, preserving their structure and converting links to work locally.
+- [PSU3D0/spreadsheet-mcp](psu3d0-spreadsheet-mcp.md) — Token-efficient spreadsheet analysis and editing (xlsx/xlsm) with region detection, structured reads, formula and style inspection, forking and recalculation.
+- [grahamrowe82/pt-edge](grahamrowe82-pt-edge.md) — Tracks open-source AI projects across GitHub, PyPI, npm, Hugging Face, Docker Hub and Hacker News for discovery, comparison and trend analysis.
+- [public-ui/kolibri](public-ui-kolibri.md) — Accessible KoliBri web component samples, specs, docs and scenarios.
+- [pubship/pubship](pubship-pubship.md) — Inspect Google Play releases, reviews, Android vitals and reports, and prepare explicitly authorized release and store-listing changes. Runs locally with…
+- [pzalutski-pixel/javalens-mcp](pzalutski-pixel-javalens-mcp.md) — Semantic Java analysis via Eclipse JDT: compiler-accurate navigation, refactoring, find references, call hierarchy and code metrics.
+- [pzalutski-pixel/godotlens-mcp](pzalutski-pixel-godotlens-mcp.md) — Semantic GDScript analysis via Godot's built-in LSP: navigation, references, diagnostics, rename and file sync.
+- [pzalutski-pixel/sharplens-mcp](pzalutski-pixel-sharplens-mcp.md) — Semantic C#/.NET analysis via Roslyn: navigation, refactoring, find usages and code intelligence.
+- [qainsights/jmeter-mcp-server](qainsights-jmeter-mcp-server.md) — Performance testing with JMeter.
+- [qainsights/k6-mcp-server](qainsights-k6-mcp-server.md) — Performance testing with Grafana k6.
+- [qainsights/locust-mcp-server](qainsights-locust-mcp-server.md) — Performance testing with Locust.
+- [benswel/qr-agent-core](benswel-qr-agent-core.md) — Dynamic QR codes: create, update, track and retarget QR codes of various types without regenerating images.
+- [QuantGeekDev/docker-mcp](quantgeekdev-docker-mcp.md) — Docker container management and operations.
+- [Quantum3-Labs/ARBuilder](quantum3-labs-arbuilder.md) — Code generator for Arbitrum: Stylus smart contracts, SDK bridging, full-stack dApps and Orbit chain deployment, backed by RAG over Arbitrum documentation.
+- [r-huijts/xcode-mcp-server](r-huijts-xcode-mcp-server.md) — Xcode integration for project management, file operations and build automation.
+- [rabdulsal/appstore-release-mcp](rabdulsal-appstore-release-mcp.md) — Runs the App Store release cycle for iOS/macOS apps: version bump, archive, signing and TestFlight upload via fastlane, metadata updates and review submission.
+- [Rbkmen/qa-orchestrator](rbkmen-qa-orchestrator.md) — quality and maintenance score on…
+- [ReAPI-com/mcp-openapi](reapi-com-mcp-openapi.md) — Discover and explain OpenAPI specifications and generate code or mock data from them.
+- [RepoAssay/repo-test-architect](repoassay-repo-test-architect.md) — Local, read-only test architecture audits for JS/TS, C#, Elixir, Go, Kotlin, PHP, Python, Ruby, Rust and Swift, with evidence-backed findings and test plans.
+- [Vbj1808/retrieval-lens](vbj1808-retrieval-lens.md) — Flight recorder for RAG retrieval: logs chunks, scores, sources and rankings to audit, replay and diff retrieval runs.
+- [reflagcom/mcp](reflagcom-mcp.md) — Manage Reflag feature flags from chat in your IDE.
+- [rison1337/x64dbgMCP](rison1337-x64dbgmcp.md) — Guarded x64dbg/x32dbg debugging on Windows with SHA-256 target identity, breakpoint capture, verified memory writes, PE dumps, and IDA evidence exchange.
+- [Rootly-AI-Labs/Rootly-MCP-server](rootly-ai-labs-rootly-mcp-server.md) — Access Rootly, the incident management platform.
+- [ronantakizawa/a11ymcp](ronantakizawa-a11ymcp.md) — Test URLs and HTML for WCAG 2.0/2.1/2.2 compliance using axe-core, including color contrast, ARIA validation and orientation lock detection.
+- [rsdouglas/janee](rsdouglas-janee.md) — Self-evolving server that uses an LLM to create, test and refine its own tools at runtime from natural language descriptions.
+- [ryan0204/github-repo-mcp](ryan0204-github-repo-mcp.md) — Browse GitHub repositories, explore directories and view file contents.
+- [sarveshsea/memi](sarveshsea-memi.md) — Design-system memory for coding agents: UI audits, Tailwind token extraction, shadcn registry workflows, Figma context, design docs and quality diagnostics.
+- [saurav61091/mcp-openapi](saurav61091-mcp-openapi.md) — Turn any OpenAPI 3.x spec into callable MCP tools, with Bearer, API key and Basic auth support.
+- [sbroenne/mcp-server-excel](sbroenne-mcp-server-excel.md) — Automate the Excel app on Windows: Power Query, DAX, VBA, PivotTables, tables, charts, ranges and formatting.
+- [SDGLBL/mcp-claude-code](sdglbl-mcp-claude-code.md) — Implements Claude Code-like capabilities for code understanding, modification and project analysis.
+- [seldonframe/reelier](seldonframe-reelier.md) — Record an agent's MCP tool-call workflow, replay it deterministically without tokens and diff runs to catch drift, for CI and snapshot tests.
+- [selvage-lab/selvage](selvage-lab-selvage.md) — LLM-based code review with AST-based context extraction, supporting Claude, GPT, Gemini and other models via OpenRouter.
+- [NavinAgrawal/mcp-broker](navinagrawal-mcp-broker.md) — Local MCP broker exposing one client entry that routes to many upstream MCP servers, with profile gates, lifecycle management and mutating-tool allowlists.
+- [notasandy/mcp-code-sanitizer](notasandy-mcp-code-sanitizer.md) — Code review via Groq: finds bugs, vulnerabilities and SQL injections, compares and explains code, generates tests and HTML reports.
+- [shellsage-ai/mcp-server-boilerplate](shellsage-ai-mcp-server-boilerplate.md) — Starter templates for MCP servers in TypeScript and Python, with tool, resource and prompt patterns.
+- [SegfaultSorcerer/heap-seance](segfaultsorcerer-heap-seance.md) — Java memory leak diagnostics via jcmd, jmap, jstat, JFR, Eclipse MAT and async-profiler, with conservative scans, deep forensics and confidence-based verdicts.
+- [sequa-ai/sequa-mcp](sequa-ai-sequa-mcp.md) — Gives AI coding tools context from your entire codebase and docs via Sequa.
+- [setheerwagen/mcp-ollama-vllm](setheerwagen-mcp-ollama-vllm.md) — Bridge to a locally running Ollama or vLLM instance for pure language processing (writing, summarizing, classifying, structured extraction), without giving…
+- [SimplyLiz/CodeMCP](simplyliz-codemcp.md) — Code intelligence via SCIP indexing for Go, TypeScript, Python, Rust and Java: semantic search, impact analysis, call graphs and ownership detection.
+- [skullzarmy/vibealive](skullzarmy-vibealive.md) — Find unused files and APIs in Next.js projects, with project analysis tools exposed over MCP.
+- [smplkit/mcp](smplkit-mcp.md) — Schedule HTTP jobs (cron, one-off or on-demand) with retries and run history.
+- [snaggle-ai/openapi-mcp-server](snaggle-ai-openapi-mcp-server.md) — Connect to any HTTP/REST API server using an OpenAPI v3 spec.
+- [specshield26/specshield-mcp-server](specshield26-specshield-mcp-server.md) — OpenAPI breaking-change detection and migration guides to check whether an API change is safe to ship.
+- [sraj0501/Devtrack_](sraj0501-devtrack.md) — Local-first developer context daemon with six read-only MCP tools for active tickets, commits, pending actions, voice profile, ticket history, and EOD…
+- [srijanshukla18/xray](srijanshukla18-xray.md) — Code intelligence via ast-grep: map project structure, fuzzy-find symbols and assess change impact in Python, JS/TS and Go.
+- [srclight/srclight](srclight-srclight.md) — Code indexing with SQLite FTS5, tree-sitter and embeddings for symbol search, call graphs, git intelligence and hybrid semantic search.
+- [st3v3nmw/sourcerer-mcp](st3v3nmw-sourcerer-mcp.md) — Semantic code search and navigation that reduces token waste.
+- [stass/lldb-mcp](stass-lldb-mcp.md) — LLDB integration for binary and core file analysis, debugging and disassembly.
+- [stfade/moth](stfade-moth.md) — Structured bug-fix analysis and project-local memory of verified fixes for coding agents.
+- [storybookjs/storybook](storybookjs-storybook.md) — Helps agents write and test Storybook stories for UI components.
+- [SuresoftTechnologies/dvera-plugin](suresofttechnologies-dvera-plugin.md) — Drives Controller Tester (CT) C/C++ verification: project setup, analysis, test generation and execution, statement/branch/MC-DC coverage and report export.
+- [tactual-dev/tactual](tactual-dev-tactual.md) — Screen-reader navigation cost analyzer that models assistive technology user effort with per-profile scoring, graph-based pathfinding and navigation traces.
+- [TamarEngel/jira-github-mcp](tamarengel-jira-github-mcp.md) — Integrates Jira and GitHub to automate developer workflows from issue tracking to branches, commits, pull requests and merges.
+- [tao-izm/devpulse-mcp](tao-izm-devpulse-mcp.md) — Real-time diagnostic snapshot of the local dev environment: framework, running services, recent errors and git state.
+- [taylormatematica-beep/repoguard](taylormatematica-beep-repoguard.md) — Fast architectural linter & guardrail engine for AI coding agents: detects layer violations, leaked secrets, and enforces .cursorrules & CLAUDE.md standards…
+- [TCSoftInc/testcollab-mcp-server](tcsoftinc-testcollab-mcp-server.md) — List, create and update test cases in TestCollab with filtering, sorting and pagination.
+- [TKMD/ReftrixMCP](tkmd-reftrixmcp.md) — Web design analysis: layout extraction, motion detection, quality scoring and semantic search, turning web pages into structured design knowledge.
+- [tenatarika/vex](tenatarika-vex.md) — Local code search over a tree-sitter index: exact symbol lookup, scope-aware usages, call graph and impact analysis, AST patterns, indexed grep and semantic…
+- [TencentEdgeOne/edgeone-pages-mcp](tencentedgeone-edgeone-pages-mcp.md) — Deploy HTML content to EdgeOne Pages and get a public URL.
+- [testdino-hq/testdino-mcp](testdino-hq-testdino-mcp.md) — Review TestDino test runs, debug failures and manage manual test cases using natural language.
+- [tgeselle/bugsnag-mcp](tgeselle-bugsnag-mcp.md) — Interact with Bugsnag.
+- [thecombatwombat/replicant-mcp](thecombatwombat-replicant-mcp.md) — Android development: build APKs, launch emulators, manage devices, automate UI and analyze logs.
+- [themesberg/flowbite-mcp](themesberg-flowbite-mcp.md) — AI assistance for Flowbite, the open-source UI framework based on Tailwind CSS.
+- [theserverlessdev/wsc](theserverlessdev-wsc.md) — Prose linter and AI-slop detector: weasel words, passive voice, hedging and research-cited AI writing tells.
+- [tipdotmd/tip-md-x402-mcp-server](tipdotmd-tip-md-x402-mcp-server.md) — Cryptocurrency tipping using the x402 payment protocol and CDP Wallet.
+- [x402node/x402-mcp](x402node-x402-mcp.md) — Exposes x402-paid APIs discovered from Coinbase Bazaar, handling USDC micropayments on Base.
+- [Mibayy/token-savior](mibayy-token-savior.md) — Structural code intelligence: navigate and edit code by symbol, with dependency graphs, call chains, dead code detection and structural diffs.
+- [Tokenectomy-Labs/Tokenectomy](tokenectomy-labs-tokenectomy.md) — Log noise removal, secret redaction and atomic compiler patch verification with instant rollback for AI debugging sessions.
+- [Tommertom/awesome-ionic-mcp](tommertom-awesome-ionic-mcp.md) — Ionic coding assistant for building mobile apps with React, Angular, Vue or vanilla JS.
+- [toprakahmetaydogmus/TZeroAlgorithm](toprakahmetaydogmus-tzeroalgorithm.md) — Hierarchical context tree and 13-tool MCP server for AI code context management.
+- [tosin2013/mcp-adr-analysis-server](tosin2013-mcp-adr-analysis-server.md) — Architectural analysis for software projects: technology stack detection, ADR management, security checks, TDD workflow and deployment readiness validation.
+- [TranQui004/signalint](tranqui004-signalint.md) — Compact JavaScript/TypeScript diagnostics: clusters and prioritizes Oxlint, tsc and Biome issues, caches results and detects recurring diagnostic loops.
+- [tumf/mcp-text-editor](tumf-mcp-text-editor.md) — Line-oriented text file editor with partial file access to minimize token usage.
+- [ukkit/memcord](ukkit-memcord.md) — Organize and search chat history with AI-generated summaries and secure memory.
+- [utensils/mcp-nixos](utensils-mcp-nixos.md) — Information on NixOS packages, system options, Home Manager configurations and nix-darwin macOS settings.
+- [V0v1kkk/DotNetMetadataMcpServer](v0v1kkk-dotnetmetadatamcpserver.md) — Type information from .NET projects: assembly exploration, namespace discovery, type reflection and NuGet integration.
+- [valado/pantheon-mcp](valado-pantheon-mcp.md) — Serves task-specific instructions to agents instead of static Markdown files.
+- [var-gg/mcp](var-gg-mcp.md) — Enforces team naming conventions in AI-generated code.
+- [vasayxtx/mcp-prompt-engine](vasayxtx-mcp-prompt-engine.md) — Manage and serve dynamic prompt templates using a text template engine.
+- [veelenga/claude-mermaid](veelenga-claude-mermaid.md) — Render Mermaid diagrams with live reload, themes and SVG, PNG or PDF export.
+- [vercel/next-devtools-mcp](vercel-next-devtools-mcp.md) — Next.js runtime diagnostics, route inspection, dev server logs, docs search and upgrade guides for coding agents.
+- [vighriday/Veris](vighriday-veris.md) — Behavioral verification for TS/JS repos: builds a behavioral graph, clusters workflows, detects drift and generates adversarial probes with risk scores.
+- [verifyax/verifyax-mcp](verifyax-verifyax-mcp.md) — Agent evaluation, simulation testing and functional/non-functional verification workflows on the VerifyAX platform.
+- [vezlo/src-to-kb](vezlo-src-to-kb.md) — Convert source code repositories into searchable knowledge bases using chunking, OpenAI embeddings and GPT-5 search.
+- [vivekvells/mcp-pandoc](vivekvells-mcp-pandoc.md) — Document format conversion using Pandoc: Markdown, HTML, PDF, DOCX, CSV and more.
+- [VikrantSingh01/adaptive-cards-mcp](vikrantsingh01-adaptive-cards-mcp.md) — Generate, validate, optimize and transform Adaptive Cards for Teams, Outlook, Copilot and ChatGPT, with accessibility scoring and host compatibility checks.
+- [VOYAGER-Inc/excel-vision-mcp](voyager-inc-excel-vision-mcp.md) — Reads Excel files with embedded images mapped to their cells and meaningful formatting such as colors and strikethrough; supports writes with atomic saves.
+- [VSCode Devtools](vscode-devtools.md) — Connect to the VS Code IDE and use semantic tools like find usages.
+- [VrtxOmega/Ollama-Omega](vrtxomega-ollama-omega.md) — Chat, generate, pull, list and inspect models with Ollama.
+- [VrtxOmega/omega-brain-mcp](vrtxomega-omega-brain-mcp.md) — AI execution pipeline with NAEF logic constraints, VERITAS build gates, semantic vault integration and Tri-Node Cortex validations to curb hallucination.
+- [wayknow/clearjson](wayknow-clearjson.md) — Large-file-safe JSON MCP server. Format, validate, search, JSONPath query, deep diff, and format conversion (CSV/TSV/YAML/TypeScript). 10 tools, zero…
+- [Webvizio/mcp](webvizio-mcp.md) — Converts website and web app feedback and bug reports into context-enriched developer tasks for coding agents via Webvizio.
+- [whyy9527/ariadne](whyy9527-ariadne.md) — Offline cross-service API dependency graph: find GraphQL operations, REST endpoints, Kafka topics and frontend queries related to a business term or endpoint.
+- [willianpinho/mcp-gateway-scan](willianpinho-mcp-gateway-scan.md) — Read-only static scanner that scores MCP and agent-gateway repos on RBAC, fail-closed behavior, supply chain, observability, cost and secrets handling.
+- [WiseVision/mcp_server_ros_2](wisevision-mcp-server-ros-2.md) — ROS 2 integration for AI-driven robotics applications and services.
+- [wn01011/llm-token-tracker](wn01011-llm-token-tracker.md) — Token usage and cost tracking for OpenAI and Claude APIs with real-time session tracking.
+- [Wolfe-Jam/claude-faf-mcp](wolfe-jam-claude-faf-mcp.md) — Persistent project context in the .faf (Foundational AI-context Format), with project DNA and Podium scoring.
+- [Wolfe-Jam/faf-mcp](wolfe-jam-faf-mcp.md) — Persistent project context in the IANA-registered .faf format, with AI-readiness scoring.
+- [Wooonster/hocr_mcp_server](wooonster-hocr-mcp-server.md) — Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.
+- [wyattjoh/jsr-mcp](wyattjoh-jsr-mcp.md) — Access JSR, the JavaScript Registry.
+- [xcodebuild](xcodebuild.md) — Build iOS Xcode workspaces or projects and feed errors back to the LLM.
+- [XixianLiang/HarmonyOS-mcp-server](xixianliang-harmonyos-mcp-server.md) — Device control and UI automation for HarmonyOS Next devices.
+- [xzq.xu/jvm-mcp-server](xzq-xu-jvm-mcp-server.md) — JVM-based MCP server implementation.
+- [yangkyeongmo@/mcp-server-apache-airflow](yangkyeongmo-mcp-server-apache-airflow.md) — Connect to Apache Airflow.
+- [yaniswav/TopicForge](yaniswav-topicforge.md) — Read-only ROS 2 and DDS inspection: topics, message samples, rosbags, QoS mismatches and DDS participants across vendors. No write path: it cannot publish…
+- [yanmxa/scriptflow-mcp](yanmxa-scriptflow-mcp.md) — Turns repetitive AI interactions into persistent, executable Bash, Python, Node.js or TypeScript scripts.
+- [ycs77/apifable](ycs77-apifable.md) — Explore OpenAPI specs, search endpoints and generate TypeScript types.
+- [yikakia/godoc-mcp-server](yikakia-godoc-mcp-server.md) — Query Go package information on pkg.go.dev.
+- [yiwenlu66/PiloTY](yiwenlu66-piloty.md) — Control interactive terminals (PTY) with stateful sessions, SSH connections and background process management.
+- [YuChenSSR/mindmap-mcp-server](yuchenssr-mindmap-mcp-server.md) — Generate interactive mind maps.
+- [YuChenSSR/multi-ai-advisor](yuchenssr-multi-ai-advisor.md) — Query multiple Ollama models and combine their responses for diverse perspectives on a single question.
+- [YuliiaKovalova/dotnet-template-mcp](yuliiakovalova-dotnet-template-mcp.md) — Search, inspect, preview and create dotnet new projects via the .NET Template Engine, with parameter validation, defaults and NuGet resolution.
+- [Yutarop/ros-mcp](yutarop-ros-mcp.md) — Control robots with natural language via ROS 2 topics, services and actions.
+- [yWorks/mcp-typescribe](yworks-mcp-typescribe.md) — Provides TypeScript API information so agents can work with APIs not in their training data.
+- [ypollak2/llm-router](ypollak2-llm-router.md) — Subscription-aware LLM router for Claude Code: routes tasks to providers like OpenAI, Gemini, Groq and Ollama by complexity, subscription usage and cost.
+- [zaebee/codegraph-brain](zaebee-codegraph-brain.md) — Local Python/TypeScript code graph: call tracing, multi-hop impact analysis, authz reachability audits, coupling metrics and architectural drift detection.
+- [zaizaizhao/mcp-swagger-server](zaizaizhao-mcp-swagger-server.md) — Converts OpenAPI/Swagger specifications to MCP format so AI assistants can call REST APIs.
+- [zcaceres/fetch-mcp](zcaceres-fetch-mcp.md) — Fetch JSON, text and HTML data.
+- [zeitcow/implicit-core](zeitcow-implicit-core.md) — Bounded synthetic experience addressing, selective state materialization, provenance and fixed benchmark/adapter rehearsal over local stdio. Real…
+- [zelentsov-dev/asc-mcp](zelentsov-dev-asc-mcp.md) — Manage App Store Connect apps, builds, TestFlight, subscriptions, reviews and more via its API.
+- [gbatistuta0/appfactory](gbatistuta0-appfactory.md) — Lets your coding agent ship a SwiftUI iOS subscription app from idea to TestFlight: niche validation with live App Store data, SwiftUI scaffold, Supabase…
+- [zenml-io/mcp-zenml](zenml-io-mcp-zenml.md) — Connect to ZenML MLOps and LLMOps pipelines.
+- [zillow/auto-mobile](zillow-auto-mobile.md) — Android automation tool suite for developer workflows and testing.
+- [ztuskes/garmin-documentation-mcp-server](ztuskes-garmin-documentation-mcp-server.md) — Offline Garmin Connect IQ SDK documentation with search and API examples.
+- [drumst0ck/uploadkit](drumst0ck-uploadkit.md) — UploadKit's React upload components, Next.js route handler scaffolds, bring-your-own-storage setup (S3, R2, GCS, B2) and full-text docs search.
+- [DigiCatalyst-Systems/dep-diff-mcp](digicatalyst-systems-dep-diff-mcp.md) — Turns npm or PyPI lockfile diffs into upgrade plans with semver classification, breaking changes, fixed CVEs, migration links and risk-ranked recommendations.
+- [hikmahtech/drwhome](hikmahtech-drwhome.md) — Developer utilities: Base64 and URL encoding, JWT decoding, DNS lookup, UUID generation, JSON formatting, User-Agent parsing and IP lookup.
+- [skyhook-io/radar](skyhook-io-radar.md) — Query Kubernetes cluster topology, resources, events, logs and Helm/GitOps state across clusters via Radar, a Kubernetes visibility tool.
+- [NazarKalytiuk/tarn](nazarkalytiuk-tarn.md) — API testing tool with YAML tests and structured JSON failures agents can act on: run, validate, inspect, rerun failed tests and get fix plans.
+- [tooluse-labs/perfetto-mcp-rs](tooluse-labs-perfetto-mcp-rs.md) — Perfetto trace analysis: run PerfettoSQL queries on trace files, with Chrome tools for page loads, scroll jank, main-thread hotspots and stdlib discovery.
+- [mshegolev/jaeger-mcp](mshegolev-jaeger-mcp.md) — Query Jaeger distributed tracing: list services and operations, search and fetch traces, and view service dependencies.
+- [parasxos/cpp26-adapter](parasxos-cpp26-adapter.md) — C++26 paper reference backing a Claude Code plugin: paper lookup, fuzzy search and compiler support status over the ISO/IEC 14882:2026 corpus.
+- [graphpilot-oss/graphpilot](graphpilot-oss-graphpilot.md) — Structural memory for coding agents: indexes TypeScript/JavaScript repos for callers, callees, symbol locations and branch-aware blast-radius impact.
+- [Disentinel/grafema](disentinel-grafema.md) — Semantic code graph: indexes a codebase into a typed graph for call-chain tracing, data-flow analysis, semantic search and invariant checking.
+- [laszlopere/mcp-abacus](laszlopere-mcp-abacus.md) — Offline calculator that evaluates expressions in fixed-point, IEEE-754 double or exact rational arithmetic, labelling each answer exact or inexact.
+- [joaoh82/rustunnel](joaoh82-rustunnel.md) — Create and manage public HTTP, TCP and UDP tunnels to local services with custom subdomains, regions and load-balanced pools, managed cloud or self-hosted.
+- [JSungMin/vs-token-safer](jsungmin-vs-token-safer.md) — Routes code search through language-server indexes (clangd, Roslyn, tsserver, pyright) instead of grep, plus symbol-level edits and git/p4 output compaction.
+- [ysalitrynskyi/opn-mcp](ysalitrynskyi-opn-mcp.md) — Shorten links, read click analytics, generate branded QR codes and manage links on opn.onl, the open-source, self-hostable URL shortener.
+- [mambalabsdev/mcp-domain-deliverability-checker](mambalabsdev-mcp-domain-deliverability-checker.md) — Audit a domain's email deliverability (SPF, DKIM, DMARC, MX, blacklists, catch-all, domain age) and get a health score via an Apify actor.
+- [ozers/hooksense-mcp](ozers-hooksense-mcp.md) — Webhook callbacks for AI agents: create callback URLs, wait for signature-verified webhooks instead of polling, verify HMAC and list or replay callbacks.
+- [Eltortilla1/synapse-code-mcp](eltortilla1-synapse-code-mcp.md) — Structural code context via TypeScript AST analysis: compressed symbol indexes, dependency graphs and git diffs, without a vector database or embeddings.
+- [richer-richard/fenestra](richer-richard-fenestra.md) — Headless rendering and verification of native Rust GUIs: accessibility tree, semantic selectors, contrast and focus-order checks, and screenshot diffs.
+- [chaoz23/inkcheck](chaoz23-inkcheck.md) — CI for ink interactive-fiction stories: compiles, playtests every branch and finds runtime errors, unreachable knots and every distinct ending.
+- [swapnanil/vectr](swapnanil-vectr.md) — Semantic codebase search and persistent working memory: hybrid dense and BM25 search over AST-aware chunks, a symbol graph and notes that survive restarts.
+- [SunrisesIllNeverSee/sigrank-mcp](sunrisesillneversee-sigrank-mcp.md) — Leaderboard ranking AI coding operators by token efficiency, with signed submissions, diagnostics and simulations; only token counts leave the machine.
+- [Bishop81/imagedimensions-mcp](bishop81-imagedimensions-mcp.md) — Audit images on a web page via the imagedimensions.com API: natural vs rendered dimensions, oversized-image detection and format breakdown.
+- [sebastienrousseau/rlg](sebastienrousseau-rlg.md) — Log tools for on-call and SRE workflows over rlg (RustLogs) files: tail events by level or target, filter with JSON-path predicates and summarize errors.
+- [chrassy/klanex-mcp](chrassy-klanex-mcp.md) — Async execution for agent tool calls: payload schema checks, retries and circuit breakers, idempotency keys, approval gates, replay and signed-webhook results.
+- [get-tmonier/argot](get-tmonier-argot.md) — Checks agent-written code against the repo's git-history patterns, flagging foreign dependencies, reinvented functions, misplaced code and gamed tests.
+- [MikhailHal/ariadne](mikhailhal-ariadne.md) — Affected-test selection for Kotlin/Android projects: finds the unit tests impacted by working-tree changes via function-level static analysis.
+- [PackkitLabs/packkit-mcp](packkitlabs-packkit-mcp.md) — Scaffold and upgrade multi-language projects with the create-packkit generators, and compose a frontend and backend into one fullstack repo.
+- [gvasile29/qai-consultant](gvasile29-qai-consultant.md) — Local retrieval over ISTQB, OWASP, IEEE, ISO and EU AI Act QA standards, plus QA effort estimation, QA document review and JUnit/CSV flakiness analysis.
+- [MGM-FALCON/quelllm-mcp](mgm-falcon-quelllm-mcp.md) — Search the quelllm.fr open-weights LLM catalog: compare models by parameters, VRAM per quantization, speed and license, and estimate VRAM and costs.
+- [imqueue/mcp](imqueue-mcp.md) — Search @imqueue docs, scaffold typed services and clients, access the CLI and manage your service fleet.
+- [WCAG-Compliance/wcagc-mcp](wcag-compliance-wcagc-mcp.md) — Accessibility scanning with axe-core (WCAG 2.1 AA, EN 301 549, PDF/UA) via wcagc: scan URLs and PDFs, crawl sites, replay journeys and read violation trends.
+- [srbsa/diffgate](srbsa-diffgate.md) — Deterministic guardrail for AI-written diffs: AST-based checks for SQLi, SSRF, XXE, hardcoded secrets and over-abstraction, scoped to the changed lines.
+- [shakaran/symfony-agent-mcp](shakaran-symfony-agent-mcp.md) — Read-only introspection of Symfony codebases: routes, controllers, services, entities, schema, migrations, Doctrine, Messenger, Twig and API Platform.
+- [ms-methos/jsonfabrica-mcp-server](ms-methos-jsonfabrica-mcp-server.md) — Generate realistic, schema-conformant JSON test data (single documents or relational batches) from reusable templates via the JsonFabrica API.
+- [servelink-swyftlabs/serve-mcp](servelink-swyftlabs-serve-mcp.md) — Public HTTPS links for local files, directories or dev servers, via a live tunnel or published copy, with password protection, TTLs and named subdomains.
+- [Yocoolab/mcp-server](yocoolab-mcp-server.md) — Pin visual feedback on live web pages with the Yocoolab extension and hand it to coding agents with the element, selector and screenshot attached.
+- [JeanFrancoisGagne/crapkit](jeanfrancoisgagne-crapkit.md) — Read-only per-function CRAP scores (complexity and coverage) that point to the worst function to fix next, with uncovered lines and near-duplicates.
+- [KallistoX/mcp-unifi-applications](kallistox-mcp-unifi-applications.md) — Query UniFi API docs (Network, Protect, Site Manager and more): endpoint search, field-level schemas and code examples. Docs only, no controller access.
+- [xarl3z/magzdown-agent-tools](xarl3z-magzdown-agent-tools.md) — Turn Markdown into a shareable link rendered as a typeset document (tables, Mermaid, math, pagination); content is stored in the URL, not uploaded.
+- [gba3124/anyhook-mcp](gba3124-anyhook-mcp.md) — Create live webhook endpoints and read back the deliveries they receive; endpoints keep working after the session ends.
+- [metabolism-tools/workspace-metabolism](metabolism-tools-workspace-metabolism.md) — Policy layer for multi-agent workspaces: a JSON file sets what each path is worth, agents dry-run cleanup plans, and actions land in a hash-chained journal.
+- [WilliamSmithEdward/xlide_mcp](williamsmithedward-xlide-mcp.md) — Read, write, analyze and test VBA in Excel, Word, PowerPoint and Access files, with static analysis; the file layer works without Office installed.
+- [motock/fagan](motock-fagan.md) — Autonomous coding pipeline: a frontier model plans and reviews, a local model implements under TDD, and a merge gate re-runs the suite on the rebased branch.
+- [ni-c/opengist-mcp](ni-c-opengist-mcp.md) — Read, search, create, update and delete gists on your own [Opengist](https://github.com/thomiceli/opengist) instance — the self-hosted pastebin powered by…

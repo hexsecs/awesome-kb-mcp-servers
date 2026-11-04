@@ -1,0 +1,26 @@
+# Embedded System
+
+- [0x1abin/matter-controller-mcp](0x1abin-matter-controller-mcp.md) — Control and interact with Matter devices via a Matter controller.
+- [JannLeo/telinksdk-builder-mcp](jannleo-telinksdk-builder-mcp.md) — Build Telink and other embedded SDKs (Eclipse headless, Make or generic) via natural language, with automatic build pattern detection.
+- [adancurusul/embedded-debugger-mcp](adancurusul-embedded-debugger-mcp.md) — Embedded debugging with probe-rs: ARM Cortex-M and RISC-V targets via J-Link, ST-Link and other probes.
+- [adancurusul/serial-mcp-server](adancurusul-serial-mcp-server.md) — Serial port communication.
+- [ByteAsk/ByteAsk-Embedded-MCP](byteask-byteask-embedded-mcp.md) — Page-cited retrieval of embedded/firmware reference docs (datasheets, MCU registers, Modbus/CAN, SCPI, IEEE 1547/SunSpec) as verbatim snippets.
+- [horw/esp-mcp](horw-esp-mcp.md) — Fix build issues for ESP32-series chips with ESP-IDF.
+- [kukapay/modbus-mcp](kukapay-modbus-mcp.md) — Standardize and contextualize industrial Modbus data.
+- [kukapay/opcua-mcp](kukapay-opcua-mcp.md) — Connect to OPC UA-enabled industrial systems.
+- [Leonezz/openbaud](leonezz-openbaud.md) — Local serial hardware access for coding agents with typed YAML commands, checksum validation, audited writes, lossless captures, hardware-free replay, and…
+- [lxman/obsbot-mcp](lxman-obsbot-mcp.md) — Control an OBSBOT Tiny 2 webcam over USB: pan, tilt and zoom, subject tracking, presets, focus, exposure and white balance, snapshots and recording.
+- [magnusmalm/smolmux](magnusmalm-smolmux.md) — Serial and GDB/SWD MCP servers backed by a broker that shares one device link between agents, a human monitor and scripts: console history, send/expect…
+- [octoco-ltd/sheetsdata-mcp](octoco-ltd-sheetsdata-mcp.md) — Electronic component datasheet data: specs, pinouts, package info and absolute maximum ratings extracted on demand from manufacturer PDFs.
+- [powerdragonfire/platformio.mcp](powerdragonfire-platformio-mcp.md) — Build, flash and debug PlatformIO firmware: parsed compiler errors, serial monitoring, crash backtrace decoding, Unity tests and library management.
+- [ProductOfAmerica/mcp-server-kicad](productofamerica-mcp-server-kicad.md) — KiCad EDA automation: schematic capture, PCB layout, ERC, DRC and Gerber, BOM and 3D exports for KiCad 9 and 10.
+- [stack-chan/stack-chan](stack-chan-stack-chan.md) — M5Stack-based robot with an MCP server for AI-controlled interactions and emotions.
+- [turbyho/fw-context-mcp](turbyho-fw-context-mcp.md) — Build-aware code intelligence for embedded C/C++ firmware: symbol search, call graphs, hotspot analysis, dead code detection and vector search.
+- [yoelbassin/gnuradioMCP](yoelbassin-gnuradiomcp.md) — Create and modify GNU Radio RF flowcharts (.grc files).
+- [catallo/misterclaw](catallo-misterclaw.md) — Remote control for MiSTer-FPGA: launch games, search ROMs, take screenshots, manage systems and set up Tailscale VPN, with automatic core and ROM discovery.
+- [zackpeters93/ugs-mcp](zackpeters93-ugs-mcp.md) — CNC control via Universal G-code Sender (GRBL): jog, home, run G-code files, inspect toolpaths and estimate cycle times, with two-step motion confirmation.
+- [Zeraissh/stm32-gdb-mcp](zeraissh-stm32-gdb-mcp.md) — Debug STM32 firmware on real hardware via GDB + OpenOCD/ST-Link/J-Link: flash, breakpoints, memory/registers, HardFault-to-source triage, FreeRTOS…
+- [codeofaxel/Kiln](codeofaxel-kiln.md) — Run 3D printers end to end: design, slice, queue, monitor via camera and recover from failures over OctoPrint, Moonraker/Klipper, PrusaLink or USB.
+- [emirmrkaljevic/usb-rea](emirmrkaljevic-usb-rea.md) — Reverse engineer USB gadgets: capture vendor-app traffic (usbmon/USBPcap), infer the protocol with frame-level evidence and generate a pyusb driver. Replay…
+- [Gearotons/servomotor-mcp](gearotons-servomotor-mcp.md) — Control the Gearotons M17 open-source closed-loop NEMA-17 servomotor over RS-485: port discovery, motor auto-detection and the full firmware command set.
+- [aimdb-dev/aimdb](aimdb-dev-aimdb.md) — Inspect and debug live AimDB nodes, from microcontrollers on a serial port to a cloud hub: records, schemas, dependency graph and metrics.

@@ -1,0 +1,272 @@
+# Search & Data Extraction
+
+- [darksider4all/leadgen-mcp](darksider4all-leadgen-mcp.md) — Romanian company data: 4.2M ONRC firms, ANAF status and financial statements 2008–2025; lead lists by CAEN and county, list matching and due-diligence checks.
+- [A1-x-Tech/mcp-google-custom-search](a1-x-tech-mcp-google-custom-search.md) — Google Custom Search JSON API: web and image search through a Programmable Search Engine.
+- [Grubbomatic/crawl-readiness-mcp](grubbomatic-crawl-readiness-mcp.md) — AI SEO audits: score AI crawler readiness, validate JSON-LD and robots.txt, compare human and crawler views, and generate llms.txt, robots.txt and JSON-LD.
+- [HasData/bing-mcp](hasdata-bing-mcp.md) — Bing search results as JSON: organic results, ads and the Copilot answer, targeted by market, country, language and device.
+- [HasData/google-images-mcp](hasdata-google-images-mcp.md) — Remote MCP server for Google Images: image results with source pages, thumbnails and full-resolution URLs, filtered by size, colour and type, as JSON.
+- [usestring/string-ai-mcp](usestring-string-ai-mcp.md) — Search the web, fetch URLs and map sites as clean Markdown, getting past anti-bot blocks.
+- [HasData/web-scraping-mcp](hasdata-web-scraping-mcp.md) — Web scraping: fetch public pages with optional JavaScript rendering, wait conditions and CSS or AI extraction rules, as Markdown, text, HTML or JSON.
+- [edtool79-collab/hirepulse-mcp](edtool79-collab-hirepulse-mcp.md) — Stdio MCP proxy for public company jobs, hiring signals, technology detection and Google Ads research, with a shared free daily allowance and optional x402…
+- [HasData/chatgpt-mcp](hasdata-chatgpt-mcp.md) — Send a prompt to ChatGPT anonymously and read the answer as markdown together with every web source it consulted, as JSON. No OpenAI account or key.
+- [AgentiLoop/pagewire-mcp](agentiloop-pagewire-mcp.md) — Read any public web page as clean Markdown, page metadata, or a page plus 4 same-site pages; pay per call in USDC via x402, no API key.
+- [ToolTrace-io/mcp-server](tooltrace-io-mcp-server.md) — Web page data: scrape to Markdown, extract metadata, links and JSON-LD, audit on-page SEO, detect tech stacks and validate XML sitemaps.
+- [JerryLiu369/agent-web-search](jerryliu369-agent-web-search.md) — Provider-neutral web search aggregating model grounding (Gemini, Grok, DeepSeek and others) and search APIs such as Exa, Brave, Perplexity and Tavily.
+- [artemchuikin/youtube-mcp](artemchuikin-youtube-mcp.md) — YouTube transcripts (text, JSON, SRT, VTT, srv3), video and channel search, playlists and large batch jobs.
+- [jlucasmcrell/apify-scrapers](jlucasmcrell-apify-scrapers.md) — Public data scrapers and lead extractors for Google Maps, Glassdoor, SEC EDGAR and state contractor registries.
+- [AgenticAdvertising/topalternativesto-mcp](agenticadvertising-topalternativesto-mcp.md) — Software comparisons with prices sourced from each vendor's page (with URL and check date), plus ranked alternatives for any tool.
+- [Newscatcher/catchall-mcp](newscatcher-catchall-mcp.md) — Recall-first web search that finds relevant events across the open web, beyond the top results.
+- [igorsaevets/page2ai-mcp](igorsaevets-page2ai-mcp.md) — Convert web pages into clean Markdown locally, preserving tables, code blocks and headings.
+- [pgalyen1987/gate402-mcp](pgalyen1987-gate402-mcp.md) — Pay-per-call x402 APIs (USDC on Base): LLM inference, GPU and CPU compute, on-chain, DeFi, SEC EDGAR and news data, and web scraping to Markdown.
+- [KnockOutEZ/wigolo](knockoutez-wigolo.md) — Local web search, fetching, crawling, extraction and research, with multi-engine search, local ML reranking, a SQLite cache and JavaScript rendering.
+- [newsagentdata/newsagent-mcp](newsagentdata-newsagent-mcp.md) — Real-time news with ML enrichment: urgency scoring, political lean and event clustering across many countries.
+- [qinisolabs/icdwise](qinisolabs-icdwise.md) — ICD-10-CM medical code lookup, validation and reverse search.
+- [quantumproxies/quantumproxies-mcp](quantumproxies-quantumproxies-mcp.md) — Residential-proxy web access: scrape pages to Markdown, SERP search, site mapping and crawling, ready-made collectors, and proxy endpoints from your plans.
+- [AIweather-Anurag/ottasia-mcp-server](aiweather-anurag-ottasia-mcp-server.md) — Find where to stream movies and TV shows across Asian and Middle Eastern services such as Netflix, Disney+ Hotstar, Wavve, Shahid, ZEE5 and JioCinema.
+- [Alisammour/storyflo-mcp](alisammour-storyflo-mcp.md) — Curated audio news: search articles, fetch narrated audio, subscribe to topic feeds and surface stories matched to actively traded Kalshi event contracts.
+- [mrslbt/rippr](mrslbt-rippr.md) — Extract YouTube transcripts as clean text, with timestamps, or as structured JSON.
+- [rozetyp/grounder-mcp](rozetyp-grounder-mcp.md) — Live web grounding for local and cloud LLMs: web search, page fetch, token-capped cited evidence packs and an agentic search-and-read research loop.
+- [scavio-ai/scavio-mcp](scavio-ai-scavio-mcp.md) — Unified real-time search across Google, YouTube, Amazon, Walmart, Reddit and TikTok for web, e-commerce, product, social media and video data.
+- [0xdaef0f/job-searchoor](0xdaef0f-job-searchoor.md) — Search job listings with filters for date, keywords, remote work options and more.
+- [hanselhansel/aeo-cli](hanselhansel-aeo-cli.md) — Audit URLs for AI crawler readiness: checks robots.txt, llms.txt, JSON-LD schema and content density, with a 0-100 AEO score.
+- [Aas-ee/open-webSearch](aas-ee-open-websearch.md) — Multi-engine web search across Bing, Baidu, DuckDuckGo, Brave, Exa and CSDN.
+- [AceDataCloud/MCPSerp](acedatacloud-mcpserp.md) — Google SERP search via the Ace Data Cloud API: web, image, news, maps, places, video and knowledge graph results.
+- [denyn1/aifeed-protocol](denyn1-aifeed-protocol.md) — AIFeed protocol tools: verify signed publisher manifests, fetch token-budgeted Markdown or MAKO pages, verify asset downloads and rank delta-index entries.
+- [AIMLPM/markcrawl](aimlpm-markcrawl.md) — Crawl websites into clean Markdown, search pages and extract structured data with LLMs for web research and RAG pipelines.
+- [AllNewsAPI/mcp-server](allnewsapi-mcp-server.md) — Real-time and historical news data, including top headlines from global sources, via AllNewsAPI.
+- [ac3xx/mcp-servers-kagi](ac3xx-mcp-servers-kagi.md) — Kagi search API integration.
+- [adawalli/nexus](adawalli-nexus.md) — Web search using Perplexity Sonar models, with source citations.
+- [adjacentai/necl-hn-mcp](adjacentai-necl-hn-mcp.md) — Hacker News: top stories by time window, category feeds, comment threads and full-text search via Algolia.
+- [agentsearchhq-coder/agentsearch-mcp](agentsearchhq-coder-agentsearch-mcp.md) — Web search (up to 5 results), URL-to-Markdown extraction and JavaScript page rendering for agents, paid per call ($0.005 in USDC on Base via x402 through…
+- [ananddtyagi/webpage-screenshot-mcp](ananddtyagi-webpage-screenshot-mcp.md) — Take screenshots of webpages to use as feedback during UI development.
+- [andybrandt/mcp-simple-arxiv](andybrandt-mcp-simple-arxiv.md) — Search and read papers from arXiv.
+- [andybrandt/mcp-simple-pubmed](andybrandt-mcp-simple-pubmed.md) — Search and read medical and life sciences papers from PubMed.
+- [andyliszewski/webcrawl-mcp](andyliszewski-webcrawl-mcp.md) — Local-first web scraping, DuckDuckGo search, site mapping and crawling, using trafilatura with an optional Firecrawl fallback for JS-rendered pages.
+- [angheljf/nyt](angheljf-nyt.md) — Search articles using the NYTimes API.
+- [lucasmartins-ai/lookacrawler](lucasmartins-ai-lookacrawler.md) — Token-efficient local web crawler with Playwright-based stealth anti-bot bypass.
+- [atlasprzetargow/mcp-server](atlasprzetargow-mcp-server.md) — Search Polish public tenders (BZP and TED): procuring entity and contractor profiles by NIP, market statistics by CPV or province, and a procurement glossary.
+- [AutomateLab-tech/citation-intelligence](automatelab-tech-citation-intelligence.md) — Check which URLs Perplexity, Claude, ChatGPT, Gemini, Bing and Google AI Overviews cite for any query. Self-hosted.
+- [Khamel83/argus](khamel83-argus.md) — Multi-provider search broker with automatic fallback, RRF ranking, content extraction and budget enforcement.
+- [idapixl/idapixl-web-research-mcp](idapixl-idapixl-web-research-mcp.md) — Web research on Apify: Brave and DuckDuckGo search, page fetching to clean Markdown, and multi-step research with relevance scoring and key fact extraction.
+- [BenyD/haypile](benyd-haypile.md) — Local hybrid semantic and keyword search over PDF, DOCX, PPTX, Markdown and HTML documents, with file and page citations and a bundled embedding model.
+- [Bigsy/Clojars-MCP-Server](bigsy-clojars-mcp-server.md) — Up-to-date dependency information for Clojure libraries from Clojars.
+- [blazickjp/arxiv-mcp-server](blazickjp-arxiv-mcp-server.md) — Search arXiv papers, read original LaTeX sections, get BibTeX from arXiv metadata and set topic watches, with papers stored locally.
+- [boikot-xyz/boikot](boikot-xyz-boikot.md) — Look up company ethics information: the ethical and unethical actions of major companies.
+- [brave/brave-search-mcp-server](brave-brave-search-mcp-server.md) — Web search using Brave's Search API.
+- [bumbaRasch/searxng-mcp-server](bumbarasch-searxng-mcp-server.md) — Self-hosted SearXNG metasearch: web, image, news, video and music search plus SSRF-guarded page fetch with prompt-injection wrapping.
+- [cameronrye/activitypub-mcp](cameronrye-activitypub-mcp.md) — Explore and interact with the Fediverse via ActivityPub: WebFinger discovery, timelines and instance exploration across Mastodon, Pleroma, Misskey and more.
+- [cameronrye/gopher-mcp](cameronrye-gopher-mcp.md) — Browse Gopher and Gemini protocol resources, with TLS support and structured content extraction.
+- [capad-xyz/searchts](capad-xyz-searchts.md) — Read bot-walled pages as Markdown via an escalating unlocker, plus multi-provider web search with rank fusion, video transcripts and page asset grabbing.
+- [einiba/canyougrab-api](einiba-canyougrab-api.md) — Domain availability checks via real-time DNS and WHOIS lookups, with bulk checking, confidence scores and registration details.
+- [cevatkerim/unsplash-mcp](cevatkerim-unsplash-mcp.md) — Unsplash photo search, random photos and download tracking, with ready-to-use attribution text and HTML for each photo.
+- [chanmeng/google-news-mcp-server](chanmeng-google-news-mcp-server.md) — Google News via SerpAPI: search headlines, stories and related topics, with automatic topic categorization and multi-language support.
+- [chasesaurabh/mcp-page-capture](chasesaurabh-mcp-page-capture.md) — Capture webpage screenshots, viewport or full-page, as base64 PNG.
+- [AntonG87/codearia-sieve](antong87-codearia-sieve.md) — Deterministically convert web pages into decision-ready state: ISO dates, numbers with units as facts and token-budgeted chunks anchored to the page.
+- [comparedge/mcp-server-comparedge](comparedge-mcp-server-comparedge.md) — Plans, prices, hidden costs, alternatives and comparisons for SaaS, AI and LLM tools.
+- [CKBrennan/overtone-news-mcp](ckbrennan-overtone-news-mcp.md) — Real-time news with tone analysis, brand safety and narrative shift signals.
+- [ConechoAI/openai-websearch-mcp](conechoai-openai-websearch-mcp.md) — Expose OpenAI's built-in web search tool.
+- [eliottreich/crawdar-mcp](eliottreich-crawdar-mcp.md) — Evidence-backed business discovery and lead-list research: search by brief or criteria, inspect qualification evidence and exclusions, and export results.
+- [Crawleo/Crawleo-MCP](crawleo-crawleo-mcp.md) — Real-time web search and crawling via the Crawleo Search and Crawl API.
+- [HasData/indeed-mcp](hasdata-indeed-mcp.md) — Remote MCP server for Indeed: job listings by keyword and location with salary, company and posting date, plus full job postings, as JSON.
+- [Crawlora-org/crawlora-mcp](crawlora-org-crawlora-mcp.md) — Structured public web data as clean JSON across search, maps, commerce, social and finance.
+- [czottmann/kagi-ken-mcp](czottmann-kagi-ken-mcp.md) — Kagi search and summarization without API access, authenticated with a Kagi session token.
+- [DappierAI/dappier-mcp](dappierai-dappier-mcp.md) — Real-time web search and premium data from media brands via Dappier: news, financial markets, sports, entertainment, weather and more.
+- [dariomory/trendflow-js](dariomory-trendflow-js.md) — Google Trends data: interest over time, interest by region, trending now, related queries and topic search.
+- [DasDigitaleMomentum/searxNcrawl](dasdigitalemomentum-searxncrawl.md) — Web search via your own SearXNG instance and/or You.com, plus page and site crawling to deduplicated Markdown with Crawl4AI and Playwright, including pages…
+- [deadletterq/mcp-opennutrition](deadletterq-mcp-opennutrition.md) — Local search of foods, nutrition facts and barcodes in the OpenNutrition database.
+- [dealx/mcp-server](dealx-mcp-server.md) — Integration with the DealX platform.
+- [deficlow/HyperStore-MCP](deficlow-hyperstore-mcp.md) — Keyword and semantic search over curated AI applications in the HyperStore directory, with full app details and browsing.
+- [Desearch-ai/mcp-desearch](desearch-ai-mcp-desearch.md) — AI search, X search and web search for AI agents.
+- [devflowinc/trieve](devflowinc-trieve.md) — Crawl, embed, chunk, search and retrieve information from datasets through Trieve.
+- [divyanshu-iitian/SearchForge](divyanshu-iitian-searchforge.md) — Capability-routed search and web reading across GitHub, Crossref, Hacker News, Wikipedia and private SearXNG, plus URL-to-Markdown and health diagnostics.
+- [djrobson5/agentmd-mcp](djrobson5-agentmd-mcp.md) — Convert PDF, DOCX, HTML and URLs to clean, LLM-ready Markdown with tables preserved and boilerplate stripped.
+- [dorukardahan/domain-search-mcp](dorukardahan-domain-search-mcp.md) — Domain availability and prices from Porkbun, Namecheap, GoDaddy, RDAP and WHOIS, with bulk search, registrar comparison, suggestions and social handle checks.
+- [mikusnuz/gsc-mcp](mikusnuz-gsc-mcp.md) — Google Search Console and Indexing API: search analytics, sitemaps, URL inspection and batch indexing.
+- [oso95/domain-suite-mcp](oso95-domain-suite-mcp.md) — Domain lifecycle management across Porkbun, Namecheap, GoDaddy and Cloudflare: availability, registration, DNS, SSL, email auth (SPF, DKIM, DMARC) and WHOIS.
+- [pepabo/muumuu-domain-mcp](pepabo-muumuu-domain-mcp.md) — Search and register Muumuu Domain (GMO Pepabo) domains, manage owned domains and contracts, and configure DNS records.
+- [dreamworkhq/mcp](dreamworkhq-mcp.md) — Dreamwork job search: browse live listings without a key, rank matches against your resume, generate tailored resumes and cover letters, apply and track…
+- [Dumpling-AI/mcp-server-dumplingai](dumpling-ai-mcp-server-dumplingai.md) — Access Dumpling AI's data, web scraping and document conversion APIs.
+- [ekas-io/open-sales-stack](ekas-io-open-sales-stack.md) — Collection of B2B sales intelligence servers: website analysis, tech stack detection, hiring signals, review aggregation, ad tracking and social profiles.
+- [emicklei/melrose-mcp](emicklei-melrose-mcp.md) — Play Melrōse music expressions as MIDI.
+- [echology-io/decompose](echology-io-decompose.md) — Deterministically decompose text into classified semantic units with authority, risk and attention scores plus entity extraction, without an LLM.
+- [erithwik/mcp-hn](erithwik-mcp-hn.md) — Search Hacker News, get top stories and more.
+- [echojobsio/jdl-mcp-server](echojobsio-jdl-mcp-server.md) — Search JobDataLake's enriched job listings with filters for skills, salary, location, seniority, remote type and more.
+- [evanatpizzarobot/vr-org-mcp](evanatpizzarobot-vr-org-mcp.md) — Live VR, AR and XR news, full-text VR.org originals, an events calendar, headset deals and comparisons.
+- [exa-labs/exa-mcp-server](exa-labs-exa-mcp-server.md) — Real-time web search using the Exa AI Search API.
+- [fatwang2/search1api-mcp](fatwang2-search1api-mcp.md) — Web search via Search1API.
+- [FieldmodeLLC/scrapecheck-mcp](fieldmodellc-scrapecheck-mcp.md) — Verify scraped field values against the live source page, returning an Ed25519-signed pass, fail or unverifiable verdict that can be checked offline.
+- [KyuRish/fiverr-mcp-server](kyurish-fiverr-mcp-server.md) — Search Fiverr gigs, view seller profiles, compare gig packages and read reviews.
+- [format37/youtube_mcp](format37-youtube-mcp.md) — Transcribe YouTube videos to text using yt-dlp for audio and OpenAI Whisper for transcription, with chunked output for long videos.
+- [foundrole/jobs-mcp-proxy](foundrole-jobs-mcp-proxy.md) — FoundRole job search: live ATS listings with salary benchmarks, H-1B sponsorship history and ghost-job grades, plus resume checks and an application tracker.
+- [fouradata/mcp](fouradata-mcp.md) — Web scraping that escalates from direct fetch to rotating proxy to full browser, solving anti-bot challenges and reporting which step worked and its cost.
+- [smeet666/mcp-wikibooks-cookbook](smeet666-mcp-wikibooks-cookbook.md) — Search recipes in the English Wikibooks Cookbook, read ingredients and steps, and rescale quantities.
+- [smeet666/mcp-recipes](smeet666-mcp-recipes.md) — Query Marmiton and the Wikibooks Cookbook together to compare recipes, and scale French and English ingredient lists, flagging what cannot be scaled.
+- [VoxellInc/forge-mcp](voxellinc-forge-mcp.md) — Generate vector embeddings for semantic search and RAG with Forge, Voxell's text-embedding API, including Matryoshka truncation.
+- [wd041216-bit/free-web-search-ultimate](wd041216-bit-free-web-search-ultimate.md) — Web search across DuckDuckGo, Bing, Google, Brave, Wikipedia, arXiv, YouTube and Reddit with deep page browsing. Instructs LLMs to search before answering.
+- [gemy411/multi-research-agents](gemy411-multi-research-agents.md) — Multi-agent research system for coding or general research tasks.
+- [giskard09/giskard-search](giskard09-giskard-search.md) — Semantic web search powered by SearXNG, paid per use in sats via Lightning Network micropayments. Self-hosted with phoenixd.
+- [githunt-agent/githunt-mcp](githunt-agent-githunt-mcp.md) — Search, rank and analyze GitHub developers for tech recruiting by location, role and skill, with AI scoring and contact discovery.
+- [goesByhc/cn-scraper-mcp](goesbyhc-cn-scraper-mcp.md) — Search and extract data from Chinese platforms including Taobao, JD, Xiaohongshu, Zhihu, Weibo, Bilibili, Douban and Dianping, with local cookie storage.
+- [getrephonic/rephonic-mcp](getrephonic-rephonic-mcp.md) — Search Rephonic podcast and episode data: listener estimates, demographics, contacts, transcripts, chart rankings, sponsors, reviews and audience overlap.
+- [goofrey/zoom-search](goofrey-zoom-search.md) — Rewrite queries, zoom into source domains and return sourced answers with metrics.
+- [gregm711/agent-domain-service-mcp](gregm711-agent-domain-service-mcp.md) — Domain brainstorming via AgentDomainService: generate names from descriptions, score brandability and memorability, and check availability and prices.
+- [hanoak/unsplash-mcp-server](hanoak-unsplash-mcp-server.md) — Unsplash API: photos, search, users, collections, topics and stats, with guideline-compliant attribution, download tracking and rate-limit reporting.
+- [HasData/hasdata-mcp](hasdata-hasdata-mcp.md) — Structured data APIs for Google Search, Maps, Trends and Flights, Amazon, Airbnb, Zillow, Yelp and more, returning clean JSON.
+- [hbg/mcp-paperswithcode](hbg-mcp-paperswithcode.md) — Search papers via the Papers with Code API.
+- [hellokaton/unsplash-mcp-server](hellokaton-unsplash-mcp-server.md) — Unsplash image search.
+- [HughesCuit/heventure-search-mcp](hughescuit-heventure-search-mcp.md) — Web search across DuckDuckGo, Bing, Google (via SerpAPI) and Tavily with automatic rate limiting, caching and multi-language support.
+- [Himalayas-App/himalayas-mcp](himalayas-app-himalayas-mcp.md) — Real-time access to remote job listings and company information from the Himalayas jobs database.
+- [Ihor-Sokoliuk/MCP-SearXNG](ihor-sokoliuk-mcp-searxng.md) — Web search via SearXNG.
+- [imprvhub/mcp-claude-hackernews](imprvhub-mcp-claude-hackernews.md) — Interact with Hacker News.
+- [imprvhub/mcp-domain-availability](imprvhub-mcp-domain-availability.md) — Check domain availability across many TLDs with DNS and WHOIS verification, bulk checking and name suggestions.
+- [imprvhub/mcp-rss-aggregator](imprvhub-mcp-rss-aggregator.md) — Aggregate RSS feeds.
+- [lionkiii/rss-feeds-mcp](lionkiii-rss-feeds-mcp.md) — Fetch, filter, search and manage RSS feeds by category or source.
+- [ip2whois/mcp-ip2whois](ip2whois-mcp-ip2whois.md) — WHOIS lookups via the IP2WHOIS API: domain registration details including expiry dates, registrar and registrant data.
+- [isnow890/naver-search-mcp](isnow890-naver-search-mcp.md) — Naver Search API integration: blog, news and shopping search plus DataLab analytics.
+- [jae-jae/fetcher-mcp](jae-jae-fetcher-mcp.md) — Fetch web page content using a Playwright headless browser, supporting JavaScript rendering, content extraction and Markdown or HTML output.
+- [jae-jae/g-search-mcp](jae-jae-g-search-mcp.md) — Google search with parallel queries for multiple keywords.
+- [jeanpfs/stock-images-mcp](jeanpfs-stock-images-mcp.md) — Search free stock photos on Pexels, Unsplash and Pixabay and download the chosen one into a local folder, with per-provider error reporting.
+- [JessieJanie/skim402](jessiejanie-skim402.md) — Convert any URL into clean Markdown with structured metadata (title, byline, published date, language), paid per use via x402.
+- [jhomen368/overseerr-mcp](jhomen368-overseerr-mcp.md) — Media discovery, requests and management via Overseerr and Seerr for Plex, Jellyfin and Emby.
+- [joelio/stocky](joelio-stocky.md) — Search and download royalty-free stock photos from Pexels and Unsplash, with rich metadata and pagination.
+- [johnsmalls22-rgb/domain-search-king-mcp](johnsmalls22-rgb-domain-search-king-mcp.md) — Domain name search that returns only .com domains verified as available via live Verisign RDAP checks.
+- [just-every/mcp-read-website-fast](just-every-mcp-read-website-fast.md) — Convert websites to clean Markdown with links preserved, using Mozilla Readability, caching, robots.txt-aware crawling and concurrent fetching.
+- [just-every/mcp-screenshot-website-fast](just-every-mcp-screenshot-website-fast.md) — Capture website screenshots, tiling full pages into 1072x1072 chunks for Claude Vision, with configurable viewports and wait strategies for dynamic content.
+- [kagisearch/kagimcp](kagisearch-kagimcp.md) — Search the web with Kagi Search.
+- [kc23go/anybrowse](kc23go-anybrowse.md) — Scrape, crawl and search the web, converting any URL to LLM-ready Markdown via real Chrome browsers.
+- [keenableai/keenable-mcp](keenableai-keenable-mcp.md) — Live web search and clean Markdown page fetching over the Keenable web index.
+- [konippi/servo-fetch](konippi-servo-fetch.md) — Chromium-free web content extraction in a single binary: fetch, render, crawl and screenshot pages with the Servo browser engine.
+- [kehvinbehvin/json-mcp-filter](kehvinbehvin-json-mcp-filter.md) — Query and extract only the needed parts of JSON files to keep LLM context small.
+- [kimdonghwi94/Web-Analyzer-MCP](kimdonghwi94-web-analyzer-mcp.md) — Extract clean web content for RAG and answer questions about web pages.
+- [kshern/mcp-tavily](kshern-mcp-tavily.md) — Search via the Tavily AI search API.
+- [lachy3433/contextfetch-mcp](lachy3433-contextfetch-mcp.md) — Web search and page contents as LLM-ready Markdown, pruned to the passages relevant to the query, plus cited answers, research, crawl and site maps. Keyless…
+- [leehanchung/bing-search-mcp](leehanchung-bing-search-mcp.md) — Web search using the Microsoft Bing Search API.
+- [lennney/agent-search-mcp](lennney-agent-search-mcp.md) — Search across DuckDuckGo, Sogou, Bing, Baidu, Wikipedia, Startpage, Yandex and Mojeek with waterfall search, multi-source verification and news search.
+- [leadbrain/korean-data-mcp](leadbrain-korean-data-mcp.md) — Real-time Korean web data via Apify: Naver place reviews and news, Melon music chart, Daangn and Bunjang listings and Musinsa fashion rankings.
+- [lfnovo/content-core](lfnovo-content-core.md) — Extract content from web pages, PDFs, Word documents, YouTube transcripts, audio and video with automatic engine selection and structured JSON output.
+- [tobocop2/lilbee](tobocop2-lilbee.md) — Index files, code and crawled websites and answer with source citations, using its own local models or an existing Ollama or LM Studio setup.
+- [Linked-API/linkedapi-mcp](linked-api-linkedapi-mcp.md) — Control LinkedIn accounts and retrieve real-time LinkedIn data.
+- [linxule/mineru-mcp](linxule-mineru-mcp.md) — Parse PDFs, images, DOCX and PPTX via the MinerU document parsing API, with multilingual OCR, batch processing, page ranges and local file upload.
+- [litescrape/litescrape-mcp-server](litescrape-litescrape-mcp-server.md) — Google Search, Bing, DuckDuckGo, Google Maps, Google AI Mode, AI Overview and Shopping results as JSON.
+- [litportnet/free-proxy-mcp](litportnet-free-proxy-mcp.md) — Verified free HTTP, SOCKS4 and SOCKS5 proxy lists from Litport, filtered by country, anonymity, latency and uptime. Returns records only; no API key needed.
+- [luminati-io/brightdata-mcp](luminati-io-brightdata-mcp.md) — Discover, extract and interact with the web via Bright Data, one interface for automated access to the public internet.
+- [lulzasaur9192/marketplace-search-mcp](lulzasaur9192-marketplace-search-mcp.md) — Search TCGPlayer, Reverb and Thumbtack, verify US contractor and nurse licenses, and look up PSA card grading population data.
+- [mambalabsdev/mcp-ai-tooling-detector](mambalabsdev-mcp-ai-tooling-detector.md) — Detect whether a company only claims AI, deploys AI tooling on its site or charges for AI, returning an AI maturity tier with supporting evidence.
+- [mambalabsdev/mcp-company-change-event-feed](mambalabsdev-mcp-company-change-event-feed.md) — Monitor company changes across hiring, tech stack, funding, firmographics, and social since the last run. Returns only deltas as typed change events.
+- [mambalabsdev/mcp-company-contact-details-extractor](mambalabsdev-mcp-company-contact-details-extractor.md) — Find a company's contact page and extract role emails, a phone number and a postal address.
+- [mambalabsdev/mcp-company-discovery-list-builder](mambalabsdev-mcp-company-discovery-list-builder.md) — Builds a company list from a market definition: companies hiring for a role, or US SEC filers whose filings mention a phrase.
+- [mambalabsdev/mcp-company-firmographic-enricher](mambalabsdev-mcp-company-firmographic-enricher.md) — Enrich a company domain with firmographics: employee band, industry, HQ, founding year, revenue estimate, logo and description, with source provenance.
+- [mambalabsdev/mcp-company-social-presence-mapper](mambalabsdev-mcp-company-social-presence-mapper.md) — Map a company domain to its LinkedIn, X, Instagram, Facebook and YouTube profiles and follower counts as flat Clay-ready JSON via an Apify actor.
+- [mambalabsdev/mcp-creator-finder](mambalabsdev-mcp-creator-finder.md) — Finds influencers by keyword or curated niche across TikTok, Instagram, YouTube, Pinterest, Twitch, Threads, and podcasts, filtered by follower range.
+- [mambalabsdev/mcp-domain-to-linkedin-url-resolver](mambalabsdev-mcp-domain-to-linkedin-url-resolver.md) — Resolve a company domain or name to its LinkedIn company URL, with confidence scoring and firmographic metadata.
+- [mambalabsdev/mcp-event-presence-index](mambalabsdev-mcp-event-presence-index.md) — List the third-party conferences and trade shows a company publicly says it attends, with the year of each.
+- [mambalabsdev/mcp-funding-press-signal-scanner](mambalabsdev-mcp-funding-press-signal-scanner.md) — Scan Google News and PR wires for a company's funding rounds, executive moves, launches and acquisitions as deduplicated, dated events in Clay-ready JSON.
+- [mambalabsdev/mcp-github-organization-signal-scanner](mambalabsdev-mcp-github-organization-signal-scanner.md) — Resolve a company domain to its GitHub organization with repository, language and activity signals.
+- [mambalabsdev/mcp-gtm-hiring-signal-scraper](mambalabsdev-mcp-gtm-hiring-signal-scraper.md) — Detect GTM hiring signals on Greenhouse, Lever and Ashby career pages, returning Clay-ready JSON with role counts, signal strength and ATS detection.
+- [mambalabsdev/mcp-gtm-tech-stack-signal-scraper](mambalabsdev-mcp-gtm-tech-stack-signal-scraper.md) — Detect CRM, sequencer and marketing automation tools from a company domain as boolean GTM tool signals for Clay enrichment.
+- [mambalabsdev/mcp-job-board-keyword-signal-scanner](mambalabsdev-mcp-job-board-keyword-signal-scanner.md) — Scan job boards on five ATS platforms for configurable role categories (GTM, engineering, finance, ops), returning keyword match counts and signal strength.
+- [mambalabsdev/mcp-job-change-tracker](mambalabsdev-mcp-job-change-tracker.md) — Tracks whether CRM contacts left, moved, or were promoted, with current employer, title, start date, and the source and age behind each answer.
+- [mambalabsdev/mcp-review-platform-reputation-enricher](mambalabsdev-mcp-review-platform-reputation-enricher.md) — Resolve a company domain to its Trustpilot rating, review count and claimed status.
+- [mambalabsdev/mcp-team-page-people-extractor](mambalabsdev-mcp-team-page-people-extractor.md) — Returns the people a company publishes on its own team, leadership, or about page, with names, titles, and the source page.
+- [Marvy101/pod-mcp](marvy101-pod-mcp.md) — Search firsthand observations agents recorded about products, APIs, services or places, as opposed to documentation claims, and write back new ones.
+- [mauriblint/jsonlink-mcp](mauriblint-jsonlink-mcp.md) — Read any URL as clean Markdown, get link metadata (Open Graph, favicon), take desktop/mobile screenshots and extract links and images, powered by the…
+- [mikechao/brave-search-mcp](mikechao-brave-search-mcp.md) — Web, image, news, video and local point-of-interest search using Brave's Search API.
+- [maxylev/searchfetch](maxylev-searchfetch.md) — Fault-tolerant, stealth-enabled web search and content fetching.
+- [MikkoParkkola/nab](mikkoparkkola-nab.md) — Fetch any URL as clean Markdown, with HTTP/3, JS rendering, anti-fingerprinting, browser cookie auth and 1Password integration.
+- [MKirovBG/scribefy-mcp](mkirovbg-scribefy-mcp.md) — Extract timestamped YouTube transcripts, plus video search, metadata and related videos.
+- [modelcontextprotocol/server-fetch](modelcontextprotocol-server-fetch.md) — Web content fetching and processing for AI consumption.
+- [Pexafy/pexafy-mcp](pexafy-pexafy-mcp.md) — Semantic search of free-license stock photos from Unsplash, Pexels, Pixabay and more by scene description, example image or similarity, with attribution.
+- [pranciskus/newsmcp](pranciskus-newsmcp.md) — Real-time world news: events clustered from many sources, classified by topic and geography and ranked by importance.
+- [Opedd/opedd-mcp](opedd-opedd-mcp.md) — Discover, buy, verify and retrieve licensed expert analysis, with per-article license keys, on-chain proof and EU AI Act Article 53 attestation.
+- [n24q02m/wet-mcp](n24q02m-wet-mcp.md) — Web search via embedded SearXNG, content extraction and library docs indexing with hybrid FTS5 and semantic search using built-in Qwen3 embeddings.
+- [ni-c/freshrss-mcp](ni-c-freshrss-mcp.md) — Read and manage a self-hosted FreshRSS instance: feeds, categories, labels, articles, read and star state, and OPML import and export.
+- [nickclyde/duckduckgo-mcp-server](nickclyde-duckduckgo-mcp-server.md) — Web search using DuckDuckGo, with content fetching and parsing.
+- [nkapila6/mcp-local-rag](nkapila6-mcp-local-rag.md) — Primitive RAG-like web search that runs locally, without external APIs.
+- [nyxn-ai/NyxDocs](nyxn-ai-nyxdocs.md) — Manage cryptocurrency project documentation across Ethereum, BSC, Polygon and Solana.
+- [OctagonAI/octagon-deep-research-mcp](octagonai-octagon-deep-research-mcp.md) — Deep research agent from Octagon.
+- [omniologynow-rgb/scout-intel-mcp](omniologynow-rgb-scout-intel-mcp.md) — Web intelligence: SERP analysis, competitor research, market trends, content gap analysis, keyword insights, audience discovery and citation tracking.
+- [opendatalab/MinerU-Ecosystem](opendatalab-mineru-ecosystem.md) — Convert PDFs, Word and PowerPoint files, images and spreadsheets to Markdown via the MinerU document parsing API.
+- [NameetP/pdfmux](nameetp-pdfmux.md) — PDF extraction router that classifies each page and routes it to PyMuPDF, Docling, OCR or an LLM fallback, re-extracting pages with low confidence scores.
+- [parallel-web/search-mcp](parallel-web-search-mcp.md) — Web search for AI via Parallel.
+- [FayAndXan/spectrawl](fayandxan-spectrawl.md) — Unified web layer for agents: multi-engine search including Gemini Grounded Search, stealth browsing, cookie auth and actions across many platforms.
+- [parallel-web/task-mcp](parallel-web-task-mcp.md) — Deep research and batch task execution via Parallel.
+- [ParserBee/parserbee-mcp](parserbee-parserbee-mcp.md) — Extract structured data from invoices, receipts, purchase orders, bank statements and other documents with ParserBee Parser Templates, returned as JSON.
+- [paulieb89/govuk-mcp](paulieb89-govuk-mcp.md) — Search GOV.UK content, retrieve full government pages, look up organisations and resolve UK postcodes to local authorities. Read-only.
+- [Pearch-ai/mcp_pearch](pearch-ai-mcp-pearch.md) — People search engine for talent discovery.
+- [peter-j-thompson/semanticapi-mcp](peter-j-thompson-semanticapi-mcp.md) — Natural language API discovery: search API capabilities and get endpoints, auth setup and code snippets, with auto-discovery of new APIs.
+- [phpcip/opensolr-mcp](phpcip-opensolr-mcp.md) — Managed Apache Solr: hybrid BM25 and kNN plus semantic search, document ingestion with server-side embeddings, grounded RAG answers and index management.
+- [pragmar/mcp-server-webcrawl](pragmar-mcp-server-webcrawl.md) — Search and retrieve web crawler data from WARC, wget, Katana, SiteOne and InterroBot crawls.
+- [Prototypr/feedbagel-mcp](prototypr-feedbagel-mcp.md) — Search the Feedbagel RSS catalog, follow feeds and route new entries to webhooks.
+- [quantumproxies/quanticdata-mcp-server](quantumproxies-quanticdata-mcp-server.md) — Web data via residential proxies: page scraping to Markdown, SERP search, site crawl and map, ready-made collectors and datasets from plain-language prompts.
+- [qune-tech/ocds-mcp](qune-tech-ocds-mcp.md) — German public procurement data (OCDS): semantic search, tender matching against company profiles and structured filtering.
+- [QuentinCody/catalysishub-mcp-server](quentincody-catalysishub-mcp-server.md) — Unofficial access to the Catalysis Hub database: search and retrieve computational catalysis research and surface reaction data.
+- [r-huijts/opentk-mcp](r-huijts-opentk-mcp.md) — Search Dutch Parliament (Tweede Kamer) documents, debates, activities and legislative cases, based on the OpenTK project.
+- [reading-plus-ai/mcp-server-deep-research](reading-plus-ai-mcp-server-deep-research.md) — Autonomous deep research with structured query elaboration and concise reporting.
+- [reflex-search/reflex](reflex-search-reflex.md) — Local, offline full-text code search for coding agents using a trigram index over large codebases.
+- [Rererr/amenbo](rererr-amenbo.md) — Token-efficient web fetching for Japanese sites: outline-first disclosure, Shift_JIS and EUC-JP decoding, PDF and CSV extraction and polite crawling.
+- [ricocf/mcp-wolframalpha](ricocf-mcp-wolframalpha.md) — Access computational knowledge and data via the Wolfram Alpha API.
+- [Role1776/mcp-retrieval](role1776-mcp-retrieval.md) — Read-only web search via DuckDuckGo Lite, image search via Bing Images and page-to-Markdown scraping with a readability extractor.
+- [rubenayla/partle-mcp](rubenayla-partle-mcp.md) — Search products and nearby physical stores to buy locally instead of waiting for delivery.
+- [bartonguestier1725-collab/scout-mcp](bartonguestier1725-collab-scout-mcp.md) — Parallel search across GitHub, npm, PyPI, arXiv, Semantic Scholar, Hacker News, Reddit, X, Dev.to, Hashnode, Qiita and Zenn with structured JSON output.
+- [chefcohen/corroborate-mcp](chefcohen-corroborate-mcp.md) — Measure how independently a claim is reported, with syndication-aware source counting and 0-1 confidence scores. Measures corroboration, not truth.
+- [scrapeless-ai/scrapeless-mcp-server](scrapeless-ai-scrapeless-mcp-server.md) — Web search via the Scrapeless Google SERP API.
+- [scraperapi/scraperapi-mcp](scraperapi-scraperapi-mcp.md) — Web scraping via ScraperAPI with JavaScript rendering, geotargeting, premium proxies and auto-parsing.
+- [scrapercity/scrapercity-cli](scrapercity-scrapercity-cli.md) — B2B lead generation: Apollo and Google Maps data, email finding and validation, mobile number lookup, skip tracing and ecommerce store data.
+- [searchcraft-inc/searchcraft-mcp-server](searchcraft-inc-searchcraft-mcp-server.md) — Manage Searchcraft clusters, create search indexes, generate an index from a data file and import data from a feed or local JSON file.
+- [SecretiveShell/MCP-searxng](secretiveshell-mcp-searxng.md) — Connect to SearXNG instances.
+- [securecoders/opengraph-io-mcp](securecoders-opengraph-io-mcp.md) — OpenGraph.io API: extract OG metadata, take screenshots, scrape web content, query sites with AI and generate branded images and social cards.
+- [Seomarlboro/digmyname](seomarlboro-digmyname.md) — Domain availability checks, registrar price comparison and domain age lookups across many TLDs.
+- [serkan-ozal/driflyte-mcp-server](serkan-ozal-driflyte-mcp-server.md) — Query and retrieve topic-specific knowledge from recursively crawled and indexed web pages via Driflyte.
+- [serpapi/serpapi-mcp](serpapi-serpapi-mcp.md) — Search results from Google, Bing, Yahoo, DuckDuckGo, YouTube, eBay and more via SerpApi, plus real-time weather and stock market data.
+- [serpdive/serpdive-mcp](serpdive-serpdive-mcp.md) — Web search returning extracted page content (URL, title, date, text) instead of links, with automatic localization and an optional synthesized answer.
+- [shariqriazz/google-ai-search-mcp](shariqriazz-google-ai-search-mcp.md) — Search, documentation retrieval, code analysis and architecture research powered by Google's Vertex AI or the Gemini API.
+- [shopsavvy/shopsavvy-mcp-server](shopsavvy-shopsavvy-mcp-server.md) — ShopSavvy product and price data: search by barcode, ASIN or URL, get product details, compare retailer prices and track price history.
+- [sifter-ai/sifter](sifter-ai-sifter.md) — Extract typed, schema-defined records from any document and query them in natural language like a database.
+- [smeet666/mcp-ashby](smeet666-mcp-ashby.md) — Search companies' public Ashby job boards: resolve a company to its board, filter openings, read full postings and compare published pay ranges.
+- [smeet666/mcp-animenewsnetwork](smeet666-mcp-animenewsnetwork.md) — Search the Anime News Network encyclopedia for anime and manga, read cast, staff, episodes and studios as compact rows, and follow the news wire.
+- [smeet666/mcp-marmiton](smeet666-mcp-marmiton.md) — Search Marmiton recipes, read ingredients and steps, and rescale quantities to any number of servings.
+- [smeet666/mcp-pequerecetas](smeet666-mcp-pequerecetas.md) — Read Spanish family recipes from Pequerecetas, rescale servings and browse by diet, main ingredient, appliance or age group from six months up.
+- [srezai-team/srezai-mcp](srezai-team-srezai-mcp.md) — Web and image search, page reading as Markdown, browser-rendered screenshots, schema-based extraction and deep research, with strong Russian web coverage.
+- [Sriram-PR/doc-scraper](sriram-pr-doc-scraper.md) — Crawl documentation sites into local Markdown or JSONL corpora and serve them with offline BM25 search, page reads, freshness checks and crawl diffs.
+- [ssatama/rescuedogs-mcp-server](ssatama-rescuedogs-mcp-server.md) — Search rescue dogs from European and UK organizations, with detailed profiles and personality matching.
+- [takashiishida/arxiv-latex-mcp](takashiishida-arxiv-latex-mcp.md) — Get the LaTeX source of arXiv papers to handle mathematical content and equations.
+- [talonicdev/talonic-mcp](talonicdev-talonic-mcp.md) — Schema-validated extraction of structured fields from PDFs, scans, images and forms, with searchable memory of past extractions.
+- [TechMap/mcp.techmap.io](techmap-mcp-techmap-io.md) — Search and count job postings from 185 sources in 250 countries (~8M new per month) via Techmap's Jobs API; filters for title, skills, company, city…
+- [telly6/searchpin](telly6-searchpin.md) — Multi-engine parallel web search with re-ranking that works within China's network without a proxy or VPN.
+- [the0807/GeekNews-MCP-Server](the0807-geeknews-mcp-server.md) — Retrieve and process news from GeekNews.
+- [theagenttimes/tat-mcp-server](theagenttimes-tat-mcp-server.md) — Query articles, statistics, the wire feed, comments, citations and agent leaderboards from The Agent Times, a newspaper covering the agent economy.
+- [tianqitang1/enrichr-mcp-server](tianqitang1-enrichr-mcp-server.md) — Gene set enrichment analysis using the Enrichr API.
+- [tinyfish-io/agentql-mcp](tinyfish-io-agentql-mcp.md) — Data extraction with AgentQL.
+- [AI-Directory-Partners/tooldirectory-mcp](ai-directory-partners-tooldirectory-mcp.md) — Search a catalog of AI tools, compare them, find alternatives and check whether a tool is active, defunct or acquired.
+- [Tomatio13/mcp-server-tavily](tomatio13-mcp-server-tavily.md) — Search via the Tavily AI search API.
+- [trendsmcp-ai/Trends-MCP](trendsmcp-ai-trends-mcp.md) — Live trend data from Google, TikTok, YouTube, Amazon, Reddit, npm, Steam and other sources.
+- [unblockingapi/mcp](unblockingapi-mcp.md) — Fetch bot-protected and JavaScript-heavy pages, choosing plain HTTP or a real browser per site, and parse supported pages into JSON with published…
+- [urlbox/urlbox-mcp-server](urlbox-urlbox-mcp-server.md) — Generate and manage screenshots, PDFs and videos, analyze screenshots with AI and extract web content as Markdown, metadata or HTML via the Urlbox API.
+- [us/crw](us-crw.md) — Self-hostable web crawler and search API (fastCRW): scraping, crawling, site mapping and SearXNG-backed search.
+- [Savirinc/unfragile-mcp-server](savirinc-unfragile-mcp-server.md) — Resolve an agent's intent to the right MCP server across registries, with an invocation-ready snippet and an Ed25519-signed trust passport.
+- [vectorize-io/vectorize-mcp-server](vectorize-io-vectorize-mcp-server.md) — Retrieval, private deep research, file-to-Markdown extraction and text chunking via Vectorize.
+- [vitorpavinato/ncbi-mcp-server](vitorpavinato-ncbi-mcp-server.md) — NCBI and PubMed literature search with analytics, caching, MeSH integration, related article discovery and batch processing for life sciences research.
+- [Gaoshan0971/digeguigui](gaoshan0971-digeguigui.md) — Reptile and exotic pet knowledge base: species identification, genetics calculator, care information, health diagnosis, prices and blockchain provenance.
+- [robbyczgw-cla/web-search-plus-mcp](robbyczgw-cla-web-search-plus-mcp.md) — Multi-provider web search with automatic routing between Serper, Tavily and Exa.
+- [Vincentwei1021/agent-toolbox](vincentwei1021-agent-toolbox.md) — Web search, content extraction, screenshots, weather, finance, email validation, translation, news, GeoIP, WHOIS, DNS, PDF extraction and QR codes.
+- [webscraping-ai/webscraping-ai-mcp-server](webscraping-ai-webscraping-ai-mcp-server.md) — Web data extraction and scraping via WebScraping.ai.
+- [ashlrai/webfetch](ashlrai-webfetch.md) — License-aware federated image search across many providers, returning license tags, attribution strings, dimensions and download URLs.
+- [WhaleCupl/ai-daily-insights-mcp](whalecupl-ai-daily-insights-mcp.md) — List, fetch and full-text search structured daily AI news from AI Daily Insights, a Chinese AI-industry briefing.
+- [whw23/searxng-http-mcp](whw23-searxng-http-mcp.md) — Self-contained SearXNG in Docker: metasearch across many engines and categories with multi-page fanout, autocomplete, engine discovery and a Web UI proxy.
+- [XZXZZX-Ai/bilibili-mcp](xzxzzx-ai-bilibili-mcp.md) — Local-first Bilibili MCP server for video metadata, subtitles and structured transcripts, chapters, popular comments, and optional local ASR fallback.…
+- [yamanoku/baseline-mcp-server](yamanoku-baseline-mcp-server.md) — Search Baseline status using the Web Platform API.
+- [yubinkim444/ai-first-scraper-mcp](yubinkim444-ai-first-scraper-mcp.md) — Ad-free web scraping and search as clean Markdown: fetch pages singly or in parallel batches, and search the web for top-k pages.
+- [zhsama/duckduckgo-mcp-server](zhsama-duckduckgo-mcp-server.md) — Web search via DuckDuckGo.
+- [zoharbabin/web-researcher-mcp](zoharbabin-web-researcher-mcp.md) — Web search via Google, Brave, Serper, SearXNG and SearchAPI.io, multi-tier content extraction, academic and patent search, and multi-source research.
+- [zlatkoc/youtube-summarize](zlatkoc-youtube-summarize.md) — Fetch YouTube transcripts in text, JSON, SRT or WebVTT format and in multiple languages, and optionally summarize them.
+- [zoomeye-ai/mcp_zoomeye](zoomeye-ai-mcp-zoomeye.md) — Query network asset information from ZoomEye.
+- [juergenkoller-software/pdf-content-search-mcp](juergenkoller-software-pdf-content-search-mcp.md) — Full-text PDF search with Apple Vision OCR via the PDF Content Search app, with date, category, sender and amount filters, wildcards and boolean operators.
+- [rejifald/StitchAPI](rejifald-stitchapi.md) — Semantic search over the StitchAPI documentation, returning relevant sections with deep links and full pages.
+- [MarcellM01/TinySearch](marcellm01-tinysearch.md) — Self-hosted web research: SearXNG search with DuckDuckGo fallback, crawling, dense and BM25 reranking and deduplication into a cited, source-grounded prompt.
+- [retracn/automationnation-mcp](retracn-automationnation-mcp.md) — 17 data tools backed by Apify Actors: Google Flights and Hotels prices, Google Shopping, News, Images, Videos, Jobs and Trends, YouTube transcripts, Google…
+- [smeet666/mcp-ptitchef](smeet666-mcp-ptitchef.md) — Search Ptitchef recipes, browse ingredient categories, read ingredients, method, cost and nutrition, find dishes from fridge contents and rescale servings.
+- [smeet666/mcp-bbc-goodfood](smeet666-mcp-bbc-goodfood.md) — Search BBC Good Food recipes, read them in the original or US version, see accepted search facet values and rescale to any number of people.
+- [smeet666/mcp-supertoinette](smeet666-mcp-supertoinette.md) — Read Supertoinette's French recipes: ingredients, steps, difficulty, cost, resting time and wine pairings, and rescale to any number of people.
+- [AG-Bureau/mcp-search](ag-bureau-mcp-search.md) — Search, page reading, images, screenshots and multi-source answers over your own SearXNG, reporting which engines were queried and what to distrust.
+- [double2dev/boltpatternhq-mcp](double2dev-boltpatternhq-mcp.md) — Official MCP Server for BoltPatternHQ providing AI assistants with instant automotive wheel fitment, PCD, center bore, and offset reference data.
+- [ak10082247-max/stealthguard-402](ak10082247-max-stealthguard-402.md) — Stealth web scraper bypassing Cloudflare anti-bot via Scrapling, extracts clean DOM to Markdown, and sanitizes prompt injections with x402 micropayments on…

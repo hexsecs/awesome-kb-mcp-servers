@@ -1,0 +1,77 @@
+# Gaming
+
+- [26048608982lp-ai/gamenumerics](26048608982lp-ai-gamenumerics.md) — Game balance design and auditing: import xlsx config tables, audit growth curves, simulate battle and gacha systems, and reverse-engineer spreadsheet formulas.
+- [3aKHP/prts-mcp](3akhp-prts-mcp.md) — Arknights game data via the PRTS Wiki API, with auto-synced operator archives and voice lines for fan-work creation.
+- [antics-gg/antics-mcp](antics-gg-antics-mcp.md) — Deploy a single-file HTML game to a shareable multiplayer URL with rooms, state sync and leaderboards, without a backend or player accounts.
+- [birdwell/runescape-wiki-mcp](birdwell-runescape-wiki-mcp.md) — RuneScape 3 Grand Exchange prices, item lookup, player hiscores, and wiki pages.
+- [beckettlab/beckett-godot-mcp](beckettlab-beckett-godot-mcp.md) — Godot 4 editor addon that runs without a sidecar: class reflection, validated GDScript writes, scene/script/resource authoring and a runtime play-test loop.
+- [Brunovncs/texel-mcp](brunovncs-texel-mcp.md) — Minecraft skins and textures as code: JSON specs compiled to PNG, with a review an agent can act on. Skins, 57 mob textures, blocks, items, GUI and…
+- [butterlatte-zhang/unity-ai-bridge](butterlatte-zhang-unity-ai-bridge.md) — Control the Unity Editor from AI coding tools via file-based IPC.
+- [buildepicshit/Wick](buildepicshit-wick.md) — Godot Engine tooling: Roslyn-enriched exception telemetry, scene tree inspection, C# symbol navigation, MSBuild orchestration and GDScript analysis.
+- [CarlxsMG/UEAgent](carlxsmg-ueagent.md) — MCP server built into the Unreal Engine 5 editor: AI agents create and edit Blueprints, materials, levels, Niagara, animation, UMG, PCG, Sequencer, GAS and…
+- [chaoz23/srdcheck](chaoz23-srdcheck.md) — Deterministic D&D 5e (SRD 5.2.1) rules verdicts: cited turn legality checks, legal-action enumeration, advantage math and hash-stamped game-state lineage.
+- [CoderGamester/mcp-unity](codergamester-mcp-unity.md) — Unity game engine integration for game development.
+- [Coding-Solo/godot-mcp](coding-solo-godot-mcp.md) — Interact with the Godot game engine: edit, run and debug projects and manage scenes.
+- [danielenricocahall/lorcana-mcp](danielenricocahall-lorcana-mcp.md) — Disney Lorcana TCG: card search, deck validation against format rules, deck stats and Dreamborn/Pixelborn deck list import and export.
+- [dirtcubeinteractive/specter-skills](dirtcubeinteractive-specter-skills.md) — Configure a Specter game backend: players, economy, progression, leaderboards, tournaments, battle passes and real-time multiplayer.
+- [ddsky/gamebrain-api-clients](ddsky-gamebrain-api-clients.md) — Search and discover video games on any platform via the GameBrain API.
+- [dearlordylord/5e-quint](dearlordylord-5e-quint.md) — D&D 5e SRD 5.2.1 game engine: create characters and run turn-based battles through MCP, backed by Quint formal models, rule-level proofs, and model-based…
+- [debuffjp/debuff](debuffjp-debuff.md) — Let coding agents play, test and tune 2D browser games made with debuff: attach to the game you have open or a headless copy, read live state, explained…
+- [DiegoLopez0208/RpgMakerMVUltimate-MCP](diegolopez0208-rpgmakermvultimate-mcp.md) — Offline RPG Maker MV assistant: generate maps, edit the database and events, validate broken references, debug events and search a project semantically.
+- [dmang-dev/mcp-bizhawk](dmang-dev-mcp-bizhawk.md) — Control the BizHawk multi-system emulator: memory read/write, joypad input, frame advance, screenshots and save states.
+- [dmang-dev/mcp-dolphin](dmang-dev-mcp-dolphin.md) — Control the Dolphin GameCube/Wii emulator: memory read/write, GameCube and Wii Remote input, reset, save states and frame advance, via Felk's scripting fork.
+- [dmang-dev/mcp-mgba](dmang-dev-mcp-mgba.md) — Control the mGBA Game Boy Advance emulator: memory read/write, button input, screenshots, save states and stepping.
+- [Dreiev/l2calendar-mcp](dreiev-l2calendar-mcp.md) — Query upcoming Lineage 2 private server openings by chronicle via the public L2 Calendar API.
+- [drknowhow/fluxdots-mcp](drknowhow-fluxdots-mcp.md) — Play FluxDots, a ranked strategy board game where humans and AI agents share one Elo ladder: host or join live matches, with profiles, ratings and replays.
+- [dmang-dev/mcp-pine](dmang-dev-mcp-pine.md) — Memory read/write, save state slots and game metadata for PCSX2 and other emulators that support the PINE protocol.
+- [dmang-dev/mcp-ppsspp](dmang-dev-mcp-ppsspp.md) — Control PSP games via PPSSPP's built-in WebSocket debugger: memory read/write, input, pause and step, screenshots, CPU registers and breakpoints.
+- [dmang-dev/mcp-retroarch](dmang-dev-mcp-retroarch.md) — Control libretro cores via RetroArch's Network Control Interface: memory read/write, save states, screenshots, pause, frame advance and on-screen messages.
+- [gripforgeai/mcp](gripforgeai-mcp.md) — Attach weapons and props to rigged 3D characters: finds the hand bone, scales the prop, closes the fist and exports three.js, Unity or Godot binds and GLBs.
+- [gregario/dnd-oracle](gregario-dnd-oracle.md) — D&D 5e SRD reference: monster search, spell lookup, encounter building and loadout analysis.
+- [gregario/godot-forge](gregario-godot-forge.md) — Godot 4 dev companion: GUT/GdUnit4 test running, API docs with 3-to-4 migration mapping, script analysis, scene parsing, screenshots and LSP diagnostics.
+- [gregario/lorcana-oracle](gregario-lorcana-oracle.md) — Disney Lorcana TCG card search, deck analysis, ink curves, lore generation and franchise browsing.
+- [gregario/hearthstone-oracle](gregario-hearthstone-oracle.md) — Hearthstone card search, deck decoding and analysis, archetype classification and strategy coaching using HearthstoneJSON data.
+- [gregario/mtg-oracle](gregario-mtg-oracle.md) — Magic: The Gathering card search, rules lookup, deck analysis, prices and Commander data from Scryfall, Academy Ruins and Commander Spellbook.
+- [gregario/onepiece-oracle](gregario-onepiece-oracle.md) — One Piece TCG card search, deck analysis, cost curves, leader browsing and counter strategies.
+- [gregario/tft-oracle](gregario-tft-oracle.md) — Teamfight Tactics reference for champions, traits, items and augments using CommunityDragon data: synergy lookups, item recipes and rolling odds.
+- [gregario/warhammer-oracle](gregario-warhammer-oracle.md) — Warhammer 40K, Combat Patrol and Kill Team rules reference: unit datasheets, keyword definitions, phase sequences and game flow.
+- [Erodenn/godot-mcp-runtime](erodenn-godot-mcp-runtime.md) — Control running Godot 4 games via an injected bridge: input simulation, screenshots, UI discovery and live GDScript execution.
+- [german-krasnikov/unity-biome-mcp](german-krasnikov-unity-biome-mcp.md) — Control the Unity Editor, including from chat inside Unity: scenes, GameObjects, components, Shader Graph, materials, animation, UI and deterministic playtests.
+- [haoyifan/Silicon-Pantheon](haoyifan-silicon-pantheon.md) — Turn-based strategy game where AI agents command armies on tactical grids while humans coach, with post-match reflections and learning across games.
+- [hkaanengin/opendota-mcp-server](hkaanengin-opendota-mcp-server.md) — Dota 2 statistics via the OpenDota API: player stats, hero data and match analysis.
+- [hope1026/weppy-roblox-mcp](hope1026-weppy-roblox-mcp.md) — Control a live Roblox Studio session via a plugin: create scripts, instances, terrain, lighting and assets, with bidirectional sync and automated playtests.
+- [isco-tec/scorezilla-mcp](isco-tec-scorezilla-mcp.md) — Provision and inspect Scorezilla leaderboards, including one-step setup of a game, board and keys with ready-to-use SDK code.
+- [IvanMurzak/Unity-MCP](ivanmurzak-unity-mcp.md) — Integration for the Unity Editor and for games built with Unity.
+- [taygunsavas/patina-unity-mcp](taygunsavas-patina-unity-mcp.md) — Control the Unity Editor via a local server and C# bridge: scenes, GameObjects, prefabs, assets, scripts, console, tests and build settings.
+- [jiayao/mcp-chess](jiayao-mcp-chess.md) — Chess opponent that plays against LLMs.
+- [jkiley129/steam-mcp](jkiley129-steam-mcp.md) — Query your Steam library: games, playtime, recently played titles and store metadata.
+- [justinscott12/modrinth-mcp](justinscott12-modrinth-mcp.md) — Search Modrinth and publish Minecraft mods via the Modrinth API: create projects, upload new versions and read project and version metadata.
+- [Grinv/steam-games-mcp](grinv-steam-games-mcp.md) — Search the Steam store (deals, reviews, Steam Deck compatibility) plus player profiles, libraries, achievements and friends via the Steam Web API.
+- [kitao/pyxel-mcp](kitao-pyxel-mcp.md) — Pyxel retro game engine integration: run games, capture screenshots, inspect sprites and analyze audio.
+- [kkjdaniel/bgg-mcp](kkjdaniel-bgg-mcp.md) — Board game data via the BoardGameGeek XML API2.
+- [lodordev/mcp-romm](lodordev-mcp-romm.md) — Read-only access to the RomM retro game library manager: platforms, ROM search, metadata, collections, saves, firmware, devices and tasks.
+- [miduo100/agent-virtual-world](miduo100-agent-virtual-world.md) — Walk an AI into a live multiplayer 3D world as a visible avatar: observe the scene, talk to real human players, and be seen by them.
+- [miracle1814/ue5-automation](miracle1814-ue5-automation.md) — Unreal Engine 5 Blueprint automation: create, wire and compile Blueprints, author materials and UMG widgets, and verify PIE runtime state.
+- [murzin-ml/mcp-ps-store](murzin-ml-mcp-ps-store.md) — PlayStation Network gaming history (playtime, trophies, purchased library) for game recommendations based on what you played.
+- [truetick-gg/mcp](truetick-gg-mcp.md) — Manage TrueTick Minecraft servers: create, start and stop servers, live TPS/MSPT metrics, RCON console, files, backups and Modrinth/CurseForge mods.
+- [NAJEMWEHBE/unreal-ai-connection](najemwehbe-unreal-ai-connection.md) — Unreal Engine 5.7 editor automation via a native plugin and local TCP bridge.
+- [omniologynow-rgb/mcp-server](omniologynow-rgb-mcp-server.md) — AI agent contest platform on Solana: skill tournaments (art, stories, jokes) with USDC payouts via an on-chain smart contract.
+- [opgginc/opgg-mcp](opgginc-opgg-mcp.md) — Real-time gaming data for League of Legends, TFT and Valorant: champion analytics, esports schedules, meta compositions and character statistics.
+- [pab1ito/chess-mcp](pab1ito-chess-mcp.md) — Access Chess.com player data, game records and other public information.
+- [EnioAguiar/llmpvp-plugin](enioaguiar-llmpvp-plugin.md) — Ranked, bring-your-own-LLM chess and Go arena for AI agents: register, join matchmaking or challenge by name and play Glicko-2 rated games.
+- [ProjectMakersDE/horizOn-mcp](projectmakersde-horizon-mcp.md) — Official server for the horizOn game backend: player auth, leaderboards, cloud saves, remote config, gift codes, crash reports and feedback, docs and…
+- [razz-games/razz-mcp](razz-games-razz-mcp.md) — Provably fair dice, flip, crash, plinko, limbo, mines, tower and HexWar games with real SOL wagering.
+- [rkocosmergon/cosmergon-agent](rkocosmergon-cosmergon-agent.md) — Economy simulation for AI agents based on Conway's Game of Life, with an energy currency, a marketplace and benchmark reports.
+- [rishijatia/fantasy-pl-mcp](rishijatia-fantasy-pl-mcp.md) — Real-time Fantasy Premier League data and analysis.
+- [Sarg338/steam-mcp](sarg338-steam-mcp.md) — Read-only Steam, 41 tools. Store details, reviews that match the store page, sales, regional prices, community tags, live player counts, Steam Deck…
+- [SerifeusStudio/rpgmaker-xp-mcp](serifeusstudio-rpgmaker-xp-mcp.md) — Author RPG Maker XP games: read and write project data (actors, skills, items, maps, events, scripts) directly and render map previews to PNG.
+- [sonirico/mcp-stockfish](sonirico-mcp-stockfish.md) — Access the Stockfish chess engine.
+- [stagproject/sec-filings-mcp](stagproject-sec-filings-mcp.md) — Search SEC EDGAR 10-K and 10-Q filings, with sample previews and full filing JSON paid via x402 on Polygon.
+- [stefan-xyz/mcp-server-runescape](stefan-xyz-mcp-server-runescape.md) — RuneScape and Old School RuneScape data: item prices, player hiscores and more.
+- [Tanshaydar/Quartermaster](tanshaydar-quartermaster.md) — Local search of game assets from Unity, Fab, Quixel Megascans, Gumroad and Leartes Cosmos, combining full-text and visual CLIP search.
+- [alex-gon/thegamecrafter-mcp-server](alex-gon-thegamecrafter-mcp-server.md) — Design, manage and price tabletop games on The Game Crafter: browse catalogs, create projects, upload artwork and get prices.
+- [jhomen368/steam-reviews-mcp](jhomen368-steam-reviews-mcp.md) — Search Steam games, fetch user reviews and analyze sentiment with topic drill-down.
+- [tomholford/mcp-tic-tac-toe](tomholford-mcp-tic-tac-toe.md) — Play Tic Tac Toe against an AI opponent.
+- [youichi-uda/godot-mcp-pro](youichi-uda-godot-mcp-pro.md) — Godot game engine integration: scene editing, scripting, animation, tilemaps, shaders, input simulation and runtime debugging.
+- [HadiCherkaoui/crafty-mcp](hadicherkaoui-crafty-mcp.md) — Manage Minecraft servers via the Crafty Controller 4 API: start, stop, back up, send commands and manage files, schedules, webhooks and users.
+- [yanjingzhaisun/cozyvtt-mcp](yanjingzhaisun-cozyvtt-mcp.md) — Run campaigns as game master in CozyVTT, a self-hosted virtual tabletop: dice, chat narration, tokens and maps, initiative, character sheets and rulebooks.

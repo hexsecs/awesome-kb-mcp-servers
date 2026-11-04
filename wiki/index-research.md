@@ -1,0 +1,65 @@
+# Research
+
+- [bartosz-kuc/honest-stat-gov-mcp](bartosz-kuc-honest-stat-gov-mcp.md) — Polish Central Statistical Office (GUS) Local Data Bank (BDL): browse subjects, search variables and territorial units (voivodeship, powiat, gmina), get…
+- [HasData/google-trends-mcp](hasdata-google-trends-mcp.md) — Google Trends data as JSON: interest over time and by region, plus rising and top related queries and topics for any keyword.
+- [HasData/google-scholar-mcp](hasdata-google-scholar-mcp.md) — Google Scholar search as JSON with author and year filters, cited-by and all-versions lookups, and formatted citations with BibTeX export.
+- [Agnuxo1/benchclaw-integrations](agnuxo1-benchclaw-integrations.md) — Register LLMs and agents and submit Markdown research papers to the BenchClaw leaderboard, where a panel of judges scores them with deception detectors.
+- [amos689/paper-preflight](amos689-paper-preflight.md) — Checks every reference of a LaTeX paper against Crossref, dblp, arXiv, DataCite, PubMed and OpenAlex records: whether each cited work exists, matches its…
+- [ankitkapur1992-hlido/hlido-mcp](ankitkapur1992-hlido-hlido-mcp.md) — Hlido trust scores, claim audits and comparisons for reviewed AI agents: tier verdicts, per-claim pass/fail audits and signed evidence.
+- [archoor/painspotter-mcp](archoor-painspotter-mcp.md) — Startup and product opportunities mined from Reddit, Hacker News, Product Hunt and Stack Exchange: pain points, trending themes and commercial scores.
+- [baseledgerip/realrun-mcp](baseledgerip-realrun-mcp.md) — Read-only lookups of independent RealRun test results for AI models on everyday tasks (inbox triage, meeting scheduling, receipts): scores, model…
+- [Battam1111/omniseek](battam1111-omniseek.md) — Self-hosted perception server: local bilingual ASR, vision, cross-lingual search, credentialed login-walled sources and a persistent relation graph.
+- [LastSearch-HQ/lastsearch](lastsearch-hq-lastsearch.md) — Verified web research for AI agents (formerly BrowseAI Dev). Real-time search with cited claims, confidence scores, live citation-health checks, and signed…
+- [cluefinch/mcp-server](cluefinch-mcp-server.md) — Cluefinch MCP provides Deep Research infrastructure for AI agents: web search, incremental page reading, source-link navigation, and multi-source evidence…
+- [davidmosiah/uap-pulse](davidmosiah-uap-pulse.md) — Read-only search of declassified U.S. federal UAP/UFO records, with hotspots, timelines, a live map dataset and direct source links.
+- [dhamma-seeker/tripitaka-mcp](dhamma-seeker-tripitaka-mcp.md) — Search, cite and compare the Pāli Canon (Tipiṭaka): hybrid search, full suttas with cross-references, aligned translations and Pāli dictionary lookup.
+- [dvdsosa/zotero-native-mcp](dvdsosa-zotero-native-mcp.md) — Read and write a local Zotero library via its local API, offline: collections, items, attachments, full text, BibTeX and CSL export, tags and saved searches.
+- [Embassy-of-the-Free-Mind/sourcelibrary-v2](embassy-of-the-free-mind-sourcelibrary-v2.md) — Search and cite rare historical texts (alchemy, Hermeticism, Renaissance philosophy) from Source Library with DOI-backed citations.
+- [Guitarmaniac24/getabrain-mcp-server](guitarmaniac24-getabrain-mcp-server.md) — Ask paid human workers questions via GetABrain and get schema-validated JSON answers: yes/no, ratings, rankings, A/B tests, sentiment, media review and capture.
+- [haoming-luo/agentfem-mcp](haoming-luo-agentfem-mcp.md) — Create, validate, run, inspect and verify AgentFEM finite-element simulations.
+- [herbertkokholm/cite-caddy](herbertkokholm-cite-caddy.md) — Read and write a Zotero library: items, collections, tags, attachments, notes and bibliography export, with multi-tenant sign-in using your own Zotero API key.
+- [joelgombin/andre-mcp](joelgombin-andre-mcp.md) — French election results since 1999 at polling-station level, with INSEE data, elected officials and boundaries: maps, vote-reserve analysis and read-only SQL.
+- [jshelley/briefing-mcp](jshelley-briefing-mcp.md) — Hourly LLM-ranked news briefings (AI, markets, sports, world) as structured JSON and e-ink pages, plus provenance data for every candidate story.
+- [tushariitr-19/immigration-mcp](tushariitr-19-immigration-mcp.md) — US immigration guidance: live Visa Bulletin, priority date checks and explanations of immigration terms.
+- [kimimgo/viznoir](kimimgo-viznoir.md) — Scientific visualization for CFD, FEA and SPH: render, slice, contour, volume-render and animate OpenFOAM, VTK and CGNS data headlessly.
+- [Liyux3/scholar-mcp](liyux3-scholar-mcp.md) — Federated academic search across OpenAlex, Semantic Scholar, arXiv, PubMed and more, with citation graphs, full-text reading, PDFs and a local paper library.
+- [lizhuojunx86/chinese-history-mcp](lizhuojunx86-chinese-history-mcp.md) — Query classical Chinese texts from pre-Qin to Wei-Jin (Shiji, Zuozhuan, Analects and more) by event, person, place or virtue, with cited passages.
+- [michaelellis003/paperboy](michaelellis003-paperboy.md) — Send research papers to Kindle or Kobo: search arXiv and OpenAlex, find related work, queue papers in Zotero and deliver PDFs via email or Dropbox.
+- [mikenguyen13/research-methods-mcp](mikenguyen13-research-methods-mcp.md) — Research methods library: recommends causal inference and econometric designs, returns runnable R and Python code, and cites the sources.
+- [mlava/scholar-sidekick-mcp](mlava-scholar-sidekick-mcp.md) — Resolve scholarly identifiers (DOI, PMID, ISBN, arXiv and more) to CSL JSON, format citations in thousands of styles, or export to BibTeX, RIS or EndNote.
+- [mnemox-ai/idea-reality-mcp](mnemox-ai-idea-reality-mcp.md) — Check for existing competition before building: scan GitHub, Hacker News, npm, PyPI and Product Hunt for similar projects, duplicate likelihood and pivot hints.
+- [musharna/data-aggregator-mcp](musharna-data-aggregator-mcp.md) — Search and fetch research datasets across Zenodo, DataCite, NCBI and PubMed/OpenAIRE, with DOI deduplication, paper-to-data linking and verified downloads.
+- [nangman-infra/touch-browser](nangman-infra-touch-browser.md) — Evidence-grounded web research: verify claims on pages with citations, confidence bands and policy reports, and synthesize multi-page sessions.
+- [neymark/abliteration-mcp](neymark-abliteration-mcp.md) — quality and maintenance score on…
+- [notDIRK/fds-mcp](notdirk-fds-mcp.md) — Freedom-of-information requests in Germany via FragDenStaat: find the responsible authority, check the law and deadline, track requests and draft new ones.
+- [OrgMentem/zotio](orgmentem-zotio.md) — Zotero integration with preview-first, journaled writes: reads via the local Zotero desktop API without a key, writes via the Web API.
+- [oscardvs/zoteus](oscardvs-zoteus.md) — Zotero integration: hybrid search, PDF passages with page locators, CSL bibliographies, add by DOI, group libraries and writes including PDF annotations.
+- [ovlabs/mcp-server-originalvoices](ovlabs-mcp-server-originalvoices.md) — Query Original Voices digital twins, each representing a real person, to understand what users think and why.
+- [patsnap/patent-literature-search-mcp](patsnap-patent-literature-search-mcp.md) — Natural-language patent and scientific literature search via Patsnap: semantic and BM25 search, structured filters and record retrieval.
+- [tushariitr-19/patents-mcp](tushariitr-19-patents-mcp.md) — Patent search and prior art discovery using the Google Patents public dataset on BigQuery: patent details with CPC codes and citations, and claims text.
+- [pminervini/deep-research-mcp](pminervini-deep-research-mcp.md) — Deep research via the OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
+- [thevibepreneur/gapbase-mcp](thevibepreneur-gapbase-mcp.md) — Search a database of startup gaps by industry, role or keyword, each with the pain point, solution direction and a blueprint link. Works offline.
+- [TheWhiteWater/tube-bridge](thewhitewater-tube-bridge.md) — Self-hosted YouTube research: video and channel search, transcripts, comments, playlists, timestamped frames and private local semantic corpora.
+- [rnwkr7rscy-lang/fittin-mcp](rnwkr7rscy-lang-fittin-mcp.md) — Patent prior art search and startup IP analysis: clone risk scores, defensibility maps, patentable features and competitor patent landscapes.
+- [rrrrrredy/research-toolkit](rrrrrredy-research-toolkit.md) — Eight local research workflow tools for task setup, saved progress, stage guidance, configurable report review, and delivery checks.
+- [Scormave/gramps-web-mcp](scormave-gramps-web-mcp.md) — Gramps Web genealogy: search and edit family tree records, explore ancestors, descendants, relationships and timelines, and read media with privacy-aware…
+- [SECRET4422/mcp-deep-research-server](secret4422-mcp-deep-research-server.md) — Autonomous multi-source deep research with DuckDuckGo search (zero API keys), parallel scrapers, markdown cleaning, synthesis with citations, fact-checking…
+- [sh-patterson/legiscan-mcp](sh-patterson-legiscan-mcp.md) — Legislative data from all 50 US states and Congress via the LegiScan API: search bills, get full text, track votes and look up legislators.
+- [SidneyBissoli/uis-mcp-server](sidneybissoli-uis-mcp-server.md) — UNESCO Institute for Statistics indicators on education, science, culture and communication by country, region and year, with provenance on every response.
+- [smaniches/semantic-scholar-mcp](smaniches-semantic-scholar-mcp.md) — Semantic Scholar academic papers: search, paper and author retrieval, citation-graph traversal and recommendations.
+- [smeet666/mcp-libraryofcongress](smeet666-mcp-libraryofcongress.md) — Full-text search of the Library of Congress's digitised American newspapers, plus catalogue search by media type and curated collections.
+- [smeet666/mcp-databnf](smeet666-mcp-databnf.md) — Search the open catalogue of the Bibliothèque nationale de France for authors, their works and the editions held.
+- [smeet666/mcp-archiveorg](smeet666-mcp-archiveorg.md) — Full-text search inside the Internet Archive's scanned books, periodicals and documents, catalogue search, and Wayback Machine captures of a URL by date.
+- [SokolskyNikita/annas-mcp](sokolskynikita-annas-mcp.md) — Search Anna's Archive for books and journal articles by title, author, topic or DOI, and download the chosen file.
+- [thinkchainai/agentinterviews_mcp](thinkchainai-agentinterviews-mcp.md) — Run AI-led qualitative research interviews and surveys with Agent Interviews: create interviewers, manage projects, recruit participants and analyze results.
+- [vassiliylakhonin/agenda-intelligence-md](vassiliylakhonin-agenda-intelligence-md.md) — Auditable strategic-risk memos (sanctions, regulation, geopolitics, trade) with Central Asia and Gulf regional specialists and per-claim evidence; no live data.
+- [wedo911/citeguard](wedo911-citeguard.md) — Check citations against Crossref for retractions, corrections or expressions of concern before they go into a paper, summary or review.
+- [WenyuChiou/research-hub](wenyuchiou-research-hub.md) — Research workspace for Zotero, Obsidian and NotebookLM: search arXiv, Semantic Scholar, PubMed and Crossref, ingest into Zotero, sync notes and verify briefs.
+- [xmpuspus/ph-civic-data-mcp](xmpuspus-ph-civic-data-mcp.md) — Philippine government data: PHIVOLCS earthquakes and volcano alerts, PAGASA weather and typhoons, PhilGEPS procurement, PSA census data and AQICN air quality.
+- [YGao2005/scholar-feed-mcp](ygao2005-scholar-feed-mcp.md) — Semantic search over CS and AI papers with citation-graph traversal, full-text extraction, embeddings and BibTeX export.
+- [yusong652/pfc-mcp](yusong652-pfc-mcp.md) — ITASCA PFC discrete element simulation: browse documentation, execute scripts, capture plots and manage long-running tasks via a bridge to the PFC GUI.
+- [SPARKIT-science/sparkit-mcp](sparkit-science-sparkit-mcp.md) — Ask SPARKIT, a scientific research agent, questions and get cited Markdown reports based on literature search and paper reading.
+- [yusong652/yade-mcp](yusong652-yade-mcp.md) — YADE discrete element method (DEM) simulation: search API docs, run code via a REPL or background tasks, monitor progress and review task history.
+- [SelfPy/science-ai-mcp-server](selfpy-science-ai-mcp-server.md) — Science AI Journal tools: paper-tier prediction, AI peer review, research gap finder, journal recommender, duplicate publication checker and article writer.
+- [laszlopere/mcp-molecules](laszlopere-mcp-molecules.md) — Chemistry tools from NIST data: molar mass with uncertainties, isotope-distribution mass spectra and name-formula lookup, offline or with online fallback.
+- [zxhwolfe-dev/aiworkstation-open-source-intelligence](zxhwolfe-dev-aiworkstation-open-source-intelligence.md) — Research open-source AI projects: search a live radar, compare and shortlist projects, and plan stacks, keeping facts, recommendations and risks separate.
