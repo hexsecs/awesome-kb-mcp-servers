@@ -1,0 +1,27 @@
+# Customer Data Platforms
+
+- [Aleksey-Panf/b2b-enrichment-mcp](aleksey-panf-b2b-enrichment-mcp.md) — B2B lead enrichment via Hunter.io and Apollo: email discovery, domain search, company data and contact verification.
+- [anpekesen/namegender-mcp](anpekesen-namegender-mcp.md) — Gender from names, emails and usernames via NameGender, with probability, sample size and source on every answer, bulk lookups of up to 100 values and the…
+- [azmartone67/dchub-mcp-server](azmartone67-dchub-mcp-server.md) — Data center, power and gas intelligence from DC Hub: facilities, US power market scores, M&A deals, ISO grid telemetry, fiber routes and energy prices.
+- [antv/mcp-server-chart](antv-mcp-server-chart.md) — Generate visual charts using AntV.
+- [bouncewatch/mcp](bouncewatch-mcp.md) — Track company events such as funding, senior hires, partnerships and expansion, with dated, weighted signals, natural-language queries and watch alerts.
+- [ckalima/pipedrive-mcp-server](ckalima-pipedrive-mcp-server.md) — Manage Pipedrive CRM deals, persons, organizations, activities, products, projects, tasks, leads, notes and mail, with opt-in delete tools.
+- [penmadebykisss/amocrm-kommo-mcp](penmadebykisss-amocrm-kommo-mcp.md) — amoCRM / Kommo CRM: leads, contacts, tasks and notes, plus sales analytics - pipeline report with win rate and manager leaderboard, stale deals, overdue tasks.
+- [echoloc-ai/echoloc-mcp](echoloc-ai-echoloc-mcp.md) — Company technographics from hiring data: find companies adopting, replacing or evaluating technologies and enrich domains with firmographics and hiring signals.
+- [hustcc/mcp-echarts](hustcc-mcp-echarts.md) — Generate visual charts dynamically using Apache ECharts.
+- [hustcc/mcp-mermaid](hustcc-mcp-mermaid.md) — Generate Mermaid diagrams and charts dynamically.
+- [ictinnovations/ictcrm-mcp](ictinnovations-ictcrm-mcp.md) — ICTCRM, an open-source CRM with built-in telephony: read contact groups, with opt-in tools to create and delete contacts and add them to calling campaigns.
+- [iaptic/mcp-server-iaptic](iaptic-mcp-server-iaptic.md) — Ask iaptic about customer purchases, transaction data and app revenue statistics.
+- [embeddedlayers/mcp-analytics](embeddedlayers-mcp-analytics.md) — Statistical analysis, forecasting and ML on CSV files or live data from Shopify, Stripe, GA4 and more, with interactive HTML reports.
+- [mambalabsdev/mcp-creator-lead-list-all-in-one](mambalabsdev-mcp-creator-lead-list-all-in-one.md) — Builds a finished influencer lead list end to end: keyword or niche discovery, the profile read, and the link in bio check, with newsletter status and…
+- [mambalabsdev/mcp-gtm-signals-aggregator](mambalabsdev-mcp-gtm-signals-aggregator.md) — Combines hiring and tech stack signals into a composite GTM intelligence brief with overall signal scoring per company.
+- [mambalabsdev/mcp-icp-fit-scorer](mambalabsdev-mcp-icp-fit-scorer.md) — Score a company against a weighted ideal customer profile, returning a 0-100 score, an A/B/C tier and a per-signal breakdown.
+- [mambalabsdev/mcp-people-finder](mambalabsdev-mcp-people-finder.md) — Finds people at a company by role, seniority, and department, and returns structured contact records with an optional verified business email.
+- [OpenDataMCP/OpenDataMCP](opendatamcp-opendatamcp.md) — Connect any open data source to LLMs.
+- [penmadebykisss/bitrix24-mcp](penmadebykisss-bitrix24-mcp.md) — Bitrix24 CRM via inbound webhook: search and edit deals, leads, contacts, tasks and timeline comments, plus sales analytics — pipeline report with manager…
+- [QuackbackIO/quackback](quackbackio-quackback.md) — Open-source customer feedback platform: search and triage posts, update statuses, comment, vote, manage roadmaps, merge duplicates and publish changelogs.
+- [sergehuber/inoyu-mcp-unomi-server](sergehuber-inoyu-mcp-unomi-server.md) — Access and update profiles on an Apache Unomi CDP server.
+- [skippedaga/yanifend-mcp](skippedaga-yanifend-mcp.md) — Manage questions and options of YaniFend, a WordPress feedback widget, and read collected answers.
+- [Wism-Corp/scrupp-mcp-server](wism-corp-scrupp-mcp-server.md) — Scrupp: export LinkedIn, Sales Navigator and Apollo searches, find decision makers, and find and verify work emails.
+- [lionkiii/google-searchconsole-mcp](lionkiii-google-searchconsole-mcp.md) — Google Search Console SEO tools: search analytics, URL inspection, sitemap management, keyword opportunities, brand analysis and performance comparison.
+- [saurabhsharma2u/search-console-mcp](saurabhsharma2u-search-console-mcp.md) — Interact with Google Search Console and Bing Webmaster Tools.

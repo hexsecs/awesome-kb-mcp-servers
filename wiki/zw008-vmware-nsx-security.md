@@ -1,0 +1,26 @@
+---
+uid: 01a1a884-bc1a-784a-ab81-e836bef644ad
+title: "zw008/VMware-NSX-Security"
+summary: "VMware NSX security: Distributed Firewall policies and rules, security groups, Traceflow troubleshooting and IDS/IPS profiles, with checks before deletion."
+type: entity
+category: "Cloud Platforms"
+url: "https://github.com/zw008/VMware-NSX-Security"
+status: unknown
+created: 2026-11-04
+updated: 2026-11-04
+depth: stub
+source_list: awesome-mcp-servers
+source_commit: 29f2d490cc02468e7c9d87b0cf68d40d3041e7ef
+list_summary: "VMware NSX security: Distributed Firewall policies and rules, security groups, Traceflow troubleshooting and IDS/IPS profiles, with checks before deletion."
+categories: ["Cloud Platforms"]
+list_occurrences: [{"title": "zw008/VMware-NSX-Security", "category": "Cloud Platforms", "description": "VMware NSX security: Distributed Firewall policies and rules, security groups, Traceflow troubleshooting and IDS/IPS profiles, with checks before deletion."}]
+sources:
+  - url: "https://github.com/punkpeye/awesome-mcp-servers/blob/29f2d490cc02468e7c9d87b0cf68d40d3041e7ef/README.md"
+    retrieved: 2026-11-04
+---
+
+VMware NSX security: Distributed Firewall policies and rules, security groups, Traceflow troubleshooting and IDS/IPS profiles, with checks before deletion.
+
+- **Resource:** https://github.com/zw008/VMware-NSX-Security
+- **List section:** Cloud Platforms
+- **Source:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — the list is canon; this page is a generated stub (`depth: stub`). Depth is added by PR (see AGENTS.md).

@@ -1,0 +1,66 @@
+# Travel & Transportation
+
+- [cuqu-net/cuqu-skill](cuqu-net-cuqu-skill.md) — Find, book, and pay for local offline social activities (board games, badminton, hiking, frisbee and 100+ hobby categories) across cities in China via…
+- [HasData/airbnb-mcp](hasdata-airbnb-mcp.md) — Search Airbnb stays by location, dates and guests, and read full listing details (price, amenities, host, reviews) as JSON.
+- [HasData/google-flights-mcp](hasdata-google-flights-mcp.md) — Remote MCP server for Google Flights: one-way, round-trip and multi-city itineraries with fares, legs, layovers, carbon emissions and price history, as JSON.
+- [HasData/google-hotels-mcp](hasdata-google-hotels-mcp.md) — Remote MCP server for Google Hotels: search hotels and vacation rentals for a stay with rates, ratings and amenities, then open one property with the rate…
+- [HasData/booking-mcp](hasdata-booking-mcp.md) — Search Booking.com stays by destination and dates, and read full property details (rooms, rates, facilities, review scores) as JSON.
+- [HasData/google-flights-deals-mcp](hasdata-google-flights-deals-mcp.md) — Turn a plain-language trip description into dated flight deals from one origin, with the typical price beside each fare, airlines, stops and booking links…
+- [afiliptsov/pickadive-mcp](afiliptsov-pickadive-mcp.md) — Scuba dive planning: ranked dive-forecast windows, month-by-month climatology, marine-life seasonality from GBIF sightings and dive site facts.
+- [SEKeener/airtreks-mcp](sekeener-airtreks-mcp.md) — Multi-city flight routing: plan round-the-world trips, validate Star Alliance and oneworld routings, and get per-segment carrier recommendations.
+- [alcylu/nightlife-mcp](alcylu-nightlife-mcp.md) — Tokyo nightlife: event discovery, venue search, performer info, recommendations and VIP table booking.
+- [amirdaraee/luxembourg-mcp](amirdaraee-luxembourg-mcp.md) — Luxembourg public data: laws, statistics, live parking and traffic, weather alerts, environment, parliament, geodata, GTFS stops and the open-data catalogue.
+- [AutomationSquadOS/mcp-samsara](automationsquados-mcp-samsara.md) — Unofficial Samsara fleet management: vehicles and live locations, route creation and optimization, driver records, Hours-of-Service compliance and webhooks.
+- [Autonomad1/autonomad-travel](autonomad1-autonomad-travel.md) — Travel agent: search live flights, hotels, activities and events worldwide and complete bookings on Autonomad.
+- [campertunity/mcp-server](campertunity-mcp-server.md) — Search campgrounds worldwide on Campertunity, check availability and get booking links.
+- [cobanov/teslamate-mcp](cobanov-teslamate-mcp.md) — Query Tesla vehicle data and analytics from your TeslaMate database.
+- [Departi/mcp-server](departi-mcp-server.md) — Travel compliance and booking for digital nomads in Europe: visa requirements, tax residency, Schengen 90/180-day tracking, accommodation and transport.
+- [flight-master-dast/aviation-data-mcp](flight-master-dast-aviation-data-mcp.md) — Flight Master DAST aviation data: flight status, route search, onboard comfort, delay and cancellation risk, airport weather and flight trajectories.
+- [Flightmussy/sunshine-atlas-mcp](flightmussy-sunshine-atlas-mcp.md) — Monthly sunshine scores, temperatures, rainfall and sea temperatures for destinations: sunny-month rankings, when-to-visit lookups and comparisons.
+- [Flightmussy/trainrouter-atlas](flightmussy-trainrouter-atlas.md) — World train-route atlas: search notable high-speed, scenic and night train routes and get facts and geometry for each.
+- [forgemeshlabs/travel-agent-mcp](forgemeshlabs-travel-agent-mcp.md) — Travel utilities and x402 pay-per-call travel intelligence: disruption checks, day trips, weekend getaways, weather-aware planning and currency conversion.
+- [forgemeshlabs/travel-mcp](forgemeshlabs-travel-mcp.md) — Travel search workflow: airport lookup, route comparison, timing guidance and external booking links via generic travel search providers.
+- [gondola-ai/gondola-mcp](gondola-ai-gondola-mcp.md) — Cash and award (points) rates side by side for hotels, flights and rental cars, with cents-per-point valuations, loyalty balances, rate alerts and booking.
+- [gregoriofraile/gasolineras-mcp](gregoriofraile-gasolineras-mcp.md) — Fuel prices at gas stations in Spain from the Spanish government's open data API, sorted by price per municipality.
+- [sitebox/kids-stay-mcp](sitebox-kids-stay-mcp.md) — Kid-friendly hotels in Japan: search by verified conditions such as baby beds, diaper-friendly baths and kids' meals, with sources and verification dates.
+- [HemmaBo-se/hemmabo-mcp-server](hemmabo-se-hemmabo-mcp-server.md) — Direct booking for vacation rentals: discover a host's domain, verify signed stay offers, check live availability and prices, and book with the host.
+- [haomingkoo/japan-seasons-mcp](haomingkoo-japan-seasons-mcp.md) — Japan seasonal travel: cherry blossom forecasts, autumn leaves, flower spots, fruit picking and festivals, using Japan Meteorological Corporation data.
+- [lodordev/mcp-teslamate-fleet](lodordev-mcp-teslamate-fleet.md) — TeslaMate analytics and Tesla Fleet API commands: telemetry, driving history, energy analytics and remote control of climate, charging, locks and sentry.
+- [helpful-AIs/triplyfy-mcp](helpful-ais-triplyfy-mcp.md) — Plan and manage Triplyfy itineraries with interactive maps, places and notes, and search and save flights.
+- [isabellaliebgott/mcp-esim](isabellaliebgott-mcp-esim.md) — Buy travel eSIMs via Stripe or Bitcoin checkout and receive the QR code by email.
+- [jordantete/verychic-mcp](jordantete-verychic-mcp.md) — Read-only access to VeryChic flash-sale hotel deals: search and filter offers and check availability and prices by date.
+- [klabianco/plantrip-mcp-server](klabianco-plantrip-mcp-server.md) — Travel planning via Plantrip: day-by-day itineraries, packing lists, weather insights and trip cost estimates, each as a shareable page.
+- [KyrieTangSheng/mcp-server-nationalparks](kyrietangsheng-mcp-server-nationalparks.md) — U.S. National Parks data from the National Park Service API: park details, alerts, visitor centers, campgrounds and events.
+- [LetsFG/LetsFG](letsfg-letsfg.md) — Search and book flights from hundreds of airlines, plus hotels; nothing is booked until you approve by email. Checks every nearby airport, bag prices and…
+- [lucygoodchild/mcp-national-rail](lucygoodchild-mcp-national-rail.md) — UK National Rail train schedules and live travel information via the Realtime Trains API.
+- [mafedelahoz/mcp-cuddlynest](mafedelahoz-mcp-cuddlynest.md) — Search CuddlyNest hotels by destination and read live room options, prices, availability and cancellation policies from public listing pages.
+- [MarceauSolutions/rideshare-comparison-mcp](marceausolutions-rideshare-comparison-mcp.md) — Compare real-time Uber and Lyft fare estimates for a route, including surge, and find the cheapest option.
+- [MattJeff/orizn-mcp-server](mattjeff-orizn-mcp-server.md) — Visa requirements for passport-destination pairs in 15 languages: visa types, required documents and travel tips.
+- [mavrovde/viafrei-mcp](mavrovde-viafrei-mcp.md) — Germany's open mobility data: live Autobahn traffic and closures, DB train departures, local transit, fuel prices, EV charging, parking, bike sharing and…
+- [negm17111995/mcp-server](negm17111995-mcp-server.md) — MAQAMI hotel and flight search with live rates and hotel details, then a secure checkout link on book.maqami.co.
+- [onvaou-app/onvaou-itineraires-mcp](onvaou-app-onvaou-itineraires-mcp.md) — Bike, e-bike, kick scooter, motorcycle, wheelchair and walking routes across Europe from the On va où ? Routing API, with safe, balanced and fast variants.
+- [openbnb-org/mcp-server-airbnb](openbnb-org-mcp-server-airbnb.md) — Search Airbnb and get listing details.
+- [openvancamp/openvan-camp-public-api](openvancamp-openvan-camp-public-api.md) — Free vanlife/RV road-trip data for AI agents: fuel prices (160+ countries), toll roads, visa and vehicle-import rules, holidays and peak traffic days…
+- [OctoTrip/rental-cars](octotrip-rental-cars.md) — Rental car search with real-time prices from multiple providers worldwide.
+- [pab1it0/tripadvisor-mcp](pab1it0-tripadvisor-mcp.md) — Tripadvisor API access: location data, reviews and photos.
+- [PeanutSplash/chelaile-mcp](peanutsplash-chelaile-mcp.md) — Real-time bus and metro data in China via Chelaile: arrival times, vehicle positions, timetables, nearby stops and transit routing.
+- [Perufitlife/aviation-mcp](perufitlife-aviation-mcp.md) — Aviation data: decoded METAR weather by ICAO code, airport and aircraft specs, an aviation glossary and FAA-style practice questions.
+- [asokore/pifini-mcp](asokore-pifini-mcp.md) — Events, reviewed places and ticket checkout in the Caribbean and Latin America: search festivals and venues, read reviews and create Stripe checkout links.
+- [Pradumnasaraf/aviationstack-mcp](pradumnasaraf-aviationstack-mcp.md) — Real-time flight data from the AviationStack API: airline flights, airport schedules, future flights and aircraft types.
+- [prosperkartik/hostaway-mcp](prosperkartik-hostaway-mcp.md) — Read-only access to Hostaway vacation rental management: listings, reservations, calendar availability, guest conversations and owner financials.
+- [r-huijts/ns-mcp-server](r-huijts-ns-mcp-server.md) — Dutch Railways (NS) travel information, schedules and real-time updates.
+- [roamzy-io/mcp-server](roamzy-io-mcp-server.md) — Buy and manage a global eSIM, paying per MB in USDT or USDC on chains such as TRON, Solana, Polygon and TON.
+- [rsiva2294/madurai-transit-mcp](rsiva2294-madurai-transit-mcp.md) — Madurai CityBus transit: direct and one-transfer route planning, TNSTC stage fare breakdowns, platform bay departures and bilingual stop search.
+- [skedgo/tripgo-mcp-server](skedgo-tripgo-mcp-server.md) — Multi-modal trip planning, transport locations and real-time public transport departures via the TripGo API.
+- [snenenenenenene/transita-mcp-server](snenenenenenene-transita-mcp-server.md) — Visa eligibility matching across immigration pathways in 15 countries: score a profile against government criteria and compare ranked pathways.
+- [SoapyRED/freightutils-mcp](soapyred-freightutils-mcp.md) — Freight tools: ADR dangerous goods, HS codes, LDM, CBM and chargeable weight calculators, duty estimation, airline codes and UN/LOCODE.
+- [srinath1510/alltrails-mcp-server](srinath1510-alltrails-mcp-server.md) — Search AllTrails hiking trails and get detailed trail information.
+- [street1983nk/infranode](street1983nk-infranode.md) — German public infrastructure open data: weather, air quality, traffic, transit, parking and roadworks from DWD, Umweltbundesamt, Mobilithek and GovData.
+- [tickadoo/tickadoo-mcp](tickadoo-tickadoo-mcp.md) — Discover and book theatre, shows, events, tours and experiences worldwide via tickadoo, with real-time prices, availability and booking links.
+- [trendbender/italy-transfer](trendbender-italy-transfer.md) — Compare real-time train, bus, ferry and private transfer prices between Italian cities.
+- [shaikhspeare/wanderlog-mcp](shaikhspeare-wanderlog-mcp.md) — Read and edit Wanderlog trip itineraries: trips, places, notes, hotels, checklists and dates.
+- [vbhjckfd/timetable-api-node](vbhjckfd-timetable-api-node.md) — Real-time Lviv (Ukraine) public transport: stop arrivals, live vehicle positions, route geometry and nearby stop discovery.
+- [vessel-api/vesselapi-mcp](vessel-api-vesselapi-mcp.md) — Maritime vessel tracking via VesselAPI: search vessels and get real-time positions, ETAs, port events, emissions, inspections and NAVTEX safety messages.
+- [victorlane/Flyan](victorlane-flyan.md) — Unofficial Ryanair flight search: find one-way fares, explore destinations by country or region and find the cheapest day to fly between two airports.
+- [VirajMishra1/wander-agent](virajmishra1-wander-agent.md) — Personal travel agent: flights, hotels, visa checks, itineraries, travel advisories, currency conversion and card points/miles optimization.
+- [Emanuele94/SimBrief-MCPServer](emanuele94-simbrief-mcpserver.md) — Access your SimBrief flight plans: weather (METAR/TAF/ATIS), fuel plan, weights, ATC flight plan, navlog, NOTAMs, alternates and performance analysis.

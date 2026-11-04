@@ -1,0 +1,25 @@
+# OS Automation
+
+- [suleyman416/mcp-applemusic](suleyman416-mcp-applemusic.md) — Apple Music control on macOS: DJ daemon and energy mixes, multi-room AirPlay, Spotify and M3U playlist import, listening journal and Apple Replay analytics.
+- [sbuysse/gnome-desktop-mcp](sbuysse-gnome-desktop-mcp.md) — GNOME desktop automation via D-Bus: screenshots, window management, mouse and keyboard input, clipboard, workspaces and notifications on GNOME 45 to 49.
+- [SunnyLich/OpenWand](sunnylich-openwand.md) — Read-only desktop context through OpenWand: current selection, clipboard, active window, browser page and screen.
+- [dimpagk92/cellar](dimpagk92-cellar.md) — Hybrid computer-use runtime combining the accessibility tree, Chrome DevTools Protocol and vision into structured context, with offline support via Ollama.
+- [Harusame64/desktop-touch-mcp](harusame64-desktop-touch-mcp.md) — Windows desktop automation with entity-based actions instead of coordinate clicks, using UIA, CDP, screenshots, keyboard, mouse, clipboard and terminal control.
+- [glasswarp/mcp-server](glasswarp-mcp-server.md) — See and control your own Windows PC locally or remotely: UIA and screenshot observation, clicking, typing, dragging, scrolling, launching apps and Live View.
+- [JonathanRReed/Apple-MCPs](jonathanrreed-apple-mcps.md) — Local macOS servers for Mail, Calendar, Reminders, Messages, Contacts, Notes, Shortcuts, Files, Maps and system tools, unified or standalone.
+- [Mohabdo21/linux-mcp](mohabdo21-linux-mcp.md) — A Linux system monitoring MCP server providing real-time CPU, memory, disk, network, processes, Docker, systemd, security audit, and hardware info via STDIO…
+- [juergenkoller-software/nemeton-mcp](juergenkoller-software-nemeton-mcp.md) — Control Nemeton, a macOS virtual machine manager built on Apple's Virtualization framework: Linux and macOS VMs, APFS snapshots, console, files and networking.
+- [tinqiao-oss/clawtouch-mcp](tinqiao-oss-clawtouch-mcp.md) — Physical USB HID keyboard and mouse control via a Raspberry Pi Pico 2: move, click, drag, type, key combos and scroll, with a mock mode for testing.
+- [juergenkoller-software/freezetext-mcp](juergenkoller-software-freezetext-mcp.md) — Screen OCR on macOS via FreezeText: freeze the screen and extract text with Apple Vision, OCR regions or images, and search capture history.
+- [faze79/WPFVisualTreeMcp](faze79-wpfvisualtreemcp.md) — Inspect, debug and drive running WPF apps without source changes: visual tree, dependency properties, bindings, DataContext, screenshots, clicks and text input.
+- [fixed-width/glass](fixed-width-glass.md) — Drive native GUI apps under development: launch, screenshot, read the accessibility tree, inject input, tail logs and diff frames on desktop, Android and iOS.
+- [ostapondo/Plonk](ostapondo-plonk.md) — Mac window manager and menu bar utilities: arrange windows across displays, snap to custom zones, save workspaces, window screenshots and on-device OCR.
+- [emazaheri/ios-agent](emazaheri-ios-agent.md) — Drive an iPhone or iOS Simulator via XCUIAutomation and WebDriverAgent, with compact screen digests and confirmation before destructive actions.
+- [yunfeng-enrich/usemymac](yunfeng-enrich-usemymac.md) — Turn a Mac into a remote computer-use server via CUA: screenshots, mouse, keyboard, windows and apps, token-protected and exposed through a Cloudflare tunnel.
+- [dockndevai/mcp-mac-control](dockndevai-mcp-mac-control.md) — Full Mac control: shell, AppleScript, files, processes and human-like GUI input with a screenshot loop, plus an optional safe mode with read-only, gated access.
+- [dockndevai/mcp-macos](dockndevai-mcp-macos.md) — Read-only-by-default Mac control: files, processes, screenshots and clipboard, with opt-in allowlisted shell commands, AppleScript and GUI input.
+- [chryaner/terrarium](chryaner-terrarium.md) — Fork, break and revert VirtualBox VMs with linked clones and RAM snapshots, and drive GUI-only guests via screenshots and input without SSH or a guest agent.
+- [munimtechnologies/munim-computer-use](munimtechnologies-munim-computer-use.md) — Accessibility-first computer use on macOS, Windows and Linux: element IDs instead of pixels, background input, a pointer overlay and its own Chrome tab group.
+- [rchurro/kasm-use](rchurro-kasm-use.md) — Computer-use for Kasm Workspaces: lets AI agents see and drive your self-hosted Kasm desktops (screenshots, clicks, typing) over KasmVNC, with stock…
+- [Dominic-DK/askew-mcp](dominic-dk-askew-mcp.md) — Run Apple Shortcuts on an iPhone, iPad or Mac (even locked), send lock-screen notifications and receive device events over an end-to-end encrypted relay.
+- [AmrDab/clawdcursor](amrdab-clawdcursor.md) — Desktop control for any AI agent on Windows, macOS and Linux. Reads the screen as text (accessibility tree, then OCR) and acts on controls by name, with…

@@ -1,0 +1,6 @@
+# Accessibility
+
+- [kim-dongho/krds-a11y-mcp](kim-dongho-krds-a11y-mcp.md) — Korea's government design system (KRDS) components with KWCAG 2.2 (Korean web accessibility standard) built in: refuses markup when labels or alt text are…
+- [kinti/a11y-toolkit](kinti-a11y-toolkit.md) — WCAG 2.2 accessibility tools: color contrast checks including text over images, EU accessibility declaration generation and an aria-live announcement monitor.
+- [mishan/shotbox](mishan-shotbox.md) — Runs real GUI programs in a sealed X11 or Wayland session where an agent can read the accessible tree, take screenshots and clips with sound, click, type…
+- [vince-gonzalez/opticquiz-mcp](vince-gonzalez-opticquiz-mcp.md) — Color-vision accessibility: check palettes and images for colorblind safety, generate safe palettes, simulate color blindness and create Ishihara-style plates.

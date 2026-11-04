@@ -1,0 +1,54 @@
+# File Systems
+
+- [8b-is/smart-tree](8b-is-smart-tree.md) — Directory visualization with semantic analysis, compressed AI-oriented output formats and file categorization.
+- [A1-x-Tech/mcp-google-drive](a1-x-tech-mcp-google-drive.md) — Google Drive API: search, organize, upload, download, export, share and comment on Drive files.
+- [aadilr/changethisfile-mcp](aadilr-changethisfile-mcp.md) — File conversion across image, video, audio, document, data, font, ebook and archive formats, returning a signed download URL.
+- [Agaveis/hiberden-mcp](agaveis-hiberden-mcp.md) — Read and verify a local media-archive catalog: 3-2-1 backup coverage across disk, NAS, S3-compatible cloud and LTO tape, with read-back hash verification.
+- [arjunprabhulal/superpdf](arjunprabhulal-superpdf.md) — Read, convert, edit and compare PDFs on your computer: Markdown with tables, charts and OCR, export to Word, PowerPoint and EPUB, tables to CSV or Excel…
+- [BatuhanCakmakk/laserpdf](batuhancakmakk-laserpdf.md) — Offline PDF tools built into the LaserPDF desktop app (`laserpdf --mcp`, no Node.js or Python needed): extract and search text, OCR scanned pages (English…
+- [box/mcp-server-box-remote](box-mcp-server-box-remote.md) — Access Box content: search, ask questions about files and folders, and extract data.
+- [bzsanti/oxidize-python](bzsanti-oxidize-python.md) — PDF toolkit: create and analyze PDFs, extract text for RAG, convert to Markdown, split and merge pages, add annotations and form fields, and encrypt files.
+- [ezpzfile/ezpzfile-mcp](ezpzfile-ezpzfile-mcp.md) — Local document and image tools: read and convert PDF, DOCX, HWP and EML, edit PDFs, resize images, strip EXIF, remove backgrounds and make QR codes.
+- [koraynar/doc-extract-mcp](koraynar-doc-extract-mcp.md) — Document extraction tooling: read PDFs, text, CSV and JSON, inspect metadata, chunk long documents, validate against JSON Schema and write JSON/CSV output.
+- [ckanthony/Chisel](ckanthony-chisel.md) — Token-efficient file access: unified-diff edits, targeted grep/sed reads of large files and kernel-enforced confinement to a configured root.
+- [Cohexa-ai/agent-coherence](cohexa-ai-agent-coherence.md) — Coherence guard for shared files: when two agents write the same file, the stale writer is denied instead of overwriting, then reacquires and retries.
+- [convertica-net/convertica-mcp](convertica-net-convertica-mcp.md) — Convert PDFs to and from Word, Excel, PowerPoint, JPG, HTML, Markdown and EPUB, plus merge, split, compress, sign and protect PDFs via Convertica.
+- [cyberchitta/llm-context.py](cyberchitta-llm-context-py.md) — Share code context with LLMs via MCP or the clipboard.
+- [dabito/hledit-mcp](dabito-hledit-mcp.md) — Hash-anchored file edits: read files with line anchors, validate anchors against current content and reject stale writes.
+- [denis-samatov/yandex-workspace-mcp](denis-samatov-yandex-workspace-mcp.md) — Yandex Disk and Yandex Wiki integration with unified search, read-only by default, plus granular permissions, path allowlisting and audit logging.
+- [dimitar-grigorov/mcp-file-tools](dimitar-grigorov-mcp-file-tools.md) — Filesystem access for legacy non-UTF-8 files: detects encodings like CP1251, KOI8-R and GBK, preserves them on write, and handles BOM and line endings.
+- [Dissimilis/DirForge](dissimilis-dirforge.md) — Read-only directory listing web app: browse directories, read files, search content, inspect archives, compute hashes and check disk usage.
+- [drolosoft/go-docs-mcp](drolosoft-go-docs-mcp.md) — Read, search, OCR and extract from PDF, TXT, Markdown, DOCX, CSV and image files, with caching and directory confinement.
+- [efforthye/fast-filesystem-mcp](efforthye-fast-filesystem-mcp.md) — Filesystem operations with large-file support: read and write files, sequential reads, directory operations, search and streaming writes with backup.
+- [ellmos-ai/ellmos-filecommander-mcp](ellmos-ai-ellmos-filecommander-mcp.md) — Local filesystem management with process control, interactive sessions, async search and safe delete via the Recycle Bin.
+- [exoticknight/mcp-file-merger](exoticknight-mcp-file-merger.md) — Merge files to work within AI chat length limits.
+- [FI-Mihej/text_file_read_and_refactor_mcp](fi-mihej-text-file-read-and-refactor-mcp.md) — Token-efficient text-file search, reading and refactoring that detects each file's BOM and codepage and preserves them on save.
+- [filesystem@quarkiverse/quarkus-mcp-servers](filesystem-quarkiverse-quarkus-mcp-servers.md) — Filesystem access for browsing and editing files.
+- [GuruPDF/gurupdf-mcp](gurupdf-gurupdf-mcp.md) — Convert, compress, merge, split and OCR PDFs, and convert between Word, Excel, PowerPoint, image, ebook and video formats via the GuruPDF API.
+- [hmk/box-mcp-server](hmk-box-mcp-server.md) — Box integration for listing, reading and searching files.
+- [isaacphi/mcp-gdrive](isaacphi-mcp-gdrive.md) — Read from Google Drive and edit Google Sheets.
+- [j0hanz/filesystem-context-mcp-server](j0hanz-filesystem-context-mcp-server.md) — Read-only filesystem exploration, search and analysis with symlink protection.
+- [jamalofski/conv2pdf-mcp](jamalofski-conv2pdf-mcp.md) — Convert Office documents, images and e-books on your computer to PDF, convert PDFs to Word or images, and merge, split, compress, protect or number PDFs via…
+- [jeannier/homebrew-mcp](jeannier-homebrew-mcp.md) — Manage macOS Homebrew packages with natural language, get suggestions and troubleshoot brew issues.
+- [Kookerella-Ltd/Kookerella.FsOpenXmlDsl](kookerella-ltd-kookerella-fsopenxmldsl.md) — Create, read and round-trip Excel workbooks (.xlsx/.xlsm) via a type-safe F# DSL, including regenerating the F# source that reproduces a file.
+- [L-Jovi/keyhole](l-jovi-keyhole.md) — Give a private ChatGPT app access to selected local folders through OpenAI Secure MCP Tunnel, with per-folder permissions, hash-checked edits and recovery.…
+- [ltspace/dowse](ltspace-dowse.md) — Read-only full-disk search on Windows over file names, document contents and OCR'd screenshot text.
+- [mamertofabian/mcp-everything-search](mamertofabian-mcp-everything-search.md) — Windows file search using the Everything SDK.
+- [MarceauSolutions/md-to-pdf-mcp](marceausolutions-md-to-pdf-mcp.md) — Convert Markdown files to PDF with customizable themes, headers, footers and styling.
+- [mark3labs/mcp-filesystem-server](mark3labs-mcp-filesystem-server.md) — Local file system access.
+- [LincolnBurrows2017/filesystem-mcp](lincolnburrows2017-filesystem-mcp.md) — File system operations: read, write, search, copy and move, with path restrictions.
+- [mickaelkerjean/filestash](mickaelkerjean-filestash.md) — Remote storage access: SFTP, S3, FTP, SMB, NFS, WebDAV, Git, FTPS, Google Cloud, Azure Blob, SharePoint and more.
+- [microsoft/markitdown](microsoft-markitdown.md) — Convert many file formats, local or remote, to Markdown for LLMs using MarkItDown.
+- [modelcontextprotocol/server-filesystem](modelcontextprotocol-server-filesystem.md) — Direct local file system access.
+- [Regan-Milne/obsideo-mcp](regan-milne-obsideo-mcp.md) — Encrypted S3-compatible object storage with cryptographic possession proofs: put, get, list and delete objects, with optional client-side encryption.
+- [FacundoLucci/plsreadme](facundolucci-plsreadme.md) — Share Markdown files and text as readable web links.
+- [colapsis/transfa](colapsis-transfa.md) — Ephemeral file transfer for agents and CI/CD pipelines: upload a file and get a SHA-256-verified, expiring link, then list or delete uploads.
+- [tobee89/mcp-paperless-ngx](tobee89-mcp-paperless-ngx.md) — Paperless-ngx 3.x document archive: search and read documents, file them, bulk-edit, manage tags, correspondents, custom fields, workflows and share links.…
+- [Synexiom-Labs/nodiom-mcp](synexiom-labs-nodiom-mcp.md) — Read and edit Markdown files by structure (headings, lists, sections) instead of regex or line numbers: read a section, write one list item, append under a…
+- [TrendTweekers/mintpdf](trendtweekers-mintpdf.md) — Convert HTML or Markdown to styled PDFs, or render a public URL to PDF, and get a download link.
+- [UseJunior/safe-docx](usejunior-safe-docx.md) — Edit existing Word .docx files with formatting preservation, tracked changes, comments, footnotes and document comparison.
+- [velyan/pdf-card-mcp](velyan-pdf-card-mcp.md) — Convert local PDFs into source-linked, card-based standalone HTML readers with notes, highlights and static publishing.
+- [willianpinho/large-file-mcp](willianpinho-large-file-mcp.md) — Large-file handling with chunking, navigation, streaming, regex search and LRU caching.
+- [Xuanwo/mcp-server-opendal](xuanwo-mcp-server-opendal.md) — Access any storage backend through Apache OpenDAL.
+- [juergenkoller-software/distill-mcp](juergenkoller-software-distill-mcp.md) — Rename files with descriptive names via Distill, which analyzes PDF, OCR, Office, email and media content, with folder monitoring.
+- [alebgl77/ftp-deploy-mcp](alebgl77-ftp-deploy-mcp.md) — Deploy files to FTP, FTPS or SFTP servers: multi-server config, recursive deploys with dry-run and excludes, path jails, read-only mode and FileZilla import.

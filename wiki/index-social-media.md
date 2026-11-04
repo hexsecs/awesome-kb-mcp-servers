@@ -1,0 +1,75 @@
+# Social Media
+
+- [HasData/instagram-mcp](hasdata-instagram-mcp.md) — Public Instagram data: profiles and post feeds by handle, with follower counts, captions, hashtags and mentions parsed as JSON.
+- [HasData/facebook-mcp](hasdata-facebook-mcp.md) — Public Facebook pages and profiles as JSON: likes, followers, talking-about counts, contact details and post feeds with reactions.
+- [HasData/youtube-mcp](hasdata-youtube-mcp.md) — YouTube search, video and channel data and transcripts as JSON.
+- [HasData/tiktok-mcp](hasdata-tiktok-mcp.md) — Public TikTok data as JSON: profile lookup, account videos, comments and reply threads, and keyword search over videos or creators.
+- [06ketan/substack-ops](06ketan-substack-ops.md) — Manage Substack posts, notes, comments, replies, reactions and restacks, with a propose-then-confirm reply flow, audit log and dry-run by default.
+- [AdesiaHQ/bangermap-integrations](adesiahq-bangermap-integrations.md) — YouTube outlier research: rank a channel's uploads against its own baseline (Shorts and long-form separately), compare channels and find niche overperformers.
+- [AstaBlackClove/posthive](astablackclove-posthive.md) — Schedule and manage social media posts on Bluesky, Threads, Instagram, LinkedIn, Mastodon, YouTube, X, Discord and more, with a draft-first workflow.
+- [abhineet34/linkedin-mcp-server](abhineet34-linkedin-mcp-server.md) — Create, edit and delete LinkedIn posts (text, image, article), upload images, fetch profiles, look up company pages and check follower counts.
+- [adaptlypost/agent](adaptlypost-agent.md) — Schedule and cross-post to Instagram, TikTok, YouTube, X, LinkedIn and more, with per-platform captions, bulk scheduling, draft approval and media upload.
+- [anwerj/youtube-uploader-mcp](anwerj-youtube-uploader-mcp.md) — Upload videos to YouTube directly from an AI assistant.
+- [arjun1194/insta-mcp](arjun1194-insta-mcp.md) — Instagram analytics: account overviews, posts, followers and following lists, post insights, and search for users, hashtags or places.
+- [arslan2012/qpost-mcp](arslan2012-qpost-mcp.md) — Video-first publishing: schedule, publish, update, delete and retry video and image posts on YouTube, TikTok and Instagram.
+- [azeemkafridi/bulkpublish-api](azeemkafridi-bulkpublish-api.md) — Schedule and publish posts across 15 social networks from one place. Hosted server at `mcp.bulkpublish.com/mcp` with tools for posts, schedules, media…
+- [BelleKou/mcp-viral-transformer](bellekou-mcp-viral-transformer.md) — Turn URLs into viral posts with a remake command.
+- [checkra1neth/xbird](checkra1neth-xbird.md) — Post tweets, search, read timelines, manage engagement and upload media on Twitter/X using browser cookies.
+- [conorbronsdon/postlint-mcp](conorbronsdon-postlint-mcp.md) — Check posts against real character limits before publishing on X, Bluesky, LinkedIn, Threads, Mastodon and Discord, including URL and emoji weighting.
+- [conorbronsdon/substack-mcp](conorbronsdon-substack-mcp.md) — Read Substack posts, manage drafts, publish Notes, get comments and upload images; it cannot publish or delete posts.
+- [davidmosiah/tiktok-agent-publisher](davidmosiah-tiktok-agent-publisher.md) — Local-first TikTok Content Posting API server and CLI with OAuth readiness checks, dry-run publishing and live uploads only when explicitly enabled.
+- [devag7/linkedin-mcp](devag7-linkedin-mcp.md) — LinkedIn via an authenticated browser session: profiles, people/job/company search, feed, messaging and gated writes (connect, post, react, comment).
+- [eukosh/youtube-kit](eukosh-youtube-kit.md) — Search and read public YouTube, and manage your own channels: analytics, uploads, metadata, playlists and comment moderation, with two-step deletes. Also a…
+- [farukkolip/tiktapdown-mcp](farukkolip-tiktapdown-mcp.md) — TikTok creator toolkit: watermark-free video downloads, hashtag sets by niche, recommended posting times by country and viral hook formulas.
+- [gigatypeaura/memecorp-mcp](gigatypeaura-memecorp-mcp.md) — Unofficial MCP for memecorp.us: read the feed; with an agent API key, post, react, comment, and set a persona.
+- [gwbischof/bluesky-social-mcp](gwbischof-bluesky-social-mcp.md) — Interact with Bluesky via the atproto client.
+- [helbertparanhos/postforme-mcp-pro](helbertparanhos-postforme-mcp-pro.md) — Publish, schedule, edit, delete and analyze social posts on Instagram, TikTok, YouTube, X, LinkedIn and more via Post for Me, with a read-only mode.
+- [HagaiHen/facebook-mcp-server](hagaihen-facebook-mcp-server.md) — Manage Facebook Page posts, comments and engagement metrics through the Graph API.
+- [drashrafsaiyed-cyber/instagram-mcp](drashrafsaiyed-cyber-instagram-mcp.md) — Control Instagram via the Instagram Login API: publish photos, reels and carousels, read account insights, manage comments and reply to DMs.
+- [ihuzaifashoukat/x-use](ihuzaifashoukat-x-use.md) — Multi-account X (Twitter) automation via a real Chrome session: posting, replies, search, engagement and scheduled actions, with draft approval by default.
+- [jj-cheng25/weixin-articles-mcp](jj-cheng25-weixin-articles-mcp.md) — Read WeChat Official Account articles as multimodal content: body text, images and video keyframes, including Tencent Video, native and Channels embeds.
+- [jorgenclaw/nostr-mcp-server](jorgenclaw-nostr-mcp-server.md) — Sign and publish Nostr events, paid per call in sats over Lightning.
+- [Kadenzo/kadenzo-mcp](kadenzo-kadenzo-mcp.md) — Schedule and analyze posts on Instagram, TikTok, X, LinkedIn and more: media upload, AI captions, recommended posting times, analytics, listening and comments.
+- [KalpeshMahida0212/runsheet-mcp](kalpeshmahida0212-runsheet-mcp.md) — Upload videos from your own machine straight to YouTube, private with a publish time, and read, schedule and retitle your channel's videos through Runsheet.
+- [karanb192/reddit-mcp-buddy](karanb192-reddit-mcp-buddy.md) — Browse Reddit posts, search content and analyze user activity.
+- [king-of-the-grackles/reddit-research-mcp](king-of-the-grackles-reddit-research-mcp.md) — Reddit market and competitive research: find subreddits via semantic search, fetch posts and comments with full citations and manage research feeds.
+- [kunallunia/twitter-mcp](kunallunia-twitter-mcp.md) — Twitter management: timelines, user tweets, hashtag monitoring, conversation and sentiment analysis, direct messages and full post lifecycle control.
+- [llmops-pro/marketplace-mcp](llmops-pro-marketplace-mcp.md) — Run a Shopstr or Nostr marketplace storefront: create and update stalls and products in both NIP-15 and Shopstr's NIP-99-based listing formats.
+- [lumizone/postsider](lumizone-postsider.md) — Schedule and publish across 33 social media connectors, with draft approvals, analytics, media, notifications and an emergency publishing pause. Install…
+- [macrocosm-os/macrocosmos-mcp](macrocosm-os-macrocosmos-mcp.md) — Real-time X, Reddit and YouTube data with filtering by search phrase, user and date.
+- [mambalabsdev/mcp-bluesky-brand-presence-mapper](mambalabsdev-mcp-bluesky-brand-presence-mapper.md) — Resolves a company domain to its Bluesky account with exact follower, following and post counts.
+- [mambalabsdev/mcp-linkedin-post-engager-capture](mambalabsdev-mcp-linkedin-post-engager-capture.md) — Get recent posts from LinkedIn profiles and company pages with engagement counts and publicly visible commenters.
+- [mambalabsdev/mcp-pinterest-brand-presence-mapper](mambalabsdev-mcp-pinterest-brand-presence-mapper.md) — Resolves a company domain to its Pinterest business account with exact follower, pin and board counts.
+- [mambalabsdev/mcp-tiktok-brand-presence-mapper](mambalabsdev-mcp-tiktok-brand-presence-mapper.md) — Resolves a TikTok handle or a company domain to the brand account with follower, like, and video counts.
+- [mambalabsdev/mcp-youtube-channel-transcript-extractor](mambalabsdev-mcp-youtube-channel-transcript-extractor.md) — Resolves a company domain or YouTube handle to the channel with subscriber count and channel metadata.
+- [MarceauSolutions/fitness-influencer-mcp](marceausolutions-fitness-influencer-mcp.md) — Workflow automation for fitness content creators: jump-cut video editing, revenue analytics and branded content creation.
+- [markaestro/markaestro-agents](markaestro-markaestro-agents.md) — Schedule, publish and measure posts on Facebook, Instagram, TikTok, LinkedIn, Threads, Pinterest and X for one brand or many, with analytics and Evergreen…
+- [mikusnuz/meta-mcp](mikusnuz-meta-mcp.md) — Instagram Graph API, Threads API and Meta platform tools for publishing, comments, insights, hashtags, DMs and token management.
+- [milcho0604/velog-mcp](milcho0604-velog-mcp.md) — Velog blog integration: read and search posts, stats, tags and series; writes default to drafts or private posts, and public publishing is opt-in.
+- [mobileshop9991-star/clipwise-mcp](mobileshop9991-star-clipwise-mcp.md) — Short-form video creator tools: TikTok trend search by country, plus use-case scenarios for video analysis, competitor research and content strategy.
+- [pendpost/pendpost](pendpost-pendpost.md) — Local-first social media drafting and scheduling for Instagram, LinkedIn, X, Nostr, WordPress, Ghost and more, behind a human approval gate.
+- [Perufitlife/postwire-mcp](perufitlife-postwire-mcp.md) — Post to TikTok, Instagram, YouTube, X, LinkedIn, Bluesky, Telegram, Mastodon and Discord through a single tool.
+- [peturgeorgievv-factory/postfast-mcp](peturgeorgievv-factory-postfast-mcp.md) — Schedule and manage social media posts on Instagram, Facebook, TikTok, X, LinkedIn, YouTube, Threads, Pinterest, Bluesky and Telegram.
+- [posteverywhere/mcp](posteverywhere-mcp.md) — Schedule and publish across Instagram, LinkedIn, TikTok, X, YouTube and more, with campaigns, bulk operations, media, analytics, webhooks and AI captions.
+- [postmcp/postmcp-mcp-server](postmcp-postmcp-mcp-server.md) — Publish and schedule posts to LinkedIn, X, Facebook, Instagram, Threads, Bluesky and YouTube Shorts, with preflight checks, brand kits and image generation.
+- [publora/mcp-server](publora-mcp-server.md) — Schedule and publish posts via Publora to X, LinkedIn, Instagram, Threads, TikTok, YouTube and more, with media upload and LinkedIn analytics.
+- [scrape-badger/scrapebadger-mcp](scrape-badger-scrapebadger-mcp.md) — Access Twitter/X data, including user profiles, tweets, followers, trends, lists and communities, via the ScrapeBadger API.
+- [signal-found/sf-mcp](signal-found-sf-mcp.md) — Reddit outreach via Signal Found: find prospects posting about problems your product solves, send personalized DMs and manage an outreach CRM.
+- [sinanefeozler/reddit-summarizer-mcp](sinanefeozler-reddit-summarizer-mcp.md) — Summarize a user's Reddit homepage or any subreddit from its posts and comments.
+- [SocialAPIsHub/mcp-server](socialapishub-mcp-server.md) — Public Facebook and Instagram data as JSON: pages, posts, comments, groups, Ads Library, Marketplace, profiles and reels. Also hosted at mcp.socialapis.io/mcp.
+- [socialintel/socialintel-mcp](socialintel-socialintel-mcp.md) — Search Instagram influencers by niche, country, demographics or follower count for usernames, bios, follower counts, categories and public business emails.
+- [sofya-co/sofya-mcp](sofya-co-sofya-mcp.md) — Web tools via the Sofya API: full-content web search, URL and PDF fetching as Markdown, prompt-based data extraction and cited multi-source deep research.
+- [glennprime/synthnet-mcp](glennprime-synthnet-mcp.md) — SynthNet, a social network for AI agents: join with a keypair, paint a daily self-portrait, reply to humans and agents, and keep a persistent reputation.
+- [taisly/agent](taisly-agent.md) — Publish or schedule social videos to TikTok, Instagram Reels, YouTube Shorts, X and Facebook through Taisly, with account discovery and video validation.
+- [bulatko/vk-mcp-server](bulatko-vk-mcp-server.md) — Access the VK (VKontakte) social network API: users, walls, groups, friends, newsfeed, photos and community stats.
+- [solnk-dev/solnk-mcp](solnk-dev-solnk-mcp.md) — Publish and schedule content via Solnk to X, Instagram, TikTok, YouTube, LinkedIn and more, with drafts, media upload and post analytics.
+- [timkulbaev/mcp-linkedin](timkulbaev-mcp-linkedin.md) — Publish, comment and react on LinkedIn via the Unipile API, with dry-run by default.
+- [tokportal/tokportal-mcp](tokportal-tokportal-mcp.md) — Managed TikTok, Instagram and YouTube accounts run by TokPortal's human account managers, with video upload, scheduling, analytics and webhooks.
+- [TwitterAPIs/twitterapis-mcp](twitterapis-twitterapis-mcp.md) — Twitter/X search, profiles, followers, timelines, posting and DMs through twitterapis.com, pay per call (about $0.04 per 1,000 tweets), no X developer account.
+- [realMNohgee/hermtica](realmnohgee-hermtica.md) — Browse and search Hermtica, a social network and marketplace for AI agents: feed, trending items, agent profiles and marketplace stats.
+- [Upload-Post/upload-post-mcp](upload-post-upload-post-mcp.md) — Publish, schedule and analyze posts on TikTok, Instagram, YouTube, LinkedIn, Facebook, X, Reddit and more via Upload-Post, including comments and DMs.
+- [veezeehq/veezee-mcp](veezeehq-veezee-mcp.md) — Real-time LinkedIn, X (Twitter) and Reddit data: profiles, companies, posts, search and sentiment.
+- [Vovala14/vynly-mcp](vovala14-vynly-mcp.md) — Post AI-generated images to Vynly, an AI-only social feed, and read and search the feed, with provenance support (C2PA, SynthID, XMP).
+- [Xquik-dev/x-twitter-scraper](xquik-dev-x-twitter-scraper.md) — X (Twitter) automation: post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways and monitor accounts.
+- [yxs1640-png/xflux](yxs1640-png-xflux.md) — Read-only X/Twitter API for agents: search, timelines, profiles, Smart Money. npm `@xflux/xflux-mcp-server`. Not for posting.
+- [ilyautov/vk-mcp-ru](ilyautov-vk-mcp-ru.md) — VK API access: wall posts, communities, messages, market items, ads and stats, with plain-language method search and a read/write/destructive safety gate.

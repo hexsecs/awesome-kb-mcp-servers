@@ -1,0 +1,23 @@
+# Frameworks
+
+- [Nyrok/flompt](nyrok-flompt.md) — Visual prompt builder: decompose prompts into semantic blocks and compile them into Claude-optimized XML.
+- [escapeboy/agent-fleet-o](escapeboy-agent-fleet-o.md) — Self-hosted mission control for AI agents: manage agents, experiments, workflows, crews, skills and more.
+- [tekspry/DotnetFastMCP](tekspry-dotnetfastmcp.md) — High-level framework for building MCP servers in .NET with OAuth 2.0/OIDC (6 providers), per-tool MFA, OpenTelemetry, and a native client.
+- [Epistates/TurboMCP](epistates-turbomcp.md) — MCP SDK for Rust.
+- [heymrun/heym](heymrun-heym.md) — Self-hosted AI workflow automation: build multi-agent, RAG and tool-using pipelines on a visual canvas and expose any workflow as an MCP server.
+- [zhangpanda/gomcp](zhangpanda-gomcp.md) — Gin-like Go framework for building MCP servers: struct-tag schemas, middleware, tool groups, Gin/OpenAPI/gRPC adapters, async tasks and an inspector UI.
+- [kioie/tiny-go-mcp-server](kioie-tiny-go-mcp-server.md) — Minimal Go wrapper around the MCP go-sdk for building stdio servers, with struct-tag JSON Schema inference and minimal boilerplate.
+- [FastMCP](fastmcp.md) — High-level framework for building MCP servers in Python.
+- [jamjet-labs/jamjet](jamjet-labs-jamjet.md) — Durable AI agent runtime with MCP client/server and A2A support: graph-based workflows, durable execution and multi-agent coordination, authored in Python.
+- [FastMCP](fastmcp-2.md) — High-level framework for building MCP servers in TypeScript.
+- [alexar76/warden](alexar76-warden.md) — MCP security firewall: static tool-definition scanning, a signed threat feed, origin checks and pinning before third-party tools reach the model.
+- [ljppanda/mcp-longjobs](ljppanda-mcp-longjobs.md) — Durable, resumable MCP operations: background tool execution with progress polling, mid-flight input, cancellation and resumable chunked file transfers.
+- [SonAIengine/graph-tool-call](sonaiengine-graph-tool-call.md) — Tool retrieval for large tool sets: build a graph from OpenAPI/MCP specs and find multi-step workflows via hybrid search. Also an aggregating MCP proxy.
+- [vinkius-labs/mcp-fusion](vinkius-labs-mcp-fusion.md) — TypeScript framework for building MCP servers with automatic tool discovery, multiple transports, built-in validation and zero-config setup.
+- [MervinPraison/praisonai-mcp](mervinpraison-praisonai-mcp.md) — AI agent framework with tools for search, memory, workflows, code execution and file operations, turning any assistant into a multi-agent system.
+- [rocketride-org/rocketride-server](rocketride-org-rocketride-server.md) — Expose pipelines from RocketRide, a self-hosted, open-source AI pipeline tool with multi-LLM support, as tools.
+- [shaqmughal/seekstone](shaqmughal-seekstone.md) — Read an Obsidian vault directly from disk with compact payloads, no Local REST API plugin required.
+- [vivek081166/japan-utils-mcp](vivek081166-japan-utils-mcp.md) — Japan utilities: era and Western year conversion, kanji-to-romaji, postal codes, national holidays, kana and width conversion, and name splitting.
+- [fireostendere/mcp_diptrace](fireostendere-mcp-diptrace.md) — Reading, review and guarded editing of DipTrace PCB and schematic projects via a Windows bridge, with cross-platform offline XML analysis.
+- [SynapseLayer/synapse-layer](synapselayer-synapse-layer.md) — Persistent encrypted memory for AI agents with Trust Quotient scoring, cross-agent handover and an immutable audit trail.
+- [DROOdotFOO/raxol](droodotfoo-raxol.md) — Elixir/OTP framework for MCP servers and clients that derives tools from a running UI component tree, letting agents drive terminal apps.

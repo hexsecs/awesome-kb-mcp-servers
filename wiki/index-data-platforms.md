@@ -1,0 +1,52 @@
+# Data Platforms
+
+- [dockndevai/mcp-debezium](dockndevai-mcp-debezium.md) — Monitor and manage Debezium and Kafka Connect CDC connectors, with access modes, connector allowlists, delete gating and credential redaction.
+- [dockndevai/mcp-kafka](dockndevai-mcp-kafka.md) — Monitor and manage Apache Kafka clusters, topics and consumer groups (including lag), with access modes, topic allowlists and delete gating.
+- [1luvc0d3/metabase-mcp](1luvc0d3-metabase-mcp.md) — Metabase integration: natural-language data analysis, dashboard management, SQL queries and automated insights, with SQL guardrails and audit logging.
+- [alanpcf/brasil-data-mcp](alanpcf-brasil-data-mcp.md) — Brazilian public data via BrasilAPI: companies (CNPJ), addresses (CEP), banks (BACEN) and national holidays.
+- [Alessandro114/scala-mcp-server](alessandro114-scala-mcp-server.md) — Search and enrich company data: lookup by name, VAT or ID, NACE sector search, and financial data from official EU business registries.
+- [antonio-mello-ai/mcp-airflow](antonio-mello-ai-mcp-airflow.md) — Manage Apache Airflow via its REST API: list DAGs, inspect runs and task instances, trigger runs, and check failed DAGs and scheduler health.
+- [sam1siam/astrofabric-mcp](sam1siam-astrofabric-mcp.md) — Business intelligence: company and contact discovery, verification, enrichment, business signals, lists and governed delivery.
+- [carrierone/verilexdata-mcp](carrierone-verilexdata-mcp.md) — Pay-per-query x402 datasets: NPI healthcare, SEC filings, OFAC sanctions, crypto whales, Polymarket signals, patents and economic indicators.
+- [equinoxaifinance-rgb/civicdataforge-mcp](equinoxaifinance-rgb-civicdataforge-mcp.md) — US government records (short-term rental permits, lodging licenses, property violations, healthcare exclusions, EPA ECHO) and Norwegian company data.
+- [aegis-dq/aegis-dq](aegis-dq-aegis-dq.md) — Data quality checks on DuckDB, BigQuery, Athena, Databricks and Postgres, with LLM root-cause analysis of failures and proposed SQL remediations.
+- [AirSaiga/Precis](airsaiga-precis.md) — Local-first data quality workbench for Excel/CSV: validate against schemas and 10 zero-code constraint types (uniqueness, ranges, foreign keys, allowed…
+- [alkemiai/alkemi-mcp](alkemiai-alkemi-mcp.md) — Query Snowflake, Google BigQuery and Databricks data products in natural language through Alkemi.
+- [Autario/autario-mcp](autario-autario-mcp.md) — Search and query public datasets from the World Bank, IMF, Eurostat, OECD and WHO, and publish charts.
+- [vinvuk/apiverket-mcp](vinvuk-apiverket-mcp.md) — Query Swedish public data through Apiverket, including company data, SCB statistics, weather, transport and more.
+- [avisangle/method-crm-mcp](avisangle-method-crm-mcp.md) — Method CRM API integration: manage tables, files, users, events and API keys, with rate limiting and retries.
+- [aywengo/kafka-schema-reg-mcp](aywengo-kafka-schema-reg-mcp.md) — Kafka Schema Registry management across multiple registries, including schema migration.
+- [bintocher/mcp-superset](bintocher-mcp-superset.md) — Apache Superset: dashboards, charts, datasets, SQL Lab, security (users, roles, RLS, groups) and permissions audit, with built-in safety validations.
+- [bruno-portfolio/agrobr-mcp](bruno-portfolio-agrobr-mcp.md) — Brazilian agricultural data: prices, crop estimates, climate and deforestation from public sources including CEPEA, CONAB, IBGE, INPE and B3.
+- [Castaldo-Solutions/mcp-vtenext](castaldo-solutions-mcp-vtenext.md) — Query, create and update opportunities and contacts in VTENext, an open-source vtiger-based CRM, via its WebService API.
+- [dan1d/mercadolibre-mcp](dan1d-mercadolibre-mcp.md) — Search MercadoLibre products, get item details, browse categories, track trends and convert currencies across Latin America.
+- [datanika-io/datanika-core](datanika-io-datanika-core.md) — Datanika, the open-source ELT and dbt platform: browse connections, preview data, run dbt transforms, monitor runs and manage pipelines. Read-only by default.
+- [dbt-labs/dbt-mcp](dbt-labs-dbt-mcp.md) — dbt integration: dbt Core and Cloud CLI, project metadata discovery, model information and semantic layer queries.
+- [Evan-Crx/permisapi-mcp](evan-crx-permisapi-mcp.md) — Search French building permits (Sitadel open data), cross-referenced with DVF transactions, PLU zoning and BRGM natural and technological risks.
+- [flexorch/flexorch-mcp](flexorch-flexorch-mcp.md) — Turn business documents (PDFs, invoices, contracts, payroll) into structured datasets with classification, field extraction, PII masking and quality scoring.
+- [flowcore/mcp-flowcore-platform](flowcore-mcp-flowcore-platform.md) — Interact with Flowcore to perform actions, ingest data, and analyze and cross-reference data in your own or public data cores.
+- [FreelexHo/power-bi-mcp](freelexho-power-bi-mcp.md) — Power BI refresh with table-level polling and retry, refresh diagnostics, DAX queries with RLS simulation, PBIP source locating and refresh reports.
+- [gura105/operational-ontology](gura105-operational-ontology.md) — Operational ontology reference implementation: tools generated from a typed business domain model, with rule-checked, audited writes to systems of record.
+- [Hug0x0/mcp-reunion](hug0x0-mcp-reunion.md) — Open data for La Réunion (French overseas region) from data.gouv.fr and the regional portal: economy, demographics, transport, health, education and more.
+- [greencalculus/greencalculus-mcp](greencalculus-greencalculus-mcp.md) — Greenhouse-gas emission factors and carbon calculations (activity, embodied EN 15978, PCAF financed emissions) with source references and data versions.
+- [JordiNei/mcp-databricks-server](jordinei-mcp-databricks-server.md) — Run SQL queries, list jobs and get job status via the Databricks API.
+- [jwaxman19/qlik-mcp](jwaxman19-qlik-mcp.md) — Query Qlik Cloud apps and sheets and extract data from visualizations, with authentication and rate-limiting support.
+- [keboola/keboola-mcp-server](keboola-keboola-mcp-server.md) — Interact with the Keboola Connection data platform: list and access data from the Keboola Storage API.
+- [marcomq/mq-bridge](marcomq-mq-bridge.md) — Move data between Kafka, NATS, RabbitMQ, MQTT, IBM MQ, SQL databases, MongoDB, files and HTTP: publish messages and run copy routes with endpoints given…
+- [mattijsdp/dbt-docs-mcp](mattijsdp-dbt-docs-mcp.md) — dbt-core (OSS) project metadata, model and column-level lineage, and dbt documentation.
+- [meacheal-ai/mrc-data](meacheal-ai-mrc-data.md) — China apparel supply chain data: verified suppliers, lab-tested fabrics and industrial clusters, with AATCC, ISO and GB lab-test verification.
+- [mbrummerstedt/powerbi-analyst-mcp](mbrummerstedt-powerbi-analyst-mcp.md) — Query Power BI semantic models: browse workspaces, tables and measures, run DAX queries and page large results via local CSV.
+- [Osseni94/keyneg-mcp](osseni94-keyneg-mcp.md) — Fine-grained sentiment analysis, keyword extraction and batch processing.
+- [Osseni94/oyemi-mcp](osseni94-oyemi-mcp.md) — Deterministic, lexicon-based semantic word encoding and valence analysis: word-to-code mapping, semantic similarity and synonym/antonym lookup.
+- [paracetamol951/caisse-enregistreuse-mcp-server](paracetamol951-caisse-enregistreuse-mcp-server.md) — Automate or monitor business operations: sales recording, POS software and CRM.
+- [r3dz4r/datapulse-my](r3dz4r-datapulse-my.md) — Trust checks for Malaysian public datasets: freshness, licence, provenance and drift, with signed evidence and an offline-verifiable attestation chain.
+- [saikiyusuke/registep-mcp](saikiyusuke-registep-mcp.md) — POS and sales analytics for AirREGI, Smaregi and BASE e-commerce: store management, sales data queries, AI chat analysis and weather correlation.
+- [Kemetra/seshat-bi](kemetra-seshat-bi.md) — Read-only BI pipeline governance: each table's stage from source to Power BI, what blocks the next stage, static SQL/TMDL/PBIR checks and evidence packs.
+- [us-all/airflow-mcp-server](us-all-airflow-mcp-server.md) — Airflow REST API: list DAGs, runs and task instances, tail logs and roll up DAG health. Read-only by default; trigger and clear are write-gated.
+- [soil-dev/capsulemcp](soil-dev-capsulemcp.md) — Capsule CRM: contacts, opportunities, projects, tasks, timeline activity, filters, workflow tracks and file attachments, with an optional read-only mode.
+- [Sugra-Systems/sugra-api-mcp](sugra-systems-sugra-api-mcp.md) — World data from primary sources via the Sugra API: markets, macroeconomics, company fundamentals, government, news, climate, maritime and entity screening.
+- [vikramgorla/mcp-swiss](vikramgorla-mcp-swiss.md) — Swiss open data: transport, weather, geodata, companies, parliament and more.
+- [yashshingvi/databricks-genie-MCP](yashshingvi-databricks-genie-mcp.md) — Databricks Genie API: ask natural language questions, run SQL queries and interact with Databricks conversational agents.
+- [Younghef/nutriref-api](younghef-nutriref-api.md) — USDA FoodData Central nutrition data, paid per call via x402 (USDC on Base): food search, details, comparisons and recipes.
+- [Leekangbum/networklytics-mcp](leekangbum-networklytics-mcp.md) — Social network analysis of YouTube comments: influencer centrality ranking, Louvain community detection and sentiment analysis.
+- [Yacine-ai-tech/AgentKit](yacine-ai-tech-agentkit.md) — FastMCP server for business intelligence and data agents, exposing dynamic KPI analytics, anomaly detection, and schema resources across 10 business domains…

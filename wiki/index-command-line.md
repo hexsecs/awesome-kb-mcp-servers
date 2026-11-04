@@ -1,0 +1,31 @@
+# Command Line
+
+- [20000419/fauxnix](20000419-fauxnix.md) — Bash for AI agents on Windows via deterministic bash-to-PowerShell translation, without WSL or a VM, with GNU-style output and persistent cwd and env.
+- [getremcp/remcp](getremcp-remcp.md) — Secure remote MCP bridge to paired computers: files, terminal sessions, screenshots, search, processes, and binary transfers with outbound-only device agents.
+- [AICommander-dev/aicommander](aicommander-dev-aicommander.md) — Outbound-only remote shell, detached long-running jobs and temporary file transfer for AI agents, without exposing SSH, ports or a VPN.
+- [AppachiTech/suvadu](appachitech-suvadu.md) — Read-only access to your local shell history and AI coding agent sessions: search commands, recent failures and risky commands, and see what each agent…
+- [bvisible/mcp-ssh-manager](bvisible-mcp-ssh-manager.md) — Manage multiple SSH servers: commands, file transfer and rsync, database dumps and queries, backups, health monitoring, tunnels and per-server security modes.
+- [cygnussystems/cygnus-ssh-mcp](cygnussystems-cygnus-ssh-mcp.md) — SSH control of remote Linux, macOS and Windows servers: line-level file editing, background tasks, sudo, host aliases, and directory and archive operations.
+- [danmartuszewski/hop](danmartuszewski-hop.md) — SSH connection manager with a TUI dashboard for discovering, searching and running commands on remote hosts.
+- [dbhq-uk/heliograph](dbhq-uk-heliograph.md) — Run commands on machines you cannot SSH into, such as air-gapped or bastion-only hosts, via git, file shares or S3, with timestamped run logs.
+- [dwgx/SmartCLI](dwgx-smartcli.md) — Drive full-screen terminal programs such as vim, htop and lazygit by reading the screen as a live cell grid with cursor, selection and alt-screen state.
+- [faizbawa/mcp-remote-ssh](faizbawa-mcp-remote-ssh.md) — SSH access with persistent sessions, SFTP and port forwarding, with secrets injected via stdin and redacted from output before reaching the LLM.
+- [gerard-kanters/mcp-linux-tools](gerard-kanters-mcp-linux-tools.md) — Administer a Linux server: read files and logs, manage systemd services and cron jobs, run read-only MySQL queries, WP-CLI, Git and sandboxed Python.
+- [hypnosis/ssh-mcp-server](hypnosis-ssh-mcp-server.md) — Remote server work via the local OpenSSH client: run commands, transfer files with checksums, search logs and audit hosts, with destructive commands blocked.
+- [lacs-project/sysknife](lacs-project-sysknife.md) — Linux system administration via typed actions instead of shell strings, with a signed audit log, one-time approval receipts and automatic rollback.
+- [luisgf/infrabroker](luisgf-infrabroker.md) — Self-hosted SSH and Kubernetes access broker: ephemeral per-operation credentials the model never sees, per-command firewall, human approvals and audit log.
+- [nvms/tui-mcp](nvms-tui-mcp.md) — Launch, screenshot and interact with any TUI app.
+- [polymatx/opsgate](polymatx-opsgate.md) — Safety gate between AI agents and your servers: 25 typed tools (services, logs, Docker, disk, ports, files, nginx) that build their own argv, so the agent…
+- [PsYcGoD/sage](psycgod-sage.md) — Local command wrapper for AI coding agents: runs shell commands, stores history locally and returns compressed terminal output to reduce context noise.
+- [raychao-oao/pty-mcp](raychao-oao-pty-mcp.md) — Interactive PTY sessions for AI agents: local shells, persistent SSH sessions with attach/detach, and serial ports.
+- [soren-achebe/backscroll](soren-achebe-backscroll.md) — Search, retrieve and diff the output of past terminal commands, recorded locally with exit codes, cwd and duration, with secret redaction by default.
+- [ferodrigop/forge](ferodrigop-forge.md) — Terminal for AI coding agents: persistent PTY sessions, incremental reads, headless screen capture, multi-agent orchestration and a web dashboard.
+- [WhenLabs-org/when](whenlabs-org-when.md) — Developer toolkit: stack detection for AI context files, port conflicts, .env schema validation, docs drift, dependency license audits and task timing.
+- [LukeLamb/claude-terminal-mcp](lukelamb-claude-terminal-mcp.md) — Terminal, filesystem and background-job tools for Linux and macOS.
+- [HasanJahidul/terminal-history-mcp](hasanjahidul-terminal-history-mcp.md) — Local full-text search over zsh, bash and fish history, with secret redaction and optional capture of cwd, exit code and duration.
+- [HasanJahidul/localhost-mcp](hasanjahidul-localhost-mcp.md) — Inspect, manage and kill local dev servers: see what listens on each port, diagnose port conflicts, find zombie processes and kill by PID or port.
+- [laszlopere/mcp-tmux](laszlopere-mcp-tmux.md) — Drive tmux locally or over SSH: sessions, windows, panes, keystrokes, pane capture and raw commands, with shared sessions for pair programming.
+- [zb-ss/servonaut](zb-ss-servonaut.md) — Manage AWS EC2, Hetzner, OVH and SSH servers: commands, logs, CloudWatch/CloudTrail queries, fleet health, IP banning and S3, with tiered safety guards.
+- [blinkingbit-oss/execkit](blinkingbit-oss-execkit.md) — Stateful, auditable shell sessions over local, SSH and Docker, with secret redaction, output budgeting and a read-only live transcript viewer.
+- [Easton-OU/rootpilot-mcp](easton-ou-rootpilot-mcp.md) — Read-only SSH diagnostics for Linux and Docker servers using a fixed command allowlist, with secret redaction and per-command timeouts.
+- [tarides/sudo-proxy](tarides-sudo-proxy.md) — Run privileged commands locally or over SSH, each gated by a single-keypress human approval before sudo, with audit logging and no stored password.

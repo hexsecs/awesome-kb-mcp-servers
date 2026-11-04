@@ -1,0 +1,26 @@
+---
+uid: 01a1a884-bdf1-7317-84bf-82fe7a139211
+title: "VirajMishra1/wander-agent"
+summary: "Personal travel agent: flights, hotels, visa checks, itineraries, travel advisories, currency conversion and card points/miles optimization."
+type: entity
+category: "Travel & Transportation"
+url: "https://github.com/VirajMishra1/wander-agent"
+status: unknown
+created: 2026-11-04
+updated: 2026-11-04
+depth: stub
+source_list: awesome-mcp-servers
+source_commit: 29f2d490cc02468e7c9d87b0cf68d40d3041e7ef
+list_summary: "Personal travel agent: flights, hotels, visa checks, itineraries, travel advisories, currency conversion and card points/miles optimization."
+categories: ["Travel & Transportation"]
+list_occurrences: [{"title": "VirajMishra1/wander-agent", "category": "Travel & Transportation", "description": "Personal travel agent: flights, hotels, visa checks, itineraries, travel advisories, currency conversion and card points/miles optimization."}]
+sources:
+  - url: "https://github.com/punkpeye/awesome-mcp-servers/blob/29f2d490cc02468e7c9d87b0cf68d40d3041e7ef/README.md"
+    retrieved: 2026-11-04
+---
+
+Personal travel agent: flights, hotels, visa checks, itineraries, travel advisories, currency conversion and card points/miles optimization.
+
+- **Resource:** https://github.com/VirajMishra1/wander-agent
+- **List section:** Travel & Transportation
+- **Source:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — the list is canon; this page is a generated stub (`depth: stub`). Depth is added by PR (see AGENTS.md).

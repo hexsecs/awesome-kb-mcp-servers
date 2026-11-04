@@ -1,0 +1,370 @@
+# Knowledge & Memory
+
+- [eddyflores100-lang/alethech](eddyflores100-lang-alethech.md) — Verifiable Ed25519-signed agent memory chain with fail-closed verification; offline-first TF-IDF recall (zero LLM tokens at runtime), artifact audit…
+- [timgordontg/engrim](timgordontg-engrim.md) — Cross-model, local-first episodic memory engine for Claude Code, Cursor, Codex, and Antigravity. SQLite FTS5 (BM25) + 8MB static model2vec CPU embeddings…
+- [ambermem/amber](ambermem-amber.md) — Hosted long-term memory for AI assistants. Your assistant stores facts with its own phrasings; Amber embeds them and finds them again by meaning and by…
+- [andreibesleaga/agentic-system-core](andreibesleaga-agentic-system-core.md) — Serves a folder of Markdown notes over stdio: search, read, follow links and cite. Proposals come back as text; it writes nothing.
+- [kyle-visner/stellarjay](kyle-visner-stellarjay.md) — Safe write access for AI agents: an append-only business fact store where every change is kept, attributed to the agent that made it, and can be undone…
+- [chinwe/compound-memory](chinwe-compound-memory.md) — Local-first shared memory for multiple AI agents that compounds in value: feedback-driven confidence, cross-agent validation, neighbor recall and…
+- [dockndevai/ossian-mcp](dockndevai-ossian-mcp.md) — RAG over your own documents with cited passages, plus durable agent memory ranked by relevance, importance and recency; read-only by default.
+- [anshulyadav1976/synapse](anshulyadav1976-synapse.md) — Zero-runtime-dependency Markdown memory vault with SQLite search, linked wiki pages, ChatGPT/Claude imports, and human-approved agent note proposals.
+- [anuragsync78/subctx-connector](anuragsync78-subctx-connector.md) — Support center for autonomous artificial minds.
+- [Octonove/crbro-memory](octonove-crbro-memory.md) — Persistent agent memory in local JSON files: neuron/synapse graph with heat scoring, fact-level search, corrections, secret redaction and team sharing via Git.
+- [bborota/cairn-mcp](bborota-cairn-mcp.md) — Shared base of one-sentence lessons, must-dos and must-nots learned by other agents, organized by stack and situation.
+- [M-T-D-N/agentmemory-codex-windows](m-t-d-n-agentmemory-codex-windows.md) — Windows AgentMemory downstream for Codex with project-scoped persistent memory, bounded cross-project recall, and an authenticated loopback MCP service…
+- [Magnemo-AI/magnemo](magnemo-ai-magnemo.md) — Governed local agent memory in plain files: each entry records who wrote it, when and through which gate, and nothing is kept without user approval.
+- [fish827-08/rag-kb](fish827-08-rag-kb.md) — Local-first agent memory and knowledge base: hybrid dense and BM25 retrieval, document and webpage ingestion and optional RAG answers via local Ollama.
+- [dahshanlabs/klypix-mcp](dahshanlabs-klypix-mcp.md) — Versioned project brain for coding agents, committed with the repo: decisions, corrections, evidence anchors that flag code drift and file-overlap warnings.
+- [AkashGoenka/coldstart](akashgoenka-coldstart.md) — Codebase memory for coding agents: a deterministic AST index finds task-relevant files, and in-repo Markdown notes flag themselves stale when code changes.
+- [forgemeshlabs/library-mcp](forgemeshlabs-library-mcp.md) — Public-domain book knowledge base paid via x402: full-text search, metadata, chapters, quotes, ask-a-book Q&A and curated subject shelves.
+- [geml-spec/geml](geml-spec-geml.md) — Address Markdown and GEML documents by block instead of by line: list, get, set, add, delete, rename, revert, find and check one block, with every write…
+- [jayasukuv11-beep/agenthelm](jayasukuv11-beep-agenthelm.md) — Shared, versioned memory and governance for AI coding agents, resolving architectural decision conflicts across agents.
+- [AIStorageDepot/aistoragedepot-mcp](aistoragedepot-aistoragedepot-mcp.md) — Shared, versioned team library of prompts, rules, skills and docs, searchable by agents, with items exposable as slash commands.
+- [jmpdsevilla/BovedIA](jmpdsevilla-bovedia.md) — Personal memory for Claude Code in plain Markdown notes, with a router note that decides what context to load and a layer for thoughts and feelings.
+- [lbailey94/whitemagic](lbailey94-whitemagic.md) — Local-first durable memory and session continuity for AI agents, with a hash-chained audit ledger and backup, export and import across devices.
+- [LiLara-AI/shadowgraph](lilara-ai-shadowgraph.md) — Local-first decision memory for AI agents: stores choices, rejected alternatives and reasons, failed attempts, outcomes, provenance and review conditions.
+- [lockstep-team-agent/lockstep](lockstep-team-agent-lockstep.md) — Shared decision memory for teams using AI coding agents: captures engineering decisions, ranks them by blast radius and briefs agents before they act.
+- [lumayapartners/memini](lumayapartners-memini.md) — Local-first project memory and guardrails for coding agents: records failed attempts, fragile files and decisions per repo and warns before repeated mistakes.
+- [moorcheh-ai/memanto](moorcheh-ai-memanto.md) — Universal memory agent for AI: provides semantic search, namespace management, text/vector operations and RAG for local or remote environments.
+- [nazar256/memheaven](nazar256-memheaven.md) — Self-hosted, remotely accessible shared long-term memory for AI agents.
+- [Monyeah777/NinFenz](monyeah777-ninfenz.md) — Content contract layer as a read-only MCP server: protocol specs, modules, pipelines, assets, and the knowledge library for long-form content; 12 read-only…
+- [jessedu29260-netizen/booboo](jessedu29260-netizen-booboo.md) — View and query your AI system (agents, memory, knowledge, automations) as a 3D knowledge graph: stats, search, node details, neighbors and pathfinding.
+- [JinyangWang27/people-context](jinyangwang27-people-context.md) — Local-first memory about the people in your life: identity resolution, relationships, facts, interactions, reminders and communication guidance.
+- [gpitrella/memxus-remote-mcp](gpitrella-memxus-remote-mcp.md) — Shared context for dev teams: syncs GitHub, Notion and saved decisions into reusable project context that agents load at the start of each session.
+- [sammyboi81/arkhive](sammyboi81-arkhive.md) — Local-first, tamper-evident AI memory with a SHA-256 ledger, recall, verification, and governed decisions.
+- [seanmeverett/shared-memory-mcp](seanmeverett-shared-memory-mcp.md) — Public, source-linked notebook for AI agents: search and read entries, and publish findings, questions and corrections with permanent IDs and linked replies.
+- [soluai-spa/solucortex-mcp](soluai-spa-solucortex-mcp.md) — Technical memory for AI agents: recall a project's approved decisions, conventions and risks at task start and record lessons at the end.
+- [basemouse/basemouse-core](basemouse-basemouse-core.md) — Shared, versioned agent memory with sourced answers and full history: search, context packs and document upserts.
+- [caix84476-netizen/personal-understanding](caix84476-netizen-personal-understanding.md) — Verbatim-first personal memory: hashed word-for-word messages, records linked to their source quotes, anti-fabrication validators and an audit dashboard.
+- [Fisher521/burn-mcp-server](fisher521-burn-mcp-server.md) — Search, triage and organize bookmarks saved in the Burn 451 read-later app as a knowledge base.
+- [soolaugust/0CompactMem](soolaugust-0compactmem.md) — Persistent multi-agent memory with OS-style demand paging, eviction and pinning, BM25 retrieval, importance scoring and capacity-aware reclaim.
+- [0spoon/seamless](0spoon-seamless.md) — Local-first shared memory and task coordination for AI coding agents, stored as Markdown files.
+- [abm9111/chamber](abm9111-chamber.md) — Checks a claim's numbers, capitalised names and file names against the cited note, with no model; recorded claims are hash-pinned so `chamber verify` flags…
+- [adelinamart/robrain](adelinamart-robrain.md) — Self-hosted decision memory for coding agents: captures architectural decisions and rejected alternatives, and warns before a rejected approach is re-proposed.
+- [a2cr/a2cr](a2cr-a2cr.md) — Agent handoffs via client-encrypted WorkBaton checkpoints and WorkStash notes, so work can resume in another client without the full chat history.
+- [afairai/afair](afairai-afair.md) — Self-organizing, self-hostable, encrypted memory for AI tools, with background entity extraction, conflict resolution, consolidation and decay.
+- [ahmetakyurt/zipmem-mcp](ahmetakyurt-zipmem-mcp.md) — Local long-term memory for terminal coding agents: blueprints, code anchors and distilled lessons in one JSON file, restoring project context across sessions.
+- [ihorponom/agentpack](ihorponom-agentpack.md) — Repo-native task continuity for coding agents: a reviewed task-state ledger of decisions, dead ends, evidence and checkpoints that later sessions resume from.
+- [thomasjumper/agentbay](thomasjumper-agentbay.md) — StremAI shared memory for coding agents across sessions, machines and tools, with per-agent attribution, provenance, verification status and export.
+- [uniskela/adhd-hub](uniskela-adhd-hub.md) — Self-hosted project-continuity hub for coding agents: tracks unfinished work, progress, overlap and reminders across clients.
+- [Vasilispapg/claude-handoff](vasilispapg-claude-handoff.md) — Claude Code session handoffs: turns any transcript, even crashed ones, into a handoff file and distills project history into a cited memory brief.
+- [aidesignblueprint/integrations](aidesignblueprint-integrations.md) — Read-only access to the Agentic AI Blueprint, a reference for agent UX: browse and search principles, implementation examples and application guides.
+- [aliasunder/vault-cortex](aliasunder-vault-cortex.md) — Standalone Obsidian vault server: hybrid search, notes and files, memory and tasks; run locally or self-host for remote access.
+- [andreas-roennestad/openhive-mcp](andreas-roennestad-openhive-mcp.md) — Shared knowledge base where AI agents search and post problem-solution pairs, with semantic search, duplicate detection and auto-scoring.
+- [AndreLYL/memkin](andrelyl-memkin.md) — Local-first personal memory that distills Feishu/Lark chats and Claude Code/Codex sessions into a private knowledge graph of people, projects and tasks.
+- [NORTHTEKDevs/genome](northtekdevs-genome.md) — Local persistent agent memory without LLM calls: semantic recall over SQLite with bi-temporal fact tracking.
+- [Shweta-Mishra-ai/tokenmizer](shweta-mishra-ai-tokenmizer.md) — Session memory via a local OpenAI-compatible proxy that extracts tasks, decisions and files into a knowledge graph and checkpoints before context overflow.
+- [ashlesh-t/cognirepo](ashlesh-t-cognirepo.md) — Persistent memory and codebase context for coding agents: FAISS vector store, AST symbol index, knowledge graph, episodic journal and cross-agent handoff.
+- [AshutoshRaj97/agentready-mcp](ashutoshraj97-agentready-mcp.md) — Index any website and ask questions about it, with cited answers grounded in its content via RAG.
+- [Auctalis/nocturnusai](auctalis-nocturnusai.md) — Deterministic reasoning engine for agent context compression: extracts structured facts with logical inference, proof chains and truth maintenance.
+- [0xshellming/mcp-summarizer](0xshellming-mcp-summarizer.md) — Summarize plain text, web pages, PDF documents, EPUB books and HTML content.
+- [20alexl/claude-engram](20alexl-claude-engram.md) — Local persistent memory for Claude Code: tracks mistakes and decisions via hooks, searches session history, detects loops and warns before edits.
+- [timmx7/acheron-mcp-server](timmx7-acheron-mcp-server.md) — Persistent memory shared across Claude Chat, Code and Cowork, stored in local SQLite with full-text search.
+- [Terobyte/librarian-cli](terobyte-librarian-cli.md) — Ebook-to-Markdown pipeline (FB2, EPUB, DOCX, HTML, PDF) with full-text search and read-only tools to browse, read chapters and verify quotes offline.
+- [TeleAI-UAGI/telemem](teleai-uagi-telemem.md) — Mem0-compatible long-term and multimodal agent memory: character-isolated profiles, semantic deduplication, optional local stack and video memory with QA.
+- [agentic-mcp-tools/memora](agentic-mcp-tools-memora.md) — Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2) and cross-session context management.
+- [Thezenmonster/agentmem](thezenmonster-agentmem.md) — Governed memory for coding agents with trust lifecycle (hypothesis, active, validated, deprecated), conflict detection, staleness tracking and health scoring.
+- [AliceLJY/recallnest](aliceljy-recallnest.md) — Local-first memory for coding agents: hybrid vector/BM25 retrieval with reranking, knowledge graph, session checkpoint/resume and multi-scope isolation.
+- [robotel-limited/robo-cortex](robotel-limited-robo-cortex.md) — Git-aware memory store for coding agents: memories anchored to git blob hashes are flagged for review when the linked code changes.
+- [ailenshen/apple-notes-mcp](ailenshen-apple-notes-mcp.md) — Read and write Apple Notes with bidirectional Markdown conversion: SQLite queries for listing and search, AppleScript for full CRUD.
+- [AgentModule/mcp](agentmodule-mcp.md) — Deterministic, vertical-specific knowledge bases for autonomous agents, including an ethics module mapped to the EU AI Act.
+- [juyterman1000/entroly](juyterman1000-entroly.md) — Context control layer for coding agents: compression, prompt-prefix stabilization for caching, cheaper-model routing, local hallucination checks and memory.
+- [Goldentrii/AgentRecall](goldentrii-agentrecall.md) — Persistent cross-session agent memory that surfaces the most relevant past memories using the Intelligent Distance Protocol.
+- [gonzaroman/IHMT-MEMORY](gonzaroman-ihmt-memory.md) — Long-term memory for coding agents as a tree of plain local files: searches before answering, keeps changed facts as history and flags them OUTDATED, and…
+- [gordonkjlee/facthouse](gordonkjlee-facthouse.md) — Local memory engine for AI tools, stored in a SQLite file you own.
+- [AlekseiMarchenko/central-intelligence](alekseimarchenko-central-intelligence.md) — Persistent agent memory to remember, recall, forget and share, with semantic vector search and agent, user and org scoping.
+- [kskurtveit/echocache](kskurtveit-echocache.md) — Cache expensive LLM results with HTTP-style freshness (TTL, stale-while-revalidate) and semantic recall of related past answers.
+- [epicsagas/alcove](epicsagas-alcove.md) — On-demand BM25 search over private project docs for coding agents, keeping docs out of public repos.
+- [alibaizhanov/mengram](alibaizhanov-mengram.md) — Agent memory with semantic, episodic and procedural types, a knowledge graph, Claude Code auto-save/recall hooks, smart triggers and multi-user isolation.
+- [AntonioTF5/soul-mcp-server](antoniotf5-soul-mcp-server.md) — Validate and generate SOUL.md agent identity files, a YAML format for an agent's personality, voice, values and behavioral constraints.
+- [apecloud/ApeRAG](apecloud-aperag.md) — RAG platform combining Graph RAG, vector search and full-text search for building knowledge graphs and context engineering.
+- [ayushagrawal288/memex](ayushagrawal288-memex.md) — Persistent agent memory with semantic search and recency decay, local ONNX embeddings, background summarization and Prometheus/Grafana observability.
+- [baodq06/memocall](baodq06-memocall.md) — Read-only search and recall of past Claude Code sessions, loading any session on demand as compact Markdown with outline, turn-range and in-session search.
+- [basicmachines-co/basic-memory](basicmachines-co-basic-memory.md) — Local-first AI memory: a semantic knowledge graph of Markdown files that humans and LLMs both read and write, with optional cloud sync and team workspaces.
+- [Battam1111/Myco](battam1111-myco.md) — Cross-session, cross-project agent memory built on a self-validating filesystem graph derived from ASTs and Markdown links, not embeddings.
+- [Beever-AI/beever-atlas](beever-ai-beever-atlas.md) — Team knowledge base turning Slack, Discord, Teams and Mattermost chats into a knowledge graph and wiki with cited answers, semantic search and expert finding.
+- [bitatlas-group/bitatlas](bitatlas-group-bitatlas.md) — Zero-knowledge cloud drive with client-side AES-256-GCM encryption: upload, download, search and organize files the server never sees in plaintext.
+- [besslframework-stack/project-tessera](besslframework-stack-project-tessera.md) — Local workspace memory: indexes Markdown, CSV and session logs into a vector store with hybrid search, cross-session memory and knowledge graph visualization.
+- [BetaBots-LLC/callimachus](betabots-llc-callimachus.md) — Local hybrid search (SQLite FTS5 and on-device vectors) over coding-agent conversation history from multiple tools, so agents can recall their past work.
+- [billy12151/memory-arbiter-mcp](billy12151-memory-arbiter-mcp.md) — Local memory middleware: targeted retrieval instead of full-memory loading, rule-based conflict arbitration and one SQLite store shared across coding agents.
+- [bh-rat/context-awesome](bh-rat-context-awesome.md) — Search curated awesome lists and fetch the most relevant resources for your agent.
+- [bitbonsai/mcp-obsidian](bitbonsai-mcp-obsidian.md) — Safe read/write access to Obsidian vaults: search, batch operations, tag management and frontmatter handling.
+- [bluzername/lennys-quotes](bluzername-lennys-quotes.md) — Search Lenny's Podcast transcripts with YouTube timestamps for product management insights on PRDs, strategy and PM careers.
+- [lildaddyo/braintube-mcp](lildaddyo-braintube-mcp.md) — Compiles saved YouTube videos, podcasts, articles, PDFs and Notion/Obsidian notes into a persistent, semantically searchable knowledge base.
+- [linklore/linklore-mcp](linklore-linklore-mcp.md) — Structured memory for coding agents: typed lore and doc entries with status and links that agents read and write.
+- [cameronrye/openzim-mcp](cameronrye-openzim-mcp.md) — Search and navigate Wikipedia and other ZIM-format knowledge archives offline, with smart retrieval and caching.
+- [carrasquelalex1/hipocampo](carrasquelalex1-hipocampo.md) — Bilingual (English/Spanish) dual-memory system on PostgreSQL, pgvector and NVIDIA NIM with progressive retrieval, deduplication, checkpoints and auto-repair.
+- [catfish-1234/sessionmem](catfish-1234-sessionmem.md) — Local memory for coding assistants: watches sessions and injects a compact summary at the start of each new one, stored in a SQLite file.
+- [cachly-dev/cachly-mcp](cachly-dev-cachly-mcp.md) — Persistent memory for coding assistants: session briefings on lessons and open tasks, shared team memory, BM25 search and managed Valkey/Redis.
+- [ccf/agentcairn](ccf-agentcairn.md) — Local-first agent memory: a Markdown Obsidian vault as source of truth plus a rebuildable DuckDB index for hybrid BM25, vector and graph recall.
+- [cdeust/Cortex](cdeust-cortex.md) — Neuroscience-inspired memory for Claude Code on PostgreSQL/pgvector: decay, consolidation, a predictive-coding write gate and lifecycle hooks.
+- [contradictory-body/cc-sensei](contradictory-body-cc-sensei.md) — Explore Claude Code's source as queryable architecture modules: trace cross-cutting concerns, search patterns and read source code locally.
+- [CSP911/routemind](csp911-routemind.md) — Domain knowledge as a routing table people write: the agent reads one line per area, then walks to the document. Git-backed, no vector store.
+- [celiums/celiums-memory](celiums-celiums-memory.md) — Cognitive memory engine with knowledge modules, circadian rhythm awareness, emotional state tracking, hybrid PostgreSQL/Qdrant search and per-user isolation.
+- [cg3-llc/prior_mcp](cg3-llc-prior-mcp.md) — Shared knowledge base where agents exchange proven solutions and failed approaches, so they can skip known dead ends.
+- [Cavinooo/claude-find](cavinooo-claude-find.md) — Retrieve memory from across your Claude Code sessions on demand.
+- [chatmcp/mcp-server-chatsum](chatmcp-mcp-server-chatsum.md) — Query and summarize your chat messages with AI prompts.
+- [vshulcz/deja-vu](vshulcz-deja-vu.md) — Local memory over session histories from Claude Code, Codex CLI and opencode: lexical search, session-start auto-recall, secret redaction and SSH sync.
+- [wusaki0723/Aelios](wusaki0723-aelios.md) — Self-hosted long-term memory gateway for AI clients: runs on your own Cloudflare account (Workers + D1 + Vectorize), captures conversations, consolidates…
+- [ZengLiangYi/ChatCrystal](zengliangyi-chatcrystal.md) — Local-first memory for AI coding conversations: imports chats from coding assistants into notes with semantic search, tag graphs and Markdown export.
+- [CheMiguel23/MemoryMesh](chemiguel23-memorymesh.md) — Graph-based memory focused on AI role-play and story generation.
+- [chenxiachan/thoughtdag](chenxiachan-thoughtdag.md) — Search local AI-agent conversation history by file or exact phrase and recall original source turns through four read-only tools.
+- [ChevalGrand520/local-gpu-imagegen](chevalgrand520-local-gpu-imagegen.md) — Confirmation-gated local GPU image generation with ComfyUI: SHA-256 model identity, explicit license approval, evidence retention and human-in-the-loop runs.
+- [ChrisGVE/workspace-qdrant-mcp](chrisgve-workspace-qdrant-mcp.md) — Project-scoped memory for coding assistants: indexes project code and docs into Qdrant with tree-sitter chunking, LSP integration and hybrid search.
+- [cipherfoxie/sovereign-mcp](cipherfoxie-sovereign-mcp.md) — Search and read the Sovereign AI Blog on self-hosted AI on NVIDIA DGX Spark, and validate SGLang configs for GB10 hardware.
+- [CodeAbra/iai-personal-memory-engine](codeabra-iai-personal-memory-engine.md) — Local memory daemon with episodic, semantic and procedural tiers, SQLite and hnswlib storage, sleep-cycle consolidation and AES-256-GCM encryption at rest.
+- [XJTLUmedia/Context-First-MCP](xjtlumedia-context-first-mcp.md) — Session memory with tiered storage, context health monitoring, reasoning quality checks and truthfulness verification.
+- [alfredoizdev/contextforge-mcp](alfredoizdev-contextforge-mcp.md) — Persistent memory for coding assistants with semantic search, Git commit/PR sync, project-based organization and team collaboration.
+- [contextium-io/contextium-mcp-server](contextium-io-contextium-mcp-server.md) — Shared team context for AI tools: serves versioned, permissioned knowledge, coding standards, skills and agents, loading whole workflows in one call.
+- [yonro/memory-os-cli](yonro-memory-os-cli.md) — XMemo: user-owned agent memory to save, search, recall and manage scoped memories across AI tools.
+- [contextstream/mcp-server](contextstream-mcp-server.md) — Persistent memory for AI coding tools with semantic code search, knowledge graphs, impact analysis and decision tracking.
+- [conversation-handoff-mcp](conversation-handoff-mcp.md) — Hand off conversation context between Claude Desktop projects and across MCP clients, stored in memory rather than files.
+- [cryptosquanch/legends-mcp](cryptosquanch-legends-mcp.md) — Chat with AI personas of famous founders and investors such as Elon Musk, Warren Buffett and Steve Jobs, based on their voices, frameworks and principles.
+- [dcostenco/prism-mcp](dcostenco-prism-mcp.md) — Local SQLite agent memory with a web dashboard, session rewind/replay, cross-client memory sharing, morning briefings and progressive context loading.
+- [darktw/usecortex-mcp](darktw-usecortex-mcp.md) — Persistent knowledge memory for agents: read context into projects and write discoveries back, organized by topic with AES-256 encryption.
+- [davidgut1982/lore-mcp](davidgut1982-lore-mcp.md) — Persistent knowledge layer for agents: knowledge base, investigation threads and a journal with multi-agent attribution, on SQLite, PostgreSQL or Supabase.
+- [dbwls99706/deadends.dev](dbwls99706-deadends-dev.md) — Known dead ends for code errors and country-specific rules (visa, banking, legal): fixes that look right but fail, and workarounds with success rates.
+- [decisionnode/DecisionNode](decisionnode-decisionnode.md) — Record development decisions as structured JSON with Gemini embeddings and search them semantically from a local store shared across AI tools.
+- [giuliohome-org/doc-manager](giuliohome-org-doc-manager.md) — Personal document vault on Azure Blob Storage: read, write and search plaintext docs, while client-side AES-256-GCM encrypted docs stay opaque.
+- [Destrayon/Connapse](destrayon-connapse.md) — Self-hosted knowledge backend for agents with hybrid vector and keyword search and container-isolated indexes.
+- [dengls24/annota](dengls24-annota.md) — Annotate papers in Zotero: highlight key findings with semantic color coding, explain formulas and write structured reading notes.
+- [deusXmachina-dev/memorylane](deusxmachina-dev-memorylane.md) — Desktop app that captures screen activity, stores AI summaries and OCR text locally, and exposes the history via semantic search and a timeline.
+- [dexio-wiki/dexio](dexio-wiki-dexio.md) — One wiki that all your agents read and write over MCP, from any machine: search, read, write, edit and move Markdown pages, with every version kept and the…
+- [dnotitia/akb](dnotitia-akb.md) — Organizational knowledge base: Markdown docs, PostgreSQL tables and files linked by a URI graph, with hybrid search, Git history and multi-tenant ACLs.
+- [dodopayments/contextmcp](dodopayments-contextmcp.md) — Self-hosted documentation indexer that serves docs from various sources to agents with semantic search.
+- [doobidoo/MCP-Context-Provider](doobidoo-mcp-context-provider.md) — Static server providing persistent tool-specific context and rules to AI models.
+- [doobidoo/mcp-memory-service](doobidoo-mcp-memory-service.md) — Memory service with semantic search, persistent storage and autonomous memory consolidation.
+- [dot-RealityTest/obsidian-codex-mcp](dot-realitytest-obsidian-codex-mcp.md) — Local Obsidian vault access working directly on Markdown files without the Obsidian app or plugins, with read-only mode, backup-on-write and path isolation.
+- [DollhouseMCP/mcp-server](dollhousemcp-mcp-server.md) — Reusable personas, skills, templates, agents and memory for AI clients, with dynamic permissions, versioning and a public collection of shareable content.
+- [DomDemetz/claude-soul](domdemetz-claude-soul.md) — Learning engine for Claude Code: extracts signals from sessions, runs periodic reflections and promotes or retires behavioral frameworks based on evidence.
+- [dshakes/distil](dshakes-distil.md) — Reversibly compress large tool outputs into recoverable handles, expand them on demand and track token and cost savings locally.
+- [edobusy/agenthold](edobusy-agenthold.md) — Shared versioned state store with optimistic concurrency control for coordinating concurrent agents, plus SQLite-backed claim/release locks and an audit log.
+- [elvismdev/mem0-mcp-selfhosted](elvismdev-mem0-mcp-selfhosted.md) — Self-hosted mem0 for Claude Code: Qdrant vector search, Neo4j knowledge graph, Ollama embeddings and session hooks for automatic cross-session memory.
+- [entanglr/zettelkasten-mcp](entanglr-zettelkasten-mcp.md) — Zettelkasten knowledge management: create, link and search atomic notes.
+- [g1itchbot8888-del/agent-memory](g1itchbot8888-del-agent-memory.md) — Three-layer agent memory (identity, active, archive) with semantic search, graph relationships and conflict detection.
+- [giskard09/giskard-oasis](giskard09-giskard-oasis.md) — Refocuses an agent that has lost its thread by distilling its original purpose, paid per use via Lightning or Arbitrum.
+- [ErebusEnigma/context-memory](erebusenigma-context-memory.md) — Persistent, searchable context storage across Claude Code sessions using SQLite FTS5, with AI session summaries, checkpoint recovery and a web dashboard.
+- [majiayu000/remem](majiayu000-remem.md) — Local-first memory for Claude Code and Codex: hooks capture sessions and an LLM distills them into SQLite, with auditable full-text and embedding recall.
+- [MakeaMouse/fish-bridge-mcp](makeamouse-fish-bridge-mcp.md) — Compresses AI chat sessions into a compact typed knowledge graph, with optional offline extraction via Ollama.
+- [ManuelWarland/MemCore](manuelwarland-memcore.md) — Long-term memory shared by every AI coding assistant on one machine: a single local SQLite file with FTS5 search and optional multilingual semantic search…
+- [evc-team-relay-mcp](evc-team-relay-mcp.md) — Read and write notes in your Obsidian vault.
+- [dl4rce/flaiwheel](dl4rce-flaiwheel.md) — Self-hosted memory and governance for coding agents: structured knowledge capture, hybrid search with reranking, codebase analysis and git-native storage.
+- [fabio-rovai/open-ontologies](fabio-rovai-open-ontologies.md) — Ontology engineering for OWL, RDF and SPARQL: validate, query, diff, lint, version and govern knowledge graphs on an Oxigraph triple store.
+- [grooverLab/fable](grooverlab-fable.md) — Full-text and semantic search over Claude Code transcript history, with exact thread recall and durable remembered facts in local SQLite.
+- [fenghaochang/LoreRoom](fenghaochang-loreroom.md) — Encrypted local memory for Claude Code Telegram bots: captures both sides of conversations, with SQLCipher encryption and CJK-friendly full-text search.
+- [FilippoPilo/cortex-connector](filippopilo-cortex-connector.md) — Persistent semantic memory for agents with quality-gated writes, typed claims, conflict tracking and coherence scoring.
+- [gamosoft/NoteDiscovery](gamosoft-notediscovery.md) — Self-hosted Markdown knowledge base with a web UI: search, read, create, edit, tag and template notes.
+- [geondongkim/geond-agent-protocol](geondongkim-geond-agent-protocol.md) — Local-first shared memory and coordination for coding agents on PostgreSQL/pgvector: repository evidence, reservations, handoffs and code graph context.
+- [gingugu/gingugu](gingugu-gingugu.md) — Local SQLite memory for coding assistants: typed memories with confidence lifecycle, namespaces, knowledge graph, hybrid search and keychain credential vault.
+- [GistPad-MCP](gistpad-mcp.md) — Manage personal knowledge, daily notes and reusable prompts in GitHub Gists, as a companion to GistPad.
+- [GetCacheOverflow/CacheOverflow](getcacheoverflow-cacheoverflow.md) — Knowledge marketplace where agents search, publish and unlock previously solved problems, earning tokens for shared solutions.
+- [goyohan0611-png/graph-mind](goyohan0611-png-graph-mind.md) — One local memory shared by every coding agent and model on your PC: every conversation saved verbatim with zero LLM calls, recalled as a ~3k-token evidence…
+- [graphlit-mcp-server](graphlit-mcp-server.md) — Ingest content from Slack, Discord, websites, Google Drive, Linear or GitHub into a Graphlit project, then search and retrieve relevant knowledge.
+- [gregario/lego-oracle](gregario-lego-oracle.md) — LEGO sets, parts, minifigs and inventories from Rebrickable: search and compare sets, find parts by colour, browse themes and discover alternate builds.
+- [gregario/brewers-almanack](gregario-brewers-almanack.md) — Brewing knowledge: BJCP 2021 beer styles, hop varieties, malts, yeasts, water profiles, off-flavour diagnosis, recipe suggestions and food pairings.
+- [gregario/3dprint-oracle](gregario-3dprint-oracle.md) — 3D printing filament knowledge base from SpoolmanDB: search filaments, compare material properties and print settings, and diagnose print issues.
+- [hannesrudolph/mcp-ragdocs](hannesrudolph-mcp-ragdocs.md) — Retrieve and process documentation through vector search to augment responses with relevant documentation context.
+- [HBarefoot/engram](hbarefoot-engram.md) — Offline persistent agent memory on SQLite with local embeddings, hybrid semantic and full-text recall, secret detection and contradiction handling.
+- [HatmanStack/ragstack-mcp](hatmanstack-ragstack-mcp.md) — Access RAGStack serverless knowledge bases on AWS: search, chat with AI answers, upload documents and media, scrape websites and analyze metadata.
+- [hermes-labs-ai/fidelis](hermes-labs-ai-fidelis.md) — Local-first memory with verbatim recall, querying, health checks and context-sensitive orientation, using LLM-free retrieval by default.
+- [hifriendbot/cogmemai-mcp](hifriendbot-cogmemai-mcp.md) — Cloud-based persistent memory for Claude Code with semantic search, AI extraction and project scoping.
+- [HiAi-gg/docsmint](hiai-gg-docsmint.md) — Cloud or self-hosted knowledge workspace with hybrid document search, GraphRAG, and scoped MCP tools for reading and updating documents.
+- [hjqcan/GoodMemory](hjqcan-goodmemory.md) — Local-first, auditable memory with scoped user/project storage in SQLite or Postgres, read-only recall by default and opt-in reviewed writeback.
+- [hoornet/agentdocs-mcp](hoornet-agentdocs-mcp.md) — Read, create, update, comment on and share AgentDocs Markdown docs, with full-text and semantic search.
+- [hubinoretros/deep-thinker](hubinoretros-deep-thinker.md) — Reasoning via a DAG thought graph with multiple strategies (dialectic, analogical, abductive and more), stuck detection, confidence scoring and self-critique.
+- [hyunjae-labs/lore](hyunjae-labs-lore.md) — Local semantic search across Claude Code conversations with hybrid vector and keyword search, background indexing and per-project selection.
+- [DanceNitra/inspeximus](dancenitra-inspeximus.md) — Agent memory with a correction channel: supersede or revert stale facts, block restated old values, and prove deletions with signed tombstones.
+- [idapixl/algora-mcp-server](idapixl-algora-mcp-server.md) — Browse and search open-source bounties on Algora, filter by org, tech or amount, and get top bounties and aggregate stats.
+- [IgorGanapolsky/mcp-memory-gateway](igorganapolsky-mcp-memory-gateway.md) — Pre-action gates that prevent coding agents from repeating known mistakes by turning captured feedback and failures into rules enforced via hooks.
+- [Ikalus1988/MisakaNet](ikalus1988-misakanet.md) — Agent failure memory: search verified debugging lessons from real engineering sessions.
+- [irisxc4/memoryguard](irisxc4-memoryguard.md) — Local-first governed shared memory for coding agents with CLI and desktop console: classify, dedupe, supersede, quarantine and roll back memories.
+- [zsxh1990/pr-genius](zsxh1990-pr-genius.md) — Pull request contribution advisor based on case studies from real repos: merge probability analysis, pattern matching and contribution strategy.
+- [JAAvila-Of/vivac](jaavila-of-vivac.md) — A provenance tree for coding agents: every node records the node it was born from, so the agent can ask why the work is where it is. A session brief with…
+- [jackjin1997/markindex](jackjin1997-markindex.md) — Vectorless, structure-first retrieval over large Markdown libraries: walk library, folder, document and section trees, read original text with line numbers…
+- [jaimenbell/rag-mcp](jaimenbell-rag-mcp.md) — Minimal local RAG that vector-searches a document corpus and returns cited passages.
+- [JamesANZ/cross-llm-mcp](jamesanz-cross-llm-mcp.md) — Cross-LLM communication and memory sharing so different AI models can collaborate and share context across conversations.
+- [JamesANZ/memory-mcp](jamesanz-memory-mcp.md) — Store and retrieve conversation memories from multiple LLMs in MongoDB, with timestamps and LLM identification.
+- [japlete/md-vision-mcp](japlete-md-vision-mcp.md) — Read Markdown with inlined images and heading indexes for agentic RAG over local docs or allowed URLs.
+- [jaydubya818/Agentic-KB](jaydubya818-agentic-kb.md) — Persistent engineering knowledge base with source-backed wiki, agent-runtime and repository-context tools, contradiction and staleness checks, and PIN-gated…
+- [jcdickinson/simplemem](jcdickinson-simplemem.md) — Simple memory for coding agents using DuckDB and VoyageAI.
+- [jagoff/memo](jagoff-memo.md) — Local-first semantic memory: hybrid search, Markdown storage, MLX or CPU embeddings, contradiction detection, time-travel history and cross-machine git sync.
+- [Jidoseal/jidoseal-mcp](jidoseal-jidoseal-mcp.md) — Checks a folder of Markdown docs for missing Open Knowledge Format (OKF) frontmatter fields, locally; writes only .jidoseal/ in that folder. MCP server…
+- [JinNing6/Noosphere](jinning6-noosphere.md) — Shared community repository of insights, decisions, warnings and patterns with semantic search, a 3D interactive globe and automated content moderation.
+- [jinzcdev/markmap-mcp-server](jinzcdev-markmap-mcp-server.md) — Convert Markdown into interactive markmap mind maps with PNG/JPG/SVG export and live browser preview.
+- [junnnnnw00/obsidian-everywhere](junnnnnw00-obsidian-everywhere.md) — Graph-native Obsidian vault access: search, backlinks, n-hop neighborhoods, paginated reads and safe partial and bulk edits with dry-run and rollback.
+- [kael-bit/engram-rs](kael-bit-engram-rs.md) — Hierarchical agent memory engine with automatic decay, promotion, semantic deduplication and a self-organizing topic tree.
+- [kage-core/Kage](kage-core-kage.md) — Git-native memory for coding agents: JSON entries in the repo, verified against cited code so hallucinated citations are rejected and stale memory is withheld.
+- [kaliaboi/mcp-zotero](kaliaboi-mcp-zotero.md) — Work with collections and sources in your Zotero Cloud library.
+- [khwanlabs/khwan-mcp](khwanlabs-khwan-mcp.md) — Memory for coding agents built around corrections: distills your corrections into standing rules for later sessions, with isolated memory per project.
+- [koraykutlu/kut](koraykutlu-kut.md) — Local-first personal CRM that keeps your contacts as plain Markdown files. Read-only MCP server (`kut.pyw --mcp`): search people, open a contact card, see…
+- [krimto-labs/krimto](krimto-labs-krimto.md) — Team memory for coding agents stored as Markdown in git, with user, team and org access levels and hybrid SQLite/sqlite-vec retrieval.
+- [Krzysztof318/MailFathom](krzysztof318-mailfathom.md) — Self-hosted email search: syncs IMAP mailboxes into PostgreSQL to list, search and read mail and ask cited questions across the archive.
+- [kunickiaj/codemem](kunickiaj-codemem.md) — Persistent coding memory across sessions, machines and teammates, with memory search, optional sync, project sharing and automatic capture.
+- [kunwar-shah/claudex](kunwar-shah-claudex.md) — Persistent memory and full-text search over Claude Code conversation history indexed into SQLite, with session summaries and a web UI for exploration.
+- [Kyrzin/kybase](kyrzin-kybase.md) — Self-hosted Markdown knowledge base that doubles as persistent memory for AI agents: a notes app you browse and edit (wikilinks, backlinks, graph), 18 MCP…
+- [renezander030/agentic-task-system](renezander030-agentic-task-system.md) — Turns your task manager into agent memory with hybrid retrieval over TickTick or an Obsidian vault, without a separate vector database.
+- [KVANTRA-dev/NOUZ-MCP](kvantra-dev-nouz-mcp.md) — Semantic knowledge graph for Obsidian with graph, classification and hierarchy modes, local embeddings, semantic bridge discovery and drift detection.
+- [LamantinAI/kaeru](lamantinai-kaeru.md) — Memory for LLM agents: a local graph where the agent itself keeps decisions, tasks, hypotheses and reasoning between sessions, and gets a summary of what is…
+- [labyrinth-analytics/loredocs](labyrinth-analytics-loredocs.md) — Local-first knowledge vaults for project docs, specs, and reference material. Tagged, versioned, full-text searchable, injectable into context; works with…
+- [leesgit/passbaton](leesgit-passbaton.md) — Local session continuity across Claude Code, Codex CLI and Gemini CLI: context injection on start, compaction handover, memory, tasks and multilingual search.
+- [lets-order-some-fries/loreweave](lets-order-some-fries-loreweave.md) — Temporal memory for markdown vaults: bitemporal facts, entity timelines, spaced-repetition review and hybrid graph search, with no LLM calls in the core.
+- [lfrmonteiro99/memento-mcp](lfrmonteiro99-memento-mcp.md) — Local-first memory for coding agents: stores facts, decisions, patterns and architecture notes in SQLite to reduce repeated context across sessions.
+- [Lians-ai/Lians](lians-ai-lians.md) — Bitemporal agent memory with deterministic fact supersession, point-in-time recall, memory lineage, conflict tracking and tamper-evident audit trails.
+- [liftkkkk/owl-mcp](liftkkkk-owl-mcp.md) — Work with OWL/TTL/RDF ontologies: SPARQL queries, HermiT/Pellet reasoning and CRUD operations on knowledge graphs.
+- [linxule/lotus-wisdom-mcp](linxule-lotus-wisdom-mcp.md) — Contemplative problem-solving using the Lotus Sutra's framework: multi-perspective reasoning, skillful means, non-dual recognition and meditation pauses.
+- [knaisoma/data-olympus](knaisoma-data-olympus.md) — Git-native Markdown knowledge base for coding agents with proposed vs. accepted guidance, validity windows, supersession chains and status-aware retrieval.
+- [lithtrix/lithtrix-mcp](lithtrix-lithtrix-mcp.md) — Persistent cross-vendor agent memory with credibility-scored web search, browser fetch and a shared Commons pool under one stable key.
+- [louis030195/easy-obsidian-mcp](louis030195-easy-obsidian-mcp.md) — Create, read, update and search notes in local Obsidian vaults via filesystem access.
+- [LuizEduPP/rememb](luizedupp-rememb.md) — Persistent agent memory in local JSON with sectioned entries (project, user, context), semantic search, a CLI and per-project scope.
+- [lyonzin/knowledge-rag](lyonzin-knowledge-rag.md) — Offline RAG for Claude Code with hybrid BM25 and semantic search, cross-encoder reranking, Markdown-aware chunking and query expansion.
+- [markmhendrickson/neotoma](markmhendrickson-neotoma.md) — Deterministic state layer for agents: versioned entities like contacts, tasks and decisions with immutable observations and provenance, in local SQLite.
+- [mattjoyce/mcp-persona-sessions](mattjoyce-mcp-persona-sessions.md) — Structured, persona-driven sessions for interview preparation, personal reflection and coaching, with timers and performance evaluation.
+- [max-ramas/rms-memory-mcp](max-ramas-rms-memory-mcp.md) — Local-first memory for coding agents: hybrid LanceDB/Tantivy search, Markdown and code indexes, per-project vaults and recall that abstains on low confidence.
+- [maxkuminov/obsidian-mcp](maxkuminov-obsidian-mcp.md) — Self-hosted Obsidian server: semantic and full-text search on PostgreSQL/pgvector, wikilink graph traversal, atomic note CRUD and a self-describing vault guide.
+- [mcasdfgf/mcp-roo-memory](mcasdfgf-mcp-roo-memory.md) — Persistent fractal graph memory for coding agents: semantic search, hot/cold/archive context tiers and decision tracking on Qdrant.
+- [udjin-labs/mnemostack](udjin-labs-mnemostack.md) — Self-hosted hybrid agent memory on Qdrant combining vector search, BM25, temporal retrieval and an optional Memgraph knowledge graph via rank fusion.
+- [tverney/mcp-agent-memory](tverney-mcp-agent-memory.md) — Filesystem-based persistent agent memory: agents read, write and search memory while a background daemon handles consolidation and extraction.
+- [memstate-ai/memstate-mcp](memstate-ai-memstate-mcp.md) — Versioned, structured agent memory storing facts as keypaths with full version history and automatic conflict detection.
+- [michael-denyer/memory-mcp](michael-denyer-memory-mcp.md) — Two-tier memory (hot cache and cold semantic search) that promotes frequently used patterns, extracts knowledge from Claude outputs and links it in a graph.
+- [michielinksee/linksee-memory](michielinksee-linksee-memory.md) — Local-first cross-agent memory in one SQLite file with a layered structure, Ebbinghaus-style forgetting and detection of code drifting from past decisions.
+- [mercurialsolo/counsel-mcp](mercurialsolo-counsel-mcp.md) — Strategic reasoning, multi-perspective debate analysis and interactive advisory sessions via the Counsel API.
+- [mlorentedev/hive](mlorentedev-hive.md) — On-demand Obsidian vault access: adaptive context loading, full-text and ranked search, health checks, auto git commits and delegation to cheaper models.
+- [TheGoatPsy/mneme](thegoatpsy-mneme.md) — Vault-native, accountable memory for Claude Code: Markdown is the source of truth, with no LLM on the Stop path and redaction before any derived store.
+- [mnlt/wellread](mnlt-wellread.md) — Shared research cache across agents: reuse answers from verified sources, or save new research for the next developer.
+- [modelcontextprotocol/server-memory](modelcontextprotocol-server-memory.md) — Knowledge graph-based persistent memory for maintaining context.
+- [DuhoKim/NebulaMind](duhokim-nebulamind.md) — Collaborative astronomy wiki written by AI agents, who can register, read, edit, vote and comment via an open API.
+- [MWGMorningwood/Central-Memory-MCP](mwgmorningwood-central-memory-mcp.md) — Workspace-grounded knowledge graph shared by multiple developers, hosted on Azure Functions with Table storage.
+- [MyAgentHubs/aimemo](myagenthubs-aimemo.md) — Local, dependency-free memory server shipped as a single binary.
+- [n24q02m/mnemo-mcp](n24q02m-mnemo-mcp.md) — Persistent memory with SQLite hybrid search (FTS5 and semantic), built-in Qwen3 embeddings and rclone sync across machines.
+- [ndjordjevic/pinrag](ndjordjevic-pinrag.md) — RAG over PDFs, YouTube videos, GitHub repos and Discord exports: index documents and query them with citations.
+- [nfemmanuel/iranti](nfemmanuel-iranti.md) — Persistent shared memory for coding agents: facts stored as entity/key/value triples with hybrid semantic search, task checkpoints and conflict resolution.
+- [NicolasPrimeau/artel](nicolasprimeau-artel.md) — Self-hosted coordination for agent fleets: shared semantic memory, tasks, agent-to-agent messaging, session handoffs and cross-agent knowledge synthesis.
+- [nicholasglazer/gnosis-mcp](nicholasglazer-gnosis-mcp.md) — Make Markdown documentation searchable: loads it into SQLite or PostgreSQL with keyword search and optional pgvector hybrid semantic search.
+- [nonatofabio/local-faiss-mcp](nonatofabio-local-faiss-mcp.md) — Local FAISS vector database for RAG with document ingestion (PDF, TXT, MD, DOCX), semantic search, re-ranking and CLI tools for indexing and querying.
+- [nworks3d/THOR-memory-bible-for-AI](nworks3d-thor-memory-bible-for-ai.md) — Local memory for coding agents where rules with machine-checkable proofs block matching commands, plus an append-only event log and per-project scoping.
+- [olgasafonova/mediawiki-mcp-server](olgasafonova-mediawiki-mcp-server.md) — Connect to any MediaWiki wiki (Wikipedia, Fandom, corporate wikis) to search, read and edit pages, analyze links, view revision history and convert to Markdown.
+- [omega-memory/omega-memory](omega-memory-omega-memory.md) — Local-first persistent memory for coding agents with semantic search, auto-capture, cross-session learning and intelligent forgetting.
+- [ontorata/ratary](ontorata-ratary.md) — Persistent coding memory for AI assistants with hybrid search, a knowledge graph and token-efficient context, self-hostable on D1, Postgres, MariaDB or Docker.
+- [oomkapwn/enquire-mcp](oomkapwn-enquire-mcp.md) — Long-term agent memory backed by a local Obsidian vault: hybrid retrieval with reranking, agentic RAG, wikilink community detection, Obsidian Bases and PDF OCR.
+- [AgentBase1/mcp-server](agentbase1-mcp-server.md) — AgentBase: an open registry of agent instruction files. Search and retrieve system prompts, skills, workflows, domain packs and safety filters.
+- [pallaprolus/mendeley-mcp](pallaprolus-mendeley-mcp.md) — Search your Mendeley library, browse folders, get document metadata, search the global catalog and add papers to your collection.
+- [paladini/mcp-me](paladini-mcp-me.md) — Digital identity for AI tools: your bio, career, skills and projects in local YAML profiles, auto-generated from public APIs such as GitHub, Medium and Strava.
+- [Patdolitse/piia-engram](patdolitse-piia-engram.md) — Persistent user identity across AI tools: preferences, lessons and decisions in local JSON with staged verification, AES-256-GCM encryption and cross-tool sync.
+- [pavelpilyak/devrecall](pavelpilyak-devrecall.md) — Local-first index of your commits, PRs, Jira/Linear tickets, Confluence docs, Slack threads and calendar events to search and cite past work.
+- [Pantheon-Security/notebooklm-mcp-secure](pantheon-security-notebooklm-mcp-secure.md) — Security-hardened Google NotebookLM access: session-based conversations, notebook library management and source-grounded answers, with post-quantum encryption.
+- [pathrule/mcp](pathrule-mcp.md) — Path-scoped team memories, rules and skills for coding agents from Pathrule workspaces.
+- [paultaki/ailooplibrary-mcp](paultaki-ailooplibrary-mcp.md) — Read-only AI Loop Library catalog of bounded agent work loops: pick one for a goal and render a run protocol with verification, stop conditions and budgets.
+- [pi22by7/In-Memoria](pi22by7-in-memoria.md) — Cumulative memory and pattern learning for coding assistants, with local SQLite/SurrealDB storage for semantic codebase analysis.
+- [penfieldlabs/penfield-mcp](penfieldlabs-penfield-mcp.md) — Penfield: persistent memory with hybrid BM25/vector/graph search, typed graph relations, context checkpoints, artifact storage and a personality system.
+- [Piccolo123/url-manager-mcp](piccolo123-url-manager-mcp.md) — Bookmark and knowledge manager where agents save web pages and auto-categorize them into collections with search, tags and shared folders.
+- [pinecone-io/assistant-mcp](pinecone-io-assistant-mcp.md) — Connect to your Pinecone Assistant and retrieve context from its knowledge engine.
+- [pipeshub-ai/mcp-server](pipeshub-ai-mcp-server.md) — Permission-aware enterprise search and RAG over business apps such as Google Workspace, Microsoft 365, Slack and Jira.
+- [pomazanbohdan/memory-mcp-1file](pomazanbohdan-memory-mcp-1file.md) — Persistent semantic and graph-based agent memory in a single self-contained binary with embedded database and models.
+- [ProfessionalWiki/MediaWiki-MCP-Server](professionalwiki-mediawiki-mcp-server.md) — Read, search and edit any MediaWiki wiki, including Wikipedia and Fandom, with multi-wiki support and Semantic MediaWiki, Cargo, Wikibase and NeoWiki queries.
+- [qingchejun/mindlm-io](qingchejun-mindlm-io.md) — Turn text, web pages and local PDFs into editable Markdown outlines and offline interactive HTML mind maps, with no API key required.
+- [Rarefied-Earth/groundwork](rarefied-earth-groundwork.md) — Company state for operating small businesses: brand, voice, charter, priorities, modules and skills.
+- [ragieai/mcp-server](ragieai-mcp-server.md) — Retrieve context from your Ragie knowledge base, connected to sources like Google Drive, Notion and Jira.
+- [ravi-labs/mindmap-mcp-server](ravi-labs-mindmap-mcp-server.md) — Local-first memory and context handoff across AI tools, with graceful decay, a persona layer and a portable memory passport.
+- [remembra-ai/remembra](remembra-ai-remembra.md) — Self-hosted persistent agent memory with entity resolution, PII detection, AES-256-GCM encryption at rest and hybrid search.
+- [renezander030/graphiti-local](renezander030-graphiti-local.md) — Local temporal knowledge graph with six read-only retrieval tools, Ollama inference, embedded LadybugDB, and a separate human-approved CLI write queue.
+- [redleaves/context-keeper](redleaves-context-keeper.md) — LLM-driven context and memory management: short- and long-term memory with vector, timeline and knowledge graph retrieval plus reranking.
+- [riponcm/projectmem](riponcm-projectmem.md) — Local-first memory for coding agents: records issues, failed attempts, fixes and decisions, re-injects them and warns at git commit before a repeated mistake.
+- [Skitchy/rekindle](skitchy-rekindle.md) — Session continuity: start-of-session reports with gap detection and scoring, structured end-of-session capture and BM25 memory search, stored in local SQLite.
+- [roampal-ai/roampal-core](roampal-ai-roampal-core.md) — Outcome-based persistent memory for Claude Code and OpenCode: memories that help get promoted, misleading ones get demoted.
+- [roomi-fields/notebooklm-mcp](roomi-fields-notebooklm-mcp.md) — Automate Google NotebookLM: Q&A with citations, audio podcasts, video, content generation, source management and notebook library.
+- [roomi-fields/rtfm](roomi-fields-rtfm.md) — Local retrieval layer for coding agents: indexes a whole project (code, docs, PDFs, ebooks, spreadsheets, SQLite, Obsidian vaults) into SQLite FTS5 with…
+- [rushikeshmore/CodeCortex](rushikeshmore-codecortex.md) — Persistent codebase knowledge for coding agents: symbols, dependency graphs, co-change patterns and architectural decisions extracted with tree-sitter.
+- [rwnalds/engram](rwnalds-engram.md) — Git-backed, Obsidian-compatible Markdown second brain for agents: search ranks live notes above superseded ones, with per-agent tokens and a git audit trail.
+- [s60yucca/mnemos](s60yucca-mnemos.md) — Persistent memory for coding agents storing architecture decisions, bug root causes and conventions, with full-text search and token-budgeted context assembly.
+- [seanmarkwei/agentram-mcp](seanmarkwei-agentram-mcp.md) — Key-value agent memory over an HTTP API without embeddings: store, retrieve, search and share memory across agents with shared namespaces and TTLs.
+- [SagaPeak/artifacta-mcp](sagapeak-artifacta-mcp.md) — Artifact store for agent outputs: persist, retrieve and share them across runs and sessions, with content-hash dedup and expiring share links.
+- [SAIHM-Admin/saihm-mcp](saihm-admin-saihm-mcp.md) — Encrypted persistent agent memory anchored on COTI V2 mainnet: remember, recall, share, and forget with GDPR Article 17 erasure.
+- [SAIHM-Admin/saihm-mcp-server-pro](saihm-admin-saihm-mcp-server-pro.md) — Client-side encrypted agent memory where the server only sees ciphertext, with post-quantum identity and sharing and crypto-shredding for GDPR erasure.
+- [SaravananJaichandar/world-model-mcp](saravananjaichandar-world-model-mcp.md) — Temporal codebase knowledge graph that links test failures to code changes, learns co-edit patterns, predicts regression risk and enforces edit constraints.
+- [sachitrafa/YourMemory](sachitrafa-yourmemory.md) — Persistent agent memory with Ebbinghaus-style decay, hybrid BM25/vector retrieval, entity graph for multi-hop reasoning, auto-pruning and a browser dashboard.
+- [Schubeler-Consulting/knowmind](schubeler-consulting-knowmind.md) — Agent memory and knowledge graph hosted in Germany: hybrid BM25, vector and Neo4j graph recall with reranking, typed relations and a bi-temporal store.
+- [SecurityRonin/alaya](securityronin-alaya.md) — Neuroscience-inspired local agent memory that stores episodes, consolidates knowledge over time and builds a personal knowledge graph with semantic recall.
+- [SecurityRonin/docx-mcp](securityronin-docx-mcp.md) — Read and edit Word (.docx) documents with tracked changes, threaded comments, footnotes, OOXML-level validation and document auditing.
+- [setheerwagen/mcp-modelmanager](setheerwagen-mcp-modelmanager.md) — Manage a local model machine: pull and remove Ollama models, switch the inference service between models and run LoRA fine-tuning jobs.
+- [sheawinkler/ContextLattice](sheawinkler-contextlattice.md) — Private-by-default memory and context layer for agents with staged retrieval across fused data backends and long-horizon context continuity.
+- [writerslogic/scrivener-mcp](writerslogic-scrivener-mcp.md) — Work with Scrivener 3 writing projects: document management, writing analysis, semantic search, character and plot memory, and content enhancement.
+- [shinpr/mcp-local-rag](shinpr-mcp-local-rag.md) — Local document search: semantic search over PDF, DOCX, TXT and Markdown files with LanceDB vector storage and local embeddings.
+- [ShipItAndPray/mcp-memory](shipitandpray-mcp-memory.md) — SQLite-based memory with exponential decay: memories strengthen on access and fade when unused, limiting unbounded context growth.
+- [sgx-labs/statelessagent](sgx-labs-statelessagent.md) — Local agent memory with provenance tracking that detects when sources change, plus session handoffs, decision records, semantic search and a knowledge graph.
+- [l33tdawg/sage](l33tdawg-sage.md) — Local institutional memory for agents where BFT consensus among validators approves every memory before it is committed.
+- [laradji/deadzone](laradji-deadzone.md) — Offline semantic search over library documentation using a pre-built, version-pinned vector index fetched and verified on first launch.
+- [leonardsellem/hypermnesic](leonardsellem-hypermnesic.md) — Git-first agent memory: Markdown files are the source of truth, the index is disposable and writes are reviewable commits, with hybrid search and a CLI.
+- [Smart-AI-Memory/empathy-framework](smart-ai-memory-empathy-framework.md) — Five-level AI collaboration system with persistent local-first memory via MemDocs and anticipatory capabilities.
+- [rps321321/obsidian-mcp-pro](rps321321-obsidian-mcp-pro.md) — Obsidian vault access: full-text search, note CRUD, frontmatter queries, tags, backlinks, graph traversal, orphan and broken link detection, and canvas support.
+- [Semiotronika/LINZA-MCP](semiotronika-linza-mcp.md) — Review-gated sidecar for Markdown workspaces: indexes notes into SQLite and proposes links, domains and memory with evidence, editing files only after review.
+- [smith-and-web/obsidian-mcp-server](smith-and-web-obsidian-mcp-server.md) — Remote Obsidian vault management over SSE: notes, directories, frontmatter, tags, search and link operations, deployable with Docker.
+- [skill-seekers/Skill_Seekers](skill-seekers-skill-seekers.md) — Turn docs, GitHub repos, PDFs, videos, Confluence, Notion and Slack/Discord into AI skills and RAG knowledge, exportable to vector databases like Qdrant.
+- [stevepridemore/graph-memory](stevepridemore-graph-memory.md) — Personal knowledge graph for Claude on Neo4j with typed entities, bi-temporal edges, weighted decay, contradiction detection and local embeddings.
+- [stoneskin/open-memex](stoneskin-open-memex.md) — Local-first persistent memory for AI coding agents: plain Markdown as the source of truth with SQLite FTS5 search, one memory shared across VS Code, Visual…
+- [SubDownload/subdownload-mcp](subdownload-subdownload-mcp.md) — YouTube knowledge base: summarize videos, fetch transcripts (even without captions), search channels and playlists, and save results for cross-session recall.
+- [sunsatosolutions/Vulcanus](sunsatosolutions-vulcanus.md) — Generates a Git-versioned Markdown vault as project memory, then serves it over MCP. `recall` returns a project's capsule plus the read-next list and warns…
+- [TechDocsStudio/biel-mcp](techdocsstudio-biel-mcp.md) — Answer questions from your product documentation using Biel.ai's RAG system.
+- [The-40-Thieves/obsidian-tc](the-40-thieves-obsidian-tc.md) — Obsidian vault access with role-based access control, native search, multi-vault support, pluggable embeddings and SLSA provenance.
+- [threadctx-dev/threadctx-mcp](threadctx-dev-threadctx-mcp.md) — Local-first shared team memory for coding agents: decisions, fixes and gotchas persist per repo and are shared across teammates' agents.
+- [tomohiro-owada/devrag](tomohiro-owada-devrag.md) — Local RAG for semantic vector search over Markdown documents with sqlite-vec and multilingual-e5-small embeddings, filterable by directory and filename.
+- [topoteretes/cognee](topoteretes-cognee.md) — Memory manager for AI apps and agents using graph and vector stores, with ingestion from many data sources.
+- [timowhite88/farnsworth-syntek](timowhite88-farnsworth-syntek.md) — Seven-layer recursive agent memory with context branching, holographic recall, dream consolidation and on-chain persistence.
+- [topskychen/tilde](topskychen-tilde.md) — Portable, privacy-first AI identity: a home directory for your agents with profile management, skills, resume import and team sync.
+- [tstockham96/engram](tstockham96-engram.md) — Agent memory with semantic recall, automatic consolidation, contradiction detection and a bi-temporal knowledge graph.
+- [teampolarity/cosmos-mcp](teampolarity-cosmos-mcp.md) — Portable personal knowledge graph shared across AI clients, with sources like iMessage, browser history, calendar, shell history, Notion and Obsidian.
+- [TeamSafeAI/LIFE](teamsafeai-life.md) — Persistent identity for AI agents: servers for drives, relationships, semantic memory with decay, working threads, learned patterns, journaling and forecasting.
+- [TT-Wang/cortex-plugin](tt-wang-cortex-plugin.md) — Claude Code memory plugin that mines past sessions for decisions, conventions and bug fixes, stores them in an Obsidian vault and briefs new sessions.
+- [TyKolt/kremis](tykolt-kremis.md) — Local deterministic knowledge graph on redb with no LLM or embedding calls, BLAKE3 state hashing and canonical export for byte-identical audits.
+- [unibaseio/membase-mcp](unibaseio-membase-mcp.md) — Save and query agent memory in a distributed way with Membase.
+- [upstash/context7](upstash-context7.md) — Up-to-date code documentation for LLMs and AI code editors.
+- [varun29ankuS/shodh-memory](varun29ankus-shodh-memory.md) — Cognitive agent memory with Hebbian learning, a three-tier architecture and knowledge graphs, running offline on edge devices.
+- [vbcherepanov/total-agent-memory](vbcherepanov-total-agent-memory.md) — Local memory for coding agents: temporal knowledge graph with fact invalidation, procedural and episodic memory, AST codebase ingest and cross-project analogy.
+- [samvallad33/vestige](samvallad33-vestige.md) — Local-first cognitive agent memory with FSRS-6 scheduling, smart ingest, SQLite storage, portable sync, an embedded dashboard and optional hooks.
+- [vectorize-io/hindsight](vectorize-io-hindsight.md) — Hindsight: long-term memory for AI agents modeled on human memory.
+- [vishnu-77/openreflex](vishnu-77-openreflex.md) — Local execution memory for coding agents: injects what worked and known fixes before similar tasks and advises whether to continue, pivot or stop.
+- [vornicx/Midas](vornicx-midas.md) — Local-first long-horizon agent memory: source-traceable recall, belief revision, selective forgetting and a guard against memory-driven destructive actions.
+- [Abhigyan-Shekhar/Waggle-mcp](abhigyan-shekhar-waggle-mcp.md) — Persistent graph memory that extracts facts from conversations into typed nodes with local embeddings, supporting temporal queries and conflict detection.
+- [whynowlab/jarvis-orb](whynowlab-jarvis-orb.md) — Four-tier memory (episodic, semantic, project, procedural) with temporal scoring, contradiction detection, entity tracking and a desktop visualization orb.
+- [wnbhr/being](wnbhr-being.md) — Personality runtime for agents: persistent memory, identity (SOUL) and relationships that carry across AI clients.
+- [Wuesteon/lean-memory](wuesteon-lean-memory.md) — Embedded local agent memory in one SQLite file per namespace: hybrid retrieval, append-only history queryable at any past time and human-reviewed maintenance.
+- [TheStack-ai/waypath](thestack-ai-waypath.md) — Local-first memory CLI for coding agents: SQLite-backed context, graph-aware recall via FTS5 and RRF, and governed memory with promote and review gates.
+- [zzhang82/Agent-Memory-Bridge](zzhang82-agent-memory-bridge.md) — Local-first memory for coding agents that turns coding sessions into reusable engineering memory: decisions, gotchas and domain knowledge.
+- [teolex2020/AuraSDK](teolex2020-aurasdk.md) — Persistent, encrypted cognitive memory that works offline.
+- [arthurpanhku/Arthor-Agent](arthurpanhku-arthor-agent.md) — Cybersecurity assessment of documents, questionnaires and reports: multi-format parsing, RAG knowledge base, risks, compliance gaps and remediations.
+- [Wynelson94/longhand](wynelson94-longhand.md) — Persistent local memory for Claude Code: indexes all sessions verbatim into SQLite and ChromaDB for semantic recall across your history, with no API calls.
+- [yubinkim444/repo-memory](yubinkim444-repo-memory.md) — Shared, git-tracked memory for AI agents on the same codebase: facts, decisions and gotchas stored in a committed repo directory and synced via git.
+- [agentcivics/agentcivics](agentcivics-agentcivics.md) — Decentralized civil registry for AI agents on Sui: soulbound identities, on-chain memories, reputation and refusal records.
+- [STiFLeR7/memex](stifler7-memex.md) — Watches git repos and builds a temporal knowledge graph of modules, symbols, decisions and open problems via Graphiti and Neo4j, served to AI coding agents.
+- [Goran-Arsov/freshjots-mcp](goran-arsov-freshjots-mcp.md) — Read and write your Fresh Jots notes (plain-text notebooks with an API and append-only logging streams) — hosted connector or local stdio server.
+- [xChuCx/agent-memory](xchucx-agent-memory.md) — Git-native project memory for coding agents: Markdown in your repo, reviewable staged updates, secret/PII-safe and branch-aware, without cloud or vector DB.
+- [XuebinMa/AIWiki](xuebinma-aiwiki.md) — Search and read AiWiki, a bilingual English/Chinese encyclopedia of AI-coding pitfalls and LLM privacy protection, with cited evidence.
+- [zzallirog/weighted-compact](zzallirog-weighted-compact.md) — Inspectable memory for Claude Code: read-only search and session compaction over a local, signal-scored parse of its project logs, with no outbound calls.
+- [tribal-memory/tribal](tribal-memory-tribal.md) — Self-hosted semantic memory for an engineering team's tribal knowledge: the decisions and reasoning behind the code, queryable by the team and its agents.
+- [SVerITG/Metis](sveritg-metis.md) — Private local research second brain: project-aware memory, cited answers from your library, linked notes and meetings, daily briefs and a meeting assistant.
+- [syndicalt/zaxy](syndicalt-zaxy.md) — Event-sourced agent memory on a hash-chained log with an embedded Kuzu temporal knowledge graph, salience-based forgetting and review-gated consolidation.
+- [mnemoverse/mcp-memory-server](mnemoverse-mcp-memory-server.md) — Hosted memory that learns and forgets: feedback re-ranks useful memories, recall fades by recency and similar memories consolidate.
+- [zcag/tela](zcag-tela.md) — Self-hostable Markdown team wiki that agents can search, read and write, plus Atlas, which generates a cited wiki from git repos and Jira.
+- [zuneracodes/localkeep](zuneracodes-localkeep.md) — Local-first chronological memory: write dated, editable memory banks in a local UI, and Claude recalls them on demand via SQLite FTS5.
+- [VonderVuflya/Yggdrasil](vondervuflya-yggdrasil.md) — Local-first memory for AI coding agents on SQLite/FTS5, curated and semantically de-duplicated, with data stored as plain rows you own.
+- [teflon07/memkeeper](teflon07-memkeeper.md) — Local-first memory for AI agents in one SQLite file: hybrid BM25 and on-device embedding search with reranking, abstaining instead of returning wrong memories.
+- [yamantaka520/Agent-Memory-OS](yamantaka520-agent-memory-os.md) — Local-first memory for AI agent teams: private, team and project access control, associative recall and federated sync with revocation, plus a web console.
+- [ohad6k/emulo](ohad6k-emulo.md) — Loads a personal profile mined from your local Claude Code, Codex and OpenCode logs so agents work the way you do.
+- [ctxfile/ctxfile](ctxfile-ctxfile.md) — Snapshots a project's working state (files, git, plan, decisions) into one context object so a session can move between agents. Local and read-only.
+- [atakanelik34/Bilinc](atakanelik34-bilinc.md) — Hosted agent memory with an audit trail: writes carry provenance, contradictions surface as inspectable changes, and bad runs are recovered from snapshots.
+- [yaminbkk/NexusMem](yaminbkk-nexusmem.md) — Correlates failed shell commands and their exit codes with whatever later fixed them, alongside git diffs and docs, stored locally in SQLite.
+- [tenequm/pond](tenequm-pond.md) — Lossless archive and search for AI agent sessions across clients.
+- [kaaustubh/project-memory-mcp](kaaustubh-project-memory-mcp.md) — Persistent memory for coding agents in plain repo files (AGENTS.md, issues.jsonl): captures bugs, fixes, decisions and corrections and recalls them later.
+- [drexthealpha/Knos](drexthealpha-knos.md) — Local memory shared by all coding agents on a machine, built from sessions, commits, CLAUDE.md/AGENTS.md and ADRs, with claims that lock in-progress work.
+- [yuelinghuashu/story-cli](yuelinghuashu-story-cli.md) — Git-native Markdown content CLI: search, read, write and govern story, paper and note repos, generate READMEs, export EPUB and prepare training data.
+- [ni-c/wikijs-mcp](ni-c-wikijs-mcp.md) — Search, read and edit a self-hosted Wiki.js 2.x, including assets, comments, users and groups, with full-text grep, overwrite protection and a read-only mode.
+- [dfrancislyondflabc-tech/agentic-recall](dfrancislyondflabc-tech-agentic-recall.md) — Long-term memory over a folder of Markdown files: local hybrid retrieval (BM25F, dense vectors, phrase proximity) that reports when an answer is absent.
+- [vishalbanwari26/mnemos](vishalbanwari26-mnemos.md) — Persistent memory with swappable Postgres/pgvector, Qdrant or Neo4j backends, adaptive retrieval weighting, duplicate merging and stale-fact archiving.
+- [pjpoulose/PIL](pjpoulose-pil.md) — Turns your Instagram saved posts into a local, searchable knowledge base, with AI-extracted summaries, key points, how-tos, links and tags in SQLite.
+- [Mnemosyne-OS/Mnemosyne-Neural-OS](mnemosyne-os-mnemosyne-neural-os.md) — Human-governed memory in local, domain-separated vaults with hybrid retrieval; also reads other coding agents' output. Requires the Mnemosyne OS desktop app.
+- [liza-studio/skillmem](liza-studio-skillmem.md) — Self-improving skill memory for coding agents: useful skills are reinforced, unused ones fade; local English/Russian hybrid search, tamper-evident history.
+- [IvenKooLab/loci](ivenkoolab-loci.md) — Queryable second brain over your scattered notes, docs, PDFs and chat exports: hybrid retrieval (vector + BM25 fused with RRF), section-level citations with…
+- [zensation-ai/zenbrain](zensation-ai-zenbrain.md) — Seven-layer local agent memory that routes input into facts, episodes or procedures, searches all layers and consolidates repeated episodes into facts.
+- [dat999zx/knowl](dat999zx-knowl.md) — Persistent local memory for coding agents that retires replaced facts at write time, so agents read the current answer; facts are typed with provenance.
+- [memokar/brainy](memokar-brainy.md) — Self-hosted shared brain for multiple agents: Git-versioned Markdown knowledge plus a task queue with atomic claims, per-space ACL, audit log and human…
+- [thyn-ai/telys-sdk](thyn-ai-telys-sdk.md) — Official Telys MCP server — private, on-device memory & retrieval for AI assistants: 19 tools covering memory CRUD, semantic + on-device BM25 lexical…
+- [sequico/server-noonien](sequico-server-noonien.md) — Shared, serverless, conflict-free memory for AI agents: a multi-machine drop-in for the MCP memory knowledge graph, converging per-node shards with no server.

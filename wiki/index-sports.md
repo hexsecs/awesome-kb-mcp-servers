@@ -1,0 +1,52 @@
+# Sports
+
+- [persistmcp/aim](persistmcp-aim.md) — Workout memory: logs sets, weights, estimated 1RM, per-muscle volume and recovery so the next session is planned from your training history.
+- [anup-shesh/garmin-local-mcp](anup-shesh-garmin-local-mcp.md) — Local-first Garmin data warehouse: incremental SQLite sync with trends, lag-aware correlations, personal baselines, anomaly detection and FIT-file import.
+- [arturogarrido/claudinho](arturogarrido-claudinho.md) — Live scores, fixtures, standings and read-only prediction-market signals for the 2026 World Cup.
+- [Backspace-me/sportscore-mcp](backspace-me-sportscore-mcp.md) — Live scores, standings, top scorers, player stats and knockout brackets for football, basketball, cricket and tennis.
+- [bartokulus/openfoot-mcp](bartokulus-openfoot-mcp.md) — Football fixtures, results, standings, lineups, live timelines, shot-level xG and match context (form, Elo, rest, head-to-head) via the OpenFoot API.
+- [cloudbet/sports-mcp-server](cloudbet-sports-mcp-server.md) — Sports data via the Cloudbet API: upcoming events, live odds, stake limits and market info across soccer, basketball, tennis, esports and more.
+- [DanielTomaro13/sportsdata-mcp](danieltomaro13-sportsdata-mcp.md) — Live sports data and cross-book odds from bookmakers like Betfair, Pinnacle and FanDuel, league feeds, racing, and Kalshi and Polymarket prediction markets.
+- [davidmosiah/whoop-mcp](davidmosiah-whoop-mcp.md) — Local-first access to WHOOP recovery, HRV, sleep, strain and performance data, with tokens stored locally.
+- [dohyung1/x402-fpl-api](dohyung1-x402-fpl-api.md) — Personalized Fantasy Premier League insights: captain picks, transfer suggestions, differentials, fixture outlook, price predictions and live points.
+- [csjoblom/musclesworked-mcp](csjoblom-musclesworked-mcp.md) — Exercise-to-muscle mapping: look up muscles worked by exercises, analyze workouts for gaps and find alternative exercises ranked by muscle overlap.
+- [evanatpizzarobot/draftcall-mcp](evanatpizzarobot-draftcall-mcp.md) — NFL fantasy football: head-to-head player comparisons, PPR, half-PPR and standard rankings, positional scarcity and bye-week conflicts, with cited sources.
+- [googlarz/suunto-mcp](googlarz-suunto-mcp.md) — Suunto watch data via the Suunto API: workouts, time-series samples, FIT decoding, GPX export, 24/7 activity, sleep and recovery/HRV.
+- [guillochon/mlb-api-mcp](guillochon-mlb-api-mcp.md) — Proxy to the public MLB API for player info, stats and game information.
+- [happyc0der/garmin-connect-api](happyc0der-garmin-connect-api.md) — Read and write Garmin Connect: activities with per-set strength detail, laps, health data and two-year trends; strength, run, ride and swim workouts pushed…
+- [iFan6oy/flash-props-mcp](ifan6oy-flash-props-mcp.md) — Live sports betting player props for NBA, MLB, NFL, NHL, NCAA and soccer, unified from sportsbooks with American odds, pre-game and live.
+- [JamsusMaximus/trainingpeaks-mcp](jamsusmaximus-trainingpeaks-mcp.md) — Query TrainingPeaks workouts, analyze CTL/ATL/TSB fitness metrics and compare power and pace PRs.
+- [jordanlyall/wc26-mcp](jordanlyall-wc26-mcp.md) — FIFA World Cup 2026 data: matches, teams, venues, city guides, fan zones, visa requirements, injuries, odds and standings.
+- [khaoss85/arvo-mcp](khaoss85-arvo-mcp.md) — Arvo AI workout coach: access training data, workout history, personal records and body progress.
+- [krmisystems/fantasy-football-manager](krmisystems-fantasy-football-manager.md) — ESPN fantasy football tools: draft simulations, lineup recommendations and browser actions within configurable user limits.
+- [labeveryday/nba_mcp_server](labeveryday-nba-mcp-server.md) — Live and historical NBA statistics: player stats, game scores, team data and advanced analytics.
+- [lacausecrypto/mcp-sports-hub](lacausecrypto-mcp-sports-hub.md) — Aggregated sports data: live scores, standings, player stats and betting odds for NFL, NBA, MLB, NHL, soccer, tennis, cricket, golf, MMA, F1 and esports.
+- [livetennisapi/livetennisapi-mcp](livetennisapi-livetennisapi-mcp.md) — Real-time ATP, WTA, Challenger and ITF tennis data: live scores, players, fixtures, model win probability and match-winner market prices.
+- [lumifyai/lumify](lumifyai-lumify.md) — Sports intelligence: schedules, live scores, odds, betting splits and explainable bet confidence.
+- [Marc-Armillas/bicycle-routes-generator-mcp](marc-armillas-bicycle-routes-generator-mcp.md) — Generates mountain bike and road cycling routes on real OpenStreetMap data with BRouter (automatic loops to a target distance, point-to-point and via…
+- [mikechao/balldontlie-mcp](mikechao-balldontlie-mcp.md) — Player, team and game information for the NBA, NFL and MLB via the balldontlie API.
+- [Milofax/xert-mcp](milofax-xert-mcp.md) — XERT cycling analytics: fitness signature (FTP, HIE, PP), training status, workouts, activities with XSS metrics and MPA analysis.
+- [NasserAlbusaidi/macrofactor-mcp](nasseralbusaidi-macrofactor-mcp.md) — Combines MacroFactor nutrition data with Garmin training data for recovery checks, daily briefings, weekly reports and nutrition-performance correlations.
+- [odds-api-io/odds-api-mcp-server](odds-api-io-odds-api-mcp-server.md) — Official [Odds-API.io](https://odds-api.io) server: real-time and historical sports betting odds from 365+ bookmakers across 34 sports, with events, value…
+- [oddsrelay/oddsrelay-mcp](oddsrelay-oddsrelay-mcp.md) — Official OddsRelay server: UK and Irish bookmaker and exchange odds, matched boards, one event's prices, and the sport, bookmaker and coverage lists.…
+- [partymola/bosch-flow-mcp](partymola-bosch-flow-mcp.md) — Read-only Bosch eBike Flow (Smart System) data: battery health and charge cycles, components and firmware, live charge level and per-ride activity.
+- [partymola/fitbit-mcp](partymola-fitbit-mcp.md) — Fitbit Web API access with a local SQLite cache and trend analysis for heart rate, activity, exercises, sleep, weight, SpO2 and HRV.
+- [partymola/google-health-mcp](partymola-google-health-mcp.md) — Google Health API with a local SQLite cache, offline mode and trend analysis for heart rate, activity, sleep, weight, SpO2, HRV, ECG and irregular rhythms.
+- [partymola/withings-mcp](partymola-withings-mcp.md) — Withings Health API with a local SQLite cache and trend analysis for body composition, sleep, activity, workouts and ECG.
+- [Propertyscout001/puntersedge-mcp](propertyscout001-puntersedge-mcp.md) — Live Australian racing and sports odds from 14 AU bookmakers for AI assistants: next races with every bookmaker's price per runner, best price, settled…
+- [proplineapi/propline-mcp](proplineapi-propline-mcp.md) — Live sports betting odds, cross-book +EV and graded prop resolution against box scores for MLB, NBA, NHL, NFL, soccer and UFC.
+- [r-huijts/firstcycling-mcp](r-huijts-firstcycling-mcp.md) — Cycling race data from FirstCycling: start lists, race results, rider information and statistics.
+- [r-huijts/strava-mcp](r-huijts-strava-mcp.md) — Access Strava data via the Strava API.
+- [rajanshxrma/cadence](rajanshxrma-cadence.md) — Local-first health context from WHOOP and Apple Health: sleep, recovery, workouts and personal baselines in a local SQLite store.
+- [rajdeepmondaldotcom/whoop-mcp-server](rajdeepmondaldotcom-whoop-mcp-server.md) — WHOOP recovery, sleep, strain and workouts with trend analysis, lag-aware correlations, training load and full-history export, plus a demo mode.
+- [RobSpectre/mvf1](robspectre-mvf1.md) — Control MultiViewer, an app for watching motorsports like Formula 1, World Endurance Championship and IndyCar.
+- [shkyyy18/mi_fitness_data_bridge](shkyyy18-mi-fitness-data-bridge.md) — Unofficial Mi Fitness connector: local SQLite storage and JSON/CSV exports of sleep, activity, workouts and other records.
+- [slaat/garmin-connect-workouts-mcp](slaat-garmin-connect-workouts-mcp.md) — Create structured Garmin Connect workouts from natural language: pace, HR, power and cadence targets, repeat blocks, swim strokes and pool lengths.
+- [TheRundown/data-mcp](therundown-data-mcp.md) — Read-only TheRundown data for sports, markets, affiliates, events, futures and open main-line odds.
+- [Trainzilla/tzilla-mcp](trainzilla-tzilla-mcp.md) — Trainzilla for personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing (hosted OAuth endpoint or local).
+- [XWeaponX7/rundida-mcp](xweaponx7-rundida-mcp.md) — Running calculators: pace, time and distance, race time predictions (Riegel formula), heart rate training zones (Karvonen method) and marathon event data.
+- [seang1121/sports-betting-mcp](seang1121-sports-betting-mcp.md) — Sports betting picks, odds, injuries and line movement for NBA, NHL, NCAAB and MLB, with visual bet slip cards showing edges.
+- [turnnoblindeye/wellness-project-mcp](turnnoblindeye-wellness-project-mcp.md) — Read workouts, sleep, nutrition and recovery data from Apple Health, Fitbit, Oura and Google Health Connect, with inline chart widgets.
+- [willvelida/mcp-afl-server](willvelida-mcp-afl-server.md) — Australian Football League teams, ladder standings, results, tips and power rankings via the Squiggle API.
+- [wmmg101/kilter-mcp](wmmg101-kilter-mcp.md) — Unofficial, read-only access to your Kilter Board climbing logbook: sessions, sends, projects, grade pyramid, progression and wall-angle comparison.
+- [Zsadigzade/trainbud](zsadigzade-trainbud.md) — Local analysis of Garmin Connect activities, sleep, recovery, body composition, stress and VO2 max against 28-day baselines, with memory for goals and races.

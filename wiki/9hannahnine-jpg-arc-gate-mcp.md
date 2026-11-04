@@ -1,0 +1,26 @@
+---
+uid: 01a1a884-bdbd-7e7f-8b74-93b35478433f
+title: "9hannahnine-jpg/arc-gate-mcp"
+summary: "Runtime governance for MCP tool calls that blocks prompt injection and capability abuse before tool results reach the agent."
+type: entity
+category: "Security"
+url: "https://github.com/9hannahnine-jpg/arc-gate-mcp"
+status: unknown
+created: 2026-11-04
+updated: 2026-11-04
+depth: stub
+source_list: awesome-mcp-servers
+source_commit: 29f2d490cc02468e7c9d87b0cf68d40d3041e7ef
+list_summary: "Runtime governance for MCP tool calls that blocks prompt injection and capability abuse before tool results reach the agent."
+categories: ["Security"]
+list_occurrences: [{"title": "9hannahnine-jpg/arc-gate-mcp", "category": "Security", "description": "Runtime governance for MCP tool calls that blocks prompt injection and capability abuse before tool results reach the agent."}]
+sources:
+  - url: "https://github.com/punkpeye/awesome-mcp-servers/blob/29f2d490cc02468e7c9d87b0cf68d40d3041e7ef/README.md"
+    retrieved: 2026-11-04
+---
+
+Runtime governance for MCP tool calls that blocks prompt injection and capability abuse before tool results reach the agent.
+
+- **Resource:** https://github.com/9hannahnine-jpg/arc-gate-mcp
+- **List section:** Security
+- **Source:** [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — the list is canon; this page is a generated stub (`depth: stub`). Depth is added by PR (see AGENTS.md).

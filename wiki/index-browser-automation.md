@@ -1,0 +1,124 @@
+# Browser Automation
+
+- [34892002/bilibili-mcp-js](34892002-bilibili-mcp-js.md) — Search Bilibili content, with LangChain integration examples.
+- [77777R7/Octocrawl](77777r7-octocrawl.md) — Web scraping for AI agents: scrape, map, crawl and batch public pages into Markdown, tables and JSON, each with an Evidence Record (final URL, HTTP status…
+- [achiya-automation/safari-mcp](achiya-automation-safari-mcp.md) — Native Safari browser automation without a Chrome dependency.
+- [AceAtDev/ascended-browser](aceatdev-ascended-browser.md) — Local browser MCP for coding-agent QA with verified actions, screenshots, read-only network and console inspection, and interruption recovery warnings.
+- [acunningham-ship-it/veilbrowser](acunningham-ship-it-veilbrowser.md) — Stealth automation of unmodified Chrome over raw CDP, using accessibility-tree element refs; can attach to a running Chrome to reuse logged-in sessions.
+- [aethynio/aethyn-browser-mcp](aethynio-aethyn-browser-mcp.md) — Drive a local Playwright browser through residential proxies with a chosen exit country or city and a sticky identity per task.
+- [agent-infra/mcp-server-browser](agent-infra-mcp-server-browser.md) — Browser automation using Puppeteer, supporting local and remote browser connections.
+- [Agent360dk/browser-mcp](agent360dk-browser-mcp.md) — Control your real, logged-in Chrome browser via an extension, with multiple concurrent color-coded sessions.
+- [Ahtasham00/tactab](ahtasham00-tactab.md) — Tactile browser control and multimodal visual vision MCP bridge for Google Chrome.
+- [AishwaryShrivastav/vibe-testing](aishwaryshrivastav-vibe-testing.md) — Code-aware browser testing that reads routes, forms and existing tests, runs Playwright scenarios, and keeps regression history and screenshot reports.
+- [alex-on-ai/WebReaper](alex-on-ai-webreaper.md) — Web scraper that returns clean Markdown, distributed as a single binary.
+- [parastejpal987-cmyk/opticparse-public](parastejpal987-cmyk-opticparse-public.md) — Visual, multimodal web scraping without CSS selectors, plus phishing and crypto drainer detection.
+- [ami-guru/x402-scraper-engine](ami-guru-x402-scraper-engine.md) — Web scraping, Llama 3 digests and Twitter intelligence, paid per call in USDC via x402 on Base.
+- [andresolbach/nodriver-mcp-server](andresolbach-nodriver-mcp-server.md) — Undetected Chrome automation via nodriver for anti-bot protected sites: accessibility snapshots, input automation, network inspection and persistent sessions.
+- [aparajithn/agent-scraper-mcp](aparajithn-agent-scraper-mcp.md) — Web scraping: clean content extraction, CSS-selector scraping, Playwright screenshots, link and metadata extraction, and Google search.
+- [apireno/DOMShell](apireno-domshell.md) — Browse the web with filesystem commands (ls, cd, grep, click) by mapping Chrome's accessibility tree to a virtual filesystem via an extension.
+- [auspy/supasidebar-mcp](auspy-supasidebar-mcp.md) — Access and organize open tabs, bookmarks and recent links across macOS browsers via the SupaSidebar app.
+- [automatalabs/mcp-server-playwright](automatalabs-mcp-server-playwright.md) — Browser automation using Playwright.
+- [BB-fat/browser-use-rs](bb-fat-browser-use-rs.md) — Lightweight browser automation with zero dependencies.
+- [BeatAPI/BeatBrowser](beatapi-beatbrowser.md) — Connect compatible agents to an existing Chrome profile through an extension and local MCP bridge, with background task windows, pause and human takeover.
+- [bch1212/agentfetch-mcp](bch1212-agentfetch-mcp.md) — Token-budgeted web fetching that routes between Trafilatura, Jina Reader, Firecrawl and pypdf by URL, with token estimates, caching and truncation.
+- [bgaze/snapstack-server](bgaze-snapstack-server.md) — One-click browser-tab screenshots, captured by a companion extension and served locally to the model on demand.
+- [bighippoman/intercept-mcp](bighippoman-intercept-mcp.md) — Fetch web content as clean Markdown through a multi-tier fallback chain, handling tweets, YouTube, arXiv, PDFs and regular pages.
+- [autokeren/ghostfox](autokeren-ghostfox.md) — Self-hosted stealth browser built on a Firefox fork with fingerprint spoofing, shadow-DOM-aware page reading, login state detection and evidence recording.
+- [blackwhite084/playwright-plus-python-mcp](blackwhite084-playwright-plus-python-mcp.md) — Browser automation using Playwright, tailored for LLMs.
+- [browserless/browserless-mcp](browserless-browserless-mcp.md) — Headless browser automation and web scraping via the Browserless smart scraper API.
+- [browsermcp/mcp](browsermcp-mcp.md) — Automate your local Chrome browser.
+- [brutalzinn/simple-mcp-selenium](brutalzinn-simple-mcp-selenium.md) — Control browsers with Selenium using natural language, for testing, automation and multi-user scenarios.
+- [co-browser/browser-use-mcp-server](co-browser-browser-use-mcp-server.md) — Browser automation with browser-use, including a Dockerfile to run Chromium in Docker with a VNC server.
+- [corbinvachal48/agentrender-mcp](corbinvachal48-agentrender-mcp.md) — Convert URLs into screenshots, PDFs or structured extracts.
+- [corralimited/snapdiff-mcp](corralimited-snapdiff-mcp.md) — Intent-aware visual verification: declare what a UI change should affect, then diff the page against a baseline and flag changes outside that scope.
+- [Ceki-me/mcp-server](ceki-me-mcp-server.md) — Rent residential Chrome browsers run by real people, with real fingerprints and residential IPs.
+- [Cubenest/rrweb-stack](cubenest-rrweb-stack.md) — Record your authenticated browser session (rrweb DOM, console, network) to local SQLite with PII masking, so coding agents can query it or drive the browser.
+- [Custodia-Admin/pagebolt-mcp](custodia-admin-pagebolt-mcp.md) — Generate screenshots, PDFs, OG images and narrated video recordings.
+- [dashi96/chromium-bridge](dashi96-chromium-bridge.md) — Control Chromium-based browsers such as Arc, Vivaldi and Brave via an extension: navigate, click, read pages, run JavaScript and record GIFs.
+- [DevHusnainAi/zerodom](devhusnainai-zerodom.md) — Deterministic attack-surface perception for AI security agents. Attaches over `chrome.debugger` to the Chrome you're already logged into (cookies, MFA and…
+- [dmytrome/groundhog](dmytrome-groundhog.md) — Web search, reading and research through stealth-patched Chrome: strips hidden text, ranks passages across sources and returns SHA-256 provenance receipts.
+- [eat-pray-ai/yutu](eat-pray-ai-yutu.md) — Automate YouTube operations, also available as a CLI.
+- [Eric-huang799/duplex](eric-huang799-duplex.md) — A browser shared by a human and an AI — same tabs, same live session; 24 MCP tools (snapshot, click, type, screenshot, tabs, annotations), built-in models…
+- [executeautomation/playwright-mcp-server](executeautomation-playwright-mcp-server.md) — Browser automation and web scraping using Playwright.
+- [eyalzh/browser-control-mcp](eyalzh-browser-control-mcp.md) — Control the user's Firefox browser via a companion extension.
+- [feedthrough/feedthrough](feedthrough-feedthrough.md) — In-page debug bridge for web apps: read the DOM, console logs and network requests and interact with the page, in any browser or Cypress/Playwright run.
+- [firecrawl/firecrawl-mcp-server](firecrawl-firecrawl-mcp-server.md) — Firecrawl web scraping: search, scrape, crawl, map and extract structured data, with live browser interaction and website change monitoring.
+- [fradser/mcp-server-apple-reminders](fradser-mcp-server-apple-reminders.md) — Interact with Apple Reminders on macOS.
+- [freema/firefox-devtools-mcp](freema-firefox-devtools-mcp.md) — Firefox automation via WebDriver BiDi: snapshot-based interactions, network monitoring, console capture and screenshots for testing and scraping.
+- [frsorrentino/chrome-bridge](frsorrentino-chrome-bridge.md) — Drive your logged-in Chrome via an extension: compact element refs, visual regression, accessibility, SEO and security audits, and network mocking.
+- [fullselfbrowsing/FSB](fullselfbrowsing-fsb.md) — Chrome extension plus MCP server that lets any MCP client drive your own signed in Chrome by reading the live DOM instead of screenshots, with no API key.…
+- [mi60dev/visionaire-engine](mi60dev-visionaire-engine.md) — Design debugging in Chrome: which CSS rule wins (with file and line), its blast radius, scoped fix selectors, live fix trials and WCAG contrast audits.
+- [SanggonBoy/PyreCrawl](sanggonboy-pyrecrawl.md) — Self-hosted web scraping: scrape, extract, crawl, map, search, academic papers, research and monitoring, with a tiered fallback including Cloudflare bypass.
+- [segentic-lab/periscope-mcp](segentic-lab-periscope-mcp.md) — Website testing with Playwright: assertions, auto form-fill, persistent logins, network mocking, and accessibility, SEO, GEO and Lighthouse audits.
+- [sh6drack/zen-mcp](sh6drack-zen-mcp.md) — Zen Browser automation via WebDriver BiDi: navigation, form filling, screenshots and JavaScript evaluation.
+- [hahahahahahahahah6/browser-buddy](hahahahahahahahah6-browser-buddy.md) — MCP server + Chrome extension (MV3) that lets coding agents read pages through the user's real, logged-in Chrome; stdlib-only, local.
+- [hanzili/comet-mcp](hanzili-comet-mcp.md) — Connect to the Perplexity Comet browser for agentic browsing, deep research and real-time task monitoring.
+- [hshintelligence/agent-scrape](hshintelligence-agent-scrape.md) — Pay-per-call web scraping via x402 on Base, with structured extraction, screenshots, metadata, browser sessions and workflows.
+- [hunglp97/tabpilot-mcp](hunglp97-tabpilot-mcp.md) — Drive your open, logged-in Chrome with token-budgeted page reading, complex SPA form and survey handling, and headless Ubuntu support.
+- [LarryWalkerDEV/mcp-immostage](larrywalkerdev-mcp-immostage.md) — Virtual staging for real estate: stage empty rooms, turn floor plans into 3D renders, classify room images, write property descriptions and suggest styles.
+- [LeonTing1010/tap](leonting1010-tap.md) — Compile browser automation into deterministic plans that run in your logged-in Chrome without runtime LLM calls, detecting drift when sites change.
+- [lespaceman/agent-web-interface](lespaceman-agent-web-interface.md) — Token-efficient browser automation: semantic page snapshots and stable element IDs instead of raw DOM or screenshots, driving Chrome over CDP.
+- [markmircea/Selenix-MCP-Server](markmircea-selenix-mcp-server.md) — Create, run, debug and manage Selenix browser automation tests through natural language.
+- [IGELHARINE/CDPM](igelharine-cdpm.md) — Numbered, logged-in Chrome slots (1-30) driven over raw CDP that several Claude Code sessions and subagents share, with per-tab command queues…
+- [ilien-dev/svipall](ilien-dev-svipall.md) — Local-first web reading escalating from HTTP to a real browser when blocked: clean Markdown, site crawls, search, row extraction and local CAPTCHA handling.
+- [imprvhub/mcp-browser-agent](imprvhub-mcp-browser-agent.md) — Autonomous browser automation.
+- [kimtaeyoon83/mcp-server-youtube-transcript](kimtaeyoon83-mcp-server-youtube-transcript.md) — Fetch YouTube subtitles and transcripts for AI analysis.
+- [samson-art/transcriptor-mcp](samson-art-transcriptor-mcp.md) — Get transcripts and metadata for summarization and content analysis.
+- [kimtth/mcp-aoai-web-browsing](kimtth-mcp-aoai-web-browsing.md) — Minimal MCP server and client implementation using Azure OpenAI and Playwright.
+- [junipr-labs/mcp-server](junipr-labs-mcp-server.md) — Web intelligence API: screenshots, PDF generation, page metadata and specialized extractors for news, social media, search results, prices and more.
+- [lightpanda-io/browser](lightpanda-io-browser.md) — Headless browser for AI and web automation with a built-in MCP server.
+- [LvcidPsyche/auto-browser](lvcidpsyche-auto-browser.md) — Browser agent with human takeover via noVNC, reusable auth profiles, approval and audit controls, and isolated Docker sessions.
+- [Lyosis/claudeForSafari](lyosis-claudeforsafari.md) — Control Safari via a web extension: navigate, read pages, click elements, fill forms and manage tabs, without Playwright or WebDriver.
+- [lyrenth/lyrenth-mcp](lyrenth-lyrenth-mcp.md) — Read any URL as a clean AIDocument (Markdown plus structure) through Lyrenth's cached index.
+- [maccydee/cute-web-scraper](maccydee-cute-web-scraper.md) — Web scraping with escalating fetch tiers on detected blocks, returning clean Markdown or saving large scrapes to SQLite for read-only SQL queries.
+- [maemreyo/zamery-browser](maemreyo-zamery-browser.md) — Use the Firefox you already use, including logged-in tabs, while agents can access only tabs or tab groups you explicitly share.…
+- [MathiasPaulenko/wavexis-mcp](mathiaspaulenko-wavexis-mcp.md) — Browser automation for your existing Chrome or Firefox via CDP and BiDi, with stealth mode, Lighthouse audits, YAML action batching and raw protocol access.
+- [microsoft/playwright-mcp](microsoft-playwright-mcp.md) — Playwright browser automation: interact with web pages through structured accessibility snapshots.
+- [Miladmet/quickcast-mcp](miladmet-quickcast-mcp.md) — Screen-to-Action Protocol: Turn screen recordings directly into automated Playwright E2E reproduction tests, structured GitHub bug reports with video…
+- [Mingye-Lu/AgenticCrawler](mingye-lu-agenticcrawler.md) — Autonomous, goal-driven LLM web crawler with stealth browsing, distributed as a single binary.
+- [Moha2005269/agentgo-mcp](moha2005269-agentgo-mcp.md) — MCP server for AgentGo, a real Chromium browser for agents: compact page outlines with stable refs, diff-only replies after each action, real pointer and…
+- [morfiade-app/morfiade-mcp](morfiade-app-morfiade-mcp.md) — Manage local Chrome profiles, each with its own cookies, sessions and proxy: create, launch and stop them, assign and check proxies, tags, notes and trash…
+- [ndthanhdev/mcp-browser-kit](ndthanhdev-mcp-browser-kit.md) — Interact with your local browsers.
+- [nnemirovsky/iwdp-mcp](nnemirovsky-iwdp-mcp.md) — iOS Safari debugging via ios-webkit-debug-proxy with WebKit Inspector Protocol support: DOM, CSS, network, storage, debugger and more.
+- [olostep/olostep-mcp-server](olostep-olostep-mcp-server.md) — Web scraping, crawling and search API: extract content as Markdown or JSON, batch-process URLs and get answers with citations.
+- [ofershap/real-browser-mcp](ofershap-real-browser-mcp.md) — Control the user's real Chrome browser via an extension, reusing existing sessions, logins and cookies.
+- [Pantheon-Security/chrome-mcp-secure](pantheon-security-chrome-mcp-secure.md) — Security-hardened Chrome automation and logins with post-quantum encryption, a credential vault, memory scrubbing and audit logging.
+- [PGHQdev/OpenScreenShot](pghqdev-openscreenshot.md) — Website screenshots from a local headless Chrome, with selector, text-pattern and rectangle redaction before capture; also a CLI.
+- [PhungXuanAnh/selenium-mcp-server](phungxuananh-selenium-mcp-server.md) — Web automation through Selenium WebDriver.
+- [paipaipai666/nexus-browser-mcp](paipaipai666-nexus-browser-mcp.md) — Accessibility-tree browser automation with deterministic snapshots, human approval gates, redacted audit logs and console, network and Web Vitals monitoring.
+- [pskill9/web-search](pskill9-web-search.md) — Web search using Google search results.
+- [protostatis/unbrowser](protostatis-unbrowser.md) — Lightweight native browser that runs JavaScript, follows links, fills forms, manages cookies and returns low-token BlockMaps, without Chrome.
+- [prufa-dev/prufa-mcp](prufa-dev-prufa-mcp.md) — Real-browser QA audits of a URL: broken signup, login and checkout flows, console errors, missing analytics, security headers, tap targets and accessibility.
+- [KuvopLLC/purroxy2](kuvopllc-purroxy2.md) — Record actions on any website and replay them in headless Playwright, with encrypted credentials and AI-based selector healing.
+- [RapierCraft/alterlab-mcp-server](rapiercraft-alterlab-mcp-server.md) — Web scraping, structured data extraction and screenshots with JavaScript rendering, residential proxy rotation and automatic retries.
+- [realwigu/mcp-doctor](realwigu-mcp-doctor.md) — Diagnostics for MCP servers: discover client configs, test connections, audit security issues and benchmark latency.
+- [reeinharddd/snapmcp](reeinharddd-snapmcp.md) — Render terminal output, syntax-highlighted code, web pages, Markdown, HTML and git diffs as PNG, JPEG, PDF or GIF locally via Playwright.
+- [recursechat/mcp-server-apple-shortcuts](recursechat-mcp-server-apple-shortcuts.md) — Integration with Apple Shortcuts.
+- [Retio-ai/pagemap](retio-ai-pagemap.md) — Compress web page HTML into compact structured maps that preserve actionable elements, so agents can read and interact with pages using fewer tokens.
+- [Savvy-Tech-Sphere/usable-browser-agent-free](savvy-tech-sphere-usable-browser-agent-free.md) — MCP server plus Firefox add-on that lets your agent work in your real, logged-in Firefox: accessibility snapshots with stable element refs, logins filled by…
+- [ScrapeUnblocker/scrapeunblocker-mcp](scrapeunblocker-scrapeunblocker-mcp.md) — Fetch web page HTML, AI-parsed JSON or Google results through the ScrapeUnblocker anti-bot API.
+- [screenshotscout/screenshotscout-mcp](screenshotscout-screenshotscout-mcp.md) — Capture web pages as images or PDFs with element targeting, device and viewport controls, location selection, page interactions and blocking options.
+- [seleniumbase/SeleniumBase](seleniumbase-seleniumbase.md) — Browser automation, testing and bot-detection bypass using SeleniumBase CDP Mode with Chromium, including click-based CAPTCHA solving.
+- [seleniumboot/selenium-mcp](seleniumboot-selenium-mcp.md) — Selenium WebDriver automation with assertions and self-healing locators, plus code generation for Java, Python and C# test frameworks and CI pipelines.
+- [Silbercue/public-browser](silbercue-public-browser.md) — Chrome automation over raw CDP with multiple tabs, cached accessibility-tree refs, server-side multi-step flow execution and a Python scripting API.
+- [site-shot/site-shot-mcp](site-shot-site-shot-mcp.md) — Website screenshots via Chromium with full-page capture, country-specific proxies and automatic ad and cookie-banner removal.
+- [SnapBlock/hai-browser](snapblock-hai-browser.md) — Let coding agents drive VS Code's Integrated Browser alongside you: snapshots, mouse and keyboard, forms, tabs, screenshots, console and network logs, a…
+- [snapshot-site/snapshot-site-mcp](snapshot-site-snapshot-site-mcp.md) — Capture any URL as PNG, JPEG, WebP, PDF or HTML, diff page versions to catch visual regressions, and get AI page summaries.
+- [SolveGate/solvegate-mcp](solvegate-solvegate-mcp.md) — Detect and solve Cloudflare Turnstile challenges: inspect whether a page uses Turnstile or another CAPTCHA and get a solved token when needed.
+- [Swih/ritoko](swih-ritoko.md) — Save browser, HTTP API and MCP workflows as JSON, then replay CSV/XLSX batches with explicit result checks and a local journal for crash recovery.
+- [swimmwatch/cloakbrowser-mcp](swimmwatch-cloakbrowser-mcp.md) — Playwright MCP-compatible browser automation using CloakBrowser Chromium.
+- [sylin-org/ghostlight](sylin-org-ghostlight.md) — Visible local browser automation in your signed-in Chromium profile, with recovery and optional policy and audit controls.
+- [tech-lead-bunny/agenteyes-mcp](tech-lead-bunny-agenteyes-mcp.md) — Give coding agents real eyes: one tool call returns a screenshot PNG plus the accessibility tree and page text; segment_height paginates long pages into…
+- [trueoriginlabs/vibatchium](trueoriginlabs-vibatchium.md) — Self-hosted stealth Chrome automation via Patchright: parallel persistent profiles, encrypted credential vault with 2FA, and prompt-injection scanning.
+- [User0856/snaprender-mcp](user0856-snaprender-mcp.md) — Capture websites as PNG, JPEG, WebP or PDF with device emulation, dark mode, ad blocking and cookie banner removal.
+- [copperline-labs/rendex-mcp](copperline-labs-rendex-mcp.md) — Render any URL or raw HTML as PNG, JPEG, WebP or PDF, with batch processing, geo-targeting and async webhooks.
+- [vincentvella/devloop](vincentvella-devloop.md) — Drive a browser or Expo/React Native app alongside your dev server on one correlated timeline, lining up frontend errors with backend stack traces.
+- [webdriverio/mcp](webdriverio-mcp.md) — Browser and mobile app automation with WebdriverIO: control browsers and automate native Android and iOS apps via WebDriver and Appium.
+- [xspadex/bilibili-mcp](xspadex-bilibili-mcp.md) — Fetch trending videos from Bilibili.
+- [yinnho/aginxbrowser](yinnho-aginxbrowser.md) — Chromium-free agent browser with built-in V8: tiered fetching, multi-engine search, screenshots, persistent login sessions and CDP access.
+- [ymw0407/auth-fetch-mcp](ymw0407-auth-fetch-mcp.md) — Fetch content from login-protected pages such as Notion, Google Docs, Jira and Confluence via a real browser login with persistent session caching.
+- [PrinceGabriel-lgtm/freshcontext-mcp](princegabriel-lgtm-freshcontext-mcp.md) — Real-time data from GitHub, Hacker News, Scholar, arXiv, YC, jobs, finance and package trends, with every result timestamped for freshness.
+- [ZhongQuinnKing/caishi](zhongquinnking-caishi.md) — Read Bilibili, Douyin, Xiaohongshu and any web page through your own logged-in Chrome; returns titles, captions, stats and media links as JSON.
+- [zumerlab/snapsurf](zumerlab-snapsurf.md) — Browser navigation and verification: compact semantic page digests, ranked text search, and typed diffs after each action with assertions.
+- [zzzjy765/ottersnap-mcp](zzzjy765-ottersnap-mcp.md) — Glint Render web rendering and evidence API: screenshots, PDFs, OG images, monitoring, extraction and tamper-evident evidence capture.
+- [CapMonsterCloud/capmonster-mcp-captcha-solver](capmonstercloud-capmonster-mcp-captcha-solver.md) — Identify CAPTCHA types and parameters, create solving tasks and retrieve results via the CapMonster Cloud API, with access to its docs.

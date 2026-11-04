@@ -1,0 +1,103 @@
+# Coding Agents
+
+- [ly8427/mcp-review-board](ly8427-mcp-review-board.md) — Localhost review board where different coding agents (Claude Code, Codex, OpenCode, Trae, ZCode) review each other's work: objections must state flip…
+- [abnegate/magents](abnegate-magents.md) — Shared session bus for coding agents such as Claude Code, Codex and Grok: list, read, hand off, message and spawn live agent sessions via MCP or CLI.
+- [5dive-ai/5dive-mcp](5dive-ai-5dive-mcp.md) — Manage a 5dive agent fleet: file tasks, message and inspect agents, and read the fleet digest.
+- [agent-blueprint/mcp-server](agent-blueprint-mcp-server.md) — Explore and download AI agent blueprints: list them, get summaries and download full Agent Skills directories for coding agents to implement.
+- [dimitrihilverda/claude-session-relay](dimitrihilverda-claude-session-relay.md) — Self-hosted relay where coding-agent sessions on different machines share a team board, message each other and check for git conflicts, with isolated teams…
+- [dugubuyan/agent-nexus](dugubuyan-agent-nexus.md) — Document exchange for coding agents across services: versioned Markdown store, pub-sub notifications with structured diffs and lifecycle stage tracking.
+- [agentic-mcp-tools/owlex](agentic-mcp-tools-owlex.md) — AI council: query CLI agents (Claude Code, Codex, Gemini and OpenCode) in parallel with deliberation rounds.
+- [sshahzaiib/agy-bridge](sshahzaiib-agy-bridge.md) — Delegate tasks to the Antigravity CLI (Gemini): file analysis, repo archaeology, web lookups and second-opinion code reviews, with quota-aware model failover.
+- [alpadalar/netops-mcp](alpadalar-netops-mcp.md) — DevOps and networking tools: network monitoring, system diagnostics, automation workflows and infrastructure management.
+- [aresyn/codex-control-plane-mcp](aresyn-codex-control-plane-mcp.md) — Control plane for long-running Codex Desktop tasks: submit asynchronously, poll state, approve Plan Mode, recover retries and search SQLite-backed history.
+- [automateyournetwork/pyATS_MCP](automateyournetwork-pyats-mcp.md) — Structured, model-driven interaction with network devices via Cisco pyATS.
+- [avansaber/tailtest-cline](avansaber-tailtest-cline.md) — Adversarial test generation in Cline: detects the stack, writes and runs tests, and classifies failures as real bugs, environment problems or test bugs.
+- [AV-Labs-Co/cos-codex-bridge](av-labs-co-cos-codex-bridge.md) — Local MCP that lets a Chief of Staff client find, create and register Codex projects; submit exact prompts; track durable receipts; continue existing tasks…
+- [aybelatchane/mcp-server-terminal](aybelatchane-mcp-server-terminal.md) — Interact with TUI/CLI applications through a structured terminal state tree with element detection, like Playwright for terminals.
+- [aymericzip/intlayer](aymericzip-intlayer.md) — IDE assistance for the Intlayer i18n/CMS tool: CLI access and documentation.
+- [lawrencehui/Citio](lawrencehui-citio.md) — Self-hosted Slack bot: mention it and Claude Code or Codex investigates CloudWatch logs, runs tests and opens PRs, with credentials held by an MCP server.
+- [cherninlab/ennodia](cherninlab-ennodia.md) — Delegates tasks between local coding-agent CLIs, including Claude Code, Codex, OpenCode and Antigravity, and returns results to the calling agent.
+- [claimidx/claimidx](claimidx-claimidx.md) — Shared, signed index of failures other coding agents already solved: check it before retrying and ingest fixes so the next agent does not repeat the work.
+- [spyrae/claude-concilium](spyrae-claude-concilium.md) — Multi-agent consultation for Claude Code: MCP servers wrapping Codex, Gemini and Qwen CLIs for parallel code review and problem-solving with fallback chains.
+- [blakerouse/ssh-mcp](blakerouse-ssh-mcp.md) — SSH control for Linux and Windows servers, with long-running commands and execution on multiple hosts at once.
+- [bshea-1/Routed](bshea-1-routed.md) — Local router for Agent Skills across coding agents and MCP clients, with hybrid matching on the local CPU that spends no tokens.
+- [sipyourdrink-ltd/bernstein](sipyourdrink-ltd-bernstein.md) — Deterministic orchestrator for CLI coding agents such as Claude Code, Codex and Aider, with per-agent git worktrees, an audit trail and cost-aware routing.
+- [andreilungeanu/cursor-delegate-mcp](andreilungeanu-cursor-delegate-mcp.md) — Delegate multi-file implementation to Cursor's CLI agent over ACP and get typed results: final message, changed files, session ID and plan.
+- [danieldoderlein/llm-bus](danieldoderlein-llm-bus.md) — Coordination bus for multiple coding agents: atomic claims, advisory file leases, a shared event ledger, presence, handoffs and a task graph. Self-hostable.
+- [polymatx/dibs](polymatx-dibs.md) — Coordinate parallel coding agents: TTL file claims across git worktrees, hooks blocking colliding edits, presence, handoff notes and searchable lessons.
+- [doggybee/mcp-server-leetcode](doggybee-mcp-server-leetcode.md) — Search, retrieve and solve LeetCode problems, with metadata filtering and access to user profiles, submissions and contest data.
+- [eirikb/any-cli-mcp-server](eirikb-any-cli-mcp-server.md) — Turn any CLI tool with --help output into an MCP server, with caching.
+- [ejentum/ejentum-mcp](ejentum-ejentum-mcp.md) — Reasoning, code, anti-deception and memory tools for AI agents.
+- [EngMarchG/agent-bridge](engmarchg-agent-bridge.md) — Lets Claude Code and Codex steer each other's live desktop chats through Windows UI Automation: list and read chats, send messages or mid-turn steers, and…
+- [ezyang/codemcp](ezyang-codemcp.md) — Coding agent with basic read, write and command line tools.
+- [HighlyLoadedEgo/ClefMCP](highlyloadedego-clefmcp.md) — Local Clef-Flash decision model for coding agents: `clef_decide` returns probability distributions over your options (choice/score/yes-no) via llama.cpp…
+- [elhamid/llm-council](elhamid-llm-council.md) — Multi-LLM deliberation with anonymized peer review: parallel responses, anonymous ranking and synthesis, based on Andrej Karpathy's LLM Council concept.
+- [freema/openclaw-mcp](freema-openclaw-mcp.md) — Delegate tasks to OpenClaw AI assistant agents with sync and async tools.
+- [Get-Concord-AI/concord-mcp](get-concord-ai-concord-mcp.md) — Communication and shared work state across coding agent harnesses: live messages, scope claims before editing, preserved decisions and evidence handoffs.
+- [ferrislucas/iterm-mcp](ferrislucas-iterm-mcp.md) — Access iTerm: run commands and ask questions about what is shown in the terminal.
+- [foldwork-dev/mcp-injector](foldwork-dev-mcp-injector.md) — Local daemon that pre-indexes a codebase into a SQLite catalog and serves AST-compressed snapshots on every query to reduce token usage.
+- [TT-Wang/forge](tt-wang-forge.md) — Structured planning and validation for Claude Code: turns an objective into a validated DAG of modules built by worker agents in parallel git worktrees.
+- [g0t4/mcp-server-commands](g0t4-mcp-server-commands.md) — Run arbitrary commands and scripts.
+- [gabrielmaialva33/winx-code-agent](gabrielmaialva33-winx-code-agent.md) — Rust reimplementation of WCGW for coding agents: shell execution and file management.
+- [hampsterx/claude-mcp-bridge](hampsterx-claude-mcp-bridge.md) — Wraps the Claude Code CLI as MCP tools for queries, search, structured output and sessions, with budget caps and granular tool sandboxing.
+- [hamza-aziz-ai/codex-claude-council](hamza-aziz-ai-codex-claude-council.md) — Two-model council: ChatGPT (through the Codex CLI) and Claude (through Claude Code) answer independently, then exchange replies until both agree on one…
+- [hellob1889/Pandaone-AI-Agent](hellob1889-pandaone-ai-agent.md) — Requires every AI agent code change to leave a problem, reason and approach audit record before commit, with a pre-commit hook and audit trail dashboard.
+- [TheBlueHouse75/hermes-action-bridge](thebluehouse75-hermes-action-bridge.md) — Delegate real-world actions to Hermes Agent: research, browser workflows, messaging, scheduling and skills, with risky actions requiring approval.
+- [irskep/persistproc](irskep-persistproc.md) — See and control long-running processes such as web servers: start, stop, restart and read logs.
+- [jigyasudham/veto](jigyasudham-veto.md) — Specialist agent council for AI coding CLIs with a self-learning router, cross-CLI memory and guards against dependency hallucinations and decision drift.
+- [jinzcdev/leetcode-mcp-server](jinzcdev-leetcode-mcp-server.md) — Access LeetCode problems, solutions, submissions and public data, with optional login for user features such as notes; supports the global and China sites.
+- [juehang/vscode-mcp-server](juehang-vscode-mcp-server.md) — Work in a VS Code workspace: read the directory structure, see linter and language server problems, read code files and make edits.
+- [Keesan12/martin-loop](keesan12-martin-loop.md) — Governed runtime for AI coding agents with budget caps, verifier gates, runaway-loop prevention, rollback evidence and inspectable run receipts.
+- [Komdosh/komnet](komdosh-komnet.md) — Git-backed message bus for coding agents on different machines, with no server: questions, answers, decisions, claimable tasks and delegated repo reviews.
+- [louis030195/terminator-mcp-agent](louis030195-terminator-mcp-agent.md) — Desktop GUI automation on Windows, macOS and Linux via accessibility APIs instead of screenshots, plus workflow recording, data extraction and DOM inspection.
+- [Luckycat133/traecnclaw-mcp-skill](luckycat133-traecnclaw-mcp-skill.md) — Local server and Agent Skill for TraeCN desktop automation on macOS.
+- [maxim-saplin/mcp_safe_local_python_executor](maxim-saplin-mcp-safe-local-python-executor.md) — Safe Python interpreter based on Hugging Face smolagents' LocalPythonExecutor.
+- [micl2e2/code-to-tree](micl2e2-code-to-tree.md) — Convert source code into an AST, regardless of language.
+- [misiektoja/kill-process-mcp](misiektoja-kill-process-mcp.md) — List and terminate OS processes via natural language queries.
+- [myelixlabs/synapse-mcp](myelixlabs-synapse-mcp.md) — Convert a codebase into a local AST knowledge graph that gives coding agents structural context for navigation and refactoring.
+- [MladenSU/cli-mcp-server](mladensu-cli-mcp-server.md) — Command-line execution with customizable security policies.
+- [nandhakumar-murugan/gemini-antigravity-bridge](nandhakumar-murugan-gemini-antigravity-bridge.md) — Bidirectional bridge between Gemini Spark and the Antigravity IDE: coding subagent dispatch, shared memory, local file operations and Spark app orchestration.
+- [natiixnt/redcon](natiixnt-redcon.md) — Deterministic repository context packing for coding agents: selects, compresses, caches and budgets only the files a task needs, without an LLM in the loop.
+- [nesquikm/mcp-rubber-duck](nesquikm-mcp-rubber-duck.md) — Bridge to multiple OpenAI-compatible LLMs for rubber duck debugging: explain a problem to several AI ducks and get different perspectives.
+- [nihalxkumar/arch-mcp](nihalxkumar-arch-mcp.md) — Search the Arch Wiki and AUR, get package info, check for updates, install packages and analyze PKGBUILDs, from Arch or non-Arch systems.
+- [nika110/openhuddle](nika110-openhuddle.md) — Connects different people's coding agents (Claude Code, Codex, Cursor) through a self-hostable hub: live team status, a co-written master prompt with a…
+- [ooples/mcp-console-automation](ooples-mcp-console-automation.md) — Console automation and monitoring, like Playwright for terminal apps: session management, SSH, testing, monitoring and background jobs.
+- [oraios/serena](oraios-serena.md) — Coding agent that uses language servers for symbolic code operations.
+- [OthmaneBlial/term_mcp_deepseek](othmaneblial-term-mcp-deepseek.md) — Approval-first local terminal control: policy-based command planning and approval, DeepSeek as an advisor, and signed execution receipts.
+- [Q00/ouroboros](q00-ouroboros.md) — Local agent OS for spec-first AI coding: a replayable, ledger-recorded interview, seed, execute, evaluate and evolve loop that MCP clients can drive.
+- [parasxos/postbag](parasxos-postbag.md) — Letters between existing Claude Code and Codex sessions on one machine: join a named bag, send through each agent's native input, read one append-only…
+- [pdavis68/RepoMapper](pdavis68-repomapper.md) — Dynamic map of chat-related repository files with their function prototypes and related files, ranked by relevance, based on Aider's Repo Map.
+- [pkj8282/Agent-Uplink](pkj8282-agent-uplink.md) — Local messaging between AI sessions on one PC: role accounts that persist across restarts, 1:1 DMs, channels and inboxes, with a live log viewer and an…
+- [plori-ai/plori](plori-ai-plori.md) — Create and drive hosted plori agents with persistent disk, tools and memory: invoke agents, manage the human-in-the-loop queue and schedule deferred runs.
+- [preflight-dev/preflight](preflight-dev-preflight.md) — Catch vague Claude Code prompts before they waste tokens: prompt scorecards, session history search, cross-service contract awareness and cost estimation.
+- [PsChina/deepseek-as-subagent](pschina-deepseek-as-subagent.md) — Run DeepSeek as a sub-agent in Claude Code or Codex CLI, with its own agent loop for reading, editing and running commands in a sandboxed workspace.
+- [djerok/glm-mcp](djerok-glm-mcp.md) — Run GLM (Zhipu/Z.ai) as a sub-agent in Claude Code or GitHub Copilot with its own read/write/edit/run loop, Opus-vs-GLM routing and diff/dry-run oversight.
+- [religa/multi-mcp](religa-multi-mcp.md) — Parallel multi-model code review, security analysis and debate with ChatGPT, Claude and Gemini, including consensus and OWASP Top 10 checks.
+- [Rikinshah787/dotpals](rikinshah787-dotpals.md) — Checks what local coding agents such as Claude Code, Codex and Cursor really did: files changed, commands run and test results read from test output, not…
+- [rinadelph/Agent-MCP](rinadelph-agent-mcp.md) — Framework for building multi-agent systems that coordinate over MCP, with task management, shared context and RAG.
+- [sena-labs/oz-mcp-server](sena-labs-oz-mcp-server.md) — Unofficial bridge from Warp's Oz coding agent to any IDE or MCP client, plus native @oz in VS Code Copilot Chat.
+- [shashankss1205/codegraphcontext](shashankss1205-codegraphcontext.md) — Index local code into a graph database to give AI assistants context, with graphical code visualizations for humans.
+- [sim-xia/blind-auditor](sim-xia-blind-auditor.md) — Make AI self-correct its generated output through prompt injection, independent self-auditing and context isolation.
+- [sim-xia/skill-cortex-server](sim-xia-skill-cortex-server.md) — Use Claude Code Skills from any IDE or CLI.
+- [sonirico/mcp-shell](sonirico-mcp-shell.md) — Run shell commands securely, auditably and on demand in isolated environments such as Docker.
+- [stippi/code-assistant](stippi-code-assistant.md) — Coding agent with basic tools for listing, reading, editing and writing files, running commands and web search, supporting multiple projects at once.
+- [SunflowersLwtech/mcp_creator_growth](sunflowerslwtech-mcp-creator-growth.md) — Learning sidecar for AI coding assistants: quizzes developers on AI-generated changes and gives agents persistent project-specific debugging memory via RAG.
+- [tiianhk/MaxMSP-MCP-Server](tiianhk-maxmsp-mcp-server.md) — Coding agent for Max (Max/MSP/Jitter), the visual programming language for music and multimedia.
+- [eabz/tirith](eabz-tirith.md) — Coordinate parallel coding agents: TTL file claims, a task board with dependencies, versioned interface contracts, change notices and a decisions log.
+- [tufantunc/ssh-mcp](tufantunc-ssh-mcp.md) — SSH control for Linux and Windows servers: execute remote shell commands with password or SSH key authentication.
+- [Touchpoint-Labs/touchpoint](touchpoint-labs-touchpoint.md) — See, find and interact with UI elements in any desktop application, like Playwright for the whole OS.
+- [Rohanxmalik/Tower](rohanxmalik-tower.md) — Coordination for multiple coding agents on one repo: agents register edit intent and overlapping tree-sitter symbols are flagged before the edit rather than…
+- [tumf/mcp-shell-server](tumf-mcp-shell-server.md) — Secure shell command execution.
+- [umum-ai/claude-codex-bridge](umum-ai-claude-codex-bridge.md) — Run Codex agents from Claude Code through MCP and Channels, with live progress notifications, mid-task steering and session continuation.
+- [VertexStudio/developer](vertexstudio-developer.md) — Developer tools for file editing, shell command execution and screen capture.
+- [VibeKit-Bot/vibekit-mcp](vibekit-bot-vibekit-mcp.md) — Build, deploy and manage hosted VibeKit apps, each with a live URL and its own persistent server-side agent to chat with.
+- [vigmarcarlo/OntoPrune](vigmarcarlo-ontoprune.md) — Deterministic context pruning middleware for AI coding agents. Cuts input tokens by 60%, drops local CPU TTFT by 62%, and enforces formal IP isolation via…
+- [VoDaiLocz/kilo-kit-mcp](vodailocz-kilo-kit-mcp.md) — Runtime and skill library for coding agents: C4 workflow gates, guarded command execution and reasoning engines like Tree of Thoughts and 5 Whys.
+- [wende/cicada](wende-cicada.md) — Code intelligence for Elixir: module search, function tracking and PR attribution via tree-sitter AST parsing.
+- [wonderwhy-er/DesktopCommanderMCP](wonderwhy-er-desktopcommandermcp.md) — Manage and execute programs, and read, write, search and edit code and text files.
+- [wulun811/LiuHe](wulun811-liuhe.md) — Code tools for LLMs to read, understand and modify code, using a tree-sitter parser, SQLite index and transactional writes.
+- [x51xxx/codex-mcp-tool](x51xxx-codex-mcp-tool.md) — Connect an IDE or AI assistant to Codex CLI for code analysis and editing, with support for multiple models.
+- [x51xxx/copilot-mcp-server](x51xxx-copilot-mcp-server.md) — Connect an IDE or AI assistant to GitHub Copilot CLI for code analysis, review and batch processing.
+- [eliottreich/taskbounty-mcp-server](eliottreich-taskbounty-mcp-server.md) — Post and fund TaskBounty bounties for GitHub bugs and test coverage, or solve them with PRs that include regression tests and are verified in a sandbox.
+- [Yomiracle/trinity-lite](yomiracle-trinity-lite.md) — Local task bus for CLI AI agents such as Codex and Claude Code: route work, persist state in SQLite and collaborate through a shared server.
+- [REX-codebase/fable-mode](rex-codebase-fable-mode.md) — Control plane for AI coding agents: time-locks writing, requires evidence for claims, runs adversarial review and keeps a sealed verification record.

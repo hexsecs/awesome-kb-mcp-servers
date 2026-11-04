@@ -1,0 +1,269 @@
+# Security
+
+- [mrpkk/attest](mrpkk-attest.md) — Verifies an artifact an AI agent produced (JSON, code, structured output) against a JSON Schema plus positional prompt-injection checks, returning a verdict…
+- [emektor/toolwrit](emektor-toolwrit.md) — Policy sidecar for any MCP server: deny-by-default tool allowlist with argument rules, call and USD budget caps, and a hash-chained audit log with RFC 3161…
+- [tunahanaliozturk/derbent](tunahanaliozturk-derbent.md) — One local gate for Claude Code, Codex, Copilot CLI and Antigravity: allow, deny and ask rules over MCP and built-in tool calls, approvals from a terminal…
+- [fredyee/hallucc-mcp](fredyee-hallucc-mcp.md) — Claim-level hallucination detection with sources, agent trajectory verification, risk gating for computer-use actions and prompt-injection defense.
+- [GautamTalksDev/mcp-pin](gautamtalksdev-mcp-pin.md) — Stdio proxy that pins every tool definition (name, description, input schema, annotations) when you approve a server and blocks the session, with a diff, if…
+- [ucsandman/DashClaw](ucsandman-dashclaw.md) — Fail-closed approval layer for unattended agent runs: checks actions against org policy, requests human approval and logs every decision to a causal ledger.
+- [26zl/cybersec-toolkit](26zl-cybersec-toolkit.md) — Install a large security toolset and discover and run it through an authorization-gated server for CTF, pentesting, bug bounty and DFIR.
+- [AIops-tools/Compliance-AIops](aiops-tools-compliance-aiops.md) — Turn other AIops tools' audit trails into tamper-evident, hash-chained evidence bundles mapped to HIPAA, PCI-DSS, SOC 2 and GDPR. Offline and deterministic.
+- [dtkmn/mcp-zap-server](dtkmn-mcp-zap-server.md) — Self-hosted OWASP ZAP integration with guided security scans, findings summaries and report generation.
+- [AIops-tools/Firewall-AIops](aiops-tools-firewall-aiops.md) — Governed OPNsense + pfSense firewall operations — gateway-health, rule-shadow, and blocked-traffic RCA, plus guardrailed rule/alias writes (35 tools) with…
+- [felixpg13-glitch/spendshield](felixpg13-glitch-spendshield.md) — Payment guardrails for AI agents: spend caps, budget and approval gates, prompt-injection defense, an encrypted secret vault and an audit trail.
+- [rudimentall1/agentic-wallet-guardian-v3](rudimentall1-agentic-wallet-guardian-v3.md) — Self-hosted security layer that evaluates AI agents' proposed blockchain transactions and returns an explainable allow, warn or block decision.
+- [M2M-Sentinel/m2m-sentinel-sdk](m2m-sentinel-m2m-sentinel-sdk.md) — EVM bytecode capability analysis, EIP-1967 proxy resolution, gas recommendations and preflight safety checks for agents on Base.
+- [MvikManners/aw1-circuit-breaker](mvikmanners-aw1-circuit-breaker.md) — Deterministic sub-0.2ms AST security circuit breaker and proxy for MCP tool call dispatch pipelines.
+- [nagameTW/mcp-server-malcolm](nagametw-mcp-server-malcolm.md) — Malcolm threat hunting: search and aggregate network traffic, query Suricata alerts, browse Arkime sessions and resolve NetBox assets. Read-only by default.
+- [noor202401938-netizen/cyber-chef-mcp](noor202401938-netizen-cyber-chef-mcp.md) — CyberChef MCP server providing 28 core data transformations, ciphers, hashing, JWT decoding, representation-calibrated Shannon entropy, and multi-layer…
+- [chasdaddy/basescope](chasdaddy-basescope.md) — Read-only safety checks for Base and EVM: honeypot and rug-pull detection, risky approvals, verified source, balances, ENS and Basenames, gas and prices.
+- [elang2/mcp-audit-gateway](elang2-mcp-audit-gateway.md) — Transparent MCP proxy that keeps a signed, hash-chained audit trail of agent tool calls, with YAML policy enforcement and OpenTelemetry export.
+- [sachio222/54ch10-mcp](sachio222-54ch10-mcp.md) — JSON risk briefs for wallet addresses, tokens and URLs: scores, flags and sources from phishing, scam and URL-reputation heuristics, including OpenPhish.
+- [moxno/privacyscrubber-mcp](moxno-privacyscrubber-mcp.md) — Local, zero-trust masking of PII and secrets.
+- [askalf/truecopy](askalf-truecopy.md) — Supply-chain gate for agent skills and MCP servers: detects poisoned tool definitions, pins servers by hash, checks drift in CI and proxies only pinned tools.
+- [jamesdfinance-dev/lazaretto-mcp](jamesdfinance-dev-lazaretto-mcp.md) — Check lockfiles against malicious-package advisories and scan artifacts for credential theft, exfiltration, obfuscation, prompt injection and droppers.
+- [RoscoNL/intodns-mcp-server](rosconl-intodns-mcp-server.md) — DNS and email security scans via IntoDNS.ai: SPF, DKIM, DMARC, DNSSEC, MTA-STS, BIMI, TLS, blacklist and deliverability checks plus security header analysis.
+- [meloliva14/verity-mcp](meloliva14-verity-mcp.md) — Fail-closed trust gate for agents: fact-checking, prompt-injection detection, content moderation, PII and secret detection, and a pre-action guardrail.
+- [astafford8488/agentaegis-mcp](astafford8488-agentaegis-mcp.md) — Scan MCP servers and skills before install, vet endpoints before calling them, and run vulnerability scans, threat intel and compliance checks.
+- [Fronesis-Labs/dcl-webhook](fronesis-labs-dcl-webhook.md) — Deterministic audit layer that checks LLM and agent outputs against jailbreak, safety and trading compliance policies and logs verdicts to a hash chain.
+- [hernaninverso/eleion-scanner-mcp](hernaninverso-eleion-scanner-mcp.md) — Register and verify domains, queue security scans (headers, TLS, DNS, ports, CVEs and AI-specific checks) and read findings.
+- [qinisolabs/qiniso](qinisolabs-qiniso.md) — Verify IBAN, VAT, VIN, barcodes, national and tax IDs, crypto addresses, phone numbers, dates and holidays against checksums and curated data.
+- [node-man/dechonet-mcp](node-man-dechonet-mcp.md) — Domain security checks: DNS, DNSSEC, TLS grading, HTTP security headers, SPF, DKIM and DMARC, port scans, ASN, RDAP and WHOIS, plus an overall health score.
+- [kakunin-ai/kakunin-mcp](kakunin-ai-kakunin-mcp.md) — Agent compliance and identity: verify an agent's X.509 certificate scope, read its behavioral risk score and append to an immutable audit trail.
+- [honeylabshq/honeylabs-mcp](honeylabshq-honeylabs-mcp.md) — Honeypot threat intelligence from a sensor network: IP reputation, scanner classification, CVE probing trends and JA4, JA4H and HASSH fingerprints.
+- [kent-tokyo/shohei](kent-tokyo-shohei.md) — Infrastructure diagnostics: DNS checks, TLS certificate chain inspection, email security, global DNS propagation and DNS latency benchmarking.
+- [srinivasan-sundaresan95/orihime](srinivasan-sundaresan95-orihime.md) — Cross-repository code knowledge graph for Java, Kotlin, JavaScript and TypeScript: call-flow tracing, taint analysis, reachability and license compliance.
+- [suhui-organization/pod](suhui-organization-pod.md) — Least-privilege compiler for agents: record real tool calls, compile a minimal policy, enforce it at an MCP gateway and keep a hash-chained audit.
+- [alexar76/aimarket-mcp](alexar76-aimarket-mcp.md) — SSRF-hardened web gateway with web fetch, web search and Metis verification, sharing an audited security core with Metis and ARGUS.
+- [alexar76/aimarket-oracle-gateway](alexar76-aimarket-oracle-gateway.md) — Verifiable oracle tools via AIMarket Hub: Platon VRF randomness, Chronos VDF computation and verification, and LUMEN reputation scores.
+- [alexar76/argus](alexar76-argus.md) — Query ARGUS-3 and check its status; WARDEN vets third-party MCP servers with a scored firewall, tool-definition pinning and drift detection.
+- [alexfleetcommander/agent-trust-stack-mcp](alexfleetcommander-agent-trust-stack-mcp.md) — Cryptographic provenance, blind reputation scoring and tamper-evident logging for agent interactions, with dispute resolution and trust-based matchmaking.
+- [teodorofodocrispin-cmyk/trustboost-pii-sanitizer](teodorofodocrispin-cmyk-trustboost-pii-sanitizer.md) — Redacts emails, phone numbers, national IDs, private keys and financial data before text reaches LLMs, in English, Spanish, Portuguese, German and Japanese.
+- [123Ergo/unphurl-mcp](123ergo-unphurl-mcp.md) — URL security signals: redirects, brand impersonation, domain age, SSL validation, parked-domain detection, structural analysis and DNS enrichment.
+- [13bm/GhidraMCP](13bm-ghidramcp.md) — Ghidra plugin for binary analysis: function inspection, decompilation, memory exploration and import/export analysis.
+- [82ch/MCP-Dandan](82ch-mcp-dandan.md) — Real-time security framework for MCP servers that detects and blocks malicious agent behavior by analyzing tool call patterns and intent.
+- [MARUCIE/authbox](marucie-authbox.md) — Zero-knowledge password manager and MCP credential gateway: policy-gated agent access, deterministic passwords, BIP-39 recovery and a hash-chain audit trail.
+- [Acacian/aegis](acacian-aegis.md) — Policy-based governance for agent tool calls across LangChain, OpenAI, Anthropic and MCP: YAML policies, approval gates, risk assessment and audit logging.
+- [ajipurn/fida](ajipurn-fida.md) — Local-first MCP gateway for coding agents that redacts detected secrets from file reads and command output before they reach model context.
+- [adeptus-innovatio/solvitor-mcp](adeptus-innovatio-solvitor-mcp.md) — Reverse engineering tools from Solvitor: extract IDL files from closed-source Solana smart contracts and decompile them.
+- [aeoess/agent-passport-mcp](aeoess-agent-passport-mcp.md) — Agent identity, scoped delegation and governance: issue passports, verify narrowing-only delegation chains, enforce gateway policy and emit signed records.
+- [beeswaxpat/chronoverify-mcp](beeswaxpat-chronoverify-mcp.md) — Verify a photo's capture time and provenance: C2PA Content Credentials validation, EXIF/XMP consistency checks and pixel forensics combined into one verdict.
+- [KOVY/agentforge-trust-mcp](kovy-agentforge-trust-mcp.md) — Query AgentForge Trust Scores for MCP servers before connecting, covering security, code health, behavioral audit, community trust and EU compliance.
+- [koyourmoon/perspective-api-alternative-mcp](koyourmoon-perspective-api-alternative-mcp.md) — Toxicity scores (0-1) for text before an AI agent posts it: toxicity, severe toxicity, insult, profanity, threat and identity attack. Google Perspective API…
+- [AgentAvow/AgentAvow](agentavow-agentavow.md) — Signed, recomputable safety scores for MCP servers, packages and tools, with offline-verifiable attestations and a GitHub Action to gate CI merges.
+- [AgentValet/AgentValet](agentvalet-agentvalet.md) — Identity and credential broker for MCP servers: issues scoped, short-lived credentials per agent, with audit logging and human approval gates.
+- [AperionAI/shield](aperionai-shield.md) — Local guardrail proxy for MCP servers: blocks destructive tool calls, pins tool catalogs against rug pulls and scans for tool poisoning and prompt injection.
+- [arian-gogani/nobulex](arian-gogani-nobulex.md) — Proof-of-behavior enforcement for AI agents: define permit/forbid/require rules, enforce them at runtime and keep hash-chained, tamper-evident audit logs.
+- [9hannahnine-jpg/arc-gate-mcp](9hannahnine-jpg-arc-gate-mcp.md) — Runtime governance for MCP tool calls that blocks prompt injection and capability abuse before tool results reach the agent.
+- [agentward-ai/agentward](agentward-ai-agentward.md) — MCP proxy that enforces least-privilege YAML policies on tool calls, classifies PII/PHI, detects dangerous skill chains and generates compliance audit trails.
+- [agntor/mcp](agntor-mcp.md) — Agent discovery and certification with a trust and payment rail: identity verification, escrow, settlement and reputation management.
+- [maxfain/basedagents](maxfain-basedagents.md) — Agent identity registry (reputation, capability search, task marketplace, messaging) plus a local encrypted vault that leases provider keys to agents.
+- [gaoharimran29-glitch/Cybersecurity-MCP-Server](gaoharimran29-glitch-cybersecurity-mcp-server.md) — Local security reconnaissance: WHOIS, DNS and subdomain enumeration, Nmap scanning, TLS inspection, tech fingerprinting, CVE and IP reputation lookups.
+- [vinaybhosle/agentstamp](vinaybhosle-agentstamp.md) — Trust intelligence for AI agents: identity stamps, reputation scoring, a registry, forensic audit trails and A2A passports via x402 micropayments.
+- [jimmyracheta/AI-Runtime-Guard](jimmyracheta-ai-runtime-guard.md) — Runtime policy enforcement for AI agents that prevents accidental system damage and unauthorized access, with automatic backups before file writes.
+- [airblackbox/air-blackbox-mcp](airblackbox-air-blackbox-mcp.md) — EU AI Act compliance scanner for Python AI agents (LangChain, CrewAI, AutoGen, OpenAI) with prompt injection detection, risk classification and fix generation.
+- [AIM-Intelligence/AIM-Guard-MCP](aim-intelligence-aim-guard-mcp.md) — Security-focused safety guidelines and content analysis for AI agents.
+- [alberthild/shieldapi-mcp](alberthild-shieldapi-mcp.md) — Security intelligence: HIBP password breach checks, email/domain/IP/URL reputation, prompt injection detection and skill supply chain scanning.
+- [rudraneel93/mcp-guardian](rudraneel93-mcp-guardian.md) — Security and governance proxy for MCP with YAML policies (blocklists, rate limits, token budgets), token cost tracking, health monitoring and RBAC.
+- [jamjet-labs/jamjet-policy](jamjet-labs-jamjet-policy.md) — MCP interceptor that applies one YAML policy (block, require approval, audit, budget cap) to tool calls, also usable in Claude Code hooks and agent SDKs.
+- [kastelldev/kastell](kastelldev-kastell.md) — Server security auditing and hardening (SSH, firewall, Docker, TLS) with CIS/PCI-DSS/HIPAA mapping, fleet management and forensic evidence collection.
+- [ark-forge/arkforge-mcp](ark-forge-arkforge-mcp.md) — Third-party certifying proxy that signs any HTTP call with an independent Ed25519 signature, RFC 3161 timestamp and Sigstore Rekor anchor.
+- [atomicchonk/roadrecon_mcp_server](atomicchonk-roadrecon-mcp-server.md) — Analyze ROADrecon gather results from Azure tenant enumeration.
+- [mirajmahmudul/agentdevx-sdk](mirajmahmudul-agentdevx-sdk.md) — Identity and credential gateway for agents: Ed25519 identity, encrypted credential vault, OPA policies with audit logging, per-agent memory and web scraping.
+- [behrensd/mcp-firewall](behrensd-mcp-firewall.md) — Deterministic security proxy for MCP that intercepts tool calls, enforces YAML policies, scans for secret leakage and logs everything.
+- [Gowthaman90/mcp-bastion](gowthaman90-mcp-bastion.md) — Security proxy for MCP servers: tool-definition pinning, tool-poisoning and exfiltration detection, injection blocking, secret redaction and audit trails.
+- [bluetieroperations-create/blackwall-mcp](bluetieroperations-create-blackwall-mcp.md) — Risk gate that agents call before irreversible actions, returning a risk score, reversibility class, red flags and a proceed/confirm/human-required decision.
+- [Perufitlife/web-exposure-mcp](perufitlife-web-exposure-mcp.md) — Read-only check of a live URL for publicly exposed secret files: .git, .env, JS source maps, backup/SQL dumps, directory listings and dotfiles.
+- [Bichev/agentradar-mcp](bichev-agentradar-mcp.md) — On-chain trust oracle for ERC-8004 and x402 agents: composite trust scoring, a scam wallet database, ERC-8004 identity lookup and EAS attestations on Base.
+- [Buggy1111/anonymize-mcp](buggy1111-anonymize-mcp.md) — Anonymize PII for GDPR in Czech and many other languages using ÚFAL/LINDAT NLP (MasKIT, NameTag), plus morphology, translation and spellcheck.
+- [FoundryNet/mint-mcp](foundrynet-mint-mcp.md) — MINT Protocol work attestation for agents: cryptographically attest, verify, rate and discover agent work to build portable on-chain reputation.
+- [bunkerity/bunkerweb-mcp](bunkerity-bunkerweb-mcp.md) — Official BunkerWeb WAF integration to manage services, instances, IP bans, configurations, plugins, and scheduler jobs over stdio or streamable HTTP.
+- [BurtTheCoder/mcp-dnstwist](burtthecoder-mcp-dnstwist.md) — Run dnstwist, a DNS fuzzing tool, to detect typosquatting, phishing and corporate espionage.
+- [BurtTheCoder/mcp-maigret](burtthecoder-mcp-maigret.md) — Search usernames across social networks and analyze URLs with maigret, an OSINT tool that collects account information from public sources.
+- [BurtTheCoder/mcp-shodan](burtthecoder-mcp-shodan.md) — Query the Shodan API and Shodan CVEDB: IP lookups, device searches, DNS lookups, vulnerability queries and CPE lookups.
+- [BurtTheCoder/mcp-virustotal](burtthecoder-mcp-virustotal.md) — Query the VirusTotal API: scan URLs, analyze file hashes and retrieve IP address reports.
+- [mcp-hangar/mcp-hangar](mcp-hangar-mcp-hangar.md) — Self-hosted policy enforcement for MCP server fleets: deterministic admission and egress policies, attributable audit logs and SIEM export.
+- [Declade/lucairn-sdks](declade-lucairn-sdks.md) — Privacy gateway that sanitizes German and English PII before prompts reach an LLM and issues a signed, timestamped certificate for each call.
+- [chrbailey/promptspeak-mcp-server](chrbailey-promptspeak-mcp-server.md) — Pre-execution governance for agent tool calls: risk classification, behavioral drift detection, a hold queue for dangerous operations and an audit trail.
+- [bx33661/Wireshark-MCP](bx33661-wireshark-mcp.md) — Wireshark packet analysis: capture, protocol statistics, field extraction and security analysis.
+- [Chimera-Protocol/csl-core](chimera-protocol-csl-core.md) — Deterministic AI safety policy engine with Z3 formal verification: write, verify and enforce machine-verifiable constraints for AI agents.
+- [co-browser/attestable-mcp-server](co-browser-attestable-mcp-server.md) — Demonstrates remote attestation of an MCP server running in a Gramine TEE via RA-TLS, so clients can verify the server before connecting.
+- [corewebvitals/state-of-cwv-mcp](corewebvitals-state-of-cwv-mcp.md) — Core Web Vitals metrics by CMS, CDN and framework, based on Chrome field data and a multi-site crawl.
+- [coreyhines/opnsense-mcp](coreyhines-opnsense-mcp.md) — OPNsense firewall operations via API: query ARP, DHCP, firewall rules, logs, interfaces, system status and packet captures.
+- [creatorrmode-lead/avp-sdk](creatorrmode-lead-avp-sdk.md) — Trust, W3C DID identity and EigenTrust reputation for AI agents, with attestations, disputes, sybil detection and IPFS audit anchoring.
+- [Cubiczan/governed-mcp-gateway](cubiczan-governed-mcp-gateway.md) — HTTP MCP gateway that attaches a principal to tool calls and SSE streams, with allowlists and vault rotation.
+- [Cubiczan/trust-ledger-os](cubiczan-trust-ledger-os.md) — Trust and risk control plane for AI teams, with phases, routes and a package catalog.
+- [gebalamariusz/cloud-audit](gebalamariusz-cloud-audit.md) — AWS security scanner with attack chain detection, breach cost estimation and remediation snippets for CLI and Terraform.
+- [cyberdroid2077/opsecforge-tools](cyberdroid2077-opsecforge-tools.md) — Local stdio server that keeps secrets out of coding-agent context: `redact_file` takes a path and returns only redacted content, `scan_secrets` checks…
+- [cyntrisec/cyntrisec-cli](cyntrisec-cyntrisec-cli.md) — Local-first AWS security analyzer that discovers attack paths and generates remediations using graph theory.
+- [dambuchs/redact-pdf-mcp](dambuchs-redact-pdf-mcp.md) — Permanently redact PII (names, emails, phone numbers, addresses, IBANs, card numbers) from PDFs, scans and screenshots, with multilingual OCR.
+- [datanexusmcp/mcp-server](datanexusmcp-mcp-server.md) — Public data lookups: CVE/SBOM security audits, license compliance, patents, federal contracts, NPI providers, nonprofit 990 filings and domain intelligence.
+- [dnsdoctor/claude-plugin](dnsdoctor-claude-plugin.md) — Scan and fix a domain's email authentication (SPF, DMARC, DKIM, MX), blacklist status and domain/SSL expiry, with deterministic, validated fix records.
+- [doublegate/CyberChef-MCP](doublegate-cyberchef-mcp.md) — GCHQ CyberChef's encryption, encoding, compression and forensics operations, plus analysis tools such as hash identification, cipher solving and RSA attacks.
+- [duriantaco/skylos](duriantaco-skylos.md) — Dead code detection, security scanning and code quality analysis for Python, TypeScript and Go, with AI-assisted remediation.
+- [echelongraph/echelongraph-mcp](echelongraph-echelongraph-mcp.md) — Keyless, read-only CVE and internet-exposure intelligence: CVE lookup and search, CISA KEV, EPSS history, CWE, vendor advisories (MSRC, Red Hat, Cisco, GHSA…
+- [elberacasa/umbra](elberacasa-umbra.md) — Trust scores and guardrails for AI-generated code: static security rules, Docker-verified build/boot checks and receipts that catch agents lying about tests.
+- [eliottreich/taskbounty-check](eliottreich-taskbounty-check.md) — Local, read-only scanner for GitHub Actions and CI maintenance issues in AI-built apps, with finding explanations and fix plans.
+- [emiliaprotocol/emilia-protocol](emiliaprotocol-emilia-protocol.md) — Requires a named human's approval before irreversible agent actions such as payments or deploys, then issues an offline-verifiable Ed25519 trust receipt.
+- [Erodenn/fetch-guard](erodenn-fetch-guard.md) — URL fetcher and HTML-to-Markdown converter with layered prompt injection defense: hidden-element sanitization, risk scanning and content boundary wrapping.
+- [Farenhytee/database-sentinel](farenhytee-database-sentinel.md) — Read-only security audit for Supabase. Four tools surface RLS gaps, permissive policies, exposed functions and grants; an `audit` prompt returns scored…
+- [firstorderai/authenticator_mcp](firstorderai-authenticator-mcp.md) — Securely interact with the Authenticator App.
+- [forest6511/secretctl](forest6511-secretctl.md) — Secrets manager that injects credentials into commands as environment variables so agents never see plaintext secrets, and sanitizes command output.
+- [forgemeshlabs/x402-notary-mcp](forgemeshlabs-x402-notary-mcp.md) — Notarize AI model outputs with signed Ed25519 attestations, SHA-256 content hashes and Merkle anchoring on Base or Solana, paid via x402.
+- [fosdickio/binary_ninja_mcp](fosdickio-binary-ninja-mcp.md) — Binary Ninja plugin and bridge for automating binary analysis and reverse engineering.
+- [fr0gger/MCP_Security](fr0gger-mcp-security.md) — Query the ORKL API to fetch threat reports, analyze threat actors and retrieve intelligence sources.
+- [Gaffx/volatility-mcp](gaffx-volatility-mcp.md) — Memory forensics with Volatility 3, exposing plugins such as pslist and netscan through REST APIs.
+- [gbrigandi/mcp-server-cortex](gbrigandi-mcp-server-cortex.md) — Cortex integration for observable analysis and automated security responses.
+- [gbrigandi/mcp-server-thehive](gbrigandi-mcp-server-thehive.md) — TheHive integration for collaborative security incident response and case management.
+- [gbrigandi/mcp-server-wazuh](gbrigandi-mcp-server-wazuh.md) — Access real-time security alerts and event data from Wazuh SIEM.
+- [getaegis/aegis](getaegis-aegis.md) — Credential isolation proxy that injects secrets at the network boundary, with domain restrictions, agent authentication and audit logging.
+- [Kjopstad-IT/rqwstr](kjopstad-it-rqwstr.md) — HTTP security testing toolkit (send, intruder, race, chain, out-of-band) with low-level HTTP/1.1 and HTTP/2 control: raw framing and connection pinning.
+- [Kzino/vorim-mcp-server](kzino-vorim-mcp-server.md) — Agent identity, trust and audit trails: Ed25519 agent registration, permission checks, tamper-evident audit events, trust scores and credential delegation.
+- [gridinsoft/mcp-inspector](gridinsoft-mcp-inspector.md) — Domain and URL security analysis with GridinSoft Inspector to verify website and link safety.
+- [goklab/guardvibe](goklab-guardvibe.md) — Security scanner for vibe-coded apps (Next.js, Supabase, Stripe, Prisma and more): taint analysis, auto-fix, SARIF export, pre-commit hook and CVE detection.
+- [ARKALDA/hejdar-mcp](arkalda-hejdar-mcp.md) — Runtime policy enforcement for AI agents: evaluate actions against organization policies before execution, in observe or enforce mode.
+- [goldmembrane/cleaner-code](goldmembrane-cleaner-code.md) — Locally scans AI-generated code for invisible Unicode, Trojan Source, homoglyphs, rules file backdoors and typosquatting using static analysis and CodeBERT.
+- [HaroldFinchIFT/vuln-nist-mcp-server](haroldfinchift-vuln-nist-mcp-server.md) — Query the NIST National Vulnerability Database (NVD) API.
+- [haruodev/tamperlens-mcp](haruodev-tamperlens-mcp.md) — Document forensics via the Tamperlens API: detect post-creation edits, failed redactions and embedded prompt injection in PDFs, Office files and images.
+- [hieutran/entraid-mcp-server](hieutran-entraid-mcp-server.md) — Microsoft Entra ID (Azure AD) directory, user, group, device, sign-in and security operations via Microsoft Graph.
+- [I4cTime/quantum_ring](i4ctime-quantum-ring.md) — Quantum-inspired keyring for AI coding agents, securing secrets with superposition, entanglement, tunneling and teleportation.
+- [icoretech/warden-mcp](icoretech-warden-mcp.md) — Manage Bitwarden and Vaultwarden vaults via the bw CLI: search, create, edit and organize logins, notes, cards, identities, SSH keys, folders and Sends.
+- [infai-tech/vulnfeed-mcp](infai-tech-vulnfeed-mcp.md) — Scans dependency lockfiles for vulnerabilities, prioritizes them by EPSS exploit probability and recommends fix versions, with monitoring and alerting.
+- [intruder-io/intruder-mcp](intruder-io-intruder-mcp.md) — Access Intruder to identify, understand and fix security vulnerabilities in your infrastructure.
+- [itsalissonsilva/ModelSafetyMCP](itsalissonsilva-modelsafetymcp.md) — Scan ML model artifacts, URLs and directories for unsafe serialization, malicious patterns and risky packaging using ModelScan, PickleScan and heuristics.
+- [inkog-io/inkog-mcp](inkog-io-inkog-mcp.md) — Audits agents and MCP servers for prompt injection, infinite loops, token bombing and missing human oversight, with EU AI Act and OWASP mapping.
+- [jaimenbell/rails-mcp](jaimenbell-rails-mcp.md) — Self-hosted default-deny action registry, append-only spend-intent ledger and human sign-off audit trail for gating irreversible agent actions.
+- [JeanExtreme002/PyMemoryEditor](jeanextreme002-pymemoryeditor.md) — Read, write and scan the memory of running processes, Cheat Engine style: value scans that narrow down as the value changes, pointer chains, and scan…
+- [joergmichno/clawguard-mcp](joergmichno-clawguard-mcp.md) — Security scanner for AI agents that detects prompt injections using regex patterns.
+- [jnMetaCode/shellward](jnmetacode-shellward.md) — Agent security middleware with layered defenses: prompt injection detection, DLP data flow tracking, command blocking and PII detection.
+- [JoeyBrar/agentseal-mcp](joeybrar-agentseal-mcp.md) — Action logs for AI agents: records every action in a SHA-256 hash chain as an audit trail.
+- [jonnybottles/patch-tuesday-mcp](jonnybottles-patch-tuesday-mcp.md) — Microsoft Patch Tuesday triage from the MSRC Security Update Guide: monthly rollups, CVE/KB lookups, supersedence chains and EPSS/CISA KEV urgency ranking.
+- [jtang613/GhidrAssistMCP](jtang613-ghidrassistmcp.md) — Native Ghidra integration with GUI configuration, logging and no external dependencies.
+- [jyjune/mcp_vms](jyjune-mcp-vms.md) — Retrieve live and recorded video from a CCTV recording program (VMS) and control it, such as opening live or playback dialogs for specific channels and times.
+- [juanisidoro/securecode-mcp](juanisidoro-securecode-mcp.md) — Encrypted secrets vault for Claude Code that injects secrets into local files so the AI never sees raw values, with audit logs and per-model access rules.
+- [kimjooyoon/gooo-go-ports](kimjooyoon-gooo-go-ports.md) — Local stdio server for Gooo-generated service-grant narrowing decisions: checks preservation of one required request and returns the full proof with…
+- [LaurieWired/GhidraMCP](lauriewired-ghidramcp.md) — Autonomous reverse engineering with Ghidra: decompile binaries, rename methods and data, and list methods, classes, imports and exports.
+- [luiacuaniello/perspectivegraph](luiacuaniello-perspectivegraph.md) — Attack-path engine for cloud and Kubernetes: list routes from internet exposure to sensitive assets, explain each hop, find choke points and simulate fixes.
+- [mandarelabs/mandare](mandarelabs-mandare.md) — Accountability for AI agent fleets: verify a signed, hash-chained ledger, check budgets, kill an agent, and issue passports and mandates, all through the…
+- [mariocandela/beelzebub](mariocandela-beelzebub.md) — Honeypot framework for building decoy MCP tools that an agent would never use in normal work, to detect prompt injection and malicious agent behavior.
+- [mobb-dev/mobb-vibe-shield-mcp](mobb-dev-mobb-vibe-shield-mcp.md) — Mobb Vibe Shield identifies and remediates vulnerabilities in human and AI-written code.
+- [MoltyCel/moltrust-mcp-server](moltycel-moltrust-mcp-server.md) — Trust infrastructure for AI agents: register DIDs, verify identities, query reputation scores, rate agents and manage W3C Verifiable Credentials.
+- [msaad00/agent-bom](msaad00-agent-bom.md) — AI supply chain security scanner: discovers MCP clients, scans dependencies for CVEs, maps blast radius to credentials and tools, and generates SBOMs.
+- [mrexodia/ida-pro-mcp](mrexodia-ida-pro-mcp.md) — IDA Pro plugin for binary analysis: decompilation, disassembly and automatic malware analysis reports.
+- [mrz1880/mcp-keycloak-admin](mrz1880-mcp-keycloak-admin.md) — Administer Keycloak via its Admin REST API: users, roles, clients, groups, identity providers, federation and events, with a read-only mode.
+- [muhannad-hash/mcp-shield](muhannad-hash-mcp-shield.md) — Pre-install security scanner for MCP servers: detects backdoors, exfiltration code, obfuscation, dangerous execution, prompt injection and supply chain risks.
+- [nh4ttruong/secobserve-mcp](nh4ttruong-secobserve-mcp.md) — SecObserve vulnerability and license management: triage observations, manage products and rules, import scan reports and SBOMs, run scans and generate VEX.
+- [rob925/mcp-shield](rob925-mcp-shield.md) — Static security scanner for MCP servers and agent tools: detects secrets, shell execution, risky tool descriptions, environment access and prompt injection.
+- [robyroro/mcp-latchpoint](robyroro-mcp-latchpoint.md) — Offline, read-only audit of MCP client configs: flags plain HTTP, shell wrappers, unpinned runners, embedded credentials and broad access scopes; outputs…
+- [nickgeorgeseo/mcp-gatehouse](nickgeorgeseo-mcp-gatehouse.md) — Permission tiers, approval gates and secret-redacting audit logging enforced inside MCP servers at the tool boundary, with a demo order-desk server.
+- [nickjlamb/redacta](nickjlamb-redacta.md) — Privacy boundary for healthcare AI agents: pseudonymises patient identifiers (NHS numbers, names, dates of birth, addresses; UK and US) into labelled tokens…
+- [nickpending/mcp-recon](nickpending-mcp-recon.md) — Conversational recon with httpx and asnmap: domain analysis, security header inspection, certificate analysis and ASN lookups at multiple recon levels.
+- [operantlabs/operant-mcp](operantlabs-operant-mcp.md) — Security testing tools for penetration testing, network forensics, memory analysis and vulnerability assessment.
+- [OrygnsCode/opa-mcp-server](orygnscode-opa-mcp-server.md) — OPA and Rego policy toolkit wrapping the OPA CLI and Regal: format, lint, evaluate, test and benchmark policies, manage the OPA REST API and explain decisions.
+- [Pentagonal-ai/pentagonal](pentagonal-ai-pentagonal.md) — Generate, audit, fix and compile smart contracts on Ethereum, Solana, Base and other chains, with adversarial multi-agent pen testing and honeypot detection.
+- [P4ST4S/mcp-audit](p4st4s-mcp-audit.md) — Transparent proxy that intercepts, signs, rate-limits, redacts and audits MCP tool calls without modifying client or server.
+- [panther-labs/mcp-panther](panther-labs-mcp-panther.md) — Use Panther's SIEM platform in natural language to write detections, query logs and manage alerts.
+- [Paraphern/rugsnare](paraphern-rugsnare.md) — Pin MCP tool contracts by hash and catch silent drift, rug pulls and per-client bait-and-switch after approval, with a CI gate, live stdio/HTTP proxies…
+- [petrovicistefan/mcp-security-guard](petrovicistefan-mcp-security-guard.md) — Audit the MCP servers you use against the OWASP MCP Top 10: tool poisoning, rug pulls, shadowing, secrets and supply-chain risk, with runtime guards…
+- [piiiico/proof-of-commitment](piiiico-proof-of-commitment.md) — Supply chain risk scoring for npm, PyPI, Cargo and Go packages from behavioral signals: publisher depth, release consistency and maintenance patterns.
+- [pullkitsan/mobsf-mcp-server](pullkitsan-mobsf-mcp-server.md) — Static and dynamic analysis of Android and iOS apps with MobSF.
+- [ppcvote/misp-mcp-server](ppcvote-misp-mcp-server.md) — Read-only MISP threat intelligence (events, attributes, search, tags, feeds, galaxies) with prompt injection scanning of every response.
+- [privacyfence/privacyfence](privacyfence-privacyfence.md) — Privacy and approval gateway between AI assistants and Gmail, Drive, Slack, Salesforce, Jira and more: human approval for sensitive reads and writes, local…
+- [project-feldspar-resources/feldspar-scan](project-feldspar-resources-feldspar-scan.md) — Deterministic security scan of public git repositories: vulnerable dependencies via OSV, hard-coded secrets and risky config lint, as file:line findings.
+- [qianniuspace/mcp-security-audit](qianniuspace-mcp-security-audit.md) — Audit npm package dependencies for security vulnerabilities with real-time checks against the npm registry.
+- [rafapra3008/cervellaswarm](rafapra3008-cervellaswarm.md) — Verify agent communication protocols with session types and Lean 4 proofs to catch deadlocks and role violations; includes a linter, formatter and LSP.
+- [rad-security/mcp-server](rad-security-mcp-server.md) — Query the RAD Security API for Kubernetes and cloud security findings, reports and runtime data.
+- [radareorg/r2mcp](radareorg-r2mcp.md) — Disassemble and inspect binaries for reverse engineering with the Radare2 disassembler.
+- [renkagod/osint-toolbox-mcp](renkagod-osint-toolbox-mcp.md) — Runs 12 OSINT tools locally (Sherlock, Maigret, Holehe, GHunt, SpiderFoot, subfinder...) plus built-in WHOIS, DNS, crt.sh and Wayback lookups. No API keys.
+- [rev2ret/SecureAudit-MCP](rev2ret-secureaudit-mcp.md) — Static C/C++ memory-safety scanning and PE/ELF binary protection audits (ASLR, DEP/NX, SafeSEH, PIE), with remediation via secure templates.
+- [roadwy/cve-search_mcp](roadwy-cve-search-mcp.md) — Query the CVE-Search API: browse vendors and products, get CVEs by ID and list the latest updated CVEs.
+- [rohan-protocol/sdk](rohan-protocol-sdk.md) — Stateless privacy shield, WebMCP semantic firewall, and gasless on-chain state settlement for autonomous AI agents on Midnight Network.
+- [Rul1an/assay](rul1an-assay.md) — Fail-closed policy-as-code proxy for MCP that denies risky tool calls, produces offline-verifiable evidence bundles and enforces egress via eBPF and Landlock.
+- [safedep/vet](safedep-vet.md) — Locally check npm and PyPI packages, such as those suggested by AI coding tools, for vulnerabilities and malicious code.
+- [samvas-codes/dawshund_mcp](samvas-codes-dawshund-mcp.md) — Enumerate AWS IAM data, analyze effective permissions and visualize access relationships across users, roles and resources, based on dAWShund.
+- [sanyambassi/ciphertrust-manager-mcp-server](sanyambassi-ciphertrust-manager-mcp-server.md) — Thales CipherTrust Manager integration for key management, cryptographic operations and compliance monitoring.
+- [sanyambassi/thales-cdsp-cakm-mcp-server](sanyambassi-thales-cdsp-cakm-mcp-server.md) — Thales CDSP CAKM integration for key management, cryptographic operations and compliance monitoring for Microsoft SQL Server and Oracle databases.
+- [sanyambassi/thales-cdsp-crdp-mcp-server](sanyambassi-thales-cdsp-crdp-mcp-server.md) — Integration with the Thales CipherTrust Manager RESTful Data Protection service.
+- [SaravananJaichandar/etch-mcp](saravananjaichandar-etch-mcp.md) — Signed audit chain for AI agent decisions: events are signed, Merkle-chained per project, anchored to public transparency logs and verifiable offline.
+- [scamverifyai/scamverify-mcp](scamverifyai-scamverify-mcp.md) — Scam and threat checks for phone numbers, URLs, texts, emails, documents and QR codes using FTC/FCC complaints, URLhaus and ThreatFox, with risk scores.
+- [scalekit-inc/scalekit-mcp-server](scalekit-inc-scalekit-mcp-server.md) — Manage Scalekit organizations, users and SSO.
+- [Thezenmonster/agentscore-mcp-server](thezenmonster-agentscore-mcp-server.md) — Security trust layer that monitors MCP packages on npm for install scripts, command injection, hardcoded secrets, capability drift and publisher posture.
+- [thyn-ai/algenta-sdk](thyn-ai-algenta-sdk.md) — Algenta decision engine: dataset discovery, exact queries, utility models, decision memory and governed agent runs with approvals and execution receipts.
+- [tomjwxf/scopeblind-gateway](tomjwxf-scopeblind-gateway.md) — Security gateway that wraps MCP servers with per-tool policies, approval gates and optional signed receipts, in shadow (log-only) or enforce mode.
+- [SECRET4422/guardrail-mcp](secret4422-guardrail-mcp.md) — Enterprise security and code-safety guardrail for AI agents featuring AST taint analysis, SARIF/SBOM generation, and policy gates.
+- [securityfortech/secops-mcp](securityfortech-secops-mcp.md) — Security testing toolbox that combines open source tools behind a single interface for pentesting, bug bounty hunting and threat hunting.
+- [sekera-radim/impri](sekera-radim-impri.md) — Self-hostable human-in-the-loop approval inbox: humans approve, reject or edit proposed agent actions via web, mobile, Slack, Discord or Telegram.
+- [semgrep/semgrep](semgrep-semgrep.md) — Scan code for security vulnerabilities using Semgrep.
+- [sgateway/s-gw](sgateway-s-gw.md) — Local credential gateway for coding agents: agents get handles instead of raw secrets, and one-time approvals inject credentials only into approved commands.
+- [GUCCI-atlasv/skillssafe-mcp](gucci-atlasv-skillssafe-mcp.md) — Scan SKILL.md files, MCP configs and system prompts for credential theft, prompt injection, zero-width character attacks and ClawHavoc indicators.
+- [slouchd/cyberchef-api-mcp-server](slouchd-cyberchef-api-mcp-server.md) — Use CyberChef operations through the CyberChef server API.
+- [sidclawhq/platform](sidclawhq-platform.md) — Governance proxy that wraps MCP servers with policy evaluation, human approval workflows and hash-chain audit trails.
+- [Chronolapse411/sicarius-guard](chronolapse411-sicarius-guard.md) — Solana token safety oracle: byte-level SPL mint analysis, honeypot detection, freeze/mint authority checks, Birdeye market data and composite risk scoring.
+- [sint-ai/sint-protocol](sint-ai-sint-protocol.md) — MCP governance proxy with capability tokens, tiered approvals, fail-closed execution and tamper-evident audit receipts, plus preflight tool-risk scanning.
+- [Skyrxin/sast-mcp-server](skyrxin-sast-mcp-server.md) — SAST/DAST scanners (Bandit, Semgrep, Trivy, CodeQL, OWASP ZAP and more) with closed-loop remediation, SARIF/SBOM/VEX export and compliance reporting.
+- [snyk/studio-mcp](snyk-studio-mcp.md) — Embeds Snyk's security engines into agentic workflows to secure AI-generated code in real time and work through vulnerability backlogs faster.
+- [sp3ak/safenode-mcp-gateway](sp3ak-safenode-mcp-gateway.md) — Fail-closed policy proxy for MCP tool calls that denies, warns on or holds each call for human approval before forwarding, with client-side redaction.
+- [StacklokLabs/osv-mcp](stackloklabs-osv-mcp.md) — Query the OSV (Open Source Vulnerabilities) database by package version or commit, batch-query multiple packages and get vulnerability details by ID.
+- [stefantsezarov/SaveSaveSaveSave](stefantsezarov-savesavesavesave.md) — Read-only checks before an agent acts: prompt-injection and phishing scan of untrusted text (local), npm package check for malware, hijacked releases and…
+- [swnotmetal/Project-Koma](swnotmetal-project-koma.md) — Classify input for prompt injection and out-of-scope content with Koma Gate's LLM-based classifier.
+- [Synvoya/codeinspectus](synvoya-codeinspectus.md) — Local security scanner for AI-generated JS/TS that combines Opengrep, Gitleaks and Trivy with checks for exposed secrets, Supabase RLS and prompt injection.
+- [velvetway/minreestr-mcp](velvetway-minreestr-mcp.md) — Search the Russian software registry for import-substitution and FSTEC/FSB-certified products, with full-text search and manufacturer listings.
+- [vespo92/OPNSenseMCP](vespo92-opnsensemcp.md) — Manage and interact with the OPNsense open source firewall in natural language.
+- [vikasny30/aletheia-mcp](vikasny30-aletheia-mcp.md) — Deterministic pre-execution filter for agent tool calls that blocks scope creep (credential reads, SSRF, destructive shell/SQL) and prompt injection.
+- [wei9072/aegis](wei9072-aegis.md) — Admission control for agent file edits: checks syntax, structural-cost regressions and workspace boundaries, returning BLOCK, WARN or PASS verdicts.
+- [whatsinmycloud/aws-audit-scanner](whatsinmycloud-aws-audit-scanner.md) — Read-only AWS audit scanner: public S3 buckets, root and user MFA gaps, unused access keys, world-open security groups, CloudTrail gaps, and forgotten…
+- [YugantM/hvtracker-mcp](yugantm-hvtracker-mcp.md) — Pre-connect supply-chain trust checks for AI agents, frameworks and MCP servers: evidence-based HVTrust scores and verdicts from public signals (package…
+- [zboralski/ida-headless-mcp](zboralski-ida-headless-mcp.md) — Headless IDA Pro binary analysis with concurrent sessions and Il2CppDumper and Blutter metadata import for Unity and Flutter reverse engineering.
+- [zekebuilds-lab/captcha-mcp](zekebuilds-lab-captcha-mcp.md) — Middleware that gates MCP tool calls behind a Hashcash proof-of-work challenge or an L402 Lightning payment via self-hosted LNbits.
+- [zinja-coder/apktool-mcp-server](zinja-coder-apktool-mcp-server.md) — Automate reverse engineering of Android APKs with Apktool.
+- [takleb3rry/zitadel-mcp](takleb3rry-zitadel-mcp.md) — Zitadel identity management: manage users, projects, OIDC apps, roles and service accounts in natural language.
+- [taniwhaai/arai](taniwhaai-arai.md) — Enforces rules from existing agent instruction files (CLAUDE.md, .cursorrules) by blocking prohibited tool calls and logging per-rule compliance verdicts.
+- [toan203/osv-ui](toan203-osv-ui.md) — Visual CVE audit dashboard for npm, Python, Go and Rust using OSV data, with browser-based human review and fixes applied only after confirmation.
+- [ScopeBlind/verify-mcp](scopeblind-verify-mcp.md) — Offline verification of Ed25519/JCS-signed artifacts such as receipts, manifests and audit bundles.
+- [zinja-coder/jadx-ai-mcp](zinja-coder-jadx-ai-mcp.md) — JADX decompiler plugin providing live, LLM-assisted reverse engineering.
+- [loglux/authmcp-gateway](loglux-authmcp-gateway.md) — Auth proxy for MCP servers: OAuth2 with DCR, JWT, RBAC, rate limiting, multi-server aggregation and a monitoring dashboard.
+- [jstibal/openterms-mcp](jstibal-openterms-mcp.md) — Ed25519-signed consent receipts and a policy engine for agents: spending caps, action allowlists, escalation thresholds and JWKS-backed provider verification.
+- [arthurpanhku/DocSentinel](arthurpanhku-docsentinel.md) — Automate cybersecurity assessment of documents, questionnaires and reports to surface risks, compliance gaps and remediations, using a RAG knowledge base.
+- [urldna/mcp](urldna-mcp.md) — URL scanning and phishing triage: capture DOM snapshots, network requests and screenshots, and hunt historical scans with a custom query language.
+- [uchit/mcp-regulated-ai-compliance](uchit-mcp-regulated-ai-compliance.md) — Regulated-industry AI compliance knowledge: control lookup, use-case classification and crosswalks for EU AI Act, NIST AI RMF, ISO 42001, APRA, GDPR and more.
+- [iamredmh/volta-mcp-server](iamredmh-volta-mcp-server.md) — Burn-after-read encrypted Volta Notes for agents: hand off credentials between users and agents without secrets appearing in chat history.
+- [zkproofport/proofport-ai](zkproofport-proofport-ai.md) — Generate zero-knowledge proofs of identity claims (Coinbase KYC, country, Google OIDC, Microsoft 365) without revealing personal information.
+- [zyx77550/sparda](zyx77550-sparda.md) — Injects a live, reversible MCP server into a running Express, FastAPI or Next.js app, with safe reads by default and writes gated behind human confirmation.
+- [cuttalo/depscope](cuttalo-depscope.md) — Package intelligence across many ecosystems: health, vulnerabilities (OSV, CISA KEV, EPSS), typosquats, malicious packages, alternatives and breaking changes.
+- [UnboundCompute/lachesis](unboundcompute-lachesis.md) — Code property graph for C, Python and TypeScript: callers/callees, data and taint flow with source-to-sink witnesses, points-to and guard/sink structure.
+- [UPinar/contrastapi](upinar-contrastapi.md) — Security intelligence: CVE/EPSS/KEV lookups, domain recon (DNS, WHOIS, SSL, subdomains), IOC threat intel, OSINT and code scanning for secrets and injection.
+- [vaulted-fyi/vaulted-mcp-server](vaulted-fyi-vaulted-mcp-server.md) — Share end-to-end encrypted, self-destructing secrets from an agent, reading them from env vars or files so they stay out of LLM context.
+- [mopanc/depguard](mopanc-depguard.md) — Pre-install npm package checks: static analysis, supply-chain attack detection, vulnerability audits, AI hallucination guard and CycloneDX SBOM generation.
+- [shyshlakov/pci-dss-mcp](shyshlakov-pci-dss-mcp.md) — PCI DSS static analysis for Go payment code: finds PAN/CVV exposure, weak crypto, missing audit logs and vulnerable deps, each mapped to a PCI requirement.
+- [layervai/qurl-mcp](layervai-qurl-mcp.md) — Mint, resolve, audit and rotate expiring, scope-limited access links (qURLs) via the qURL API.
+- [zw008/VMware-Harden](zw008-vmware-harden.md) — Read-only VMware vSphere compliance scanning and drift detection against CIS, vSphere SCG, China DJCP 2.0 and PCI-DSS, with remediation suggestions.
+- [WRG-11/wrg-sigma-rules](wrg-11-wrg-sigma-rules.md) — Write, validate and convert Sigma detection rules for Splunk, Elastic, Kibana and Wazuh, backed by a rule corpus covering MITRE ATT&CK tactics.
+- [BeBraveBeKind/mcpskills-server](bebravebekind-mcpskills-server.md) — Scores MCP servers, AI skills and npm packages before install, scanning for prompt injection, credential theft and supply-chain risk, with a go/no-go gate.
+- [gautam-u/sieve-mcp](gautam-u-sieve-mcp.md) — Local macOS scanner for secrets leaked into AI tool chat transcripts, with redacted findings, placeholder-only redaction and Keychain-backed command execution.
+- [yagobski/agentleak](yagobski-agentleak.md) — quality and maintenance score on Glama](https://glama.ai/mcp/servers/yagobski/agentleak/badges/score.svg)](https://glama.ai/mcp/servers/yagobski/agentleak)…
+- [yessGlory17/job-verify](yessglory17-job-verify.md) — Check recruiters and job offers for scams: cross-checks company registration, domain age, look-alike domains, blocklists and crypto-scam databases.
+- [shieldly-io/mcp](shieldly-io-mcp.md) — Analyze AWS IAM policies and CloudFormation templates with Shieldly to flag privilege-escalation paths, wildcards and over-permissive access.
+- [OksigeniaSL/checker-mcp](oksigeniasl-checker-mcp.md) — Local-first domain security and privacy checker: live SPF, DMARC, DKIM, DNSSEC, TLS, CAA and security header checks, scored with remediation advice.
+- [mcpindex-ai/mcp-server-mcpindex](mcpindex-ai-mcp-server-mcpindex.md) — Find MCP servers by describing a task and get advisory trust screens before connecting, using the mcpindex directory.
+- [calllint/calllint](calllint-calllint.md) — Offline pre-flight security linter for MCP servers, agent tools and skills that returns SAFE, REVIEW, BLOCK or UNKNOWN verdicts without executing them.
+- [quantakrypto/pqc-tools](quantakrypto-pqc-tools.md) — Post-quantum readiness: scan code for quantum-vulnerable cryptography (RSA, ECDH, ECDSA, DH), get ML-KEM/ML-DSA/SLH-DSA migration guidance and verify fixes.
+- [williamblakecunningham-max/screenverity-mcp](williamblakecunningham-max-screenverity-mcp.md) — U.S. exclusion, debarment and license screening (OIG LEIE, SAM.gov, state boards) with an Ed25519-signed receipt of the exact list snapshots checked.
+- [trustscoreagent/trustscoreagent](trustscoreagent-trustscoreagent.md) — Check the reputation of AI microservices and public APIs before calling them and submit ratings afterward, via an open trust registry.
+- [mastyf-ai/mastyf.ai](mastyf-ai-mastyf-ai.md) — Runtime security proxy for MCP that blocks prompt injection, SSRF, shell/SQL injection and credential exfiltration, plus trust scores for npm MCP packages.
+- [timescale/rsigma](timescale-rsigma.md) — Author, lint, validate and convert Sigma detection rules with RSigma, evaluate and explain detections against log events, and inspect correlation state.
+- [dengyier/OpenWorkProof](dengyier-openworkproof.md) — Verifiable execution protocol for agent tool calls: signed policy decisions, causal evidence chains and offline verification from a SQLite ledger.
+- [aggrete/aggrete](aggrete-aggrete.md) — Policy proxy that refuses forbidden tool calls, stopping prompt-injection exfiltration and forbidden data combinations across Slack, Drive, GitHub and more.
+- [aurumflux20/seal](aurumflux20-seal.md) — Exactly-once payments for agents: prevents double settlement across processes and retries, confirms charges with the provider and reconciles out-of-band spend.
+- [Jiangw2718i/frisk](jiangw2718i-frisk.md) — Screen x402 payment counterparties before paying: address sanity, payTo swap, transport safety and spend policy checks with an allow, review or block verdict.
+- [epistemedeus/skillguard](epistemedeus-skillguard.md) — Static scanner that checks Claude Code skills, plugins and MCP servers for exfiltration, install hooks and prompt injection before you install them.
+- [CTRLRun/ctrlrun](ctrlrun-ctrlrun.md) — Execution safety for agent actions: a YAML-policy gateway that allows, holds or denies tool calls, plus an approval queue and hash-chained receipts.
+- [Drumworks/ssid-mcp](drumworks-ssid-mcp.md) — MAC address (OUI) vendor lookup with randomized-address detection, plus router default login IPs and admin credentials cited to manufacturer documentation.
+- [oleg-vdv/kepil](oleg-vdv-kepil.md) — Accountability layer for AI agents: per-version passports, per-job mandates with spending limits, a fail-closed action gate and a hash-chained journal.
+- [boy-offi9-inc/hexforge-gateway](boy-offi9-inc-hexforge-gateway.md) — APK reverse engineering workspace that orchestrates jadx, apktool, adb and Frida through a workflow engine, on Termux (Android) or PC.
+- [gostanos/smallprint-action](gostanos-smallprint-action.md) — Query the Small Print record: versioned, diffed tool descriptions and schemas of MCP servers, skills and plugins, with graded changes and public advisories.
+- [aurelio-nakamura/cmdxray](aurelio-nakamura-cmdxray.md) — Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
+- [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](top-celestial-company-ltd-dros-vajraclaw-hacker.md) — Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [Jimil-Joshi/blastradius-mcp](jimil-joshi-blastradius-mcp.md) — Zero-trust security proxy, pre-execution blast radius simulation, DLP secret redaction, and cryptographic audit logging for MCP.
+- [toby7979/sealmyapp-tools](toby7979-sealmyapp-tools.md) — Offline security helpers for AI-built (vibe-coded) apps: classify whether a key is safe to expose, generate Supabase RLS audit SQL and owner-only policy…
+- [verax-ai/verax](verax-ai-verax.md) — Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an…
+- [ak10082247-max/canaryguard-402](ak10082247-max-canaryguard-402.md) — Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.

@@ -1,0 +1,41 @@
+# Legal
+
+- [datakoot/regulatory-intel-mcp](datakoot-regulatory-intel-mcp.md) — Keyless US Federal Register: search rules and notices, full documents, executive orders and agencies. Remote at `regulatory.datakoot.com/mcp`, no API key.
+- [ad0750/regintel-mcp](ad0750-regintel-mcp.md) — Structured regulatory data from the RegIntel API (GDPR, MiCA, DORA, SEC, FINRA, FCA and more): search, lookup, recent updates and compliance checks.
+- [Angelthebestone/Normativa-colombiana-MCP](angelthebestone-normativa-colombiana-mcp.md) — Colombian law and jurisprudence from Gestor Normativo, SUIN-Juriscol, the Constitutional and Supreme Courts, the Council of State and the DIAN Normograma.
+- [ark-forge/mcp-eu-ai-act](ark-forge-mcp-eu-ai-act.md) — EU AI Act compliance scanner that detects regulatory violations in AI codebases, with risk classification and remediation guidance.
+- [atomno-mcp/mcp-sudact](atomno-mcp-mcp-sudact.md) — Russian court practice from Sudact: search cases by article, court, instance and date, and read full decision texts.
+- [atomno-mcp/mcp-fssp](atomno-mcp-mcp-fssp.md) — FSSP enforcement proceedings lookup for Russian debtors and compliance checks.
+- [atomno-mcp/mcp-zakupki](atomno-mcp-mcp-zakupki.md) — Search Russian public procurement tenders and contracts on zakupki.gov.ru.
+- [aydincan/turk-hukuku-mevzuat-mcp](aydincan-turk-hukuku-mevzuat-mcp.md) — Turkish legislation live from mevzuat.gov.tr: current article text by law and article number, with verification links.
+- [buildsyncinc/gibs-mcp](buildsyncinc-gibs-mcp.md) — Regulatory compliance for the AI Act, GDPR and DORA, with article-level citations.
+- [Cehha79/aka-recht](cehha79-aka-recht.md) — Local case-file manager for your own legal matters under German law: documents, parties, timeline and deadline calculation per §§ 187, 188, 193 BGB. 36…
+- [ChangkeunJ/australian-law-mcp](changkeunj-australian-law-mcp.md) — Australian Commonwealth law from the Federal Register of Legislation: read acts as at any date since 1901, compare dates and verify statute citations.
+- [cm2489/oravan](cm2489-oravan.md) — Nonpartisan U.S. Congress data: plain-language bill summaries in English and Spanish, representative lookup by ZIP code and urgency ranking of moving bills.
+- [djtellado/nexus-legal-mcp](djtellado-nexus-legal-mcp.md) — Legal analysis (ISO 31000) for Spanish, Latin American and European law: drafting, audits, case law, tax doctrine and cross-border comparison.
+- [edithatogo/fyi-cli](edithatogo-fyi-cli.md) — Freedom of Information request tracker for Alaveteli sites (FYI.org.nz, WhatDoTheyKnow, RightToKnow): requests, authorities, correspondence, offline sync.
+- [forgemeshlabs/gov-transparency-mcp](forgemeshlabs-gov-transparency-mcp.md) — Congressional stock trades, federal contracts, campaign finance, lobbying and new regulations from US government data, paid per call with x402 USDC on Base.
+- [gavelin-ai/mcp](gavelin-ai-mcp.md) — US state legislative data: speaker-attributed hearing transcripts, bills, votes and AI-generated reports.
+- [JamesANZ/us-legal-mcp](jamesanz-us-legal-mcp.md) — Access US legislation.
+- [Lex-API/lexapi-mcp](lex-api-lexapi-mcp.md) — EU legal research over EUR-Lex: structured search, document fetch by CELEX number, recent Official Journal publications, citation graphs and semantic search.
+- [librejustice/librejustice](librejustice-librejustice.md) — French and European case law (Conseil d'État, Cour de cassation, ECHR, CJEU and more) linked to point-in-time consolidated legal texts, with hybrid search.
+- [LienDeadline/liendeadline-mcp](liendeadline-liendeadline-mcp.md) — US mechanics lien and preliminary notice deadlines for construction material suppliers, with statute-cited lien guides for all 50 states and DC.
+- [lmaniraruta/license-verify-mcp](lmaniraruta-license-verify-mcp.md) — Verify a US contractor's license, surety bond and insurance from state data (Washington L&I, California CSLB).
+- [mambalabsdev/mcp-expert-witness-directory](mambalabsdev-mcp-expert-witness-directory.md) — Finds expert witnesses and medico-legal assessors in the United States and Australia from 18 public directories, deduplicated into one record per person…
+- [mambalabsdev/mcp-legal-entity-resolver](mambalabsdev-mcp-legal-entity-resolver.md) — Resolves a company domain to its registered legal entity: legal name, company number, jurisdiction, status, LEI and VAT number.
+- [meridian-silkdev/meridian-mcp](meridian-silkdev-meridian-mcp.md) — Startup founder services such as company incorporation and visas: browse services, create and track requests, verify payments and schedule meetings.
+- [NexusFeed/nexusfeed-mcp](nexusfeed-nexusfeed-mcp.md) — US liquor license lookup (CA, TX, NY, FL): search by trade name, owner or license number and verify status, expiration and address against state portals.
+- [open-agreements/open-agreements](open-agreements-open-agreements.md) — Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.
+- [Pactlio-ai/pactlio-mcp](pactlio-ai-pactlio-mcp.md) — Contract tools: statute-cited requirements by contract type and jurisdiction, US non-compete enforceability, contract drafting and risk analysis.
+- [Patent-PreCheck/patent-precheck-mcp](patent-precheck-patent-precheck-mcp.md) — Patentability pre-check for code: USPTO scores for eligibility, novelty, non-obviousness and documentation, plus filing readiness and prior-art signals.
+- [philrox/ris-mcp-ts](philrox-ris-mcp-ts.md) — Access Austrian federal and state laws, court decisions and legal documents via the RIS (Rechtsinformationssystem) API.
+- [PolicyForge/mcp](policyforge-mcp.md) — Generate, audit and maintain legal policies (privacy, terms, cookies, EULAs, refunds) from a codebase, flagging gaps and drift between code and policy.
+- [ptrinh/finalnotice-mcp](ptrinh-finalnotice-mcp.md) — Generate localized debt-collection demand letters as PDFs, with matching envelopes, for many jurisdictions and languages.
+- [sebastianfoerste/eu-reg-mcp](sebastianfoerste-eu-reg-mcp.md) — ESMA MiCAR register search, summaries and change tracking via weekly snapshots, plus MiCAR white paper linting and EU AI Act risk-tier classification.
+- [SFHAJJI/lex](sfhajji-lex.md) — Point-in-time Luxembourg and EU law from Legilux and EUR-Lex: read-only search, as-of retrieval, article history, diffs, timelines and citations.
+- [smilemin07/korean-rnd-regs-mcp](smilemin07-korean-rnd-regs-mcp.md) — Search and review South Korea's national R&D regulations, returning current provisions with citations from the national law database.
+- [smythmyke/patent-search-mcp-server](smythmyke-patent-search-mcp-server.md) — Patent research and prior-art search: dossiers, USPTO prosecution histories, office action analysis, Boolean queries, citation graphs and CPC lookup.
+- [thu-lawyer/china-law-mcp](thu-lawyer-china-law-mcp.md) — Chinese statutes as a local server: natural-language search over 23,995 in-force articles from 378 laws, plus citation verification that catches…
+- [Vaquill-AI/canlii-mcp](vaquill-ai-canlii-mcp.md) — Canadian case law and legislation metadata via CanLII.
+- [ilyautov/sbis-mcp-ru](ilyautov-sbis-mcp-ru.md) — SBIS (Saby) API: documents and workflow stages, electronic signatures, certificates, employees and organizations, with a read/write/destructive safety gate.
+- [ilyautov/diadoc-mcp-ru](ilyautov-diadoc-mcp-ru.md) — Kontur Diadoc API: legally significant document exchange, signing, counterparties, machine-readable powers of attorney and docflow status, with a safety gate.

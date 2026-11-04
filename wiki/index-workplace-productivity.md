@@ -1,0 +1,139 @@
+# Workplace & Productivity
+
+- [A1-x-Tech/mcp-google-contacts](a1-x-tech-mcp-google-contacts.md) — Google Contacts (People API): search, create, update and delete contacts, and manage contact groups.
+- [A1-x-Tech/mcp-google-docs](a1-x-tech-mcp-google-docs.md) — Google Docs API: read documents as text, structure or Markdown, and edit ranges, styles, tables and comments.
+- [A1-x-Tech/mcp-google-forms](a1-x-tech-mcp-google-forms.md) — Google Forms: create and publish forms, manage questions and read responses.
+- [A1-x-Tech/mcp-google-slides](a1-x-tech-mcp-google-slides.md) — Google Slides API: create and edit presentations, slides, shapes, tables and images, speaker notes and exports.
+- [A1-x-Tech/mcp-google-tasks](a1-x-tech-mcp-google-tasks.md) — Google Tasks API: manage task lists, and create and organize tasks with due dates, notes and subtasks.
+- [adacreativeco/ada-turbo-ai-mcp](adacreativeco-ada-turbo-ai-mcp.md) — Agency OS: specialized AI roles with a real-time retro Pixel Office visualizer and a multi-provider LLM engine.
+- [ajmessina/smarterdeck-mcp-connector](ajmessina-smarterdeck-mcp-connector.md) — Compile agency-grade, editable PowerPoint (.pptx) presentations with native DrawingML vector shapes, executive KPI dashboards, and multi-format suites from…
+- [alex13slem/openproject-codex-plugin](alex13slem-openproject-codex-plugin.md) — OpenProject API v3 with Community Edition support: search, create, update, assign, prioritize and comment on work packages.
+- [CrossPaste/crosspaste-desktop](crosspaste-crosspaste-desktop.md) — Cross-device clipboard manager: search synced clipboard history, read OCR text from copied images and add new clipboard items.
+- [edouard-claude/gryzzly-mcp](edouard-claude-gryzzly-mcp.md) — Gryzzly time tracking: log time in plain language ("2h30 on Alyxa yesterday"), weekly timesheets with missing-day detection, and all 50 Gryzzly v1 API…
+- [jtauschl/openproject-ce-mcp](jtauschl-openproject-ce-mcp.md) — OpenProject Community Edition over API v3: projects, work packages, time tracking, meetings, boards, wiki and more, with project allowlists and…
+- [layergen/eodly-mcp](layergen-eodly-mcp.md) — Read your team's end-of-day reports in Eodly: who shipped with GitHub and Linear proof, who is silent, who is slipping, plus the team roster.
+- [mayeu20/nerdychefs-mcp](mayeu20-nerdychefs-mcp.md) — Search and browse the NerdyChefs.ai prompt library by task, open prompt packs or pick a random prompt.
+- [nhorie-canal/mmm_mcp](nhorie-canal-mmm-mcp.md) — Read and write your nested mind maps and to-dos in Matryoshka Mind Map: list maps, turn a conversation into a nested map, import Markdown and check off tasks.
+- [ni-c/rustpad-mcp](ni-c-rustpad-mcp.md) — Read and edit self-hosted Rustpad collaborative pads, merging edits live with human typing and requiring confirmation to replace a pad.
+- [OperatorNest/mcp-tools](operatornest-mcp-tools.md) — Calculate API and subscription costs, shared meeting times, recurring schedules and cron matches.
+- [wisflux/docmost-local-mcp](wisflux-docmost-local-mcp.md) — Read and write spaces, pages, comments and members in self-hosted Docmost, including the Community Edition.
+- [temporal-cortex/mcp](temporal-cortex-mcp.md) — Calendar middleware for scheduling, multi-calendar availability and conflict-free booking across Google Calendar, Outlook and CalDAV, with RRULE expansion.
+- [Agentled/mcp-server](agentled-mcp-server.md) — Workflow orchestration with long-term memory and a knowledge graph: lead enrichment, content publishing, company research and media production.
+- [ap311036/ews-meeting-mcp](ap311036-ews-meeting-mcp.md) — Schedule Outlook meetings on on-premises Exchange (EWS): resolve attendees, find rooms and suggest slots, with preview and confirmation before any change.
+- [arifur9993/attendance-engine-mcp](arifur9993-attendance-engine-mcp.md) — Deterministic workforce attendance calculations: overtime, overnight shifts, rotating rosters and California wage-and-hour compliance.
+- [Arkanji/iwork-studio](arkanji-iwork-studio.md) — Create, edit, design and export Apple Numbers, Keynote and Pages files: designed decks with chart and table slides, brand kits and a design review. Every…
+- [2nd1st/open-mcp-apps](2nd1st-open-mcp-apps.md) — MCP Apps engine for building and reusing interactive UI apps such as todo boards, habit trackers and dashboards, backed by persistent data.
+- [6figr-com/jobgpt-mcp-server](6figr-com-jobgpt-mcp-server.md) — JobGPT: search jobs, auto-apply, generate tailored resumes, track applications and find recruiters.
+- [backloghq/backlog](backloghq-backlog.md) — Persistent, cross-session task management for Claude Code with agent coordination, event-sourced storage and per-project isolation.
+- [b52tot/workbuddy-board](b52tot-workbuddy-board.md) — Task board for MCP agents that lives on your desktop: four columns for agents to write into, progress tracking, stall detection and an append-only event…
+- [Bidsketch/signwell-mcp](bidsketch-signwell-mcp.md) — SignWell e-signatures: create documents from files or templates, send for signing, track status, send reminders, download signed PDFs and manage templates.
+- [bivex/kanboard-mcp](bivex-kanboard-mcp.md) — Manage Kanboard projects, tasks and users through natural language translated into Kanboard API calls.
+- [benmonopoli/open-greenhouse-mcp](benmonopoli-open-greenhouse-mcp.md) — Greenhouse ATS for recruiting teams: role-based profiles (full, recruiter, read-only), pipeline views, analytics, candidate search and bulk operations.
+- [bobbyrgoldsmith/quarterback](bobbyrgoldsmith-quarterback.md) — Task prioritization and agent orchestration across projects: multi-factor scoring, document analysis, agent dispatch and time-aware planning.
+- [bug-breeder/quip-mcp](bug-breeder-quip-mcp.md) — Quip document access and management: document lifecycle, search and comments for Quip.com and enterprise instances.
+- [bzdOS/hubd](bzdos-hubd.md) — Files-first project hub for humans and AI agents: shared journal, cross-project tasks, agent queues and a read-only kanban.
+- [can4hou6joeng4/boss-agent-cli](can4hou6joeng4-boss-agent-cli.md) — BOSS Zhipin recruitment workflow: job search, benefits filtering, recruiter messaging, pipeline tracking and resume optimization.
+- [donggyun112/keymem](donggyun112-keymem.md) — Associative key-graph memory for LLM agents: recall by association rather than vector similarity.
+- [ByAxe/keynote-mcp](byaxe-keynote-mcp.md) — Control Apple Keynote via AppleScript: create, edit and export presentations, including slides, content, layout and Unsplash images.
+- [conorbronsdon/gws-mcp-server](conorbronsdon-gws-mcp-server.md) — Google Workspace tools for Drive, Sheets, Calendar, Docs and Gmail via the gws CLI.
+- [ContextPulse/contextpulse](contextpulse-contextpulse.md) — Local desktop context capture: screen OCR, voice transcription, keyboard and mouse activity and clipboard, with activity history and semantic memory.
+- [corbym/backlog-mcp](corbym-backlog-mcp.md) — Read/write access to a story-based project backlog stored as markdown files in your repository: list stories, read content, update status and append notes.
+- [Dan8Oren/mcp-apple-notes](dan8oren-mcp-apple-notes.md) — Local semantic search and RAG over Apple Notes with on-device embeddings, full CRUD, folder management and fuzzy title matching.
+- [dearlordylord/huly-mcp](dearlordylord-huly-mcp.md) — Huly project management: query issues, create and update tasks, and manage labels and priorities.
+- [dpkdhingra91/aiia-mcp-server](dpkdhingra91-aiia-mcp-server.md) — AI Interview Agents: create roles, screen CVs, schedule voice interviews and read scored reports, in English, Hindi and other Indian languages.
+- [davegomez/fizzy-mcp](davegomez-fizzy-mcp.md) — Fizzy kanban task management: boards, cards, comments and checklists.
+- [delega-dev/delega-mcp](delega-dev-delega-mcp.md) — Self-hostable task management for AI agents: create, delegate and track tasks with agent identity, delegation chains, webhooks and persistent context.
+- [Developyn/laver-mcp](developyn-laver-mcp.md) — Laver project management: kanban boards, sprints, tickets, comments, attachments and a team wiki, with versioned writes to prevent concurrent overwrites.
+- [devroopsaha744/TexMCP](devroopsaha744-texmcp.md) — Render LaTeX, raw or from customizable templates, into PDF documents such as reports, resumes and research papers.
+- [dlbolshov/yandex-wiki-search-mcp](dlbolshov-yandex-wiki-search-mcp.md) — Yandex Wiki with full-text search: pages, comments, attachments and dynamic tables (grids), plus a read-only mode.
+- [DmytroRybka/jobctl](dmytrorybka-jobctl.md) — Job application tracker: agents record applications, interviews, statuses, salaries and next actions, and humans review them in a dashboard.
+- [drzamarian/n8n-mcp-community](drzamarian-n8n-mcp-community.md) — Security-focused access to self-hosted n8n Community Edition: workflows, executions, credentials, tags and diagnostics, read-only by default.
+- [ellmos-ai/n8n-manager-mcp](ellmos-ai-n8n-manager-mcp.md) — Manage n8n workflows: CRUD, synchronization, inspection and execution.
+- [ernestocorona/kanboard-mcp](ernestocorona-kanboard-mcp.md) — Kanboard integration with multi-project routing via a YAML config file.
+- [EveryPageApp/everypage-mcp](everypageapp-everypage-mcp.md) — EveryPage: upload PDFs, create trackable share links and read page-by-page readership analytics (who read, how far, how long).
+- [OurThinkTank/founders-os](ourthinktank-founders-os.md) — Self-hosted business context: CRM, checkpoints, automation triggers, financial ledger, tasks, playbooks, news feeds, projects and semantic memory.
+- [foxintheloop/UpTier](foxintheloop-uptier.md) — Desktop task manager with a To Do-style UI and tools for prioritization, goal tracking and multi-profile workflows.
+- [gambadio/apple-productivity-mcp](gambadio-apple-productivity-mcp.md) — 133 tools for local Apple apps, iWork documents, files and media, plus optional allowlisted Shortcuts.
+- [getalai/alai-mcp-server](getalai-alai-mcp-server.md) — Generate, edit and export AI presentations to PDF, PPTX or a shareable link.
+- [giuseppe-coco/Google-Workspace-MCP-Server](giuseppe-coco-google-workspace-mcp-server.md) — Interact with Google Calendar, Gmail, Drive and other Google Workspace apps.
+- [godikemahesh/smart-job-apply-mcp](godikemahesh-smart-job-apply-mcp.md) — Autonomous Model Context Protocol (MCP) server that searches, filters, auto-fills forms, and submits job applications across 8 major job boards (LinkedIn…
+- [gomission/mcp](gomission-mcp.md) — Mission's MCP proxy holds consequential tool calls before execution and records the exact action for review.
+- [Grey-Iris/easy-notion-mcp](grey-iris-easy-notion-mcp.md) — Markdown-first Notion access: converts markdown to Notion blocks and back, with documented round-trip support.
+- [helbertparanhos/n8n-pro-mcp](helbertparanhos-n8n-pro-mcp.md) — Manage self-hosted n8n, including queue mode: workflows, executions, tags, credentials, variables, projects, users, security audits and health monitoring.
+- [humanpen/humanpen-mcp](humanpen-humanpen-mcp.md) — Document-level AI text humanizer: rewrite whole .docx or .pptx files, selected passages or Turnitin/iThenticate-flagged text in place, preserving formatting.
+- [HuntsDesk/ve-gws](huntsdesk-ve-gws.md) — Fork of google_workspace_mcp with extra Google Workspace authoring tools: Slides automation, markdown-to-Docs, Sheets validation and Drive folder copy.
+- [human-pages-ai/humanpages](human-pages-ai-humanpages.md) — Hire real-world people who list themselves for agent work: search by skill, location and equipment, send job offers, post listings and message workers.
+- [sunsiyuan/human-survey](sunsiyuan-human-survey.md) — Feedback collection for AI agents: create surveys from JSON schema, collect structured responses from groups of people and retrieve aggregated results.
+- [ianaleck/harvest-mcp-server](ianaleck-harvest-mcp-server.md) — Harvest time tracking via the Harvest API v2: manage time entries, projects, clients and tasks, and generate time reports.
+- [ilia-sokolov/OfficeAgent.NET](ilia-sokolov-officeagent-net.md) — Edit Word (.docx) files on disk or SharePoint: tracked changes, tables, styles, comments and content controls, validated and previewed before saving.
+- [JayOfemi/byakugan](jayofemi-byakugan.md) — Local AI-text analysis: AI detection, exact AI-tell spans, a reuse check and a grammar pass.
+- [nicolascroce/keepsake-mcp](nicolascroce-keepsake-mcp.md) — Personal CRM: manage contacts, interactions, tasks, notes, a daily journal and tags.
+- [khaoss85/mcp-orchestro](khaoss85-mcp-orchestro.md) — Task management for Claude Code with a visual Kanban board and orchestration for product teams and developers.
+- [lexmount/artifact-site](lexmount-artifact-site.md) — One place for every AI agent's pages and docs: publish HTML, build folders, ZIPs and PDFs as sandboxed, versioned share links, then search, read and update…
+- [louis030195/toggl-mcp](louis030195-toggl-mcp.md) — Toggl Track time tracking: start and stop timers, manage time entries, track project time and get today's summary.
+- [manavmishra/ZeroSlop](manavmishra-zeroslop.md) — quality and maintenance score on…
+- [MarceauSolutions/amazon-seller-mcp](marceausolutions-amazon-seller-mcp.md) — Amazon Seller Central operations via SP-API: manage inventory, track orders, analyze sales and optimize listings.
+- [MarceauSolutions/hvac-quotes-mcp](marceausolutions-hvac-quotes-mcp.md) — HVAC equipment RFQ management for contractors: submit quote requests to distributors, track responses and compare prices.
+- [Martinqi826/dida-mcp](martinqi826-dida-mcp.md) — Dida365 (TickTick China) task management: projects, tasks, tags and habits.
+- [MarkusPfundstein/mcp-gsuite](markuspfundstein-mcp-gsuite.md) — Integration with Gmail and Google Calendar.
+- [minhhq-a1/odoo-pulse](minhhq-a1-odoo-pulse.md) — Business analysis for Odoo ERP: one-call reports with a verdict on business pulse, sales pipeline, receivables, inventory risk, sales and absences.
+- [mnoomnoo/resume-mcp-server](mnoomnoo-resume-mcp-server.md) — Search local resume and job application documents (.docx, .pdf, .md, .txt) by skill, company and education, and extract work experience and achievements.
+- [mrmaciej1/justfill-mcp](mrmaciej1-justfill-mcp.md) — Fill AcroForm, flat and scanned PDF forms: detect and review fields, save templates, map JSON values and preview filled output before export.
+- [nometalalchemist/KitchenSink4Word](nometalalchemist-kitchensink4word.md) — Word .docx editing: live editing of open documents, tables, citations, footnotes, tracked changes, mail merge, redaction, accessibility audits and Zotero.
+- [io.github.opsconduit/jobber-mcp](io-github-opsconduit-jobber-mcp.md) — Self-hosted, read-only Jobber operations queries: owner action lists, overdue invoices, stale requests, estimates, jobs and GraphQL validation.
+- [pdfops/pdfops-mcp](pdfops-pdfops-mcp.md) — Deterministic PDF tools: inspect AcroForm fields, fill forms, merge PDFs and generate invoices, working on file paths so PDF bytes stay out of model context.
+- [poolside-ventures/meetbot-mcp](poolside-ventures-meetbot-mcp.md) — Meet.bot scheduling: check calendar availability and book meetings on connected Google and Microsoft calendars.
+- [profilesearch/GohireHumans](profilesearch-gohirehumans.md) — Discover human and AI services and jobs; authenticated hiring and work approval require account-owner authorization.
+- [prompeteer/prompeteer-mcp](prompeteer-prompeteer-mcp.md) — Generate prompts for ChatGPT, Claude, Midjourney and other AI platforms, score prompt quality and manage a prompt library with PromptDrive.
+- [proompteng/bilig](proompteng-bilig.md) — Headless WorkPaper server for spreadsheet formulas, workbook edits, JSON persistence and verified readback.
+- [re-port-flow/reportflow-mcp](re-port-flow-reportflow-mcp.md) — Generate PDF reports such as invoices, contracts and statements from ReportFlow templates, singly or in ZIP batches.
+- [remoet-labs/remoet-mcp](remoet-labs-remoet-mcp.md) — Job search: find tech companies by their tech stack, shortlist them and pull jobs from the shortlist, plus profile, applications and digests.
+- [rillsoft/rillsoft-project-mcp](rillsoft-rillsoft-project-mcp.md) — MCP server built into Rillsoft Project 10 for multi-project resource planning (local, Windows).
+- [Jobicy/remote-jobs-mcp-server](jobicy-remote-jobs-mcp-server.md) — Search, filter and retrieve live remote job listings from Jobicy.
+- [seinun-ai/maestro-career-studio](seinun-ai-maestro-career-studio.md) — Your career history as a job-search toolkit: tailor a resume to each posting from what you actually did, score it the same way every time, render the PDF…
+- [slidecraft-in/presentations-ai-mcp-server](slidecraft-in-presentations-ai-mcp-server.md) — Generate and edit presentations from a topic, text or document (PDF, DOCX, PPTX) and export to PPTX, PDF, images or a shareable link.
+- [smeet666/mcp-lever](smeet666-mcp-lever.md) — Read public Lever job boards: resolve a company name to its board, search its openings and read postings in full.
+- [smartdatabrokers/slideforge-mcp](smartdatabrokers-slideforge-mcp.md) — Editable PowerPoint decks from typed slide intents: deterministic rendering, verbatim data binding, fidelity reports, brand templates and translation.
+- [SparkSheets/sparksheets-mcp](sparksheets-sparksheets-mcp.md) — Collaborative spreadsheet for session management, knowledge base, task tracking and sheet operations.
+- [squidcode/timebook-cli](squidcode-timebook-cli.md) — Time tracking, invoicing and bookkeeping with Timebook: manage clients and projects, start and stop timers, and log, update and delete time entries.
+- [Startvest-LLC/idealift-mcp-server](startvest-llc-idealift-mcp-server.md) — Decision intelligence with signal aggregation, RICE scoring and decision audit trails, capturing product feedback from Slack, Teams, Discord and GitHub.
+- [starecz/karea-mcp](starecz-karea-mcp.md) — Karea task manager for developers: create, edit, close, recap and link dev tasks, with per-task open questions, attached resources and Jira links.
+- [takumi0706/google-calendar-mcp](takumi0706-google-calendar-mcp.md) — Interface with the Google Calendar API.
+- [tarunlnmiit/autopilot-jobhunt](tarunlnmiit-autopilot-jobhunt.md) — Local job-hunting agent: scans company careers pages, scores roles against your resume, sends top matches to Telegram and drafts tailored cover letters.
+- [taylorwilsdon/google_workspace_mcp](taylorwilsdon-google-workspace-mcp.md) — Google Workspace integration covering Calendar, Drive, Gmail, Docs, Forms, Chat, Slides and Sheets.
+- [teamwork/mcp](teamwork-mcp.md) — Project and resource management for client projects with Teamwork.
+- [tengolabs/killbottleneck](tengolabs-killbottleneck.md) — Self-hosted killBottleneck goal and process maps: agents create and update nodes, manage tasks and automation rules and read the org structure.
+- [timergy-app/timergy](timergy-app-timergy.md) — Doodle-style scheduling polls: create polls, vote, get results and finalize.
+- [tracegazer/clockify-mcp](tracegazer-clockify-mcp.md) — Clockify time tracking: time entries, projects, reports, invoices, scheduling, time off and approvals. Read-only by default with opt-in writes.
+- [christulino/todoist-v1-mcp-server](christulino-todoist-v1-mcp-server.md) — Manage Todoist tasks, projects, sections and labels via the unified API v1.
+- [tubasasakunn/context-apps-mcp](tubasasakunn-context-apps-mcp.md) — Productivity suite connecting Todo, Idea, Journal and Timer apps.
+- [tuanle96/mcp-odoo](tuanle96-mcp-odoo.md) — Odoo ERP 16-19 integration with no Odoo-side install: read, approval-gated writes, diagnostics, migration and audit tools.
+- [TVLSS/hirejack-mcp](tvlss-hirejack-mcp.md) — Tech-hiring data from HireJack: search live job postings, company hiring profiles and tech stacks, salary benchmarks, market pulse and skill trends.
+- [twtrubiks/odoo19-mcp-server](twtrubiks-odoo19-mcp-server.md) — Odoo 19 ERP via JSON-RPC: CRUD operations, model inspection and user/company context, with a read-only mode and delete confirmation.
+- [universalamateur/reclaim-mcp-server](universalamateur-reclaim-mcp-server.md) — Reclaim.ai calendar integration for tasks, habits, focus time, scheduling links and productivity analytics.
+- [UnMarkdown/mcp-server](unmarkdown-mcp-server.md) — Convert Markdown into formatted documents for Google Docs, Word, Slack, OneNote, email and plain text using templates.
+- [urbanmorph/mdshare](urbanmorph-mdshare.md) — Markdown collaboration: share docs via public links with permission levels, inline comments, real-time sync and version history, and resolve review threads.
+- [vakharwalad23/google-mcp](vakharwalad23-google-mcp.md) — Tools for Gmail, Google Calendar, Google Drive and Google Tasks.
+- [KuvopLLC/better-bear](kuvopllc-better-bear.md) — Bear notes via CloudKit: CRUD, tags, TODOs, attachments, search, front matter, stats and health checks.
+- [vasylenko/claude-desktop-extension-bear-notes](vasylenko-claude-desktop-extension-bear-notes.md) — Search, read, create and update Bear notes locally.
+- [vinayvobbili/jobwatch](vinayvobbili-jobwatch.md) — Watch company job boards (Greenhouse, Lever, Ashby, Workable, Workday, Eightfold, Jibe, Rippling) for new roles, rank them for you, and track applications…
+- [vitofico/galley](vitofico-galley.md) — MCP bridge for Galley, a local-first Typst editor. Agents read a live project, check real Typst diagnostics and propose diffs a human accepts or rejects.
+- [vrijsinghani/Artifactsmith](vrijsinghani-artifactsmith.md) — Self-hosted artifact server: turns agent output into versioned web pages, PDFs, Word docs and spreadsheets in six styles, private until shared with a…
+- [workopia/workopia-mcp](workopia-workopia-mcp.md) — Workopia job search across employer career pages and ATS feeds, plus PDF resume generation, resume tailoring, cover letters and career advice.
+- [wyattjoh/calendar-mcp](wyattjoh-calendar-mcp.md) — Access macOS Calendar events.
+- [XJTLUmedia/AI-HR-Management-Toolkit](xjtlumedia-ai-hr-management-toolkit.md) — Resume parser and applicant tracking system: parse resumes into JSON, extract skills, score and rank candidates, and manage jobs, interviews and offers.
+- [yoryocoruxo-ai/rendoc-mcp-server](yoryocoruxo-ai-rendoc-mcp-server.md) — Generate PDFs (invoices, contracts, reports, certificates) from reusable templates or inline HTML/Handlebars via the rendoc API, and manage templates.
+- [yuvalsuede/claudia](yuvalsuede-claudia.md) — Task management for Claude agents: hierarchical tasks, dependencies, sprints, acceptance criteria and multi-agent coordination.
+- [krtw00/konbu](krtw00-konbu.md) — Self-hostable all-in-one planner: calendar, notes, todos and bookmarks.
+- [kfuras/notipo-app](kfuras-notipo-app.md) — WordPress publishing: create, update, publish and delete posts, with Markdown-to-Gutenberg conversion, image hosting, featured images and SEO metadata.
+- [bit2beat/bitrix24-mcp](bit2beat-bitrix24-mcp.md) — Connect to Bitrix24: CRM, tasks, disk, calendar, chat, business processes, telephony and product catalog.
+- [tempguru-co/tempguru-mcp](tempguru-co-tempguru-mcp.md) — W-2 event staffing in the US and Canada: look up coverage, rates, lead-time guidance and state compliance, and submit quote requests.
+- [juergenkoller-software/inkra-mcp](juergenkoller-software-inkra-mcp.md) — Bridge to Inkra, the native macOS Markdown editor: document editing, outline navigation, folder browsing, bookmarks and view modes.
+- [seameet-ai/seameet-mcp](seameet-ai-seameet-mcp.md) — Access SeaMeet meeting recordings, transcripts, AI summaries, screenshots, action items and webhooks, and control the desktop recorder.
+- [Servation/job-search-mcp](servation-job-search-mcp.md) — Job search across LinkedIn, Greenhouse, Lever, Ashby, Workday and other boards, with fit scoring and a ranked, triageable board shown in chat.
+- [Chronary/chronary-mcp](chronary-chronary-mcp.md) — Chronary calendar API for AI agents: events, availability, meeting-time search, scheduling proposals, availability rules, webhooks and iCal feeds.
+- [UladzKha/samuraizer-cli](uladzkha-samuraizer-cli.md) — Local meeting pipeline: Whisper transcription plus Ollama summaries, action items and decisions. Reference implementation of the memnex spec.
+- [orieg/gws-connector](orieg-gws-connector.md) — Multi-account Google Workspace: connect several Gmail, Calendar, Drive, Sheets and Docs accounts with routing by label, email or domain.
+- [sekera-radim/briefgate-mcp](sekera-radim-briefgate-mcp.md) — Client intake for AI agents: request files, texts and credentials from clients, follow up automatically and retrieve results when complete.
+- [ilyautov/hh-mcp-ru](ilyautov-hh-mcp-ru.md) — HeadHunter (hh.ru) API: vacancy search and publishing, applications, invitations, resumes and salary statistics, with a read/write/destructive safety gate.
+- [adityatiwari101104/contribos](adityatiwari101104-contribos.md) — Zero-dependency open-source contribution companion: repo rules and AI policy radar, evidence-backed issue briefs, pre-submit checks, and review coaching.
