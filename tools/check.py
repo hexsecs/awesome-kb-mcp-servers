@@ -19,6 +19,8 @@ def digest(root):
             for p in root.rglob("*") if p.is_file() and "__pycache__" not in str(p)}
 
 def main():
+    from render_readme import render_readme
+    render_readme(ROOT, check=True)
     entries = ingest.parse_list(ROOT / "raw/2026-11-04/README.md")
     pages = {}
     ids = set()
@@ -86,3 +88,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

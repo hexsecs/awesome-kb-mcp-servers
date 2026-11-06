@@ -373,9 +373,12 @@ def main() -> int:
 
     print(f"ingest: {len(entries)} entries from {SOURCE_ID}@{commit} "
           f"— {created} created, {updated} updated, {tombstoned} tombstoned")
+    from render_readme import render_readme
+    render_readme(ROOT)
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
 
